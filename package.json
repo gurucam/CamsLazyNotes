@@ -2,11 +2,11 @@
     "name":  "cams-lazy-notes",
     "productName":  "Cam’s Lazy Notes",
     "private":  true,
-    "version": "1.0.2",
+    "version":  "1.0.2",
     "type":  "module",
     "scripts":  {
                     "dev":  "vite",
-                    "build":  "tsc \u0026\u0026 vite build \u0026\u0026 electron-builder",
+                    "build":  "tsc \u0026\u0026 vite build \u0026\u0026 electron-builder --win",
                     "lint":  "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
                     "preview":  "vite preview"
                 },
@@ -35,6 +35,3 @@
                         },
     "main":  "dist-electron/main.js"
 }
-
-
-
