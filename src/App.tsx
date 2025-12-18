@@ -1230,7 +1230,6 @@ export default function App() {
     }
   }, [searchQuery, searchScope, libraries, activeLibraryName])
 
-  const title = useMemo(() => activeLibraryName ?? "Cam's Lazy Notes", [activeLibraryName])
   const fileTree = useMemo(() => buildTree(files, folders), [files, folders])
   const activeFileLabel = useMemo(() => (activeFile ? stripMd(baseName(activeFile)) : ""), [activeFile])
   const appMeta = useMemo(() => {
