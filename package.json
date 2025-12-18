@@ -2,7 +2,7 @@
     "name":  "cams-lazy-notes",
     "productName":  "Cam’s Lazy Notes",
     "private":  true,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type":  "module",
     "scripts":  {
                     "dev":  "vite",
@@ -35,4 +35,5 @@
                         },
     "main":  "dist-electron/main.js"
 }
+
 
