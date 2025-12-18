@@ -3,6 +3,7 @@ import { fileURLToPath } from "node:url"
 import fs from "node:fs"
 import fsPromises from "node:fs/promises"
 import path from "node:path"
+import { autoUpdater } from "electron-updater"
 
 
 type Library = {
@@ -329,6 +330,11 @@ process.env.VITE_PUBLIC = VITE_DEV_SERVER_URL ? path.join(process.env.APP_ROOT, 
 
 let win: BrowserWindow | null
 
+function sendUpdateStatus(payload: { message: string; ready?: boolean }) {
+  if (!win) return
+  win.webContents.send("update-status", payload)
+}
+
 function createWindow() {
   win = new BrowserWindow({
     title: "Cam's Lazy Notes",
@@ -351,6 +357,38 @@ function createWindow() {
     win.loadFile(path.join(RENDERER_DIST, 'index.html'))
   }
 }
+
+autoUpdater.autoDownload = true
+autoUpdater.autoInstallOnAppQuit = true
+
+autoUpdater.on("checking-for-update", () => sendUpdateStatus({ message: "Checking for updates..." }))
+autoUpdater.on("update-available", () => sendUpdateStatus({ message: "Update available. Downloading..." }))
+autoUpdater.on("update-not-available", () => sendUpdateStatus({ message: "You are up to date." }))
+autoUpdater.on("error", (err) =>
+  sendUpdateStatus({ message: `Update error: ${err == null ? "unknown" : err.message}` })
+)
+autoUpdater.on("download-progress", (progress) => {
+  const pct = progress.percent.toFixed(0)
+  sendUpdateStatus({ message: `Downloading update... ${pct}%` })
+})
+autoUpdater.on("update-downloaded", () => {
+  sendUpdateStatus({ message: "Update downloaded. Restart to apply.", ready: true })
+})
+
+ipcMain.handle("update:check", async () => {
+  try {
+    await autoUpdater.checkForUpdates()
+    return { ok: true }
+  } catch (err) {
+    sendUpdateStatus({ message: "Update check failed." })
+    return { ok: false, error: String(err) }
+  }
+})
+
+ipcMain.handle("update:install", () => {
+  autoUpdater.quitAndInstall()
+  return true
+})
 
 // Quit when all windows are closed, except on macOS. There, it's common
 // for applications and their menu bar to stay active until the user quits

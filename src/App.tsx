@@ -556,6 +556,7 @@ export default function App() {
   const [showThemePicker, setShowThemePicker] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [updateStatus, setUpdateStatus] = useState("")
+  const [updateReady, setUpdateReady] = useState(false)
   const [textPrompt, setTextPrompt] = useState<{
     open: boolean
     title: string
@@ -662,6 +663,19 @@ export default function App() {
   }, [theme])
 
   useEffect(() => {
+    const api = (window as any).ipcRenderer
+    if (!api?.on || !api?.off) return
+    const handler = (_: any, payload: any) => {
+      if (!payload) return
+      const message = typeof payload === "string" ? payload : payload.message
+      if (message) setUpdateStatus(message)
+      setUpdateReady(Boolean(payload.ready))
+    }
+    api.on("update-status", handler)
+    return () => api.off("update-status", handler)
+  }, [])
+
+  useEffect(() => {
     const themeDef = THEME_DEFS.find((item) => item.id === themeName) ?? THEME_DEFS[0]
     const vars = theme === "dark" ? themeDef.dark : themeDef.light
     Object.entries(vars).forEach(([key, value]) => {
@@ -716,10 +730,23 @@ export default function App() {
   }
 
   const handleCheckForUpdates = () => {
+    setUpdateReady(false)
     setUpdateStatus("Checking for updates...")
-    window.setTimeout(() => {
-      setUpdateStatus(`You are up to date (version ${appVersion}).`)
-    }, 400)
+    try {
+      ;(window as any).ipcRenderer?.checkForUpdates?.().catch(() => {
+        setUpdateStatus("Update check failed.")
+      })
+    } catch {
+      setUpdateStatus("Update check failed.")
+    }
+  }
+
+  const handleInstallUpdate = () => {
+    try {
+      ;(window as any).ipcRenderer?.installUpdate?.()
+    } catch {
+      // ignore
+    }
   }
 
   const removeBookmark = (collection: string, path: string) => {
@@ -1602,6 +1629,11 @@ export default function App() {
                     </button>
                   </div>
                   {updateStatus ? <div className="settingsHint settingsUpdateHint">{updateStatus}</div> : null}
+                  {updateReady ? (
+                    <button className="btn settingsButton" type="button" onClick={handleInstallUpdate}>
+                      Restart to update
+                    </button>
+                  ) : null}
                   <div className="settingsFooter">
                     <span>Version {appVersion}</span>
                     <button

@@ -67,6 +67,9 @@ contextBridge.exposeInMainWorld('ipcRenderer', {
   renameLibrary: (libraryId: string, newName: string) =>
   ipcRenderer.invoke("libraries:rename", libraryId, newName),
 
+  checkForUpdates: () => ipcRenderer.invoke("update:check"),
+  installUpdate: () => ipcRenderer.invoke("update:install"),
+
 
   // You can expose other APTs you need here.
   // ...
