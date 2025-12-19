@@ -202,7 +202,7 @@ const THEME_DEFS: ThemeDefinition[] = [
   },
 ]
 
-const LIBRARY_LISTING_URL = "https://github.com/gurucam/CamsLazyNotes#cams-lazy-notes-%E2%80%94-libraries"
+const LIBRARY_LISTING_URL = "https://github.com/gurucam/CamsLazyNotes/tree/main/libraries"
 
 function normalizePath(p: string) {
   return p.replace(/\\/g, "/")
