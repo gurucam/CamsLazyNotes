@@ -1103,6 +1103,9 @@ export default function App() {
         return
       }
 
+      // Clear previous file contents immediately to avoid showing stale checkboxes while loading.
+      setMarkdown("")
+
       try {
         const abs = buildAbsPath(externalRoot, activeFile)
         const text = await (window as any).ipcRenderer.readExternalMarkdownFile(abs)
