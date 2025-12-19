@@ -16,7 +16,7 @@ type FileNode =
   | { type: "folder"; name: string; children: FileNode[] }
   | { type: "file"; name: string; path: string }
 
-type SearchScope = "local" | "global"
+type SearchScope = "file" | "library" | "global"
 
 type SearchMatch = {
   line: number
@@ -571,7 +571,7 @@ export default function App() {
   })
 
   const [searchQuery, setSearchQuery] = useState("")
-  const [searchScope, setSearchScope] = useState<SearchScope>("local")
+  const [searchScope, setSearchScope] = useState<SearchScope>("library")
   const [searchResults, setSearchResults] = useState<SearchResult[]>([])
   const [isSearching, setIsSearching] = useState(false)
   const [globalHint, setGlobalHint] = useState<{ count: number; loading: boolean }>({
@@ -769,6 +769,13 @@ export default function App() {
     setBookmarks((prev) =>
       prev.some((b) => b.collection === collection && b.path === path) ? prev : [...prev, { collection, path }]
     )
+  }
+
+  const clearSearchState = () => {
+    setSearchQuery("")
+    setSearchResults([])
+    setIsSearching(false)
+    setGlobalHint({ count: 0, loading: false })
   }
 
   const handleCheckForUpdates = () => {
@@ -1172,12 +1179,12 @@ export default function App() {
       setIsSearching(true)
       const results: SearchResult[] = []
 
-      if (searchScope === "local") {
-        if (activeLibraryName && externalRoot) {
-          const library = libraries.find((lib) => lib.name === activeLibraryName)
-          const libraryId = library?.id ?? activeLibraryName
-          for (const path of files) {
-            if (cancelled) return
+    if (searchScope === "library") {
+      if (activeLibraryName && externalRoot) {
+        const library = libraries.find((lib) => lib.name === activeLibraryName)
+        const libraryId = library?.id ?? activeLibraryName
+        for (const path of files) {
+          if (cancelled) return
             const absPath = buildAbsPath(externalRoot, path)
             const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
             if (cancelled) return
@@ -1216,13 +1223,13 @@ export default function App() {
               })
             }
           }
-        }
-      } else {
-        for (const lib of libraries) {
-          const relFiles = await ensureLibraryFilesForSearch(lib)
-          for (const path of relFiles) {
-            if (cancelled) return
-            const absPath = buildAbsPath(lib.rootPath, path)
+      }
+    } else if (searchScope === "global") {
+      for (const lib of libraries) {
+        const relFiles = await ensureLibraryFilesForSearch(lib)
+        for (const path of relFiles) {
+          if (cancelled) return
+          const absPath = buildAbsPath(lib.rootPath, path)
             const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
             if (cancelled) return
             const matches = findMatchesInText(text ?? "", normalizedQuery)
@@ -1260,14 +1267,31 @@ export default function App() {
                 previews: [{ line: 0, preview: "Folder name" }],
                 kind: "folder",
               })
-            }
           }
         }
       }
+    } else if (searchScope === "file") {
+      if (activeFile && externalRoot && activeLibraryName) {
+        const absPath = buildAbsPath(externalRoot, activeFile)
+        const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
+        const matches = findMatchesInText(text ?? "", normalizedQuery)
+        if (matches.matchCount > 0) {
+          const library = libraries.find((lib) => lib.name === activeLibraryName)
+          results.push({
+            libraryId: library?.id ?? activeLibraryName,
+            libraryName: activeLibraryName,
+            path: activeFile,
+            matchCount: matches.matchCount,
+            previews: matches.previews,
+            kind: "file",
+          })
+        }
+      }
+    }
 
-      results.sort((a, b) => {
-        if (a.libraryName !== b.libraryName) return a.libraryName.localeCompare(b.libraryName)
-        return a.path.localeCompare(b.path)
+    results.sort((a, b) => {
+      if (a.libraryName !== b.libraryName) return a.libraryName.localeCompare(b.libraryName)
+      return a.path.localeCompare(b.path)
       })
 
       if (!cancelled) {
@@ -1285,7 +1309,7 @@ export default function App() {
 
   useEffect(() => {
     const normalizedQuery = searchQuery.trim().toLowerCase()
-    if (!normalizedQuery || searchScope !== "local") {
+    if (!normalizedQuery || searchScope === "global") {
       setGlobalHint({ count: 0, loading: false })
       return
     }
@@ -1649,7 +1673,13 @@ export default function App() {
                 <input
                   ref={searchInputRef}
                   className="search"
-                  placeholder={searchScope === "global" ? "Search all libraries" : "Search this library"}
+                  placeholder={
+                    searchScope === "global"
+                      ? "Search all libraries"
+                      : searchScope === "library"
+                      ? "Search this library"
+                      : "Search this file"
+                  }
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                 />
@@ -1666,7 +1696,8 @@ export default function App() {
               </div>
               <div className="selectWrapper selectWrapper--pill">
                 <select value={searchScope} onChange={(e) => setSearchScope(e.target.value as SearchScope)}>
-                  <option value="local">Local</option>
+                  <option value="file">Current file</option>
+                  <option value="library">Current library</option>
                   <option value="global">Global</option>
                 </select>
               </div>
@@ -1757,8 +1788,10 @@ export default function App() {
                   </div>
                   {searchResults.length === 0 ? (
                     <div className="mutedNote mutedNote--tight">
-                      {searchScope === "local" && !activeLibraryName
+                      {searchScope === "library" && !activeLibraryName
                         ? "Select a library to search locally."
+                        : searchScope === "file" && !activeFile
+                        ? "Open a file to search within it."
                         : "No matches found."}
                     </div>
                   ) : (
@@ -1787,6 +1820,7 @@ export default function App() {
                                   setExpandedFolders((prev) => ({ ...prev, [`${libraryKey}/${key}`]: true }))
                                 }
                               }
+                              clearSearchState()
                             }}
                           >
                             <span className="searchResultItem__label">
@@ -1812,7 +1846,7 @@ export default function App() {
                       })}
                     </div>
                   )}
-                  {searchScope === "local" && normalizedQuery ? (
+                  {searchScope !== "global" && normalizedQuery ? (
                     <div className="searchResults__hint">
                       {globalHint.loading
                         ? "Checking other libraries..."
