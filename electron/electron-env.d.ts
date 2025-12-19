@@ -38,5 +38,10 @@ interface Window {
     renameExternalPath: (fromAbs: string, toAbs: string) => Promise<boolean>
     deleteExternalPath: (absPath: string) => Promise<boolean>
     renameLibrary: (libraryId: string, newName: string) => Promise<{ ok: boolean }>
+    pickAndAddLibrary: () => Promise<{ ok: boolean; canceled?: boolean; alreadyExists?: boolean }>
+    listLibraries: () => Promise<Array<{ id: string; name: string; rootPath: string }>>
+    openExternal: (url: string) => Promise<{ ok: boolean; error?: string }>
+    checkForUpdates: () => Promise<{ ok: boolean; error?: string }>
+    installUpdate: () => Promise<boolean>
   }
 }

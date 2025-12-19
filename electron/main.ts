@@ -1,4 +1,4 @@
-import { app, BrowserWindow, ipcMain, dialog } from "electron"
+import { app, BrowserWindow, ipcMain, dialog, shell } from "electron"
 import { fileURLToPath } from "node:url"
 import fs from "node:fs"
 import fsPromises from "node:fs/promises"
@@ -287,6 +287,13 @@ ipcMain.handle("libraries:rename", async (_evt, libraryId: string, newName: stri
     console.error("Failed to rename library:", err)
     return { ok: false, error: "Rename failed" }
   }
+})
+
+ipcMain.handle("open-external", async (_evt, url: string) => {
+  const safeUrl = typeof url === "string" ? url.trim() : ""
+  if (!safeUrl) return { ok: false, error: "Invalid URL" }
+  await shell.openExternal(safeUrl)
+  return { ok: true }
 })
 
 

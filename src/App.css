@@ -928,6 +928,12 @@ select:hover {
   margin-bottom: 14px;
 }
 
+.panelHeader__actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
 .panelTitle {
   margin: 0;
   font-size: 22px;

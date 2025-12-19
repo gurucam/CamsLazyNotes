@@ -4,7 +4,7 @@
 
   "appId": "com.gurucam.camslazynotes",
   "asar": true,
-  "productName": "Cam’s Lazy Notes",
+  "productName": "Cam's Lazy Notes",
 
   "publish": [
     {
@@ -30,7 +30,7 @@
         ]
       }
     ],
-    "artifactName": "cams-lazy-notes-setup-${version}.${ext}"
+    "artifactName": "camslazynotes-setup-${version}.${ext}"
   },
   "nsis": {
     "oneClick": false,

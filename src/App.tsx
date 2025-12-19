@@ -202,6 +202,8 @@ const THEME_DEFS: ThemeDefinition[] = [
   },
 ]
 
+const LIBRARY_LISTING_URL = "https://github.com/gurucam/CamsLazyNotes"
+
 function normalizePath(p: string) {
   return p.replace(/\\/g, "/")
 }
@@ -291,6 +293,19 @@ function highlightMatch(text: string, query: string) {
   return out
 }
 
+function highlightNodes(node: React.ReactNode, query: string): React.ReactNode {
+  if (!query) return node
+  if (typeof node === "string") return highlightMatch(node, query)
+  if (Array.isArray(node)) {
+    return node.map((child, idx) => <React.Fragment key={idx}>{highlightNodes(child, query)}</React.Fragment>)
+  }
+  if (React.isValidElement(node)) {
+    const highlighted = highlightNodes(node.props.children, query)
+    return React.cloneElement(node, { ...node.props, children: highlighted })
+  }
+  return node
+}
+
 function buildTree(filePaths: string[], folderPaths: string[]): FileNode[] {
   const root: { type: "folder"; name: string; children: FileNode[] } = {
     type: "folder",
@@ -356,63 +371,70 @@ const MarkdownViewer = React.memo(function MarkdownViewer({
   activeFile,
   scheduleSave,
   setMarkdown,
+  highlightQuery,
 }: {
   markdown: string
   externalRoot: string | null
   activeFile: string | null
   scheduleSave: (absPath: string, text: string) => void
   setMarkdown: React.Dispatch<React.SetStateAction<string>>
+  highlightQuery: string
 }) {
   const components = useMemo(
     () => ({
-      h1: ({ children, ...props }: any) => {
+      h1: ({ node, children, ...props }: any) => {
         const text = extractText(children)
         return (
-          <h1 id={slugify(text)} {...props}>
-            {children}
+          <h1 id={slugify(text)} data-source-line={node?.position?.start?.line} {...props}>
+            {highlightNodes(children, highlightQuery)}
           </h1>
         )
       },
-      h2: ({ children, ...props }: any) => {
+      h2: ({ node, children, ...props }: any) => {
         const text = extractText(children)
         return (
-          <h2 id={slugify(text)} {...props}>
-            {children}
+          <h2 id={slugify(text)} data-source-line={node?.position?.start?.line} {...props}>
+            {highlightNodes(children, highlightQuery)}
           </h2>
         )
       },
-      h3: ({ children, ...props }: any) => {
+      h3: ({ node, children, ...props }: any) => {
         const text = extractText(children)
         return (
-          <h3 id={slugify(text)} {...props}>
-            {children}
+          <h3 id={slugify(text)} data-source-line={node?.position?.start?.line} {...props}>
+            {highlightNodes(children, highlightQuery)}
           </h3>
         )
       },
-      h4: ({ children, ...props }: any) => {
+      h4: ({ node, children, ...props }: any) => {
         const text = extractText(children)
         return (
-          <h4 id={slugify(text)} {...props}>
-            {children}
+          <h4 id={slugify(text)} data-source-line={node?.position?.start?.line} {...props}>
+            {highlightNodes(children, highlightQuery)}
           </h4>
         )
       },
-      h5: ({ children, ...props }: any) => {
+      h5: ({ node, children, ...props }: any) => {
         const text = extractText(children)
         return (
-          <h5 id={slugify(text)} {...props}>
-            {children}
+          <h5 id={slugify(text)} data-source-line={node?.position?.start?.line} {...props}>
+            {highlightNodes(children, highlightQuery)}
           </h5>
         )
       },
-      h6: ({ children, ...props }: any) => {
+      h6: ({ node, children, ...props }: any) => {
         const text = extractText(children)
         return (
-          <h6 id={slugify(text)} {...props}>
-            {children}
+          <h6 id={slugify(text)} data-source-line={node?.position?.start?.line} {...props}>
+            {highlightNodes(children, highlightQuery)}
           </h6>
         )
       },
+      p: ({ node, children, ...props }: any) => (
+        <p data-source-line={node?.position?.start?.line} {...props}>
+          {highlightNodes(children, highlightQuery)}
+        </p>
+      ),
       li: ({ node, children, ...props }: any) => {
         const line = node?.position?.start?.line
         const items = React.Children.toArray(children)
@@ -423,13 +445,18 @@ const MarkdownViewer = React.memo(function MarkdownViewer({
           (first as any).type === "input" &&
           (first as any).props?.type === "checkbox"
 
-        if (!isTask) return <li {...props}>{children}</li>
+        if (!isTask)
+          return (
+            <li data-source-line={line} {...props}>
+              {highlightNodes(children, highlightQuery)}
+            </li>
+          )
 
         const checked = Boolean((first as any).props.checked)
         const rest = items.slice(1)
 
         return (
-          <li {...props}>
+          <li data-source-line={line} {...props}>
             <input
               type="checkbox"
               defaultChecked={checked}
@@ -466,12 +493,12 @@ const MarkdownViewer = React.memo(function MarkdownViewer({
               }}
               style={{ marginRight: 6 }}
             />
-            <span>{rest}</span>
+            <span>{highlightNodes(rest, highlightQuery)}</span>
           </li>
         )
       },
     }),
-    [activeFile, externalRoot, scheduleSave, setMarkdown]
+    [activeFile, externalRoot, scheduleSave, setMarkdown, highlightQuery]
   )
 
   return (
@@ -575,6 +602,9 @@ export default function App() {
     cancelLabel?: string
   }>({ open: false, title: "", message: "" })
   const confirmResolveRef = React.useRef<((value: boolean) => void) | null>(null)
+  const searchInputRef = React.useRef<HTMLInputElement | null>(null)
+  const markdownContainerRef = React.useRef<HTMLDivElement | null>(null)
+  const [scrollRequest, setScrollRequest] = useState<{ path: string; line: number; token: number } | null>(null)
 
   useEffect(() => {
     if (!ctxMenu.open) return
@@ -609,6 +639,18 @@ export default function App() {
       window.removeEventListener("keydown", onKeyDown)
     }
   }, [settingsOpen])
+
+  useEffect(() => {
+    const onKeyDown = (e: KeyboardEvent) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "f") {
+        e.preventDefault()
+        searchInputRef.current?.focus()
+        searchInputRef.current?.select()
+      }
+    }
+    window.addEventListener("keydown", onKeyDown)
+    return () => window.removeEventListener("keydown", onKeyDown)
+  }, [])
 
   useEffect(() => {
     if (!textPrompt.open) return
@@ -749,6 +791,15 @@ export default function App() {
     }
   }
 
+  const handleOpenLibraries = () => {
+    const url = LIBRARY_LISTING_URL
+    try {
+      ;(window as any).ipcRenderer?.openExternal?.(url)
+    } catch {
+      window.open(url, "_blank", "noreferrer")
+    }
+  }
+
   const removeBookmark = (collection: string, path: string) => {
     setBookmarks((prev) => prev.filter((b) => !(b.collection === collection && b.path === path)))
   }
@@ -885,6 +936,24 @@ export default function App() {
     return new Promise<boolean>((resolve) => {
       confirmResolveRef.current = resolve
       setConfirmPrompt({ open: true, ...opts })
+    })
+  }
+
+  const clearAllChecks = async () => {
+    if (!activeFile || !externalRoot) return
+    const confirmed = await requestConfirm({
+      title: "Clear checkboxes?",
+      message: "Are you sure you want to clear checks in this file?",
+      warning: "This cannot be undone.",
+      confirmLabel: "Clear",
+    })
+    if (!confirmed) return
+    setMarkdown((prev) => {
+      const next = prev.replace(/\[(x|X)\]/g, "[ ]")
+      if (next === prev) return prev
+      const absPath = buildAbsPath(externalRoot, activeFile)
+      scheduleSave(absPath, next)
+      return next
     })
   }
 
@@ -1040,6 +1109,31 @@ export default function App() {
       alive = false
     }
   }, [externalRoot, activeFile])
+
+  useEffect(() => {
+    if (!scrollRequest || scrollRequest.path !== activeFile) return
+    const container = markdownContainerRef.current
+    if (!container) return
+
+    const elements = Array.from(container.querySelectorAll("[data-source-line]")) as HTMLElement[]
+    if (elements.length === 0) return
+
+    const targetLine = scrollRequest.line
+    let target: HTMLElement | null = null
+    for (const el of elements) {
+      const lineAttr = el.getAttribute("data-source-line")
+      const lineNum = lineAttr ? Number(lineAttr) : NaN
+      if (!Number.isNaN(lineNum) && lineNum >= targetLine) {
+        target = el
+        break
+      }
+    }
+    if (!target) {
+      target = elements[elements.length - 1]
+    }
+    target?.scrollIntoView({ behavior: "smooth", block: "center" })
+    setScrollRequest(null)
+  }, [markdown, activeFile, scrollRequest])
 
   useEffect(() => {
     if (!externalRoot || !activeLibraryName) return
@@ -1553,6 +1647,7 @@ export default function App() {
             <div className="searchRow">
               <div className="searchField">
                 <input
+                  ref={searchInputRef}
                   className="search"
                   placeholder={searchScope === "global" ? "Search all libraries" : "Search this library"}
                   value={searchQuery}
@@ -1627,6 +1722,9 @@ export default function App() {
                       Browse themes
                     </button>
                   </div>
+                  <button className="btn btn--ghost settingsButton" type="button" onClick={handleOpenLibraries}>
+                    Get Libraries
+                  </button>
                   {updateStatus ? <div className="settingsHint settingsUpdateHint">{updateStatus}</div> : null}
                   {updateReady ? (
                     <button className="btn settingsButton" type="button" onClick={handleInstallUpdate}>
@@ -1674,9 +1772,11 @@ export default function App() {
                             onClick={async () => {
                               const lib = libraries.find((l) => l.id === result.libraryId)
                               if (!lib) return
+                              const targetLine = result.previews[0]?.line ?? 1
                               await activateLibrary(lib, result.kind === "file" ? result.path : undefined)
                               if (result.kind === "file") {
                                 setActiveFile(result.path)
+                                setScrollRequest({ path: result.path, line: targetLine, token: Date.now() })
                               } else {
                                 const libraryKey = getLibraryKey(lib)
                                 const normalized = normalizePath(result.path)
@@ -1799,18 +1899,24 @@ export default function App() {
                     <h1 className="panelTitle">{activeFileLabel}</h1>
                     <div className="panelMeta">{panelMeta}</div>
                   </div>
-                  {activeLibraryName ? <div className="panelBadge">{activeLibraryName}</div> : null}
+                  <div className="panelHeader__actions">
+                    {activeLibraryName ? <div className="panelBadge">{activeLibraryName}</div> : null}
+                    <button className="btn btn--ghost" type="button" onClick={clearAllChecks}>
+                      Uncheck all
+                    </button>
+                  </div>
                 </div>
               ) : null}
 
             {showHowToDock ? null : (
-              <div className="md">
+              <div className="md" ref={markdownContainerRef}>
                 <MarkdownViewer
                   markdown={normalizedMarkdown}
                   externalRoot={externalRoot}
                   activeFile={activeFile}
                   scheduleSave={scheduleSave}
                   setMarkdown={setMarkdown}
+                  highlightQuery={searchActive ? normalizedQuery : ""}
                 />
               </div>
             )}

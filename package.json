@@ -1,6 +1,6 @@
 {
-    "name": "cams-lazy-notes",
-    "productName": "Cam’s Lazy Notes",
+    "name": "camslazynotes",
+    "productName": "Cam's Lazy Notes",
     "private": true,
     "version": "1.0.3",
     "type": "module",
