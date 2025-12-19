@@ -1155,6 +1155,7 @@ export default function App() {
     const normalizedQuery = searchQuery.trim().toLowerCase()
     if (!normalizedQuery) {
       setSearchResults([])
+      setSiblingResults([])
       setOtherResults([])
       setIsSearching(false)
       setOtherLoading(false)
@@ -1180,11 +1181,12 @@ export default function App() {
 
     const run = async () => {
       setIsSearching(true)
-      if (searchScope !== "global") setOtherLoading(true)
+      setOtherLoading(searchScope !== "global")
       const results: SearchResult[] = []
+      const sibling: SearchResult[] = []
       const secondary: SearchResult[] = []
 
-      const collectLibraryMatches = async (lib: Library, includeStructure = true) => {
+      const collectLibraryMatches = async (lib: Library, includeStructure = true, bucket: SearchResult[] = secondary) => {
         const relFiles = await ensureLibraryFilesForSearch(lib)
         for (const path of relFiles) {
           if (cancelled) return
@@ -1193,7 +1195,7 @@ export default function App() {
           if (cancelled) return
           const matches = findMatchesInText(text ?? "", normalizedQuery)
           if (matches.matchCount > 0) {
-            secondary.push({
+            bucket.push({
               libraryId: lib.id,
               libraryName: lib.name,
               path,
@@ -1206,7 +1208,7 @@ export default function App() {
         if (!includeStructure) return
         const rootMatch = lib.name.toLowerCase().includes(normalizedQuery)
         if (rootMatch) {
-          secondary.push({
+          bucket.push({
             libraryId: lib.id,
             libraryName: lib.name,
             path: lib.name,
@@ -1220,7 +1222,7 @@ export default function App() {
         for (const folder of relFolders) {
           if (cancelled) return
           if (folder.toLowerCase().includes(normalizedQuery)) {
-            secondary.push({
+            bucket.push({
               libraryId: lib.id,
               libraryName: lib.name,
               path: folder,
@@ -1284,49 +1286,8 @@ export default function App() {
         }
       } else if (searchScope === "global") {
         for (const lib of libraries) {
-          const relFiles = await ensureLibraryFilesForSearch(lib)
-          for (const path of relFiles) {
-            if (cancelled) return
-            const absPath = buildAbsPath(lib.rootPath, path)
-            const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
-            if (cancelled) return
-            const matches = findMatchesInText(text ?? "", normalizedQuery)
-            if (matches.matchCount > 0) {
-              results.push({
-                libraryId: lib.id,
-                libraryName: lib.name,
-                path,
-                matchCount: matches.matchCount,
-                previews: matches.previews,
-                kind: "file",
-              })
-            }
-          }
-          const rootMatch = lib.name.toLowerCase().includes(normalizedQuery)
-          if (rootMatch) {
-            results.push({
-              libraryId: lib.id,
-              libraryName: lib.name,
-              path: lib.name,
-              matchCount: 1,
-              previews: [{ line: 0, preview: "Library name" }],
-              kind: "folder",
-            })
-          }
-          const absFolders: string[] = await (window as any).ipcRenderer.listExternalFolders(lib.rootPath)
-          const relFolders = absFolders.map((p) => p.replace(lib.rootPath, "").replace(/^[/\\]/, ""))
-          for (const folder of relFolders) {
-            if (folder.toLowerCase().includes(normalizedQuery)) {
-              results.push({
-                libraryId: lib.id,
-                libraryName: lib.name,
-                path: folder,
-                matchCount: 1,
-                previews: [{ line: 0, preview: "Folder name" }],
-                kind: "folder",
-              })
-            }
-          }
+          await collectLibraryMatches(lib)
+          if (cancelled) return
         }
       } else if (searchScope === "file") {
         if (activeFile && externalRoot && activeLibraryName) {
@@ -1343,6 +1304,26 @@ export default function App() {
               previews: matches.previews,
               kind: "file",
             })
+          }
+          // other files in this library
+          for (const path of files) {
+            if (path === activeFile) continue
+            if (cancelled) return
+            const siblingAbs = buildAbsPath(externalRoot, path)
+            const textSibling = await (window as any).ipcRenderer.readExternalMarkdownFile(siblingAbs)
+            if (cancelled) return
+            const matchesSibling = findMatchesInText(textSibling ?? "", normalizedQuery)
+            if (matchesSibling.matchCount > 0) {
+              const library = libraries.find((lib) => lib.name === activeLibraryName)
+              sibling.push({
+                libraryId: library?.id ?? activeLibraryName,
+                libraryName: activeLibraryName,
+                path,
+                matchCount: matchesSibling.matchCount,
+                previews: matchesSibling.previews,
+                kind: "file",
+              })
+            }
           }
         }
         for (const lib of libraries) {
@@ -1379,7 +1360,7 @@ export default function App() {
     return () => {
       cancelled = true
     }
-  }, [searchQuery, searchScope, activeLibraryName, files, libraries])
+  }, [searchQuery, searchScope, activeLibraryName, activeFile, externalRoot, files, libraries])
 
   const fileTree = useMemo(() => buildTree(files, folders), [files, folders])
   const activeFileLabel = useMemo(() => (activeFile ? stripMd(baseName(activeFile)) : ""), [activeFile])
@@ -1879,6 +1860,23 @@ export default function App() {
                   ) : (
                     <div className="searchResults__list">{searchResults.map(renderSearchResultButton)}</div>
                   )}
+                  {searchScope === "file" && normalizedQuery ? (
+                    <div className="searchResults__secondary">
+                      <div className="searchResults__header">
+                        <div className="searchResults__title">Other files in this library</div>
+                        <div className="searchResults__meta">
+                          {isSearching
+                            ? "Searching..."
+                            : `${siblingResults.length} match${siblingResults.length === 1 ? "" : "es"}`}
+                        </div>
+                      </div>
+                      {siblingResults.length === 0 ? (
+                        <div className="mutedNote mutedNote--tight">No matches in other files in this library.</div>
+                      ) : (
+                        <div className="searchResults__list">{siblingResults.map(renderSearchResultButton)}</div>
+                      )}
+                    </div>
+                  ) : null}
                   {searchScope !== "global" && normalizedQuery ? (
                     <div className="searchResults__secondary">
                       <div className="searchResults__header">
