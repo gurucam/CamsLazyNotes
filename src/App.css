@@ -934,6 +934,11 @@ select:hover {
   gap: 8px;
 }
 
+.flashHighlight {
+  background: rgba(110, 197, 255, 0.18);
+  transition: background 1.6s ease;
+}
+
 .panelTitle {
   margin: 0;
   font-size: 22px;

@@ -604,6 +604,7 @@ export default function App() {
   const searchInputRef = React.useRef<HTMLInputElement | null>(null)
   const markdownContainerRef = React.useRef<HTMLDivElement | null>(null)
   const [scrollRequest, setScrollRequest] = useState<{ path: string; line: number; token: number } | null>(null)
+  const highlightTimerRef = React.useRef<number | null>(null)
 
   useEffect(() => {
     if (!ctxMenu.open) return
@@ -1139,7 +1140,21 @@ export default function App() {
     if (!target) {
       target = elements[elements.length - 1]
     }
-    target?.scrollIntoView({ behavior: "smooth", block: "center" })
+
+    const targetOffset =
+      target.offsetTop - container.offsetTop - container.clientHeight / 2 + target.clientHeight / 2
+    container.scrollTo({ top: targetOffset, behavior: "smooth" })
+
+    if (highlightTimerRef.current) {
+      window.clearTimeout(highlightTimerRef.current)
+      highlightTimerRef.current = null
+    }
+    target.classList.add("flashHighlight")
+    highlightTimerRef.current = window.setTimeout(() => {
+      target.classList.remove("flashHighlight")
+      highlightTimerRef.current = null
+    }, 2000)
+
     setScrollRequest(null)
   }, [markdown, activeFile, scrollRequest])
 
