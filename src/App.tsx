@@ -2250,6 +2250,18 @@ export default function App() {
 
           <button
             className="btn btn--ghost contextMenuButton"
+            onClick={async () => {
+              const lib = libraries.find((l) => l.id === ctxMenu.libraryId)
+              if (!lib) return
+              await (window as any).ipcRenderer.openPath?.(lib.rootPath)
+              closeCtxMenu()
+            }}
+          >
+            Open in File Explorer
+          </button>
+
+          <button
+            className="btn btn--ghost contextMenuButton"
             onClick={() => closeCtxMenu()}
           >
             Cancel

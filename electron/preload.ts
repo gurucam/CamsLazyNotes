@@ -70,6 +70,7 @@ contextBridge.exposeInMainWorld('ipcRenderer', {
   checkForUpdates: () => ipcRenderer.invoke("update:check"),
   installUpdate: () => ipcRenderer.invoke("update:install"),
   openExternal: (url: string) => ipcRenderer.invoke("open-external", url),
+  openPath: (path: string) => ipcRenderer.invoke("open-path", path),
 
 
   // You can expose other APTs you need here.

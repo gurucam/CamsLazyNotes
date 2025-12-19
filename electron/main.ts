@@ -398,6 +398,18 @@ ipcMain.handle("open-external", async (_evt, url: string) => {
   return { ok: true }
 })
 
+ipcMain.handle("open-path", async (_evt, targetPath: string) => {
+  const normalized = typeof targetPath === "string" ? targetPath.trim() : ""
+  if (!normalized) return { ok: false, error: "Invalid path" }
+  try {
+    await shell.openPath(normalized)
+    return { ok: true }
+  } catch (err) {
+    console.error("Failed to open path:", err)
+    return { ok: false, error: "Failed to open path" }
+  }
+})
+
 
 ipcMain.handle("debug-paths", () => {
   const cwd = process.cwd()

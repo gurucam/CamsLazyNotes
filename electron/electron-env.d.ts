@@ -41,6 +41,7 @@ interface Window {
     pickAndAddLibrary: () => Promise<{ ok: boolean; canceled?: boolean; alreadyExists?: boolean }>
     listLibraries: () => Promise<Array<{ id: string; name: string; rootPath: string }>>
     openExternal: (url: string) => Promise<{ ok: boolean; error?: string }>
+    openPath: (path: string) => Promise<{ ok: boolean; error?: string }>
     checkForUpdates: () => Promise<{ ok: boolean; error?: string }>
     installUpdate: () => Promise<boolean>
   }
