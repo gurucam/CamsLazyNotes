@@ -573,6 +573,7 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState("")
   const [searchScope, setSearchScope] = useState<SearchScope>("library")
   const [searchResults, setSearchResults] = useState<SearchResult[]>([])
+  const [siblingResults, setSiblingResults] = useState<SearchResult[]>([])
   const [otherResults, setOtherResults] = useState<SearchResult[]>([])
   const [isSearching, setIsSearching] = useState(false)
   const [otherLoading, setOtherLoading] = useState(false)
@@ -772,6 +773,7 @@ export default function App() {
   const clearSearchState = () => {
     setSearchQuery("")
     setSearchResults([])
+    setSiblingResults([])
     setOtherResults([])
     setIsSearching(false)
     setOtherLoading(false)
@@ -1354,6 +1356,10 @@ export default function App() {
         if (a.libraryName !== b.libraryName) return a.libraryName.localeCompare(b.libraryName)
         return a.path.localeCompare(b.path)
       })
+      sibling.sort((a, b) => {
+        if (a.libraryName !== b.libraryName) return a.libraryName.localeCompare(b.libraryName)
+        return a.path.localeCompare(b.path)
+      })
       secondary.sort((a, b) => {
         if (a.libraryName !== b.libraryName) return a.libraryName.localeCompare(b.libraryName)
         return a.path.localeCompare(b.path)
@@ -1361,6 +1367,7 @@ export default function App() {
 
       if (!cancelled) {
         setSearchResults(results)
+        setSiblingResults(sibling)
         setOtherResults(secondary)
         setIsSearching(false)
         setOtherLoading(false)
