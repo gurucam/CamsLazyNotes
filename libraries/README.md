@@ -5,8 +5,7 @@ Download a library zip, extract it so the top-level folder name matches the libr
 (or use **+ Add Library** and pick the extracted folder).
 
 ## Available Libraries
-- **Baldurs Gate 3 Checklist (Sample)** — Honor Mode-friendly walkthrough/checklists. _~1 file, ~50 KB_
-  - [Download ZIP](./libraries/Baldurs%20Gate%203.zip)
+- [Baldurs Gate 3 Checklist (Sample)](https://github.com/gurucam/CamsLazyNotes/blob/main/libraries/Baldurs%20Gate%203.zip?raw=1) — Honor Mode-friendly walkthrough/checklists. _~1 file, ~50 KB_
 
 ## How to install
 1. Download the library zip.
