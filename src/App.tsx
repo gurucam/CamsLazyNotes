@@ -571,7 +571,7 @@ export default function App() {
   })
 
   const [searchQuery, setSearchQuery] = useState("")
-  const [searchScope, setSearchScope] = useState<SearchScope>("library")
+  const [searchScope, setSearchScope] = useState<SearchScope>("file")
   const [searchResults, setSearchResults] = useState<SearchResult[]>([])
   const [siblingResults, setSiblingResults] = useState<SearchResult[]>([])
   const [otherResults, setOtherResults] = useState<SearchResult[]>([])
@@ -870,7 +870,8 @@ export default function App() {
       setFiles(cached)
       setFolders(cachedFolders)
       setLibraryContent(lib, cached, cachedFolders, false)
-      setActiveFile(preferredFile ?? cached[0] ?? null)
+      setActiveFile(preferredFile ?? null)
+      if (!preferredFile) setMarkdown("")
       return
     }
 
@@ -885,7 +886,8 @@ export default function App() {
       setFiles(relFiles)
       setFolders(relFolders)
       setLibraryContent(lib, relFiles, relFolders, false)
-      setActiveFile(preferredFile ?? relFiles[0] ?? null)
+      setActiveFile(preferredFile ?? null)
+      if (!preferredFile) setMarkdown("")
     } catch (err) {
       console.error("Failed to list external markdown files:", err)
       setFiles([])
@@ -915,7 +917,7 @@ export default function App() {
       if (preferredFile) {
         setActiveFile(preferredFile)
       } else if (activeFile && !relFiles.includes(activeFile)) {
-        setActiveFile(relFiles[0] ?? null)
+        setActiveFile(null)
       }
     } catch (err) {
       console.error("Failed to refresh library files:", err)
