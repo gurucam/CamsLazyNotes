@@ -59,12 +59,18 @@ function getCollectionsDir() {
 async function ensureSampleLibrary() {
   try {
     const libs = readLibraries()
-    if (libs.length > 0) return
-
+    const sampleName = "BG3 Checklist (Sample)"
     const templateDir = path.join(app.getAppPath(), "content", "collections", "Baldurs Gate 3")
     if (!fs.existsSync(templateDir)) return
 
     const sampleDir = path.join(app.getPath("userData"), "Sample Libraries", "Baldurs Gate 3")
+    const alreadyPresent = libs.some(
+      (l) =>
+        l.name === sampleName ||
+        path.resolve(l.rootPath).toLowerCase() === path.resolve(sampleDir).toLowerCase()
+    )
+    if (alreadyPresent) return
+
     if (!fs.existsSync(sampleDir)) {
       await fsPromises.mkdir(path.dirname(sampleDir), { recursive: true })
       await fsPromises.cp(templateDir, sampleDir, { recursive: true })
@@ -72,7 +78,7 @@ async function ensureSampleLibrary() {
 
     const library: Library = {
       id: `${Date.now()}_${Math.random().toString(16).slice(2)}`,
-      name: "BG3 Checklist (Sample)",
+      name: sampleName,
       rootPath: sampleDir,
     }
 
