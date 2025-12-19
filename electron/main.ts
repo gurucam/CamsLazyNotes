@@ -60,9 +60,18 @@ function getCollectionsDir() {
   return fromAppPath
 }
 
+function getBundledCollectionsDir() {
+  // Prefer packaged resources (resources/content/collections), then app path, then cwd.
+  const fromResources = path.join(process.resourcesPath, "content", "collections")
+  if (fs.existsSync(fromResources)) return fromResources
+  const fromAppPath = path.join(app.getAppPath(), "content", "collections")
+  if (fs.existsSync(fromAppPath)) return fromAppPath
+  return path.join(process.cwd(), "content", "collections")
+}
+
 async function ensureBundledLibraries() {
   try {
-    const bundledRoot = path.join(app.getAppPath(), "content", "collections")
+    const bundledRoot = getBundledCollectionsDir()
     if (!fs.existsSync(bundledRoot)) return
 
     const userRoot = getLibrariesRoot()
