@@ -202,7 +202,7 @@ const THEME_DEFS: ThemeDefinition[] = [
   },
 ]
 
-const LIBRARY_LISTING_URL = "https://github.com/gurucam/CamsLazyNotes"
+const LIBRARY_LISTING_URL = "https://github.com/gurucam/CamsLazyNotes#cams-lazy-notes-%E2%80%94-libraries"
 
 function normalizePath(p: string) {
   return p.replace(/\\/g, "/")
@@ -1948,6 +1948,12 @@ export default function App() {
                         libraries, folders, or files to create, rename, or delete items. Dropping folders into the
                         default libraries directory adds them automatically.
                       </p>
+                      <p>
+                        To install a new library: download a library zip from the Libraries page, extract it so the
+                        top-level folder name matches the library, and drop that folder into
+                        <code>AppData/Roaming/Cam's Lazy Notes/Libraries</code> (or use <strong>+ Add Library</strong>
+                        and pick the extracted folder). Restart if it doesn’t appear automatically.
+                      </p>
                     </section>
 
                     <section>
@@ -2294,6 +2300,12 @@ export default function App() {
                   Folders can be expanded or collapsed. The plus/minus shows whether a folder is open. Right-click
                   libraries, folders, or files to create, rename, or delete items. Dropping folders into the default
                   libraries directory adds them automatically.
+                </p>
+                <p>
+                  To install a new library: download a library zip from the Libraries page, extract it so the top-level
+                  folder name matches the library, and drop that folder into <code>AppData/Roaming/Cam's Lazy
+                  Notes/Libraries</code> (or use <strong>+ Add Library</strong> and pick the extracted folder).
+                  Restart if it doesn’t appear automatically.
                 </p>
               </section>
 
