@@ -30,7 +30,7 @@
         ]
       }
     ],
-    "artifactName": "${productName}-Windows-${version}-Setup.${ext}"
+    "artifactName": "cams-lazy-notes-setup-${version}.${ext}"
   },
   "nsis": {
     "oneClick": false,
