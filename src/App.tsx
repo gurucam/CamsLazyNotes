@@ -1944,17 +1944,22 @@ export default function App() {
                         active, and use the top-left dropdown to switch quickly.
                       </p>
                       <p>
-                        Folders can be expanded or collapsed. The plus/minus shows whether a folder is open.
-                        Right-click libraries, folders, or files to create, rename, or delete items.
+                        Folders can be expanded or collapsed. The plus/minus shows whether a folder is open. Right-click
+                        libraries, folders, or files to create, rename, or delete items. Dropping folders into the
+                        default libraries directory adds them automatically.
                       </p>
                     </section>
 
                     <section>
                       <h3>Included sample</h3>
                       <p>
-                        A <strong>BG3 Checklist (Sample)</strong> library is bundled so you can see an example. It’s
-                        copied into your app data on first launch. If you don’t want it, right-click the BG3 library in
+                        A <strong>BG3 Checklist (Sample)</strong> library is bundled so you can see an example. It's
+                        copied into your app data on first launch. If you don't want it, right-click the BG3 library in
                         the sidebar and choose <strong>Remove Library</strong>.
+                      </p>
+                      <p>
+                        Default library folder: <strong>app data/Libraries</strong>. + Add Library opens there by
+                        default; you can also pick any other folder.
                       </p>
                     </section>
 
@@ -2275,7 +2280,8 @@ export default function App() {
                 </p>
                 <p>
                   Folders can be expanded or collapsed. The plus/minus shows whether a folder is open. Right-click
-                  libraries, folders, or files to create, rename, or delete items.
+                  libraries, folders, or files to create, rename, or delete items. Dropping folders into the default
+                  libraries directory adds them automatically.
                 </p>
               </section>
 
@@ -2285,6 +2291,10 @@ export default function App() {
                   A <strong>BG3 Checklist (Sample)</strong> library is bundled so you can see an example. It’s copied
                   into your app data on first launch. If you don’t want it, right-click the BG3 library in the sidebar
                   and choose <strong>Remove Library</strong>.
+                </p>
+                <p>
+                  Default library folder: <strong>app data/Libraries</strong>. + Add Library opens there by default;
+                  you can also pick any other folder.
                 </p>
               </section>
 

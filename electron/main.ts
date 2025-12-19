@@ -12,6 +12,10 @@ type Library = {
   rootPath: string
 }
 
+function getLibrariesRoot() {
+  return path.join(app.getPath("userData"), "Libraries")
+}
+
 function librariesFilePath() {
   return path.join(app.getPath("userData"), "libraries.json")
 }
@@ -56,6 +60,58 @@ function getCollectionsDir() {
   return fromAppPath
 }
 
+async function ensureBundledLibraries() {
+  try {
+    const bundledRoot = path.join(app.getAppPath(), "content", "collections")
+    if (!fs.existsSync(bundledRoot)) return
+
+    const userRoot = getLibrariesRoot()
+    await fsPromises.mkdir(userRoot, { recursive: true })
+
+    const bundledEntries = await fsPromises.readdir(bundledRoot, { withFileTypes: true })
+    for (const entry of bundledEntries) {
+      if (!entry.isDirectory()) continue
+      const src = path.join(bundledRoot, entry.name)
+      const dest = path.join(userRoot, entry.name)
+      if (!fs.existsSync(dest)) {
+        await fsPromises.cp(src, dest, { recursive: true })
+      }
+    }
+
+    const libs = readLibraries()
+    for (const entry of bundledEntries) {
+      if (!entry.isDirectory()) continue
+      const dest = path.join(userRoot, entry.name)
+      const exists = libs.some((l) => path.resolve(l.rootPath).toLowerCase() === path.resolve(dest).toLowerCase())
+      if (exists) continue
+      const lib: Library = {
+        id: `${Date.now()}_${Math.random().toString(16).slice(2)}`,
+        name: entry.name === "Baldurs Gate 3" ? "BG3 Checklist (Sample)" : entry.name,
+        rootPath: dest,
+      }
+      libs.push(lib)
+    }
+
+    // Auto-add any other folders under the user libraries root
+    const userEntries = await fsPromises.readdir(userRoot, { withFileTypes: true })
+    for (const entry of userEntries) {
+      if (!entry.isDirectory()) continue
+      const dest = path.join(userRoot, entry.name)
+      const exists = libs.some((l) => path.resolve(l.rootPath).toLowerCase() === path.resolve(dest).toLowerCase())
+      if (exists) continue
+      libs.push({
+        id: `${Date.now()}_${Math.random().toString(16).slice(2)}`,
+        name: entry.name,
+        rootPath: dest,
+      })
+    }
+
+    writeLibraries(libs)
+  } catch (err) {
+    console.error("Failed to ensure bundled libraries:", err)
+  }
+}
+
 async function ensureSampleLibrary() {
   try {
     const libs = readLibraries()
@@ -63,7 +119,7 @@ async function ensureSampleLibrary() {
     const templateDir = path.join(app.getAppPath(), "content", "collections", "Baldurs Gate 3")
     if (!fs.existsSync(templateDir)) return
 
-    const sampleDir = path.join(app.getPath("userData"), "Sample Libraries", "Baldurs Gate 3")
+    const sampleDir = path.join(getLibrariesRoot(), "Baldurs Gate 3")
     const alreadyPresent = libs.some(
       (l) =>
         l.name === sampleName ||
@@ -266,9 +322,13 @@ ipcMain.handle("libraries:pickAndAdd", async () => {
   const win = BrowserWindow.getFocusedWindow()
   if (!win) return { ok: false, error: "No focused window" }
 
+  const defaultPath = getLibrariesRoot()
+  await fsPromises.mkdir(defaultPath, { recursive: true })
+
   const result = await dialog.showOpenDialog(win, {
     title: "Add Library Folder",
     properties: ["openDirectory"],
+    defaultPath,
   })
 
   if (result.canceled || result.filePaths.length === 0) {
@@ -449,6 +509,7 @@ app.on('activate', () => {
 })
 
 app.whenReady().then(async () => {
+  await ensureBundledLibraries()
   await ensureSampleLibrary()
   createWindow()
 })
