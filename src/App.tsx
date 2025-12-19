@@ -573,11 +573,9 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState("")
   const [searchScope, setSearchScope] = useState<SearchScope>("library")
   const [searchResults, setSearchResults] = useState<SearchResult[]>([])
+  const [otherResults, setOtherResults] = useState<SearchResult[]>([])
   const [isSearching, setIsSearching] = useState(false)
-  const [globalHint, setGlobalHint] = useState<{ count: number; loading: boolean }>({
-    count: 0,
-    loading: false,
-  })
+  const [otherLoading, setOtherLoading] = useState(false)
   const [showHowTo, setShowHowTo] = useState(false)
   const [showHowToDock, setShowHowToDock] = useState(false)
   const [showThemePicker, setShowThemePicker] = useState(false)
@@ -774,8 +772,9 @@ export default function App() {
   const clearSearchState = () => {
     setSearchQuery("")
     setSearchResults([])
+    setOtherResults([])
     setIsSearching(false)
-    setGlobalHint({ count: 0, loading: false })
+    setOtherLoading(false)
   }
 
   const handleCheckForUpdates = () => {
@@ -1154,7 +1153,9 @@ export default function App() {
     const normalizedQuery = searchQuery.trim().toLowerCase()
     if (!normalizedQuery) {
       setSearchResults([])
+      setOtherResults([])
       setIsSearching(false)
+      setOtherLoading(false)
       return
     }
 
@@ -1177,14 +1178,64 @@ export default function App() {
 
     const run = async () => {
       setIsSearching(true)
+      if (searchScope !== "global") setOtherLoading(true)
       const results: SearchResult[] = []
+      const secondary: SearchResult[] = []
 
-    if (searchScope === "library") {
-      if (activeLibraryName && externalRoot) {
-        const library = libraries.find((lib) => lib.name === activeLibraryName)
-        const libraryId = library?.id ?? activeLibraryName
-        for (const path of files) {
+      const collectLibraryMatches = async (lib: Library, includeStructure = true) => {
+        const relFiles = await ensureLibraryFilesForSearch(lib)
+        for (const path of relFiles) {
           if (cancelled) return
+          const absPath = buildAbsPath(lib.rootPath, path)
+          const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
+          if (cancelled) return
+          const matches = findMatchesInText(text ?? "", normalizedQuery)
+          if (matches.matchCount > 0) {
+            secondary.push({
+              libraryId: lib.id,
+              libraryName: lib.name,
+              path,
+              matchCount: matches.matchCount,
+              previews: matches.previews,
+              kind: "file",
+            })
+          }
+        }
+        if (!includeStructure) return
+        const rootMatch = lib.name.toLowerCase().includes(normalizedQuery)
+        if (rootMatch) {
+          secondary.push({
+            libraryId: lib.id,
+            libraryName: lib.name,
+            path: lib.name,
+            matchCount: 1,
+            previews: [{ line: 0, preview: "Library name" }],
+            kind: "folder",
+          })
+        }
+        const absFolders: string[] = await (window as any).ipcRenderer.listExternalFolders(lib.rootPath)
+        const relFolders = absFolders.map((p) => p.replace(lib.rootPath, "").replace(/^[/\\]/, ""))
+        for (const folder of relFolders) {
+          if (cancelled) return
+          if (folder.toLowerCase().includes(normalizedQuery)) {
+            secondary.push({
+              libraryId: lib.id,
+              libraryName: lib.name,
+              path: folder,
+              matchCount: 1,
+              previews: [{ line: 0, preview: "Folder name" }],
+              kind: "folder",
+            })
+          }
+        }
+      }
+
+      if (searchScope === "library") {
+        if (activeLibraryName && externalRoot) {
+          const library = libraries.find((lib) => lib.name === activeLibraryName)
+          const libraryId = library?.id ?? activeLibraryName
+          for (const path of files) {
+            if (cancelled) return
             const absPath = buildAbsPath(externalRoot, path)
             const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
             if (cancelled) return
@@ -1223,13 +1274,18 @@ export default function App() {
               })
             }
           }
-      }
-    } else if (searchScope === "global") {
-      for (const lib of libraries) {
-        const relFiles = await ensureLibraryFilesForSearch(lib)
-        for (const path of relFiles) {
+        }
+        for (const lib of libraries) {
+          if (lib.name === activeLibraryName) continue
+          await collectLibraryMatches(lib)
           if (cancelled) return
-          const absPath = buildAbsPath(lib.rootPath, path)
+        }
+      } else if (searchScope === "global") {
+        for (const lib of libraries) {
+          const relFiles = await ensureLibraryFilesForSearch(lib)
+          for (const path of relFiles) {
+            if (cancelled) return
+            const absPath = buildAbsPath(lib.rootPath, path)
             const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
             if (cancelled) return
             const matches = findMatchesInText(text ?? "", normalizedQuery)
@@ -1267,36 +1323,47 @@ export default function App() {
                 previews: [{ line: 0, preview: "Folder name" }],
                 kind: "folder",
               })
+            }
           }
         }
-      }
-    } else if (searchScope === "file") {
-      if (activeFile && externalRoot && activeLibraryName) {
-        const absPath = buildAbsPath(externalRoot, activeFile)
-        const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
-        const matches = findMatchesInText(text ?? "", normalizedQuery)
-        if (matches.matchCount > 0) {
-          const library = libraries.find((lib) => lib.name === activeLibraryName)
-          results.push({
-            libraryId: library?.id ?? activeLibraryName,
-            libraryName: activeLibraryName,
-            path: activeFile,
-            matchCount: matches.matchCount,
-            previews: matches.previews,
-            kind: "file",
-          })
+      } else if (searchScope === "file") {
+        if (activeFile && externalRoot && activeLibraryName) {
+          const absPath = buildAbsPath(externalRoot, activeFile)
+          const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
+          const matches = findMatchesInText(text ?? "", normalizedQuery)
+          if (matches.matchCount > 0) {
+            const library = libraries.find((lib) => lib.name === activeLibraryName)
+            results.push({
+              libraryId: library?.id ?? activeLibraryName,
+              libraryName: activeLibraryName,
+              path: activeFile,
+              matchCount: matches.matchCount,
+              previews: matches.previews,
+              kind: "file",
+            })
+          }
+        }
+        for (const lib of libraries) {
+          if (lib.name === activeLibraryName) continue
+          await collectLibraryMatches(lib)
+          if (cancelled) return
         }
       }
-    }
 
-    results.sort((a, b) => {
-      if (a.libraryName !== b.libraryName) return a.libraryName.localeCompare(b.libraryName)
-      return a.path.localeCompare(b.path)
+      results.sort((a, b) => {
+        if (a.libraryName !== b.libraryName) return a.libraryName.localeCompare(b.libraryName)
+        return a.path.localeCompare(b.path)
+      })
+      secondary.sort((a, b) => {
+        if (a.libraryName !== b.libraryName) return a.libraryName.localeCompare(b.libraryName)
+        return a.path.localeCompare(b.path)
       })
 
       if (!cancelled) {
         setSearchResults(results)
+        setOtherResults(secondary)
         setIsSearching(false)
+        setOtherLoading(false)
       }
     }
 
@@ -1306,47 +1373,6 @@ export default function App() {
       cancelled = true
     }
   }, [searchQuery, searchScope, activeLibraryName, files, libraries])
-
-  useEffect(() => {
-    const normalizedQuery = searchQuery.trim().toLowerCase()
-    if (!normalizedQuery || searchScope === "global") {
-      setGlobalHint({ count: 0, loading: false })
-      return
-    }
-
-    let cancelled = false
-    const timer = window.setTimeout(async () => {
-      if (cancelled) return
-      setGlobalHint((prev) => ({ ...prev, loading: true }))
-      let totalMatches = 0
-      for (const lib of libraries) {
-        if (lib.name === activeLibraryName) continue
-        if (lib.name.toLowerCase().includes(normalizedQuery)) {
-          totalMatches += 1
-        }
-        const absFiles: string[] = await (window as any).ipcRenderer.listExternalMarkdownFiles(lib.rootPath)
-        for (const absPath of absFiles) {
-          if (cancelled) return
-          const text = await (window as any).ipcRenderer.readExternalMarkdownFile(absPath)
-          const matches = findMatchesInText(text ?? "", normalizedQuery)
-          totalMatches += matches.matchCount
-        }
-        const absFolders: string[] = await (window as any).ipcRenderer.listExternalFolders(lib.rootPath)
-        const relFolders = absFolders.map((p) => p.replace(lib.rootPath, "").replace(/^[/\\]/, ""))
-        for (const folder of relFolders) {
-          if (cancelled) return
-          if (folder.toLowerCase().includes(normalizedQuery)) totalMatches += 1
-        }
-      }
-      if (cancelled) return
-      setGlobalHint({ count: totalMatches, loading: false })
-    }, 200)
-
-    return () => {
-      cancelled = true
-      window.clearTimeout(timer)
-    }
-  }, [searchQuery, searchScope, libraries, activeLibraryName])
 
   const fileTree = useMemo(() => buildTree(files, folders), [files, folders])
   const activeFileLabel = useMemo(() => (activeFile ? stripMd(baseName(activeFile)) : ""), [activeFile])
@@ -1378,6 +1404,55 @@ export default function App() {
     )
     if (anyExplicitFalse) expandAll(fileTree, libraryKey)
     else collapseAll()
+  }
+
+  const renderSearchResultButton = (result: SearchResult) => {
+    const parent = parentPath(result.path)
+    return (
+      <button
+        key={`${result.libraryId}::${result.path}`}
+        className="searchResultItem"
+        onClick={async () => {
+          const lib = libraries.find((l) => l.id === result.libraryId)
+          if (!lib) return
+          const targetLine = result.previews[0]?.line ?? 1
+          await activateLibrary(lib, result.kind === "file" ? result.path : undefined)
+          if (result.kind === "file") {
+            setActiveFile(result.path)
+            setScrollRequest({ path: result.path, line: targetLine, token: Date.now() })
+          } else {
+            const libraryKey = getLibraryKey(lib)
+            const normalized = normalizePath(result.path)
+            const parts = normalized.split("/").filter(Boolean)
+            let key = ""
+            for (const part of parts) {
+              key = key ? `${key}/${part}` : part
+              setExpandedFolders((prev) => ({ ...prev, [`${libraryKey}/${key}`]: true }))
+            }
+          }
+          clearSearchState()
+        }}
+      >
+        <span className="searchResultItem__label">
+          {highlightMatch(stripMd(baseName(result.path)), normalizedQuery)}
+        </span>
+        <span className="searchResultItem__meta">
+          {result.libraryName}
+          {parent ? ` / ${parent}` : ""}
+          {` - ${result.matchCount} match${result.matchCount === 1 ? "" : "es"}`}
+        </span>
+        {result.previews.length > 0 ? (
+          <div className="searchResultItem__previews">
+            {result.previews.map((preview) => (
+              <span key={`${result.libraryId}-${result.path}-${preview.line}`}>
+                <span className="searchResultItem__line">L{preview.line}:</span>{" "}
+                {highlightMatch(preview.preview, normalizedQuery)}
+              </span>
+            ))}
+          </div>
+        ) : null}
+      </button>
+    )
   }
 
   const renderTree = (
@@ -1795,72 +1870,25 @@ export default function App() {
                         : "No matches found."}
                     </div>
                   ) : (
-                    <div className="searchResults__list">
-                      {searchResults.map((result) => {
-                        const parent = parentPath(result.path)
-                        return (
-                          <button
-                            key={`${result.libraryId}::${result.path}`}
-                            className="searchResultItem"
-                            onClick={async () => {
-                              const lib = libraries.find((l) => l.id === result.libraryId)
-                              if (!lib) return
-                              const targetLine = result.previews[0]?.line ?? 1
-                              await activateLibrary(lib, result.kind === "file" ? result.path : undefined)
-                              if (result.kind === "file") {
-                                setActiveFile(result.path)
-                                setScrollRequest({ path: result.path, line: targetLine, token: Date.now() })
-                              } else {
-                                const libraryKey = getLibraryKey(lib)
-                                const normalized = normalizePath(result.path)
-                                const parts = normalized.split("/").filter(Boolean)
-                                let key = ""
-                                for (const part of parts) {
-                                  key = key ? `${key}/${part}` : part
-                                  setExpandedFolders((prev) => ({ ...prev, [`${libraryKey}/${key}`]: true }))
-                                }
-                              }
-                              clearSearchState()
-                            }}
-                          >
-                            <span className="searchResultItem__label">
-                              {highlightMatch(stripMd(baseName(result.path)), normalizedQuery)}
-                            </span>
-                            <span className="searchResultItem__meta">
-                              {result.libraryName}
-                              {parent ? ` / ${parent}` : ""}
-                              {` - ${result.matchCount} match${result.matchCount === 1 ? "" : "es"}`}
-                            </span>
-                            {result.previews.length > 0 ? (
-                              <div className="searchResultItem__previews">
-                                {result.previews.map((preview) => (
-                                  <span key={`${result.libraryId}-${result.path}-${preview.line}`}>
-                                    <span className="searchResultItem__line">L{preview.line}:</span>{" "}
-                                    {highlightMatch(preview.preview, normalizedQuery)}
-                                  </span>
-                                ))}
-                              </div>
-                            ) : null}
-                          </button>
-                        )
-                      })}
-                    </div>
+                    <div className="searchResults__list">{searchResults.map(renderSearchResultButton)}</div>
                   )}
                   {searchScope !== "global" && normalizedQuery ? (
-                    <div className="searchResults__hint">
-                      {globalHint.loading
-                        ? "Checking other libraries..."
-                        : globalHint.count > 0
-                        ? (
-                            <button
-                              type="button"
-                              className="searchResults__hintButton"
-                              onClick={() => setSearchScope("global")}
-                            >
-                              {globalHint.count} match{globalHint.count === 1 ? "" : "es"} found in other libraries.
-                            </button>
-                          )
-                        : "No matches found in other libraries."}
+                    <div className="searchResults__secondary">
+                      <div className="searchResults__header">
+                        <div className="searchResults__title">Other libraries</div>
+                        <div className="searchResults__meta">
+                          {otherLoading
+                            ? "Searching..."
+                            : `${otherResults.length} match${otherResults.length === 1 ? "" : "es"}`}
+                        </div>
+                      </div>
+                      {otherResults.length === 0 ? (
+                        <div className="mutedNote mutedNote--tight">
+                          {otherLoading ? "Searching other libraries..." : "No matches found in other libraries."}
+                        </div>
+                      ) : (
+                        <div className="searchResults__list">{otherResults.map(renderSearchResultButton)}</div>
+                      )}
                     </div>
                   ) : null}
                 </div>
