@@ -56,6 +56,33 @@ function getCollectionsDir() {
   return fromAppPath
 }
 
+async function ensureSampleLibrary() {
+  try {
+    const libs = readLibraries()
+    if (libs.length > 0) return
+
+    const templateDir = path.join(app.getAppPath(), "content", "collections", "Baldurs Gate 3")
+    if (!fs.existsSync(templateDir)) return
+
+    const sampleDir = path.join(app.getPath("userData"), "Sample Libraries", "Baldurs Gate 3")
+    if (!fs.existsSync(sampleDir)) {
+      await fsPromises.mkdir(path.dirname(sampleDir), { recursive: true })
+      await fsPromises.cp(templateDir, sampleDir, { recursive: true })
+    }
+
+    const library: Library = {
+      id: `${Date.now()}_${Math.random().toString(16).slice(2)}`,
+      name: "BG3 Checklist (Sample)",
+      rootPath: sampleDir,
+    }
+
+    libs.push(library)
+    writeLibraries(libs)
+  } catch (err) {
+    console.error("Failed to ensure sample library:", err)
+  }
+}
+
 function safeJoinUnderCollections(collectionName: string, fileName: string) {
   const root = path.resolve(getCollectionsDir())
   const target = path.resolve(root, collectionName, fileName)
@@ -415,4 +442,7 @@ app.on('activate', () => {
   }
 })
 
-app.whenReady().then(createWindow)
+app.whenReady().then(async () => {
+  await ensureSampleLibrary()
+  createWindow()
+})

@@ -578,7 +578,7 @@ export default function App() {
   const [isSearching, setIsSearching] = useState(false)
   const [otherLoading, setOtherLoading] = useState(false)
   const [showHowTo, setShowHowTo] = useState(false)
-  const [showHowToDock, setShowHowToDock] = useState(false)
+  const [showHowToDock, setShowHowToDock] = useState(true)
   const [showThemePicker, setShowThemePicker] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [updateStatus, setUpdateStatus] = useState("")
@@ -1950,6 +1950,15 @@ export default function App() {
                     </section>
 
                     <section>
+                      <h3>Included sample</h3>
+                      <p>
+                        A <strong>BG3 Checklist (Sample)</strong> library is bundled so you can see an example. It’s
+                        copied into your app data on first launch. If you don’t want it, right-click the BG3 library in
+                        the sidebar and choose <strong>Remove Library</strong>.
+                      </p>
+                    </section>
+
+                    <section>
                       <h3>Reading and Checklists</h3>
                       <p>Click any file to view it. Task list checkboxes can be toggled and are saved back to the file.</p>
                       <p>Tables in Markdown render in the reader, and Obsidian-style ToC links should jump to headings.</p>
@@ -1958,10 +1967,10 @@ export default function App() {
                     <section>
                       <h3>Search</h3>
                       <p>
-                        Search scans file contents plus folder and library names. Use <strong>Local</strong> to search
-                        the current library, or <strong>Global</strong> to search all libraries. Results show match
-                        counts and line previews, and the hint shows matches in other libraries. Use the clear button
-                        to reset the search.
+                        Search scans file contents plus folder and library names. Use <strong>Current file</strong> to
+                        search the open file, <strong>Current library</strong> for everything in that library, or
+                        <strong>Global</strong> for all libraries. Results include match counts, line previews, and
+                        click-to-jump with a brief highlight. Use the clear button to reset the search.
                       </p>
                     </section>
 
@@ -2271,6 +2280,15 @@ export default function App() {
               </section>
 
               <section>
+                <h3>Included sample</h3>
+                <p>
+                  A <strong>BG3 Checklist (Sample)</strong> library is bundled so you can see an example. It’s copied
+                  into your app data on first launch. If you don’t want it, right-click the BG3 library in the sidebar
+                  and choose <strong>Remove Library</strong>.
+                </p>
+              </section>
+
+              <section>
                 <h3>Reading and Checklists</h3>
                 <p>
                   Click any file to view it. Task list checkboxes can be toggled and are saved back to the file.
@@ -2283,10 +2301,10 @@ export default function App() {
               <section>
                 <h3>Search</h3>
                 <p>
-                  Search scans file contents plus folder and library names. Use <strong>Local</strong> to search the
-                  current library, or <strong>Global</strong> to search all libraries. Results show match counts and
-                  line previews, and the hint shows matches in other libraries. Use the clear button to reset the
-                  search.
+                  Search scans file contents plus folder and library names. Use <strong>Current file</strong> to search
+                  the open file, <strong>Current library</strong> for everything in that library, or
+                  <strong>Global</strong> for all libraries. Results include match counts, line previews, and
+                  click-to-jump with a brief highlight. Use the clear button to reset the search.
                 </p>
               </section>
 

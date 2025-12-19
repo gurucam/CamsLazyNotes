@@ -21,6 +21,12 @@
     "dist",
     "dist-electron"
   ],
+  "extraFiles": [
+    {
+      "from": "content",
+      "to": "content"
+    }
+  ],
   "win": {
     "target": [
       {
