@@ -21,7 +21,7 @@
     "dist",
     "dist-electron"
   ],
-  "extraFiles": [
+  "extraResources": [
     {
       "from": "content",
       "to": "content"
