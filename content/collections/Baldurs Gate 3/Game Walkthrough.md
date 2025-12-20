@@ -1,16 +1,16 @@
 # BG3 Honor Mode Checklist (Act I)
 
 > **Honor Mode reminders**
-- [x] Keep **1–2 “panic” scrolls** handy (Misty Step / Invisibility / Dimension Door) for wipes.
-- [x] Long Rest only when you’re ready to advance time-sensitive events (notably **Nere**).
-- [x] Don’t accidentally consume key items as camp supplies (ex: **Owlbear Egg**).
+- [ ] Keep **1–2 “panic” scrolls** handy (Misty Step / Invisibility / Dimension Door) for wipes.
+- [ ] Long Rest only when you’re ready to advance time-sensitive events (notably **Nere**).
+- [ ] Don’t accidentally consume key items as camp supplies (ex: **Owlbear Egg**).
 
 ---
 
 ## Act I — Nautiloid
-- [x] Loot **Slave Mind** jar
-- [x] Loot **Dark Mind** jar (Act II flavor)
-- [x] Kill **Commander Zhalk**
+- [ ] Loot **Slave Mind** jar
+- [ ] Loot **Dark Mind** jar (Act II flavor)
+- [ ] Kill **Commander Zhalk**
 
 ---
 
@@ -18,10 +18,9 @@
 - [ ] Explore southern crash area
 - [ ] Recruit / collect companions:
   - [ ] **Shadowheart**
-  - [ ] **Wyll**
   - [ ] **Astarion**
   - [ ] **Gale**
-  - [ ] **Free Lae’zel**
+  - [ ] **Lae’zel**
 - [ ] Explore ruins to the east:
   - [ ] Clear **Dank Crypt / Refectory**
   - [ ] Find **button** inside the crypt that opens the wall
@@ -32,11 +31,12 @@
 ## Act I — Druid Grove (Emerald Grove)
 - [ ] Arrive and explore **Druid Grove**
 - [ ] Save **Nadira** from the bugbear (on the hill)
+- [ ] Recruit **Wyll** from the training grounds
 - [ ] Save **Arabella** from **Kagha** (inside Emerald Grove)
 - [ ] Save tiefling child from **harpies** (eastern shore)
 - [ ] Talk to tiefling children
 - [ ] Talk to **Alfira**:
-  - [ ] Do duet for **free Musical Instrument proficiency**
+  - [ ] Do duet (take the lute in dialog options) for **free Musical Instrument proficiency**
 - [ ] Talk to **Volo**
 - [ ] Prison:
   - [ ] Talk to **Sazza** (caged goblin)
