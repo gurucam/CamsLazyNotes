@@ -1,0 +1,277 @@
+# DLC Walkthrough
+
+## Starting Out
+
+- [ ] From the Cocoon of the Empyrean Grace: Talk to Needle Knight Leda nearby
+- [ ] Touch the Hand of Miquella to enter the Shadow of the Erdtree
+- [ ] Head North-East to grab the Gravesite Plain Grace
+- [ ] Continue North-East to grab the Map: Gravesite Plain (Everything accessible before crossing the bridge North-East is safe to explore whenever you prefer with one exception. WARNING: DO NOT kill any "Pests" you find. They are the white insect-people in Scarlet Rot areas with spears that shot out webs in the base in the base game. DO NOT kill them or you will miss out on quest rewards and can potentially mess up several questlines.)
+- [ ] Head North through the town to grab the Scorched Ruins Grace
+- [ ] Follow the road North-West to grab the Three-Path Cross Grace and interact with Miquella's Cross nearby.
+- [ ] Talk to Redmane Freyja and Hornsent nearby to receive the Cross Map
+- [ ] Follow the road West to grab the Main Gate Cross Grace and interact with Miquella's Cross nearby
+- [ ] Talk to Moore and Sir Ansbach nearby.
+## Belurat, Tower Settlement
+
+- [ ] Head North-West and follow the path through the area to grab the Belurat, Tower Settlement Grace (All of the settlement is safe to explore as desired)
+- [ ] Proceed through the area as desired to grab the Small Private Altar Grace
+- [ ] Follow the road North then North-East to a courtyard with a large tree
+- [ ] Kill the Invader - Fire Knight Queelign for the Crusade Insignia
+- [ ] Go back and follow the path West this time to climb the ladder to grab the Storage Key
+- [ ] Leave the room and go left then left onto the roof tiles to jump onto the bridge to the left.
+- [ ] Jump onto the bridge and grab the Well Depths Key from the room to the East.
+- [ ] Head back West, jump down and climb the ladder again, this time go right up the stairs then left then left again down the stairs to find a lift.
+- [ ] Take the lift to open the shortcut door near the Belurat, Tower Settlement Grace
+- [ ] Go back up the lift and go West until you see a room with a giant scorpion then turn right and jump over the rubble to enter a room full of fly-guys.
+- [ ] Go through the room full of fly-guys to interact with Miquella's Cross
+- [ ] Hop down the ledge to the East to climb the ladder.
+- [ ] Head West and up the stairs to grab the Stagefront Grace
+- [ ] From the Small Private Altar Grace: Go into the room to the West then head South to open the door with the Storage Key.
+- [ ] Go inside to talk to the Hornsent Grandam.
+- [ ] From the Stagefront Grace: Summon Redmane Freya and kill the Boss - Divine Beast Dancing Lion for the Remembrance of the Dancing Lion, Divine Beast Head and Theatre of the Divine Beast Grace.
+- [ ] Go through the doors, up the lift and up the stairs to grab the Tower of Shadow Message.
+- [ ] From the Small Private Altar Grace: Talk to Hornsent Grandam then put on the Divine Beast Head and talk with her again for the Watchful Spirit Incantation.
+- [ ] Reload and talk to her again for a Scorpion Stew(you can come back for more when you use it or store it.)
+## Gravesite Plains and Southern Shore
+
+- [ ] From the Main Gate Cross Grace: Talk to Sir Ansbach to tell him of the Cross in the tower.
+- [ ] Head South up the rocky path to grab the Cliffroad Terminus Grace.
+- [ ] **WARNING:** DO NOT KILL ANY Foragers like the one in the next step. It will look like a Pest from the base game but it is friendly.
+- [ ] Go South-East and up a small hill to talk with the Forager(which looks like a Pest enemy from the base game) to receive the Forager Brood Cookbook
+- [ ] From the Three-Path Cross Grace: Talk with Redmane Freyja then talk with Hornsent to give him the Scorpion Stew and receive x3 Furnace Visage in exchange.
+- [ ] Head North-East across the bridge to grab the Castle Front Grace
+- [ ] Take the road South-East then follow the cliff South-East to grab the Pillar Path Cross Grace.
+- [ ] Talk with Thiollier
+- [ ] From the Castle Front Grace: Head down the slope to the South-East and into the swamp
+- [ ] Continue North-East then North into the pond
+- [ ] Go South-West to grab the Ellac River Cave Grace (The entire river is safe to explore as desired just don't kill the Forager)
+- [ ] Follow the river South, jumping across the rocks and down the slopes until you reach the very bottom after crossing a giant rock bridge.
+- [ ] Follow the East to the corner and talk with the Forager for the Forager Brood Cookbook. The Forager is buggy and may be upside down so you may need to search a little.
+- [ ] Head far South-West, across the river and into the ravine to grab the Cerulean Coast Grace.(The entire Cerulean Coast is safe to explore as desired.)
+- [ ] Go far South to grab the Map: Southern Shore
+- [ ] Head South-East to grab the Cerulean Coast Cross Grace and interact with Miquella's Cross.
+- [ ] Jump down the cliffs to the North-East and follow the coast going North-East to the end on the far East coast.
+- [ ] Go North-East up the ruin to grab the Finger Ruins of Rhia Grace for later.
+- [ ] From the Cerulean Coast Cross Grace: Head West then far South and down into the giant fissure to grab The Fissue Grace for later.
+- [ ] From the Castle Front Grace: Head North-East across the bridge and follow the path to it's end to grab the Castle Ensis Checkpoint Grace and the nearby Castle Cross Message as well as interact with Miquella's Cross.
+- [ ] Follow the path over the edge of the cliff to come back around and open the gate to create a shortcut to the Grace.
+- [ ] Continue through the area until you reach the Castle-Lord's Chamber Grace
+- [ ] Summon Needle Knight Leda and defeat the Boss - Rellana, Twin Moon Knight for the Remembrance of the Twin Moon Knight and the Ensis Moongazing Grounds Grace.
+## Scadu Altus
+
+- [ ] Head North and grab the Highroad Cross Grace.
+- [ ] Grab the Monk's Missive and May the Best Win Emote nearby
+- [ ] Talk with Needle Knight Leda and Hornsent for a New Cross Map.
+- [ ] Optional: Get another Scorpion Stew from the Hornsent Grandam and try to give it to Hornsent
+- [ ] Follow the road North to grab the Map: Scadu Altus (WARNING: Do not go entirely through the town North of this map or you will risk progressing several questlines. Scadu Altus is not yet safe to explore as desired)
+- [ ] Head West into the Church of the Crusade and defeat the Invader - Fire Knight Queelign to get the Ash of War: Flame Skewer and Prayer Room Key.
+- [ ] Go North and use healing magic or a Warming Stone on the Forager to heal it.
+- [ ] Talk to the Forager to receive Forager Brood Cookbook. You may need to reload to get the talk option.
+- [ ] From the Highroad Cross Grace: Follow the road North then South -East to grab the Moorth Ruins Grace
+- [ ] Use the May the Best Win Emote on Dryleaf Dane nearby to receive Dryleaf Arts and Dane's Hat
+- [ ] Head far South-West to the cliff then North-West to talk with the Forager for the Forager Brood Cookbook.
+- [ ] Head far East to the cliff then South the find a Sealed Spiritjump.
+- [ ] Continue South-East to break the Pile of Stones and unlock the Spiritjump.
+- [ ] Spirtjump up and head to the far South-East corner to grab the Scaduview Cross Grace and interact with Miquella's Cross
+- [ ] From the Main Gate Cross Grace: Talk to Sir Ansbach to tell him of the crosses you found.
+- [ ] Talk with Moore to receive Black Syrup
+- [ ] Talk with Moore again to receive the Forager Brood Cookbook and exhaust his dialogue
+- [ ] From the Pillar Path Cross Grace: Talk with Thiollier to give him the Black Syrup.
+- [ ] Ask him about the Black Syrup and then tell him you tire of life to receive Thiollier's Concoction. If you lose this, you can buy more.
+- [ ] From the Moorth Ruins Grace: Head North-East to the lake then continue North through the tunnel into the poison swamp
+- [ ] Cross the swamp to the North-East corner to talk with the Forager for the Forager Brood Cookbook
+- [ ] From the Moorth Ruins Grace: Head South-East into town and follow the dirt road North to go down into the path below.
+- [ ] Follow the path to it's end to grab the Bonny Village Grace
+- [ ] Head North-East over the river basin to the other side and continue North-East to grab the O Mother Gesture from the statue beneath the tree.
+- [ ] **WARNING**: Make sure to complete any of the above questline steps/talk to any NPCs now because the next step will irreversibly progress the story and cause some of the above steps to be unable to be completed.
+- [ ] Head South-East and cross the bridges to the East to grab the Bridge Leading to the Village.(You should now receive a message and all of Scadu Altus is now safe to explore as desired.)
+- [ ] Follow the road North to grab the Church District Highroad Grace.
+- [ ] Head West to the cliff and go up the rocks to the North-West to talk with the Forager for Forager Brood Cookbook
+- [ ] Head East back to the road then West into the the tunnel to grab the Church District Entrance Grace for later.
+## Progressing Questlines
+
+- [ ] From the Pillar Path Cross Grace: Talk with Thiollier
+- [ ] From the Three-Path Cross Grace: Talk with Redmane Freyja 3 times
+- [ ] From the Main Gate Cross Grace: Talk with Sir Ansbach
+- [ ] Talk with Moore and choose 1 of 3 options. The only difference is whether you get the rewards now or later and whether a later battle is harder or easier. | recommend Option 1 for your first playthrough.
+- [ ] Option 1: Tell him to 'Put it behind him’ and you will need to wait until near the end of the game to get his armor, shield and bell bearing. A battle will be more difficult.
+- [ ] Option 2: Tell him to 'Be sad forever' then go to the Forager near the Church of the Crusade to get his armor, shield and bell bearing. A battle will be easier.
+- [ ] Option 3: Tell him 'l don't know' to put the decision off indefinitely. He will not progress the questline until you progress it and at some point will have to be killed directly to get his rewards. A battle will be easier.
+- [ ] Starting "The Count's" Questline
+- [ ] From the Church District Highroad Grace: Head South into the cathedral and grab the Cathedral of Manus Metyr Grace.
+- [ ] Go through the gate and talk with Count Ymir, High Priest to receive Hole-Laden Necklace and Ruins Map.
+- [ ] Just North-West, talk to Swordhand of Night Jolan who is leaning ona pillar and may be hard to see.
+- [ ] From the Finger Ruins of Rhia Grace: Go North to where the finger statues create a circle.
+- [ ] Sound the hanging bell to receive the Crimson Seed Talisman +1
+- [ ] From the Cathedral of Manus Metyr Grace: Talk with Count Ymir to receive Ruins Map (2“(nd)) and Beloved Stardust.
+- [ ] Talk with Jolan at her pillar.
+- [ ] Starting "The Saint's" Questline
+- [ ] From the The Fissure Grace: Head East down the slope to grab the Stone Coffin Fissure Grace.
+- [ ] Follow the path South-East to grab the Fissure Cross Grace and interact with Miquella's Cross.
+- [ ] Follow the path North as desired to grab the Fissure Waypoint Grace
+- [ ] Continue following the path as desired to grab the Fissure Depths Grace
+- [ ] Jump down and kill the Boss - Putrescent Knight to receive Remembrance of Putrescence and grab the Garden of Deep Purple Grace
+- [ ] Head into the cave to interact with St. Trina and Imbibe nectar.
+- [ ] From the Pillar Path Cross Grace: Talk to Thiollier to tell him of St. Trina's whereabouts.
+- [ ] From the Garden of Deep Purple Grace: Head into the cave and talk with Thiollier until you've exhausted his dialogue.
+- [ ] Talk with St. Trina and Imbibe nectar repeatedly until you trigger a cutscene, which should take 4 total imbibes.
+- [ ] Talk with Thiollier and pass on the word twice.
+- [ ] Imbibe nectar again and defeat the Invader - Thiollier to receive St. Trina's Smile
+- [ ] Talk with Thiollier and Imbibe nectar again
+- [ ] Talk with Thiollier and pass on the words
+- [ ] Reload and talk with Thiollier again
+## Shadow Keep
+
+- [ ] From the Highroad Cross Grace: Talk with Hornsent
+- [ ] Talk with Needle Knight Leda and choose 1 of 3 options. The choice doesn't actually matter and you can choose more than one.
+- [ ] Reload and talk with Leda again
+- [ ] Follow the road North-East through the camp, into the Shadow Keep and up the lift to grab the Shadow Keep Main Gate Grace
+- [ ] Summon Hornsent and Redmane Freyja then kill the Boss -Golden Hippopotomaus to receive Aspects of the Crucible: Thorns, x2 Scadutree Fragments and the Main Gate Plaza Grace.
+- [ ] Follow the path as desired until you reach a 4-way intersections with a line of giant braziers but DO NOT use the summon signs at the crossroads yet.
+- [ ] Take the path going South, down the ramp, to open the shortcut door to the Main Gate Plaza Grace (You can technically use the summon signs now if you want to but, for the purposes of the guide, I'm going to hold off on them until their cutoff to make the choices and consequences easier to understand.) (Everywhere in every area that you can reach without taking the lift and without passing the Church District Entrance Grace on the East side of the keep is now safe to explore as desired.)
+- [ ] Go back up to the top of the hill and use the lift to grab the Storehouse, First Floor Grace
+- [ ] From Storehouse, First Floor Grace: Take left-left path and go down elevator.
+- [ ] Continue on this path to the bottom to grab the Iris of Grace in front of the altar in the room full of pots.
+- [ ] Afterward, continue going on this path until you grab the West Rampart Grace for later.
+- [ ] From the Storehouse, First Floor Grace: Take the left-right path between the bookshelves until you go up the stairs.
+- [ ] Go down the stairs into the room on the North side to talk with Sir Ansbach and remember where you found him because we will be returning multiple times.
+- [ ] Leave the room and continue on the path upwards until you grab the Storehouse, Fourth Floor Grace.
+- [ ] Grab the Storehouse Cross Message and interact with Miquella's Cross nearby
+- [ ] Proceed on the path West as desired until you see a staircase going down on the left side.
+- [ ] Go down the staircase and grab the Secret Rite Scroll from the room
+- [ ] Leave the room and keep following the path as desired until you hear talking.
+- [ ] Once you hear talking, go up the stairs to grab the Storehouse, Seventh Floor Grace
+- [ ] Talk with Redmane Freyja nearby
+- [ ] From the Storehouse, First Floor Grace: Return to Ansbach and give him the Secret Rite Scroll first and then talk to him about Freyja to receive Letter for Freyja (If you accidentally talk to him about Freyja first, just reload after giving him the scroll to receive the letter.)
+- [ ] From the Storehouse, Seventh Floor Grace: Talk with Freyja to give her the letter to receive the Golden Lion Shield.
+- [ ] Go down the stairs to the East and into the next room to pull the lever.
+- [ ] Continue through as desired until you grab the Dark Chamber Entrance Grace.
+- [ ] **WARNING:** This is the cutoff point for Aiding or Invading the Hornsent. Read the following section very carefully to fully understand your choices.
+- [ ] Complicated Quest Choices Now you have a few choices to make that will affect several questlines and several quest rewards as well. This is complicated so to make it simple, the best options are to either Help Hornsent or Help Leda both times. This will give you all the rewards within 2 playthroughs and provide the best flow for the story. So, my recommendation is to either go Option 1 or go Option 2 with all following choices as that will maximize your rewards and lead to the best flow for the questlines but | will explain the combination of choices. Option 1: Help Hornsent against Leda. Choosing this will do the following: e Give you Leda's Rune (obtainable elsewhere) and Ash of War: Swift Slash (Not obtainable otherwise)
+- [ ] e Lock you out of Aiding or Invading Ansbach and getting those rewards later. e Allow you to summon Hornsent against Messmer e Possibly make a later battle easier or harder
+- [ ] Option 2: Help Leda against Hornsent. Choosing this will do the following: e Give you Hornsent's Armor Set and Falx(both obtainable later anyway) and Lacerating Crossed-Tree (Not obtainable otherwise) e Allow you to also Aid or Invade Ansbach and get those rewards later. e Prevent you from summoning Hornsent against Messmer e Prevent him from showing up later and make a later battle easier.
+- [ ] Option 3: Ignore the fight and continuing forward. Choosing this will do the following: e Allow you to Aid or Invade Ansbach and get those rewards later. e Allow you to summon Hornsent against Messmer e Possibly make a later battle easier or harder e If you choose this, skip to the fight with Messmer then follow "If Option 2" after you kill him.
+- [ ] If you choose Option 1 or 2:
+- [ ] From the Storehouse, First Floor Grace: Go back down the elevator and to the crossroads. There will be 2 summons signs to choose from on the South-East corner by the brazier.
+- [ ] If Option 1: Skip to the fight with Messmer. If Option 2:
+- [ ] From the Highroad Cross Grace: Talk with Leda to receive Lacerating Crossed-Tree.
+- [ ] Reload and talk with her again.
+- [ ] From the Storehouse, First Floor Grace: Return to where you talked with Ansbach and you now have a choice that will affect future battles.
+- [ ] Ansbach/Leda - Available if you chose Option 2 or 3 on the Hornsent/Leda choice. Choose to Aid Ansbach or Invade him with Leda. If you have this choice from already helping against Hornsent, | recommend Option 2.
+- [ ] Option 1: Help Ansbach against Leda. Choosing this will do the following: e Give you Leda's Rune (not obtainable after this) and Ansbach's Longow(obtainable with Option 2 as well) e Allow you to summon him for 2 later battles and finish his questline to acquire his armor set(obtainable with Option 2 as well), the Obsidian Lamina and Furious Blade of Ansbach later(neither are available otherwise).
+- [ ] Option 2: Help Leda against Ansbach. Choosing this will do the following:
+- [ ] e Give you Ansbach's Longbow and armor set (both obtainable with Option 1) as well as the Retaliatory Crossed-Tree (not obtainable otherwise) e Prevent you from summoning Ansbach in 2 fights later e Prevent you from completing his questline and obtaining those rewards.
+- [ ] Option 3: Ignore the fight. You don't get any rewards and may not be able to summon him later. Don't choose this.
+- [ ] If you choose Option 1: Talk with Ansbach after the fight then continue to the fight with Messmer.
+- [ ] If you choose Option 2: From the Highroad Cross Grace: Talk with Leda to receive Retaliatory Crossed-Tree then continue to the fight with Messmer.
+- [ ] Finishing the Shadow Keep Now it's time for the boss fight against Messmer but you have a choice as you potentially have 2 Summon Signs but can only summon one of them for aid. My recommendation is Option 1. Option 1: Summon Hornsent on the right. Unavailable if you Invaded Hornsent with Leda. Choosing this will cause a later battle to be easier. Option 2: Summon Jolan on the left. Choosing this will cause a later battle to be harder. Option 3: Don't Summon. Choosing this will cause a later battle to be harder.
+- [ ] Kill the Boss Messmer the Impaler to receive Remembrance of the Impaler, Messmer's Kindling and grab the Messmer's Dark Chamber Grace. (Everywhere that isn't across the bridge going West from the Shadow Keep is now safe to explore as desired.)
+- [ ] If you chose Option 1: Rest at the grace and talk with the Hornsent if you summoned him. If you miss him here, he will be at Highroad Cross Grace.
+- [ ] From the Highroad Cross Grace: Grab the Message from Leda.
+- [ ] If you chose Option 3: From the Highroad Cross Grace: Talk with Hornsent and Needle Knight Leda. Reload and talk with Leda again
+- [ ] From the Small Private Altar Grace: Go talk with the Hornsent Grandam to receive Gourmet Scorpion Stew.
+- [ ] Reload and grab a second Gourmet Scorpion Stew.
+- [ ] From the Church District Entrance Grace: Proceed through the area as desired until you drop down through the church roof.
+- [ ] Once you are in the church, go East to open the door with the Prayer Room Key
+- [ ] Here you have a choice. | recommend Option 1: Option 1: Give Fire Knight Queelign the Iris of Grace to receive his Spirit Ash. Option 2: Come back later and give Fire Knight Queelign the Iris of Occultation to receive Queelign's Greatsword. You will find an Iris of Occultation from killing an Ulcerated Tree Spirit after draining the water from the area, but you will have to find your way back here afterward.
+- [ ] Whatever your choice, proceed through the area as desired until you use the lever to lower the water levels.
+- [ ] Head back to the church and jump down to the bottom
+- [ ] Follow the path West and then North through the doorway.
+- [ ] Take the elevator down to grab the Tree-Worship Passage Grace
+- [ ] Continue on this path to grab the Iris of Grace below the statue.
+- [ ] Keep following this path to grab the Tree-Worship Sanctum Grace
+- [ ] Kill the Boss - Shadow Sunflower for Remembrance of the Shadow Sunflower, Miquella's Great Rune and Scadutree Base Grace
+- [ ] Finishing "The Counts" Questline
+- [ ] From the Tree-Worship Passage Grace: Go back South then, while still inside the church, go around the corner to East to use the lift to get back up.
+- [ ] Follow this path West to grab the Storehouse, Back Section Grace.
+- [ ] Proceed as desired to grab the Storehouse, Loft Grace
+- [ ] Continue up the lift to proceed as desired until you grab the Shadow Keep, Back Gate Grace (We will not explore the area through the door to the North in the guide but it's safe.)
+- [ ] Go into the room to the East and use the O' Mother Emote in front of the statue to open a path and grab the Hinterland Grace
+- [ ] Follow the road South-East then North-East across the bridge to grab the Hinterland Bridge Grace (You can summon Jolan on the way to help with the Tree Sentinels.)
+- [ ] Continue East to grab the Fingerstone Hill Grace
+- [ ] Head Far South-East into the Finger Ruins of Dheo and go to it's center to sound the hanging bell and receive the Cerulean Seed Talisman +1
+- [ ] From the Cathedral of Manus Metyr: Talk with Jolan at her pillar
+- [ ] Talk with Ymir to receive Ruins Map (3rd) and exhaust his dialogue
+- [ ] Reload and examine the throne to open a path
+- [ ] Climb down the ladder and defeat the Invader - Swordhand of Night Anna to receive the Claws of Night
+- [ ] Sound the hanging bell and kill the Boss - Metyr, Mother of Fingers to receive the Remembrance of the Mother of Fingers and grab the Finger Birthing Grounds Grace
+- [ ] From the Cathedral of Manus Metyr Grace: Examine the throne to receive >!Ymir's Bell Bearing, Ymir's armor set and the Maternal Staff!<
+- [ ] Reload and here you have a choice. | recommend Option 1 and will proceed through the guide as if you chose this option: Option 1: Give Jolan the Iris of Grace to receive her Spirit Ash. Option 2: Give Jolan the Iris of Occultation if you have one to receive the Sword of Night
+- [ ] Go through the door to the West to grab the Cherishing Fingers Sorcery from the grave and read the gravestone.
+- [ ] From the Hinterland Grace: Head South-East then go South-East up the slope and all the way to the corner.
+- [ ] Jump down the rocks South-East and fall down into onto the balcony of Rabbath's Rise
+- [ ] Interact with the Puppet of Anna to change the Jolan Spirit Ashes into the Jolan and Anna Spirit Ashes
+- [ ] Finishing "The Lord's" "Quest"
+- [ ] This isn't technically a questline but there is a cutscene and you will miss several whole areas if you skip this section, but you can absolutely skip it
+- [ ] From the Main Gate Plaza Grace: Go through the door to the East and up to the crossroad.
+- [ ] Take the South-East path and climb down the ladder, go behind the waterfall and down the next ladder.
+- [ ] In the room with the Painting, find the Illusory Wall and take the coffin to grab the Castle Watering Hole Grace.
+- [ ] Head South-East and grab the Recluses' River Upstream Grace
+- [ ] Follow the path to grab the Recluses' River Downstream Grace
+- [ ] Jump down the tombstones jutting out of the cliff all the way to the very bottom
+- [ ] Head South by South-East and jump down the tombstones to the bottom
+- [ ] Open the door to the catacomb and take the lift down to grab the Darklight Catacombs Grace
+- [ ] Proceed through the area as desired to it's end to kill the Boss - Jori, Elder Inquisitor to receive the Barbed Staff-Spear and grab the Forsaken Graveyard Grace.
+- [ ] Head South to grab the Woodland Trail Grace
+- [ ] Head South and kill the Madding Hand to receive the Madding Hand
+- [ ] Head South-East to grab the Map: Abyss and the Church Ruins Grace nearby
+- [ ] Head far West and read the messages for hints on how to proceed past the enemies
+- [ ] Use the bushes to hide and be careful of the flowers as they will alert the enemy You can't hurt these enemies unless you parry them once. After being parried, they become able to be damaged The first one you'll see is the only one actually worth killing as it drops the Aged One's Exultation
+- [ ] Head far far West, keeping the wall nearby until you reach the corner.
+- [ ] Head far South and open the door to grab the Manse Hall Grace
+- [ ] Talk to the ghost nearby then hit the painting on the East side to reveal an Illusory Wall.
+- [ ] Proceed through the madhouse as desired to grab the Midra's Library Grace
+- [ ] Continue as desired to open the shortcut door to the Manse Hall Grace
+- [ ] Hit the large painting in the room through the shortcut door to reveal an Illusory Wall
+- [ ] Proceed as desired to grab the Second Floor Chamber Grace
+- [ ] Kill the Boss - Midra, Lord of Frenzied Flame to receive the Remembrance of the Lord of Frenzied Flame and grab the Discussion Chamber Grace.
+- [ ] Finishing lgon's Questline
+- [ ] From the Castle Front Grace: Follow the road South-East to grab the Pillar Path Waypoint Grace
+- [ ] Talk with the screaming homeless man nearby
+- [ ] Follow the road South-West and kill the Invader - Ancient Dragon-Man
+- [ ] Continue following this path to grab the Dragon's Pit Grace
+- [ ] Proceed through the area as desired to kill the Boss -Ancient Dragon-Man and receive the Dragon-Hunter's Great Katana and grab the Dragon's Pit Terminus Grace
+- [ ] Continue East and up to the top of the hill to interact with the message.
+- [ ] Kill the Jagged Peak Drake below
+- [ ] Head South to grab the Grand Altar of Dragon Communion Grace (We will not be exploring the area West, across the dragon's wing, in the guide but it is safe to do so.)
+- [ ] Go back North and follow the Northern path to grab the Foot of the Jagged Peak Grace
+- [ ] Kill the stronger of the 2 Jagged Peak Drakes(or both if desired)
+- [ ] Reload and talk with Igon near the battlefield to receive Igon's Furled Finger
+- [ ] Continue on the path East until you grab the Jagged Peak Mountainside Grace
+- [ ] Continue proceeding as desired until you grab the Jagged Peak Summit Grace
+- [ ] DO NOT enter the boss room yet.
+- [ ] From the Grand Altar of Dragon Communion Grace: Talk with the Dragon Communion Priestess nearby and accept her request to receive Ancient Dragon's Blessing
+- [ ] Talk with her again to exhaust her dialogue
+- [ ] Here you have a choice. | recommend Option 1 and will proceed as if you had chosen this option: Option 1: Give the Priestess Thiollier's Concoction at night. This will do the following: You cannot get anymore Ancient Dragon's Blessings. Killing Bayle will cause her to give you the Dragonbolt of Florissax Incantation and her Spirit Ashes but you will not get the Option 2 rewards from her. Option 2: Do not give the Priestess the concoction and just kill Bayle. This will do the following: Returning to her after killing Bayle will give you the Flowerstone Gavel and Priestess Heart(there is an alternative to this heart) but you will not get the Option 1 rewards.
+- [ ] If you choose Option 2: Rest at the grace and pass time until nightfall. If she is missing, pass time until nightfall again. Give her Thiollier's Concoction. Rest at the grace and pass time until morning twice then talk with her.
+- [ ] From the Jagged Peak Summit Grace: Enter the boss arena and summon lgon just to the left of the entrance inside the arena then kill the Boss - Bayle to receive the Heart of Bayle
+- [ ] From the Foot of the Jagged Peak Grace: Return to where you found Igon and receive Igon's Greatbow, his armor set and his bell bearing.
+- [ ] From the Grand Altar of Dragon Communion Grace: Talk with the Dragon Communion Priestess to receive your rewards based on your earlier choice. If you gave her Thiollier's Concoction, you must confess what you did to receive all of your rewards.
+- [ ] Continuing the Main Story
+- [ ] From the West Rampart Grace: Open the door fit for an Elden Lord and head West across the bridge.
+- [ ] Go up the stairs and up the lift to grab the Viaduct Minor Tower Grace.
+- [ ] Head West to find a tunnel system
+- [ ] Proceed through as desired until you manage to come out of the other side and grab the Rauh Ancient Ruins , East Grace
+- [ ] Interact with the nearby Miquella's Cross and grab the Ancient Ruins Cross Message
+- [ ] Head West across the bridge and then South to grab the Rauh Ancient Ruins, West Grace
+- [ ] Follow the path West until you reach a church filled with rot then, while outside the church, go North-East up the slope to break the pile of stones and open the shortcut, just in case
+- [ ] Enter the church and defeat the Invader - Hornsent to receive his armor set and Falx (He will not appear unless you summoned him for the fight against Messmer.)
+- [ ] Grab the Church of the Bud, Main Entrance Grace
+- [ ] Summon Dryleaf Dane and kill the Boss - Romina, Saint of the Bud to receive Remembrance of the Saint of the Bud and grab the Church of the Bud Grace
+- [ ] WARNING: The next step will lock out some questlines. If you've been following the guide all the way through, you will be good but if not then you may need to go back. The NPCs that are or may be affected are Leda, Hornsent, Redmane Freyja, Moore, Sir Ansbach, Thiollier, Dryleaf Dane and St. Trina. Doing all steps before Completing "The Count's" Questline should prevent any questlines from being negatively impacted.
+## The Final Stretch
+
+- [ ] From the Church of the Bud Grace: Head South up the stairs and examine the sealing tree to burn it
+- [ ] Grab the Enir-llim: Outer Wall Grace
+- [ ] Follow the path forward to grab the First Rise Grace.
+- [ ] Proceed as desired until you grab the Spiral Rise Grace and interact with the final Miquella's Cross nearby
+- [ ] Keep proceeding as desired until you grab the Cleansing Chamber Anteroom Grace
+- [ ] Proceed forward and summon your allies(certain decisions affect how many you have) and then use the Invasion Sign to do battle.
+- [ ] After the battle receive your rewards. (Only Leda's Sword, Leda's Armor and Dane's Footwork are guaranteed. Everything else is dependent on prior decisions.)
+- [ ] Proceed forward up the lift
+- [ ] Talk with Sir Ansbach if he is there. He will only appear if you made certain choices and gave him the Secret Rite Scroll.
+- [ ] Continue up the stairs to grab the Divine Gate Front Staircase Grace
+- [ ] Summon your allies and fight the Final Boss
+- [ ] After defeating the final boss, grab the Gate of Divinity Grace and rest at it.
+- [ ] Explore the battlefield to grab the Let Us Go Together Emote, >!Thiollier's Hidden Needle and Thiollier's Armor Set, Obsidian Lamina, Furious Blade of Ansbach and Ansbach's Armor Set!<
+- [ ] From the Garden of Deep Purple Grace: Go to St. Trina and receive St. Trina's Blossom.
