@@ -1,4 +1,4 @@
-# Elden Ring - Boss Checklist (Blank) - Boss List
+# Bosses
 
 ## LIMGRAVE
 
@@ -235,3 +235,95 @@
 | Checkbox | Boss name | Boss Location |
 |---|---|---|
 | <input type="checkbox"> | Radagon of the Golden Order / Elden Beast | Elden Throne |
+
+# Invaders
+
+## LIMGRAVE
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Anastasia, Tarnished-Eater | Smoldering Church |
+| <input type="checkbox"> | Bloody Finger Nerijus | Murkwater |
+| <input type="checkbox"> | Recusant Henricus | Colosseum, North Limgrave |
+| <input type="checkbox"> | Bloody Finger Hunter Yura | Seaside Ruins |
+
+## LIURNIA OF THE LAKES
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Bell Bearing Hunter | Church of Vows |
+| <input type="checkbox"> | Bloody Finger Ravenmount Assassin | Revenger's Shack |
+| <input type="checkbox"> | Edgar the Revenger | Revenger's Shack |
+| <input type="checkbox"> | Festering Fingerprint Vyke | Church of Inhibition |
+| <input type="checkbox"> | Moongrum, Carian Knight | Raya Lucaria Academy |
+| <input type="checkbox"> | Miriam | Carian Study Hall |
+
+## CAELID
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Great-Jar Warrior | Great-Jar Colliseum |
+| <input type="checkbox"> | Great-Jar Warrior | Great-Jar Colliseum |
+| <input type="checkbox"> | Great-Jar Warrior | Great-Jar Colliseum |
+| <input type="checkbox"> | Millicent | Caelid |
+
+## ALTUS PLATEAU
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Anastasia, Tarnished-Eater | Corpse-Stench Shack |
+| <input type="checkbox"> | Bloody Finger Okina | Church of Repose |
+| <input type="checkbox"> | Elemer of the Briar | The Shaded Castle |
+| <input type="checkbox"> | Inquisitor Ghiza | Volcano Manor |
+| <input type="checkbox"> | Rileigh the Idle | Altus Plateau |
+
+## MT. GELMIR
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Knight Bernahl | Volcano Manor |
+| <input type="checkbox"> | Recusant Fingerprint Vyke | Volcano Manor |
+
+## LEYNDELL, ROYAL CAPITAL
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Recusant Vagram | Leyndell |
+| <input type="checkbox"> | Vargram the Raging Wolf | Leyndell |
+
+## MOUNTAINTOPS OF THE GIANTS
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Bloody Finger Okina | Church of Repose |
+| <input type="checkbox"> | Recusant Vyke | Mountaintops |
+
+## CONSECRATED SNOWFIELD
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Anastasia, Tarnished-Eater | Consecrated Snowfield |
+
+## CRUMBLING FARUM AZULA
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Recusant Bernahl | Crumbling Farum Azula |
+
+## ROUNDTABLE HOLD
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Ensha, of the Royal Remains | Roundtable |
+
+## NOKSTELLA, ETERNAL CITY
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | Mimic Tear | Nokstella |
+
+## MOHGWYN PALACE
+
+| Checkbox | Boss name | Boss Location |
+|---|---|---|
+| <input type="checkbox"> | White Mask Varre | Mohgwyn Palace |
