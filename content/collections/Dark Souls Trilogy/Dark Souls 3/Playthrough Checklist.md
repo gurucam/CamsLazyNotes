@@ -1,0 +1,2236 @@
+## Guide Credit:
+https://zkjellberg.github.io/dark-souls-3-cheat-sheet/
+
+
+## Cemetery of Ash
+
+- [ ] From the start head right at the first turn and pick up the Soul of a Deserted Corpse
+- [ ] Loot the corpse on the fountain to obtain the Ashen Estus Flask
+- [ ] Turn right after the fountain and head down the path through a flooded passage. Kill the Ravenous
+- [ ] Crystal Lizard to get a Titanite Scale and then pick up the Soul of an Unknown Traveler from the corpse in the area
+- [ ] Head back to the fountain and take the path straight ahead. Climb the cliff and rest at the Cemetery of Ash bonfire to receive the Rest gesture
+- [ ] From the bonfire head down the left path and jump from the cliff over to the corpse on the tomb to pick up a Titanite Shard
+- [ ] Take the side ridge down from the large cliff face on the right to pick up Firebomb x5 from a nearby corpse
+- [ ] Back on the main path head through the archway and take the sword embedded in the statue. Kill Iudex
+- [ ] Gundyr to receive the Coiled Sword
+- [ ] Congratulate yourself on beating the first boss of Dark Souls 3 and rest at the Iudex Gundyr bonfire
+- [ ] Continue through the large door and pick up the Broken Straight Sword from the corpse leaning on the tombstone
+- [ ] Head over to the large cliff edge and pick up the Homeward Bone at the edge of the ridge
+- [ ] Take the left path up the cliff and turn left just before Firelink Shrine and grab the East-West Shield from the corpse on the tree
+- [ ] Kill Sword Master Saber to get Uchigatana + Master's Set and to unlock his summon sign
+- [ ] Head back and up the path to the left to pick up an Ember from a corpse above the entrance above
+
+## Firelink Shrine
+
+- [ ] Continue across to the other side picking up a Homeward Bone from a corpse behind a tomb and another Ember from the lower ridge
+- [ ] Go back to the main path and enter Firelink Shrine
+
+## Firelink Shrine
+
+- [ ] Talk to Fire Keeper
+- [ ] Talk to Shrine Handmaid
+- [ ] Talk to Hawkwood to receive the Collapse gesture
+- [ ] Talk to Blacksmith Andre to receive the Hurrah! gesture
+- [ ] Go out the top of Firelink Shrine and pick up the Soul of a Deserted Corpse from the corpse next to the small decrepit tower
+- [ ] When you have the Tower Key, unlock the small decrepit tower and head up to the bridge leading to the Bell Tower
+- [ ] Roll off the bridge onto the Firelink Shrine roof and kick down the ladder shortcut
+- [ ] Just behind the roof kill the Crystal Lizard to get a Twinkling Titanite
+- [ ] Pick up Homeward Bone x3 from the lower part of the roof
+- [ ] Inside the roof pick up the Estus Shard from up in the rafters
+- [ ] Trade a Homeward Bone with Pickle-Pee, Pump-a-Rum crow to receive the Call Over gesture and the Iron Bracelets. For the other trade options see the Misc page
+- [ ] Hit the illusory wall at the back of the rafters and drop down to get the Covetous Silver Serpent Ring from the chest
+- [ ] Head into the Bell Tower, go up the lift and Patches may close the door depending on your progress in the game
+- [ ] At the top of the Bell Tower, pick up the Fire Keeper Soul
+- [ ] Go back down the lift and look down the right side. Carefully jump down to the tombstone and pick up the Fire Keeper Set from the corpse
+- [ ] Make your way down to the bottom and pick up the Estus Ring from another corpse and open the door
+
+## High Wall of Lothric
+
+- [ ] Open the door ahead and rest at the High Wall of Lothric bonfire
+- [ ] Take the right path onto the rampart and head down the small stairs on the left. Pick up the Soul of a Deserted Corpse from the corpse
+- [ ] Head back up the stairs and up the next set of stairs at the end of the rampart. If you want Titanite
+- [ ] Shard + Ember, wait for one of the undead to transform into Pus of Man and then kill it. Also, pick up Longbow + Standard Arrow x12 from the corpse
+- [ ] Go back to the bonfire and this time head down the left path. Pick up the Soul of a Deserted Corpse from the corpse
+- [ ] Head up the stairs at the end of the rampart and up some more stairs to the top of the turret. Pick up the Binoculars from the corpse
+- [ ] Go back downstairs and drop down behind the dragon. Enter the small doorway to pick up Gold Pine
+- [ ] Resin x2 from the corpse
+- [ ] Drop into the indoor room and pick up Firebomb x2 from the corpse beside the table
+- [ ] Go down the ladder and pick up the Soul of a Deserted Corpse from the corpse outside of the cell
+- [ ] Snipe the dragon until it drops a Large Titanite Shard and flies away
+- [ ] Grab the Claymore, Club, Ember and Large Soul of a Deserted Corpse from in front of where the dragon was
+- [ ] Open the door underneath where the dragon was. Go downstairs. Either kill the Mimic or hit it with an Undead Hunter Charm to get the Deep Battle Axe
+- [ ] Head out the door on the other side and pick up the Soul of a Deserted Corpse from the corpse on the left Go into the next building and pick up Firebomb x3 from the wooden beam
+- [ ] Go out the side exit and up the stairs and pick up the Titanite Shard from the corpse. Light the Tower on the Wall bonfire
+- [ ] After lighting the Tower on the Wall bonfire, return to Firelink Shrine and talk to Ringfinger Leonhard who gives you Cracked Red Eye Orb x5. He'll be by Lothric's throne. If he isn't at this point, try killing
+- [ ] Vordt and check again
+- [ ] Back inside the building go down the stairs, out the side door, and pick up a Soul of a Deserted Corpse from the corpse on the right Head onto the roof. If you want Titanite Shard + Ember, wait for one of the undead to transform into Pus of Man and then kill it. And pick up Firebomb x3 from the corpse. Continue on and kill the Crystal Lizard to receive a Raw Gem. There is another corpse on the roof which holds a Large Soul of a Deserted
+- [ ] Corpse
+- [ ] Take the ladder down and go onto the side roof to get Black Firebomb x3 from the corpse
+- [ ] On the adjacent balcony with the archers pick up Firebomb x3 from the corpse
+- [ ] Go back inside the earlier building next to the ladder. Take the immediate left and roll into the pots to get
+- [ ] Undead Hunter Charm x2 from the corpse. Continue inside and grab the Titanite Shard from the corpse while being cautious of the ambush
+- [ ] Back in the main room pick up the Soul of a Deserted Corpse from the corpse tucked inside the first corner
+- [ ] Continue through the doorway and take the next door on the left. Pick up the Broadsword from the corpse
+- [ ] Head down the stairs taking the right path and get the Silver Eagle Kite Shield from the chest
+- [ ] Head back to the original entrance and find the doorway blocked by debris. Roll through it and pick up Green Blossom x2 at the end of the ledge
+- [ ] Drop down and pick up the Astora Straight Sword from the chest
+- [ ] Continue into the room and pick up the Cell Key and Titanite Shard from the corpses around the room
+- [ ] Grab an Estus Shard on the altar in the same room
+- [ ] Head out the lower level and drop down to pick up the Rapier next to the drain
+- [ ] On corpses around the fountain you can collect Ember and another Ember
+- [ ] Head out towards the courtyard and turn left to pick up the Soul of a Deserted Corpse from a corpse
+- [ ] Go upstairs right of the courtyard entrance and head straight along the path. After leaving the first door immediately turn left to find Green Blossom x3 on a corpse
+- [ ] Activate the elevator to open up a shortcut from the High Wall bonfire. Behind the elevator at the top is Throwing Knife x6 on a corpse
+- [ ] Travel to the Tower on the Wall and proceed all the way down inside the tower. Go into the next room and pick up Throwing Knife x8 on the corpse
+- [ ] Continue along the passageway and pick up the Mail Breaker opposite the door on a corpse
+- [ ] Further down in this area you will find a locked cell. With the Cell Key you can free Greirat of the Undead Settlement and talk to him. If you agree to find Loretta, he gives you the Blue Tearstone Ring.
+- [ ] He then moves to Firelink Shrine
+- [ ] Travel to the High Wall of Lothric and take the elevator shortcut down. Head back towards the main courtyard but this time take the stairs to the left overlooking the fountain area. Grab the Large Soul of a Deserted Corpse on the rooftop
+- [ ] Jump onto the awning to pick up a Ring of Sacrifice
+- [ ] Continue back to the courtyard. In the corner of the terrace just before the stairs leading down, you can summon Lion Knight Albert
+- [ ] Head to the left. Go up the stairs on the left just before the castle and kill the red-eyed Lothric Knight to get a Refined Gem
+- [ ] Inside the chapel talk to Emma, High Priestess of Lothric Castle to receive the Small Lothric Banner.
+- [ ] Talk to her again for the Way of Blue covenant
+- [ ] Heading out from the chapel take the left stairs and pick up the Lucerne from the corpse
+- [ ] Just before walking through the great gate, you can summon Sword Master Saber if he was killed earlier at Firelink Shrine
+- [ ] Proceed through the gate and kill Vordt of the Boreal Valley; receive Soul of Boreal Valley Vordt. After killing Vordt, raise the banner at the cliff to access the Undead Settlement
+
+## Undead Settlement
+
+- [ ] After the Bat Wing Demons have dropped you off, walk to the left and grab a Large Soul of a Deserted
+- [ ] Corpse
+- [ ] Go downstairs. Walk behind an overturned carriage and kill two Dogs to get Alluring Skull x2
+- [ ] Find Yoel of Londor below the Foot of the High Wall bonfire amongst several other Pilgrims. Talk to him and agree to his request and he moves to Firelink Shrine. Head back to Firelink Shrine and talk to Yoel to receive the Beckon gesture. Accept Yoel's offer to Draw Out True Strength which gains you a free level and a Dark Sigil. From now on, for each time you die, you gain 1 Hollowing per Dark Sigil. Yoel offers 4 more free levels at 2, 6, 12, and 15 Hollowing, so getting all 5 Dark Sigils should not take long.
+- [ ] If you do not get all 5 Dark Sigils before reaching the Catacombs of Carthus, Yoel dies which voids the Usurpation of Fire Ending
+- [ ] After you get all 5 Dark Sigils and refresh the world, Yoel dies with Yuria of Londor watching over his newfound corpse. Talk to her to receive the Dignified Bow gesture and buy the Londor Braille Divine
+- [ ] Tome
+- [ ] Near Yoel, you will find Homeward Bone x2 on the far left edge of the bridge
+- [ ] From the Undead Settlement bonfire, enter the house. Cut down a glowing hanging corpse to get the Small Leather Shield
+- [ ] Walk downstairs to get Charcoal Pine Bundle x2. Walk out onto the balcony and cut down the hanging body. Turn right around the corner to get Repair Powder x2
+- [ ] Walk downstairs to get another Charcoal Pine Bundle x2
+- [ ] Go outside and grab Loretta's Bone from the body you cut down Grab an Estus Shard by the burning tree with worshipping undead
+- [ ] On the other side of the tree, grab an Ember. Shoot down a hanging corpse from the tree to get
+- [ ] Kukri x9. Walk to the closed gate to grab a Soul of an Unknown Traveler
+- [ ] Walk to the right of the house to grab a Titanite Shard
+- [ ] Walk through a large archway of the house, open a door, and walk into the room. Grab Charcoal Pine
+- [ ] Resin x2 from a corpse near the wall. Cut down the bodies hanging over the staircase to get a Large
+- [ ] Soul of a Deserted Corpse. Drop down from a hole in the room. In this hidden room, discover the Warrior of Sunlight covenant and consume Estus Soup
+- [ ] Open the door and walk to the end of the hallway. You should now be on the main street of the neighborhood. Head right and break through the wooden crates between the first gap on your right. Grab a Soul of an Unknown Traveler
+- [ ] Walk back the main street and proceed. A wooden door should automatically break. Walk into that house to get the Whip
+- [ ] Proceed back onto the main street. Walk until you see a wooden wheel to your right. Walk around the corner to get a Titanite Shard
+- [ ] Climb up the balcony with an Evangelist. Grab a Titanite Shard
+- [ ] Climb down from the balcony and walk onto a rooftop. Jump onto the wooden platform on your left to grab Rusted Coin x2
+- [ ] Jump down to kill the Crystal Lizard which drops a Sharp Gem. Light the Dilapidated Bridge bonfire further below
+- [ ] Mad dark spirit Holy Knight Hodrick will invade near the Dilapidated Bridge bonfire if you are embered.
+- [ ] Kill him for his Vertebra Shackle
+- [ ] Get back to the burning tree near the beginning of Undead Settlement, walk across the bridge, and walk around the right which should be blocked by wooden crates and barrels. Walk towards the houses with the Thralls. Find a Fading Soul here. Walk around one of the houses to get the Plank Shield. Walk onto the rooftop of the house to your left and grab Firebomb x6
+- [ ] Climb onto the rooftop of the other house and grab Homeward Bone x2. Jump down to where a non- hostile Cage Carrier is walking around. Cut down the hanging corpse at the end and grab the Flame
+- [ ] Stoneplate Ring. (If the corpse falls down and you are unable get the item, just proceed to the next step)
+- [ ] Examine the Cage Carrier from behind. After you get out of your cage, walk towards the light. Grab the Wargod Wooden Shield. Talk to Holy Knight Hodrick to receive the Mound-makers covenant and a Homeward Bone. (If you have reached the Curse-rotted Greatwood before reaching the Cage Carrier,
+- [ ] Hodrick dies and the Cage Carrier becomes hostile. Thus, you cannot acquire the covenant until later through Sirris' sidequest.) Quit and reload to reappear near the Cage Carrier. Retrieve the ring if you missed it before Head back, dropping down a small ledge on the left. Enter the house near the bridge and pick up a Large Soul of a Deserted Corpse. Then open the backdoor
+- [ ] From your right, get the Caduceus Round Shield
+- [ ] Walk across the bridge towards the house in view and jump down to the ledge on your right. When you are on the ledge, walk towards the bridge to get a Titanite Shard
+- [ ] The other way leads you to the Cliff Underside bonfire under the house and to a way up Walk to the top of the house and find a cage that houses Cornyx of the Great Swamp. Talk to him, and he moves to Firelink Shrine. At the Shrine, talk to him multiple times to receive your Pyromancy Flame
+- [ ] (unless you are already a pyromancer) and the Welcome gesture
+- [ ] Grab the Hand Axe and get a Partizan from a nearby hanging body
+- [ ] Walk down from the house and walk onto the gallow. Grab a Soul of an Unknown Traveler. Walk across the unfinished bridge to get the Fire Clutch Ring
+- [ ] Walk through the archway of the house and down the stairs. Walk left and around the corner to get a Large Soul of a Deserted Corpse. Walk downstairs and towards a tree with a Dog. Kill it and get the Ember
+- [ ] Run towards the bridge, and enter the sewers on the right. Kill a Giant Rat to get the Bloodbite Ring.
+- [ ] Grab the Caestus and climb up to open the shortcut
+- [ ] Walk back through the sewers and onto the bridge to get another Ember. Walk upstairs towards the house on your right. Grab a Large Soul of a Deserted Corpse. Walk around the right side of the house to get Alluring Skull x3
+- [ ] Walk towards the tower. Talk to Eygon of Carim outside. If you have enough health, you can drop down into the valley to reach Irina of Carim in her cell, but don't bother. You can reach Irina by purchasing the Grave Key from the Shrine Maiden after giving the maiden the Mortician's Ashes which is futher down in this list
+- [ ] Walk into the tower to find Siegward of Catarina. Get on the elevator which goes down to the basement.
+- [ ] Kill the Boreal Outrider Knight to get the Irithyll Straight Sword, grab the Ember and rest at the Road of Sacrifices bonfire
+- [ ] To reach the top of the tower, hit the switch on the elevator while at the main entrance and then quickly get off to reveal a second lift.
+- [ ] After getting off the lift at the top you can find a Soul of a Nameless Soldier in a corner.
+- [ ] Go up the stairs and offer a token of friendship to the Giant of the Undead Settlement so that he does not attack you with giant arrows and even assists you when you are near a White Birch.
+- [ ] Take the lift down, and while facing the entrance of the tower, when you hear Siegward's voice; roll off to land onto a wooden platform.
+- [ ] Head outside and speak to Siegward again.
+- [ ] Lure the the Fire Demon towards the tower which makes Siegward come and fight by your side.
+- [ ] After killing the Fire Demon you gain a Fire Gem.
+- [ ] Speak to Siegward three times to receive a Siegbräu, the Toast gesture, and the Sleep gesture.
+- [ ] Around the town, you can grab a Homeward Bone and a Large Club. You can also get the Northern
+- [ ] Armor Set from a nearby hanging corpse
+- [ ] A Pale Tongue can be found on a nearby hanging corpse. Obtaining the tongue here or from invading successfully leads to Leonhard returning to Firelink Shrine. He then gives you the Lift Chamber Key that opens the door below the Tower on the Wall bonfire of High Wall of Lothric. Kill the Darkwraith imprisoned there to get a Red Eye Orb. Return to Firelink Shrine and talk to Leonhard to receive the Applause gesture
+- [ ] Walk into the house to get Red Bug Pellet x2. Walk upstairs and grab Alluring Skull x2. Walk across a bridge and into a house. Pillage a chest to get Human Pine Resin x4. Walk onto the roof and to the left to get Flynn's Ring
+- [ ] Drop down onto the ledge of a tower. Grab Homeward Bone x2. Drop down from within the tower to get the Mirrah Set without the mask and the Chloranthy Ring
+- [ ] Warp back to the Dilapidated Bridge bonfire, enter the graveyard pierced by giant arrows, and walk towards the house on the left. Grab Blue Wooden Shield + Cleric Set in front of the house and Mortician's Ashes by a tree to the left. If dodging the giant arrows is too troublesome, head to the tower to befriend the Giant
+- [ ] Grab all the items around the White Birch (one of them being the Reinforced Club) including the Undead Bone Shard on the platform to the right of the White Birch
+- [ ] Enter the house and walk upstairs. Grab the Great Scythe. Continue to walk towards the stone building and open the doors on your right Return to Firelink Shrine. Give Loretta's bone to Greirat, who then allows you to keep the Blue
+- [ ] Tearstone Ring. You can reload the area and talk to Greirat again to learn the Curl Up gesture. You can reload the area once more and send him to pillage Undead Settlement. He returns when you kill a boss
+- [ ] Give the Shrine Handmaid the Mortician's Ashes and then purchase the Grave Key which opens the locked door in the sewer area next to the Dilapidated Bridge bonfire
+- [ ] Go back the sewer area and open the locked door. Climb down and walk towards Velka the Goddess of Sin's statue to grab a Loincloth
+- [ ] Proceed through the tunnel to get the Red Hilted Halberd. Continue into another room to get a Soul of an Unknown Traveler
+- [ ] Walk outside to kill a Crystal Lizard which drops a Heavy Gem. Grab the Titanite Shard and another
+- [ ] Titanite Shard
+- [ ] Walk through the archway tunnel. Shoot down a hanging corpse to get a Blessed Red and White
+- [ ] Shield+1
+- [ ] Walk into a new room and climb down to get a Saint's Talisman
+- [ ] Climb up and talk to Irina of Carim to receive the Prayer gesture. Touch her and accept her services.
+- [ ] She then moves to the Firelink Shrine. After recruiting Irina, make sure to go outside and speak to Eygon. At the shrine, you can give Irina the Londor Braille Divine Tome, but doing so and buying any of its spells leads to her Dark ending. Otherwise, hang onto it until you find Karla later in the game
+- [ ] Kill the Curse-rotted Greatwood to get Soul of the Rotted Greatwood + Transposing Kiln. Give the Transposing Kiln to Ludleth of Courland so he can turn boss souls into weapons, rings, and spells
+- [ ] Talk to Hawkwood after killing the Greatwood to receive a Heavy Gem. If he does not give you anything, come back to him after killing another boss
+
+## Road of Sacrifices
+
+- [ ] If you haven't done so before, you can send Greirat to pillage Undead Settlement. He returns when you kill a boss
+- [ ] Travel to the Road of Sacrifices bonfire. Head down the path and drop down to the left of the tree to find a Shriving Stone
+- [ ] A bit farther on you'll find a Soul of an Unknown Traveler next to an overturned wagon
+- [ ] At the fork in the path, head left and drop off the path when it ends. Head left again (instead of going under the bridge) and kill the Madwoman NPC for the Butcher Knife
+- [ ] Grab the Brigand Axe, the Brigand Set, and the Brigand Twindaggers from this lower area
+- [ ] Turn around and head back up the path and under the bridge. Head up and across the bridge for a Titanite Shard
+- [ ] Cross back over the bridge and head to the next bridge. Before crossing it, drop off to the right to reach an area where you'll find the Braille Divine Tome of Carim and Morne's Ring. Give the tome to Irina of Carim at Firelink Shrine and buy all the spells it offers if you want her to become a Fire Keeper later in the game
+- [ ] Before entering the archway that leads to the Halfway Fortress bonfire, you can find an Ember on a ledge with a caster enemy
+- [ ] Talk to Anri of Astora at the Halfway Fortress bonfire. Talk to Horace the Hushed to get the Blue
+- [ ] Sentinels covenant. Make sure to deplete Anri's dialogue before continuing the game
+- [ ] After meeting Anri of Astora, return to Firelink Shrine to talk to Sirris of the Sunless Realms to begin her quest line
+- [ ] Head into the Crucifixion Woods from the Halfway Fortress bonfire. Drop off the right side of the path as soon as it turns left, and drop again to grab a Soul of an Unknown Traveler
+- [ ] Drop off again and head straight while hugging the wall to your right. You'll arrive at a door. Head in and straight across to a balcony-type area where you'll find some stairs leading to the Sellsword Set
+- [ ] Drop down to find the Sellsword Twinblades directly underneath the corpse that had the Sellsword Set
+- [ ] A bit farther in the building you'll find the Farron Coal, which enables Heavy, Sharp, and Poison infusions
+- [ ] Head back outside through the same door you used to enter. Step into the water and follow the edge of the water to the left. Hug the cliffs and you'll find a Titanite Shard
+- [ ] Continue on with the cliff wall to your left. You'll head past the ramp that leads back up to the Halfway
+- [ ] Fortress bonfire, but keep the cliff to your left after moving past it. You'll find another Titanite Shard
+- [ ] Continuing in this manner, you'll find a large group of Poisonhorn Bugs guarding yet another Titanite
+- [ ] Shard
+- [ ] At this point, deviate from the cliff wall for a bit and head up the hill towards the water for the Twin
+- [ ] Dragon Greatshield
+- [ ] Head towards the stone wall with the large broken arch (which you would have eventually reached had you stuck to the cliff wall). Grab the Fading Soul from the corpse before heading through Turn right soon after heading through the arch to reach the Crucifixion Woods bonfire. Walk along the rocky wall towards the ruins until you reach a purple summon sign for mad phantom Holy Knight
+- [ ] Hodrick. When summoned, he instantly becomes hostile, so kill him for souls
+- [ ] Head past where Hodrick's summon sign was until you reach a ledge. Fall down to grab the Estus
+- [ ] Shard
+- [ ] Continue around the building to a large bonfire with an Ember
+- [ ] Finish your circuit around the building for a Soul of an Unknown Traveler
+- [ ] Back at the Crucifixion Woods bonfire, drop off into the water and kill the Great Crab furthest away from you for the Great Swamp Ring
+- [ ] If you are embered, dark spirit Yellowfinger Heysel invades around where the two giant crabs are. Kill her for Heysel Pick + Xanthous Crown
+- [ ] You will find the following items in the water: Green Blossom x2, Green Blossom x4, the Grass Crest
+- [ ] Shield, the Conjurator Set, and the Great Swamp Pyromancy Tome. The tome and the set are in the deep part of the swamp near the entrance of Farron Keep
+- [ ] In the water near where you jump down from the Crucifixion Woods bonfire (near where the two Green
+- [ ] Blossoms were), there are steps leading out of the water and a door to the left of them. Head through the door to find a small area with the Sage Ring and the Sorcerer Set
+- [ ] Head back out of this small area and take the steps to your left. Enter the building and proceed to the next room ahead to find a hallway with a Crystal Lizard, which will drop a Crystal Gem when killed
+- [ ] Go back to the previous room and head up the steps all the way to a balcony. Drop off the broken end to reach a ledge with a Ring of Sacrifice
+- [ ] Drop down, head back up the steps to the same room you were just in, and head up the stairs in the room, but only until you reach the broken wall. Head through down the path to grab the Golden Falcon
+- [ ] Shield
+- [ ] Drop down from here and kill the two NPCs for the Great Club and the Exile Greatsword
+- [ ] Near the water's edge is a corpse with the Fallen Knight Set. There is also a Large Soul of an Unknown
+- [ ] Traveler by the wall
+- [ ] Head into the building the NPCs were guarding. There is Homeward Bone x2 on a balcony in here.
+- [ ] Double back and head down the ladder to light the Farron Keep bonfire
+- [ ] Warp or run back to the Crucifixion Woods bonfire. Head into the ruins this time (the ones you previously traveled around before to grab the Estus Shard). The entrance is a hole in the wall in a small depression in the ground. In the first room you'll find the Heretic's Staff in an alcove to the right Continue on until you reach a 4-way crossroads and then go through the door on your left that looks like it leads to a wall. Turn right at the wall and you'll eventually arrive at Orbeck of Vinheim. Talk to him and he agrees to teach you in sorceries only if you have at least 10 Intelligence and promise to bring him scrolls. He then moves to Firelink Shrine. If you do not bring him any scrolls before defeating 4 bosses, he will leave
+- [ ] Orbeck of Vinheim grants you different rewards based on certain criteria. If you are not a sorcerer, the Young Dragon Ring is given to you after buying three of his spells and giving him at least one scroll. You will be rewarded with the Silent Ally gesture and the Slumbering Dragoncrest Ring after buying Aural
+- [ ] Decoy, Farron Flashsword, Pestilent Mist, and Spook.
+- [ ] There are broken steps that lead down from Orbeck's study with Blue Bug Pellet x2. Drop off to reach the final room before the boss
+- [ ] In this room, near one of the stone pillars, Eygon of Carim has casted down a summon sign. You can summon him if you have recruited Irina to your Shrine and have not harmed her
+- [ ] Defeat the Crystal Sage; receive Soul of a Crystal Sage
+- [ ] Head down the winding paths past the Crystal Sage bonfire to find two Crystal Lizards, who will each drop a Twinkling Titanite
+- [ ] Continue following these twisting paths until you can drop down next to a large fire and the Herald Set.
+- [ ] Continue on to the Cathedral of the Deep bonfire
+
+## Cathedral of the Deep
+
+- [ ] From the Cathedral of the Deep bonfire, head down to the left to find a hostile sword-wielding NPC and the Paladin's Ashes behind him
+- [ ] Back up by the bonfire, start heading up the first set of steps, but turn left about halfway up. Follow the path and turn right at the end for a Titanite Shard in an alcove
+- [ ] Head back to the steps and head up to the top of this first set. Before climbing the second set of steps, head right this time and follow the path until you reach the Crest Shield
+- [ ] From here, you can jump down and kill the axe-wielding NPC on the steps (he can be struck with a plunge attack using a big enough weapon) to get the Spider Shield
+- [ ] In the next area with the dogs and crossbow enemies, grab the Large Soul of an Unknown Traveler from a ledge
+- [ ] Continue on and light the Cleansing Chapel bonfire inside the chapel. There is also the Notched Whip in the corner
+- [ ] Grab the Estus Shard right outside the Cleansing Chapel bonfire where enemies are praying near an obelisk
+- [ ] Instead of heading up the steps past the obelisk, head right and drop down a couple of cliffs into a lower, water-filled area. Head forward a bit to grab the Saint-tree Bellvine from a stump on the right. Remember you can hold a torch to get rid of leeches
+- [ ] Continue down the waterway and head up the steps at the end. From the top of the steps, there will be a Titanite Shard to your right and a Crystal Lizard in front of you which will drop a Twinkling Titanite when killed
+- [ ] Farther down the path you'll encounter another Crystal Lizard which will drop another Twinkling Titanite.
+- [ ] If you head up the stone steps near where the lizard was sitting initially, you can grab another Titanite
+- [ ] Shard
+- [ ] From here, you can drop down to where the Ravenous Crystal Lizard is sleeping and kill it for a Titanite
+- [ ] Scale
+- [ ] Near where the Ravenous Crystal Lizard was sleeping, you'll find a narrow path between the buildings which leads to the Poisonbite Ring
+- [ ] Turn around and head back outside and continue straight up a set of steps. Here you'll be able to grab a Titanite Shard from a window and drop back down to the Cleansing Chapel bonfire
+- [ ] Head back out past the obelisk with the praying enemies and head up the steps into the graveyard.
+- [ ] Take your first left and stay left to reach the Astora Greatsword
+- [ ] Turn around from the previous item and head straight until you reach a T-intersection. Head left, drop off, and follow the path to the end to drop down in an area with a Fading Soul and the Executioner's
+- [ ] Greatsword
+- [ ] Turn around and head out of this circular area, turning left when you can and crossing a bridge. Head up a set of steps, fight the Cathedral Grave Warden, and head down more steps to the right to an area riddled with large arrows. Here you can pick up an Undead Bone Shard, Repair Powder x3, a Young
+- [ ] White Branch, another Young White Branch, a Large Soul of an Unknown Traveler, and finally another
+- [ ] Large Soul of an Unknown Traveler
+- [ ] Head back up to where you fought the Cathedral Grave Warden, and head up the set of steps and turn right towards a tower. You can find a Titanite Shard to the left of the tower. Inside, grab the Curse Ward
+- [ ] Greatshield, head downstairs, and create another shortcut by kicking down the ladder
+- [ ] Head back up and out and towards the cathedral's main double doors. Head left first and roll through some crates to find Rusted Coin x2
+- [ ] Heading right from the double doors, you'll find a corpse with a Red Bug Pellet
+- [ ] Continue on across the narrow roof (watching out for ambushes) and grab the Large Soul of an Unknown Traveler from the other side
+- [ ] You'll come across a few crossbow-wielding enemies in a lower area a bit farther on. Head down and kill them, then jump over onto the next buttress leading up. From above you can get the drop on a group of Thralls lying in ambush on the nearby roof. After expunging them, jump attack the other Thrall hanging on the wall, landing you right on top of Red Bug Pellet x3. At the other end of this walkway you'll find Undead Hunter Charm x3
+- [ ] Head back to the lower area where you fought the crossbow-wielding enemies. Continue down the path and take a left into a room where you can grab a Soul of a Nameless Soldier. (Watch out for another
+- [ ] Thrall ambush)
+- [ ] Head back outside and continue around the perimeter of the cathedral until you reach a dead end with an Ember
+- [ ] Turn around and head back a short way to open a set of double doors which lead into the cathedral.
+- [ ] Head left once inside and grab the Duel Charm from in front of a poison-spewing statue
+- [ ] Continue through a dining room until you reach a lift which you can take to open a shortcut to the Cleansing Chapel bonfire. Head back up the lift and take notice of the enemy lurking above before taking the long set of steps (to the right of the balcony) down to grab a Deep Gem
+- [ ] Head back up and out onto the balcony. Run around the perimeter, optionally killing the giant (he's easier to kill from the area below), and grab the Soul of a Nameless Soldier, Lloyd's Sword Ring, and Exploding Bolt x8 (or save them for later if the giant is giving you trouble)
+- [ ] Head through the door at the other end of the balcony. Take the first left and head across a bridge-like platform (watching out for Thralls and ceiling slimes) and grab the Seek Guidance miracle
+- [ ] Head back across the bridge and up the ladder to grab an Ember
+- [ ] From here, drop back down to the balcony where the giant attacked and head down the steps again.
+- [ ] This time, head straight down to reach a room with a Mimic. Kill (or charm) it for the Deep Braille Divine
+- [ ] Tome. Remember, giving this to Irina and buying any of the spells it unlocks will lock you into the bad ending of her quest. I recommend saving this for Karla, unless you really want some of the spells
+- [ ] From the Mimic, head down more steps and continue straight to a room with a Deep Accursed that drops Aldrich's Sapphire upon death. There is also an Ember in this room
+- [ ] Head back to the previous room and turn right to head through a door and up some steps. If you are embered, Longfinger Kirk will invade your world. He drops Barbed Straight Sword + Spiked Shield
+- [ ] Kill the giant if you haven't already (the one in the larger open area) and grab the Soul of a Nameless
+- [ ] Soldier and the Maiden Set
+- [ ] Open the double doors next to where the giant was, head down some steps, and open another set of doors. Out here you can pick up the Saint Bident and Homeward Bone x2
+- [ ] Head back up through both doors and walk forward through the water until you can turn left up some steps. You'll find a Large Soul of an Unknown Traveler against the wall
+- [ ] Travel over to the other end of the large, open, water-filled area to the other giant. Kill this one and the slimes around him, and you'll be able to grab a Pale Tongue, the Drang Armor Set, and the Drang
+- [ ] Hammers
+- [ ] Head up the steps behind where the giant was sitting, kill the enemies around the shrine, and grab the Ember from the ledge that overlooks the water-filled area
+- [ ] If you turn to face the giant shrine, you should see a door to your left. Head through and you'll reach some double doors that open back out to a previous area (near the graveyard). Staying inside the cathedral, continue past these doors to reach Siegward (if he is not here, follow the first part of the next step). Grab Duel Charm x3 to the right of him. (Note: If you've already gone to the upper rafters where you drop down to Rosaria, the following encounter will not occur)
+- [ ] If Siegward is not there, leave the Cathedral completely (go to Firelink Shrine and come back) and then head back into the Cathedral through the large blue double doors you just opened. You will notice that a new bridge has been activated and Siegward is standing next to it. Talk to him and then cross the bridge to trigger a cutscene where it is revealed it was really Patches. Depending on if you killed the Giants or not, you'll either have to fight one or nothing happens
+- [ ] After being lowered, turn directly around and head through the door that's directly underneath the area
+- [ ] Patches was standing. Head through a door and down several sets of steps to open the final shortcut to the Cleansing Chapel bonfire
+- [ ] As you head back through the shortcut you just opened, you should notice another door on your left immediately after you leave the chapel. Open it to reveal a lift, which will take you up to an area where you can climb a ladder to an enemy that drops the Deep Ring when killed
+- [ ] You can drop onto a new roof through the hole in the wall just past the enemy you just killed. Head up the roof, turn right, and begin heading down this long roof. Eventually you'll be able to turn right and head down another roof to reach an Arbalest. Head back up to the long roof and head to the end to grab a Pale Tongue
+- [ ] Turn around from the Pale Tongue location and head back down the long roof. Eventually, you'll be able to turn right and head back inside to the rafters of the cathedral. Head right first and grab the Blessed
+- [ ] Gem near the wall
+- [ ] Zig-zag your way across the rafters towards the other end, sticking primarily to the right. Eliminate the knight with the crossbow and drop down near where he was standing to a platform with a couple of candelabras. Drop again and you'll find yourself back with Patches. He will be waiting here and pretend to not be responsible for what just happened. Tell him "You know who I am" to receive the Prostration gesture. You can speak with him again for a Rusted Coin. You can then buy Siegward's Armor Set from him. (Note: Purchasing this armor means Patches will not be a rescue option for Greirat later in Irithyll of the Boreal Valley)
+- [ ] Before leaving this area, continue on up the nearby stairs. Kill all the enemies and the non-agressive one will drop the Red Sign Soapstone. Continue on and you'll eventually find yourself at the Rosaria's
+- [ ] Bed Chamber bonfire. Speak with Rosaria to obtain the Rosaria's Fingers covenant. For now, do not offer her any Pale Tongues if you intend to do Sirris' quest line. We'll continue this side quest closer to the end of the game
+- [ ] If you killed Longfinger Kirk when he invaded earlier, you can grab the Armor of Thorns Set nearby
+- [ ] If Patches didn't spawn at the Cathedral, return to Firelink Shrine and purchase the Tower Key if you haven't already and head into the Tower behind Firelink Shrine now. As you ascend the lift to the top, you'll hear a door shut behind you. Grab the Fire Keeper Soul at the top, if you haven't before, and then come back down to encounter Patches. He has locked the door and you'll need to drop down from the bridge onto coffins to escape
+- [ ] Head back to the Tower and get to the bridge that overlooks Firelink Shrine. Drop down onto the roof and move around the roof until you find some windows you can go through. An Estus Shard will be on the rafters (you may have done this already in the Firelink Shrine section)
+- [ ] While on the roof, you can hear Pickle-Pee, Pump-a-Rum crow. Trading a Homeward Bone will get you the Call Over gesture and the Iron Bracelets (you may have done this already in the Firelink Shrine section). For the other trade options see the Misc page
+- [ ] With the Fire Keeper Soul, you can heal Dark Sigils that you have in order to completely get rid of your
+- [ ] Hollowing Level. If you are following Yoel/Yuria's quest line, however, don't do this until the postgame or you'll end up angering Yoel/Yuria
+- [ ] Refresh Firelink Shrine and head to the upper right to find Patches now located there. He'll ask for forgiveness; refuse to receive the Prostration gesture and a Rusted Gold Coin. You can then buy
+- [ ] Siegward's Armor Set from him. Leaving Firelink Shrine and returning will allow Patches to be in his squatting position. Interact with him to receive the Patches Squat gesture
+- [ ] If you can't buy Siegward's Armor Set yet, head to the Cleansing Chapel and check the well at the entrance, where Siegward should trapped. After speaking to him, return to whatever location Patches is at for you and buy the armor
+- [ ] Return to the well Siegward is in and throw his armor down to him to receive the Rejoice gesture
+- [ ] Head back up the steps past where you defeated the second giant. Turn right at the giant shrine. If you are embered, you can summon Anri of Astora and Horace the Hushed (both behind the shrine) as well as Sirris of the Sunless Realms (before the fog door). Defeat the Deacons of the Deep and you'll receive Small Doll + Soul of the Deacons of the Deep
+- [ ] Rest at the bonfire so you can pick up the Archdeacon Set near the altar
+
+## Farron Keep
+
+- [ ] After defeating the Deacons of the Deep, return to Firelink Shrine to find Anri and Horace. Talk to Anri to progress the questline
+- [ ] Farron Keep is a poisonous swamp, hence it might be a good idea to buy a few Purple Moss Clumps from the Shrine Handmaid. In addition, any item with the Quickstep weapon art (such as the Dagger, also sold by the Handmaid) could be useful as well since it allows you to move unimpeded through the deeper sections of the swamp
+- [ ] Leave the bonfire and enter Farron Keep proper. Turn right and in the back corner you will find Purple
+- [ ] Moss Clump x3. Continue into the swamp from there to find Iron Flesh between some trees
+- [ ] Optionally, and only if you are on bad terms with Yuria (healed the Dark Sigil or attacked her) and are embered, head further into the deep swamp on the right. Dark spirit Londor Pale Shade will invade your world among the Basilisks there. If you kill him, you will receive the Manikin Claws
+- [ ] Head back to the Farron Keep bonfire, turn left this time and in the back corner you will find Ragged
+- [ ] Mask surrounded by slugs
+- [ ] To the right you will see a Titanite Shard in the swamp
+- [ ] Turn right, head around the island, and in front of the partially sunken stone tower you will find an Estus
+- [ ] Shard
+- [ ] To the left and past a large fire you'll see a Titanite Shard before the steps leading up Instead of taking these steps, turn left once more to find Prism Stone x10 on a corpse on an island
+- [ ] Farther out (closer to the stone wall) you will find Stone Parma
+- [ ] From there go in direction of the rock wall on the right to find Rotten Pine Resin x4 against a tree
+- [ ] Follow this rocky wall to the left to reach a small structure guarded by a darkwraith. The Sage's Coal is on a body inside this structure, granting you Crystal, Blessed, and Deep infusions
+- [ ] Continue on, sticking closely to the rock wall on your right until it opens to some steps, which you follow up. Go through the archway and interact with the first altar (on your left) to extinguish the flame
+- [ ] Go back through the archway and pick up Rotten Pine Resin x2 ahead, then go back down the steps on this side
+- [ ] As you arrive at the bottom of the steps, continue straight on into the deeper swamp until you find yourself between two ramp-like segments of a sunken bridge
+- [ ] Ascend the one on your right for Purple Moss Clump x4
+- [ ] Turn around, cross over to the other ramp, and pick up the Greatsword
+- [ ] From there, look left to locate a stone pillar, behind which you pick up a Titanite Shard
+- [ ] Looking at the fire from there, head to your right towards the rock wall and follow that to the next fire to discover a set of steps as well as another Titanite Shard. (If you stay back as far as possible while picking it up, the Ghru Leaper on the other island should not notice you)
+- [ ] Head up and stick to the right to find Purple Moss Clump x2 between two trees
+- [ ] Snuff out the flame on the second altar
+- [ ] Cross the bridge with the three Ghrus to find the Keep Ruins bonfire
+- [ ] Go down the ramp on the other side and enter the round structure to the right, where you will find an Undead Bone Shard amidst some slugs
+- [ ] From the other side of this structure you can see a ladder surrounded by slugs. Go a bit past this ladder for now and pick up Wolf's Blood Swordgrass at the foot of the tower
+- [ ] Step onto the nearby island to find a cauldron of Estus Soup as well as the Sunlight Talisman
+- [ ] Return to the ladder you just passed and climb it
+- [ ] Once you reach the top, go right (don't enter the tower) to find a Crystal Lizard on the other side who drops a Twinkling Titanite
+- [ ] From the lizard go back from where you came and just before the stairs turn right to find an illusionary wall (look for an archway on the wall). Behind it you will find Dreamchaser's Ashes
+- [ ] Enter the room to find the Old Wolf of Farron and his bonfire. Interact with the wolf to receive the Legion
+- [ ] Etiquette gesture and join the Watchdogs of Farron covenant
+- [ ] Return to Firelink Shrine and give the Dreamchaser's Ashes to the Shrine Handmaid. Reload the area and Sirris will once again be there. Talk to her to receive the Darkmoon Loyalty gesture
+- [ ] Warp back to the Old Wolf of Farron bonfire and go up the tower with the elevator
+- [ ] Turn right and on the top you can fight a Stray Demon to obtain Soul of a Stray Demon
+- [ ] Around the Stray Demon you will find a Greataxe, an Ember, and another Ember
+- [ ] Turn around and move towards the gate. Just before and to the right of the gate is a spot where you can drop down. Do so and move along, dropping down a few ledges
+- [ ] After getting to the other side of the gate go left and up to find a Crystal Lizard who drops a Heavy Gem
+- [ ] There are two Crystal Lizards before the dead dragon who both drop a Large Titanite Shard
+- [ ] In front of the dragon you can also find Lightning Spear
+- [ ] Right next to it is the Dragon Crest Shield
+- [ ] Go back to the ladder that led up the tower and go down. (Note: If you don't want to use a Homeward
+- [ ] Bone you can go back by going up the gate and dropping down to the other side)
+- [ ] Facing away from the ladder, proceed to a small island with a Titanite Shard next to a fire
+- [ ] From the next small island with a fire, make a quick detour to the left where the Nameless Knight Set is stashed between a tower and a rock wall. (Going there may trigger an invasion by Yellowfinger Heysel, but she spawns out of immediate reach on the other side of the tower)
+- [ ] Up next is Titanite Shard x2 in front of a tree. (If the Elder Ghru in the area is giving you trouble, you can try luring him into one of the fires for some extra damage)
+- [ ] Keep heading closely along the rocks on your left until you reach a way up. (If dark spirit Yellowfinger
+- [ ] Heysel is already in your world, you might encounter her in the area upstairs)
+- [ ] Go up to the altar and extinguish the last of the three flames. To the right, on the other side of the small stone wall, you'll find a Rusted Gold Coin
+- [ ] Go through the archway on the left to find Homeward Bone x2
+- [ ] Head up the steps, fight the Ghru Leaper (if you sprint up, you should be able to backstab him), and go down on the other side. If not triggered previously, Yellowfinger Heysel will invade you here, provided you are embered. If this is your first time defeating her, you'll gain Heysel Pick + Xanthous Crown
+- [ ] In the swamp area below, you will encounter some Basilisks. If you want to beef up your curse resistance, equip Archdeacon Set and Maiden Gloves
+- [ ] Take a right at the bottom of the steps and then enter an alcove on your left with a Large Soul of a Nameless Soldier
+- [ ] Turn around and head to the other side of the steps. Tucked away in the dead end between rocks and tower is another Large Soul of a Nameless Soldier
+- [ ] Turn around yet again and make your way across an island. To the right between two rock formations you can find Repair Powder x4
+- [ ] Go right into a cave, where you will find the Golden Scroll
+- [ ] Make sure to give this scroll to Orbeck at Firelink Shrine to keep him from leaving (it doesn't have to be the Golden Scroll in particular, but this is the first one available)
+- [ ] Right next to the scroll is the Antiquated Set in a chest
+- [ ] Warp (or walk straight along the outer walls) to the Keep Ruins bonfire. Standing at the top of the ramp leading down from there, drop off to the left, directly onto a Titanite Shard
+- [ ] From here you will see a Great Crab and a white birch when looking towards the wall. Kill the crab for the Lingering Dragoncrest Ring. (Lure the crab close to the white birch tree and the Giant of the Undead
+- [ ] Settlement will assist you using his greatarrows)
+- [ ] Around this area you will find Gold Pine Bundle x6, an Ember, a Large Soul of an Unknown Traveler, a Soul of a Nameless Soldier, a Young White Branch, another Young White Branch, and the Crown of Dusk
+- [ ] Follow the wall to your right and you'll eventually find the Sage's Scroll, guarded by Ghrus near several dead mushrooms
+- [ ] If you continue in the same direction along the wall you will encounter three Elder Ghrus. Lure these enemies out one by one to get Black Bow of Pharis and Pharis's Hat. In the middle you can find a Poison Gem. (If you do not wish to engage the Elder Ghrus in melee, you can instead whittle them down using ranged weapons from up by the Keep Ruins bonfire)
+- [ ] Warp (or backtrack) to the Keep Ruins bonfire, go down the ramp and through the opened gate. Straight ahead is a Shriving Stone
+- [ ] Follow the path and once you're in an open area turn right and enter the structure to get to the Farron
+- [ ] Keep Perimeter bonfire
+- [ ] Take the path farther into the structure to encounter a Ravenous Crystal Lizard who drops Titanite
+- [ ] Scale x2
+- [ ] Right next to him is the Great Magic Weapon sorcery
+- [ ] Open the shortcut back to the Road of Sacrifices
+- [ ] Turn around and go back in direction of the bonfire. After the first set of stairs you can go through the broken wall on the left and drop down Here you can find Atonement and on the right side of the cliff you can find a Hollow Gem
+- [ ] If you want to be able to access Yuria of Londor and the Usurpation of Fire ending, make sure that, before proceeding to fight the Abyss Watchers, you have Drawn Out True Strength 5 times with Yoel and then reload Firelink Shrine so that Yoel dies and Yuria appears. You can talk to her to receive the Dignified Bow gesture and buy the Londor Braille Divine Tome
+- [ ] Before fighting the Abyss Watchers, remember to give Orbeck the Golden Scroll and/or Sage's Scroll
+- [ ] Buy Aural Decoy, Farron Flashsword, Pestilent Mist, and Spook from Orbeck. Then talk to him multiple times to obtain the Young Dragon Ring, the Silent Ally gesture, and the Slumbering Dragoncrest Ring
+- [ ] Go back to the Farron Keep Perimeter bonfire and leave the building
+- [ ] To the right of the Ghrus you can find an Ember
+- [ ] Go up the right side and on the hill you will find Black Bug Pellet x3
+- [ ] You can summon Yellowfinger Heysel in Farron Keep right after the Keep Ruins bonfire, but only if you have offered a Pale Tongue to Rosaria, which will block you out of Sirris' quest line, so I recommend saving this part for another playthrough. You'll gain the Proper Bow gesture after her summon
+- [ ] Black Hand Gotthard can be summoned and will grant you the By My Sword gesture. His summon sign is up the first set of stairs
+- [ ] Sirris can also be summoned here. Her sign is to the left of the mausoleum entrance
+- [ ] If you are on good terms with Yuria, you can also summon the Londor Pale Shade and gain the Duel
+- [ ] Bow gesture. His summon sign is right next to the Farron Keep Perimeter bonfire. (Note: In order to be able to summon two phantoms at the same time, you have to use Dried Finger. Black Hand Gotthard and Londor Pale Shade can also be summoned for another later fight, so don't worry about getting all the gestures here at once)
+- [ ] Defeat the Abyss Watchers; receive Cinders of a Lord + Soul of the Blood of the Wolf
+- [ ] If you have collected all the items around the three white birch trees so far, you'll find the Hawk Ring back where the giant was in Undead Settlement
+
+## Catacombs of Carthus
+
+- [ ] Return to Firelink Shrine and talk with Hawkwood to receive the Farron Ring. (If Hawkwood isn't sitting on the stairs inside the Shrine, reload the area until he does)
+- [ ] Reload the area, and Hawkwood should no longer be present. Hawkwood's Shield will be on the ground by a gravestone outside of Firelink Shrine, near where the dog spawns
+- [ ] Eygon of Carim should also now be in Firelink Shrine. Exhaust his dialogue now so he is available for a boss fight later on Warp back to the Abyss Watchers bonfire, enter the Catacombs of Carthus and on the left side you'll find Carthus Rouge x2
+- [ ] After crossing the bridge, go up the stairs to the left and then immediately turn around to your right. There is Soul of a Nameless Soldier at the end of the way
+- [ ] Turn back the other way, and follow the path down a ladder. At the bottom you'll find another Soul of a Nameless Soldier
+- [ ] Follow the path and in the room with the pillars strike the wall on the right side to reveal an illusory wall.
+- [ ] Behind it you'll find the Carthus Pyromancy Tome
+- [ ] Back in the pillar room you can find a Sharp Gem on the right side
+- [ ] In the next room you'll find Titanite Shard x2 in the leftmost corner
+- [ ] Before heading down the giant staircase that a skeleton ball will eventually begin to roll up and down, there will be a hallway to the left you can take. Head down this way and you'll eventually run into Anri, who claims to be looking for Horace. Exhaust the dialogue
+- [ ] Head out onto the platform next to Anri, kill a Crystal Lizard for a Twinkling Titanite, and grab Bloodred
+- [ ] Moss Clump x3 on the right side
+- [ ] Go back to the giant staircase and on the left side is an Ember
+- [ ] Once arriving at the bottom of the giant staircase, you'll notice a skeleton with a hat on its head hiding right in the corner of the next room. Kill it and the next time the skeleton ball hits the bottom gate, it'll explode and reveal an Undead Bone Shard
+- [ ] In the next hallway you can find the Carthus Milkring on the right side behind some big vases
+- [ ] On the corpse in the bone-ridden hallway is a Large Soul of an Unknown Traveler. At the end of the hallway is an Ember. (Be careful, there is a hole in the ground)
+- [ ] In the corner where the second skeleton ball spawns is a Large Titanite Shard
+- [ ] Activate the Catacombs of Carthus bonfire in the left hallway
+- [ ] Go down the stairs, turn right and right again to get to a hallway with Skeleton Wheels. On the left wall is Titanite Shard x2
+- [ ] At the end of the hallway you will find the Carthus Bloodring
+- [ ] Go back to the main room to find Titanite Shard x2 on a corpse that is lying by a pillar
+- [ ] To the right of the corpse is an illusory wall. Hit it and go up the stairs to find the Grave Warden's Ashes
+- [ ] Turn around and go towards the other side, finding a Large Titanite Shard on the right side
+- [ ] Kill the skeleton with the hat and the skeleton ball will break revealing a Dark Gem
+- [ ] Stay on the second level and you'll find Carthus Rouge x3 next to the archer skeleton
+- [ ] Go down to the pillar room and head inside the tunnel just past the illusory wall to find a Crystal Lizard who drops a Fire Gem
+- [ ] Exit the tunnel to find Yellow Bug Pellet x3 on the left side
+- [ ] Go to the gate with the skeletons to find a Large Soul of a Nameless Soldier and Black Bug Pellet x2
+- [ ] Open the gate and get the Ember on the other side
+- [ ] Go through the tunnel that leads to the main pillar room. If you're embered, you'll be invaded by Knight
+- [ ] Slayer Tsorig. Regardless of who wins the fight, you will receive the My Thanks! gesture. Defeating him will grant you the Knight Slayer's Ring
+- [ ] Turn around and just before the bridge go right and follow the path to Anri. Once again you'll be asked whether you have found Horace. You haven't yet, but we're about to. Be sure to exhaust the dialogue
+- [ ] Get down to the left of Anri and follow to the path the next boss
+- [ ] Defeat High Lord Wolnir; receive Soul of High Lord Wolnir
+- [ ] During the battle you had an opportunity to grab the Grave Warden Pyromancy Tome, but should you have not picked it up then it can now be found in the far left corner of the goblet room. Cornyx can't read this pyromancy tome, so you'll have to wait until you free Karla to turn it in
+
+## Smouldering Lake (Optional)
+
+- [ ] From the High Lord Wolnir bonfire go back to the bridge and hit the supports to create a ladder
+- [ ] Head down to find a room with a Demon who drops a Soul of a Demon after killing him
+- [ ] In the same room on the top level is a Mimic which drops the Black Blade
+- [ ] Go down the stairs to find Large Titanite Shard and Large Soul of a Nameless Soldier
+- [ ] Go down the stairs to find Old Sage's Blindfold + Witch's Ring
+- [ ] Activate the Abandoned Tomb bonfire
+- [ ] When heading towards the Old Demon King fog door, a Carthus Sandworm will appear out of the ground. Align the worm between the ballista and yourself, such that the ballista kills the worm while you are standing in a terrain safe spot. You'll gain Lightning Stake + Undead Bone Shard
+- [ ] Around the front part of the lake you will find the Shield of Want as well as 5 pickups containing one
+- [ ] Large Titanite Shard each
+- [ ] Obtain the Speckled Stoneplate Ring which is located on a corpse in Smouldering Lake behind a brick wall. Go along the left wall when looking from the fog door to find the wall. You will need to trick the ballista into destroying the brick wall
+- [ ] Follow the left wall farther into the lake to find a Chaos Gem and around the middle of the lake you will see a brick floor; stand on it to trick the ballista into destroying the floor to unlock a shortcut but do not decend into it
+- [ ] Go up the slope to the right of the fog door for another Large Titanite Shard as well as the Demon Ruins bonfire down the stairs
+- [ ] On the top floor go into the left corner to find an Ember
+- [ ] Go right and fight some Grus to find an Ember. From here you can see an item, an Estus Shard. It's not recommended to jump for it, we'll get it later
+- [ ] Head back into the first room, go down the stairs and in the back left you'll find another Undead Bone
+- [ ] Shard
+- [ ] In this room take the left hallway on the other side (not the one with the rat). Hit the illusory wall at the end and pick up the Black Knight Sword
+- [ ] Go out, right and follow this way until you get to a room with some stairs. Take a left before the stairs, then right to find an Ember. Now go up the stairs to find the Old King's Antechamber bonfire
+- [ ] From the bonfire go into the nearest hallway and follow the right path until you find a Crystal Lizard who drops a Chaos Gem
+- [ ] Take the straight path from the Old King's Antchechamber bonfire and you'll find the Izalith Pyromancy
+- [ ] Tome on the ground
+- [ ] In the Old King's Antechamber there is an illusory wall to the right of the stairs in the corner. Activate it and then move down the hallway that has loads of Writhing Rotten Flesh enemies on the ceiling and grab the Estus Shard on a body at the end
+- [ ] Turn around and take the left to get back into the main room. From here go into the hallway that is in the left corner (the one with the rat)
+- [ ] Take the right before the rat, hit the illusory wall straight ahead. Take a left and pick up the Quelana
+- [ ] Pyromancy Tome. Only Karla can read this tome
+- [ ] In the lava-filled room right next to the tome you can find Toxic Mist and White Hair Talisman
+- [ ] Head back and keep on taking right turns until you reach a hallway downstairs with a big rat. Reveal an illusory wall on the left side of this hallway and grab Large Titanite Shard x3 from a chest
+- [ ] Behind the chest is another illusory wall. Drop down a ledge to get the Izalith Staff
+- [ ] In the room with the Basilisks is a Titanite Scale
+- [ ] Before going up the stairs take a left when you get to them and you'll encounter Knight Slayer Tsorig.
+- [ ] Regardless of who wins the fight, you will receive the My Thanks! gesture (if you haven't gotten it before). After killing him, he will drop Fume Ultra Greatsword + Black Iron Greatshield. If this is your first time defeating him, he will drop the Knight Slayer's Ring as well. Also, the Black Iron Set can be obtained via the Shrine Handmaid
+- [ ] In this lava room you can get Sacred Flame and an Ember
+- [ ] Go back to the stairs and cross the bridge for a Soul of a Crestfallen Knight
+- [ ] Go up the ladder, then another ladder and drop down to the right to find the Dragonrider Bow
+- [ ] Exit the tunnel at the top to get back to the Smouldering Lake. Drop down on the left to find Homeward
+- [ ] Bone x2 next to the wall
+- [ ] After shutting off the ballista, you'll notice some cliffs that you can drop onto that will eventually lead you back to the lake. You'll also land right in front of a cave you haven't explored (you can also get here just by running to the right from the Abandoned Tomb bonfire). Head inside to find two Crystal Lizards who drop Twinkling Titanite and Titanite Chunk
+- [ ] You'll also find Horace, who has succumbed to his Dark Sigils and become hostile. Kill him and he'll drop the Llewellyn Shield. The Shrine Handmaid will also now sell Horace's Executioner's Armor Set
+- [ ] Inside here you will also find Yellow Bug Pellet x2, a Large Titanite Shard, and another Large Titanite
+- [ ] Shard
+- [ ] If you killed Horace but have not yet defeated High Lord Wolnir, you can go back to the Catacombs and speak with Anri above the wooden bridge. Tell of the Smouldering Lake and you'll be given the Ring of the Evil Eye. If Wolnir has already been destroyed, Anri will be gone from the Catacombs and you will be given the ring on your next meeting in Irithyll of the Boreal Valley
+- [ ] Before fighting the Old Demon King you can summon Knight Slayer Tsorig (next to the Demon Ruins bonfire, if you defeated him in Catacombs of Carthus) and Great Swamp Cuculus (in front of the fog door). If the Great Swamp Cuculus survives the fight, go back to the cage in Undead Settlement you found Cornyx in to receive Spotted Whip + Cornyx's Set
+- [ ] Defeat the Old Demon King; receive Soul of the Old Demon King
+
+## Irithyll of the Boreal Valley
+
+- [ ] When first arriving in Irithyll, you'll battle one of Sulyvahn's Beasts, which drops Pontiff's Right Eye, and then move through a force field to the Central Irithyll bonfire. If you run past the beast, it will despawn and you will encounter it later in a more challenging area. Light the bonfire and return to the middle of the bridge and Sirris' summon sign should be there if you've been following her quest. Activate it and you'll enter her world and have to fight Creighton the Wanderer. After defeating the invader, visit Firelink
+- [ ] Shrine and she will give you Blessed Mail Breaker + Silvercat Ring for the troubles
+- [ ] Just before the barrier you will find one Homeward Bone
+- [ ] Around the fountain you can find Large Soul of a Nameless Soldier, Rime-blue Moss Clump, and Soul of a Weary Warrior
+- [ ] Go up the stairs and to the left on the railing is a Soul of a Weary Warrior
+- [ ] Going straight and up the two stairs to the right is a Large Titanite Shard
+- [ ] On the fountain up ahead are Budding Green Blossom and Large Soul of a Nameless Soldier
+- [ ] A bit farther and to the left next to a tree is Rime-blue Moss Clump x2
+- [ ] Go up to the Fire Witch to get the Large Titanite Shard
+- [ ] To the left of the main road is a Crystal Lizard who drops a Twinkling Titanite
+- [ ] Attack the railing to the right of the lizard to reveal a staircase. Go down and to the right is a Large
+- [ ] Titanite Shard
+- [ ] Kill the Evangelist in the area below for Dorhys' Gnawing
+- [ ] Pick up the Witchtree Branch, open the gate, and go back to where the lizard was
+- [ ] Just before the crossroads is a Large Soul of a Nameless Soldier
+- [ ] Take the right here and pick up the Large Titanite Shard from a corpse
+- [ ] Now take the left at the crossroads and before going up to the church is a Large Titanite Shard to the left Go upstairs and inside, light the Church of Yorshka bonfire, and pick up Proof of a Concord Kept from a corpse in the back
+- [ ] Anri will be in the same room. Exhaust the dialogue to receive the Quiet Resolve gesture. You will also be given the Ring of the Evil Eye if not obtained previously. Next is the major dividing point in Anri's story: From here on out, if you want to follow this quest line to its conclusion, follow Anri A. If you want the Usurpation of Fire ending, follow Anri B
+- [ ] Anri A Progress: (Slayer of Aldrich Ending) Look towards the side of the room that has some stone statues. One of these is actually a pilgrim in disguise sent by Yuria. Slash away at the statues until you find him and make sure he's dead. He'll drop the Chameleon sorcery for you as well
+- [ ] Anri B Progress: (Lord of Hollows Ending) Do nothing in regards to the pilgrim
+- [ ] From the bonfire go down the stairs and turn right to find the Roster of Knights. Go out onto the graveyard and look for a Fading Soul near the cliff. To the right near a tree is another Fading Soul
+- [ ] In front of the large tombstone at the end of this path is Homeward Bone x3
+- [ ] An Undead Bone Shard is located behind the grave. If you helped Sirris, Creighton the Wanderer will invade you here if you're embered. Killing him will gain you the Dragonslayer's Axe and allow you to grab Creighton's Mirrah Chain Armor Set on the bridge where you used Sirris' summon sign
+- [ ] From the entrance to the graveyard go down the stairs on the left and left again to get to Kukri x8 and Rusted Gold Coin
+- [ ] Now take the other way to get to a dark room. On the ground level of this room is Blue Bug Pellet x2
+- [ ] Up on the rafters is a Shriving Stone and in the chest on the mid level is Yorshka's Spear
+- [ ] Go down to the stairs and right just before the lake. The wall in the first right tunnel is an illusory wall with a Crystal Lizard behind it who drops Twinkling Titanite
+- [ ] Past the other tunnel and next to the tree is a Blood Gem
+- [ ] Jump into the lake from here for a Ring of Sacrifice
+- [ ] In the lake you'll find a bundle of Green Blossom x3, a Large Soul of a Nameless Soldier, the Great
+- [ ] Heal miracle (it's on the right side of the lake that is below the entrance to Irithyll), another Green
+- [ ] Blossom x3 bundle, and finally an individual Green Blossom
+- [ ] Activate the Distant Manor bonfire while you're here, then head back upstairs
+- [ ] Enter the sewers from the lake and pick up two droppings: Dung Pie x3 and Dung Pie x3
+- [ ] In the corner opposite some stairs are the Excrement-covered Ashes
+- [ ] Head up these stairs and you'll find Siegward of Catarina hanging out by the fire. Exhaust his dialogue and you'll receive the Emit Force miracle, a Siegbräu, and any gestures you missed from his first encounter
+- [ ] The first Silver Knight you encounter in the next room drops Large Titanite Shard + Divine Blessing.
+- [ ] Head up the stairs on the left to find two more Silver Knights who both drop Large Titanite Shard x2 as well as three chests containing the Leo Ring, Smough's Great Hammer, and a Divine Blessing
+- [ ] If you are on bad terms with Yuria (healed the Dark Sigil or attacked her or killed the assassin in the Church of Yorshka) and are embered, dark spirit Londor Pale Shade will invade your world after the Silver Knights' room. (Note: If you are currently eligible for the invasion by Creighton the Wanderer, you will have to eliminate that one first to get Londor Pale Shade to spawn.) If this is your first time killing him, you will receive the Manikin Claws. If you defeated Londor Pale Shade in both of his invasions, then you can pick up the Pale Shade Set near Yuria's location in Firelink Shrine
+- [ ] Next to the stairs here is a Large Soul of a Nameless Soldier and farther up on a railing is a Large
+- [ ] Titanite Shard
+- [ ] You can take the elevator here and open the gate for a shortcut
+- [ ] In the next room up ahead you can find Blue Bug Pellet x2 on a corpse and if you go down the ladder at the top you can find a Large Titanite Shard
+- [ ] Go outside to find a Soul of a Weary Warrior
+- [ ] Go down the left side of the fog door and get the Ember from a corpse and open the shortcut
+- [ ] Go up to the fog door again and drop down to the altar for the Ring of the Sun's First Born and a Lightning Gem
+- [ ] The wall to the left of the altar (with your back to it) is an illusory wall with the Magic Clutch Ring behind it
+- [ ] Turn around and take the exit opposite of you to get the Soul of a Weary Warrior from where the Fire
+- [ ] Witch is as well as another Soul of a Weary Warrior above it
+- [ ] Return to Firelink Shrine and talk to Greirat of the Undead Settlement. He will ask to pillage Irithyll. Only do this after confirming Siegward is in Irithyll OR if Patches still has Siegward's armor. If you have neither, Greirat will perish and his ashes can be found in the sewer area
+- [ ] If you did not purchase Siegward's armor you can send Patches out to rescue Greirat. Refresh Firelink
+- [ ] Shrine after sending Greirat out and Patches will ask you where he went. Tell him and Patches will head out to rescue Greirat
+- [ ] Black Hand Gotthard can be summoned for the Pontiff Sulyvahn fight. If this is the first time you've summoned him, you'll receive the By My Sword gesture
+- [ ] If you are following the Yoel/Yuria quest line, you can summon the Londor Pale Shade. If this is the first time you've summoned them, you'll receive the Duel Bow gesture
+- [ ] Anri of Astora can also be summoned instead of the Londor Pale Shade
+- [ ] Defeat Pontiff Sulyvahn; receive Soul of Pontiff Sulyvahn
+- [ ] Yuria/Anri B Progress: Head back to Firelink Shrine after defeating Pontiff and talk to Yuria and she'll discuss that the "marriage ceremony" is almost complete
+- [ ] Greirat should have also returned from his pillage
+- [ ] Go right after exiting from the Pontiff bonfire to find a Large Titanite Shard
+- [ ] In the same area are two Crystal Lizards who drop Twinkling Titanite
+- [ ] Go to the left of the courtyard and enter the dark section. At the back you'll find the Dark Stoneplate
+- [ ] Ring
+- [ ] Enter the cathedral from the top of the dark section, unlock an elevator shortcut back down to Sulyvahn's room, and cross the bridge to the other side to find a Mimic who has the Golden Ritual
+- [ ] Spear
+- [ ] Cross the bridge and go around to the other side to find a Crystal Lizard who drops a Simple Gem
+- [ ] Exit the same way you entered and go right to find a Large Titanite Shard on a corpse
+- [ ] On the courtyard itself you can find a Soul of a Weary Warrior, a Large Titanite Shard, an Ember, and another Ember
+- [ ] At the end of the courtyard are two NPCs and one of them drops the Drang Twinspears
+- [ ] Once you enter the building after the giant courtyard, there will be an illusory wall on the left side that reveals a long ladder down. Head down and defeat two of Sulyvahn's Beasts (killing them grants you the Ring of Favor) and interact with Archdeacon McDonnell to gain the Aldrich Faithful covenant. You can also find Human Dregs, a Deep Gem, and the Water Reserve bonfire in this room
+- [ ] After going up the stairs in the building where the illusory wall was you can find a Titanite Scale on a corpse in one of the outside corners
+- [ ] On the right side of the right tower where you can walk up to the archers is a Large Titanite Shard
+- [ ] As you make your way up the building with the Silver Knight archers, you can drop down to a roof below and find the Easterner's Ashes
+- [ ] Before you enter the hallway that leads to the lift turn around and walk down to the lower tower for a Large Titanite Shard and open the shortcut in the next tower
+- [ ] As you walk back from the shortcut to the hallway you will see Dragonslayer Greatbow + Dragonslayer
+- [ ] Greatarrow x5 on a lower platform
+- [ ] Anri B Progress: Before activating the lift to Anor Londo, there is a path that goes down in the room before the lever. Here you'll find the pilgrim waiting for you. He'll give you the Sword of Avowal and tell you Anri is waiting ahead. Head down, picking up the Brass Set along the way, to find Anri's body at the altar. Perform the Rite of Avowal and you'll gain 3 Dark Sigils, granting you the total amount of 8 Dark
+- [ ] Sigils you need for the Usurpation of Fire ending. To the right of the altar, you will find the Reversal
+- [ ] Ring. Revisit the pilgrim and you will discover he is now dead with the Chameleon sorcery on his body
+- [ ] Anri B Progress: You can reload the area and pick up Anri's Straight Sword from where Anri was lying
+- [ ] Anri A Progress: You will find an illusory wall where the path down to the altar would be. You can find the Brass Set and Reversal Ring in the same places
+- [ ] Before the lift is an Ember
+
+## Anor Londo
+
+- [ ] Use the lift to reach the Anor Londo bonfire. Run back down the stairs and you'll be able to see a tower in the distance. Walk across the sky on an invisible floor (don't worry, you can't fall off at the sides) and continue walking straight until lined up with the tower, then walk towards it. You'll find Company Captain
+- [ ] Yorshka who will allow you into the Blade of the Darkmoon covenant if you perform the Darkmoon
+- [ ] Loyalty gesture
+- [ ] If you drop down the tower you can find Painting Guardian's Curved Sword as well as the Painting
+- [ ] Guardian Set. Warp back to the Anor Londo bonfire
+- [ ] Anri B Progress: If you didn't get it before, you can return to where Anri's body was to find Anri's Straight
+- [ ] Sword
+- [ ] On the left after going up the stairs to Anor Londo is a Large Soul of a Weary Warrior
+- [ ] On the right platform with the red-eyed knight is a Soul of a Crestfallen Knight
+- [ ] Head left and you'll find the Giant Blacksmith's corpse with the Giant's Coal by his body, granting you
+- [ ] Lightning, Simple, and Chaos infusions
+- [ ] After entering the main hall turn left and next to the Deacons is a Proof of a Concord Kept
+- [ ] On the other side you can find Moonlight Arrow x6
+- [ ] In the main room of the castle, you will be ambushed by a Deep Accursed enemy. Defeating him will provide you with Aldrich's Ruby
+- [ ] Looking at the fog door you will find a chest on the left side, surrounded by Rotten Flesh of Aldrich enemies, with an Estus Shard inside
+- [ ] Anri A Progress: If you killed Horace in Smouldering Lake, Anri's summoning sign will appear outside in front of the large, golden doors in Anor Londo. Using this sign will cause you to be summoned as a phantom to help kill Aldrich
+- [ ] Defeat Aldrich, Devourer of Gods; receive Cinders of a Lord + Soul of Aldrich
+- [ ] After defeating Aldrich, take the elevator up and you will discover the Sun Princess Ring in Gwynevere's
+- [ ] Chamber
+- [ ] Anri A Progress: Return to Firelink Shrine and talk to Ludleth who hands you Anri's Straight Sword, which was left with him as a thanks to you
+- [ ] Anri A Progress: Anri has also succumbed to the Dark Sigils and become hostile. If you told Anri of Horace's location in Smouldering Lake, go there. If not, go up the first set of stairs from the Cathedral of the Deep bonfire and take a right then follow the path up the hill. Killing Anri allows you to purchase the Elite Knight Armor Set from the Shrine Handmaid
+- [ ] If you are following Sirris' quest and have defeated Aldrich, travel to Undead Settlement via either the Cliff Underside or Dilapidated Bridge bonfire and make your way back to the room before the Curse- rotted Greatwood fight. You will find Sirris' summon sign right before the giant hole that leads to the Pit of Hollows. You'll be summoned to fight Holy Knight Hodrick, who turns out to be Sirris' grandfather.
+- [ ] After defeating Holy Knight Hodrick, you will gain the Mound-makers covenant (if not obtained before). The Sunset Armor Set will be available in the Pit of Hollows bonfire area and you will find the Sunset
+- [ ] Shield on a grave at the cliff outside of Firelink Shrine (from the Iudex Gundyr bonfire go up the first set of stairs, then right) After defeating Holy Knight Hodrick, Sirris will return to Firelink Shrine and she will ask to be your knight. Agree and she'll be able to be summoned for the final three main boss fights of the game.
+- [ ] Refuse and you'll find her hollow in the Pit of Hollows
+
+## Irithyll Dungeon
+
+- [ ] Warp to the Distant Manor bonfire, follow the path down, and drop down immediately for a Rusted Gold
+- [ ] Coin. Drop farther down to find a Large Titanite Shard behind a pillar
+- [ ] When you are outside on a cliffside path, Alva, Seeker of the Spurned, will invade if you are embered.
+- [ ] He drops the Murakumo when killed
+- [ ] The first cell on the left has a Rusted Coin in it
+- [ ] The second cell on the same side has a Large Titanite Shard
+- [ ] On the outer path is a Fading Soul
+- [ ] At the end of the path is a Large Titanite Shard
+- [ ] Drop down to the lower level for a Large Soul of a Nameless Soldier
+- [ ] Continue down this path and in a cell you'll find the Old Sorcerer Set
+- [ ] The last cell will contain an enemy who drops Great Magic Shield
+- [ ] Go back to the upper level, cross the bridge in the middle, and the last cell on the right contains a Large
+- [ ] Titanite Shard
+- [ ] Turn around and enter the next cell to find Pale Pine Resin x2 near the destroyed wall
+- [ ] Go through the rooms and enter the last cell on the other side to find Jailbreaker's Key, then reverse direction and open the shortcut door
+- [ ] Cross the bridge back to the other side, head left, and open the window grate at the end of the hallway using your newly acquired key. Drop down the ledge here to find the Bellowing Dragoncrest Ring on the left After jumping down to the bridge head left for Homeward Bone x2
+- [ ] Re-enter the dungeon via the door here and kill the Crystal Lizard who drops a Titanite Scale
+- [ ] The next room on this hallway holds a Simple Gem in a small side room on the right Retrace your steps all the way outside, then head downstairs and kill the Mimic in the next room for an Estus Shard
+- [ ] Go down the hallway in the next room to find a Soul of a Weary Warrior
+- [ ] If you want you can go back to the entrance, jump down the first hole, and quickly take out the Crystal
+- [ ] Lizard for a Titanite Chunk (the giant only becomes hostile if you attack it, so you can safely take out the lizard). Otherwise wait until you've defeated the giant. If you are patient you can kill the giant right here.
+- [ ] In front of the giant is a Soul of a Crestfallen Knight
+- [ ] If you don't want to deal with the giant right now go back to where you found the Soul of a Weary
+- [ ] Warrior and drop down the hole
+- [ ] Before the gate is a Pickaxe
+- [ ] Go up the tunnel for a Soul of a Weary Warrior
+- [ ] You'll find two chests at the end of a hallway. The chest on the left is a Mimic with the Dark Clutch Ring.
+- [ ] After you have taken the Old Cell Key from the right chest, you will be ambushed by several Basilisks.
+- [ ] The Old Cell Key will be used to free Siegward later
+- [ ] Turn around, enter the tunnel on the left, and in the next room find Dung Pie x4
+- [ ] After entering the big room with the jailers go left for a Large Titanite Shard
+- [ ] Continue through the tunnel and near the lift is a dragon statue that has the Dragon Torso Stone. This area will be used later to access the Archdragon Peak once you have the Path of the Dragon gesture
+- [ ] Go up the lift and find a Large Soul of a Nameless Soldier next to the shortcut to the main dungeon
+- [ ] If you jump off the elevator midway, you'll find the Lightning Blade miracle
+- [ ] Return to the room with several Jailers. To the left, you'll discover a cell containing five Wretches and the Profaned Coal, which grants Dark, Blood, and Hollow infusions
+- [ ] In the middle of the room is an Ember. On the right side is another Ember
+- [ ] In the short tunnel on the left is a Mimic with Titanite Scale x2
+- [ ] In the cell on the far left side, you'll find the Xanthous Ashes and the Dusk Crown Ring
+- [ ] The middle cell on the right holds Karla, but is locked. You'll find the Jailer's Key Ring in the next zone
+- [ ] In front of Karla's cell, you'll find the Alva Set (this set only appears if you have killed Alva at the start of the dungeon)
+- [ ] Head outside and before crossing the bridge go left for a Large Soul of a Weary Warrior
+
+## Profaned Capital
+
+- [ ] At the first bonfire you will find poor Laddersmith Gilligan's dead corpse. You'll receive the Stretch Out gesture and an Undead Bone Shard from examining it
+- [ ] Climb back down, go outside using the hole in the wall, and take the ladder to the left to find Rusted
+- [ ] Coin x2
+- [ ] Use the plank ramp next to the Gargoyle that ambushes you to enter a room with two Crystal Lizards who drop Twinkling Titanite. In the back left you can find a Rusted Gold Coin
+- [ ] Go outside onto the planks and on the right side you can find Blooming Purple Moss Clump x3
+- [ ] In the toxic swamp below you can find the Cursebite Ring and a Poison Gem (in the cave behind where you drop down), a Purging Stone (in the open), and a Shriving Stone (behind the building)
+- [ ] Enter the building on the ground floor to find Hand Ogres (I recommend using a weapon with bleed effect and/or Carthus Rouge). If you kill one, you will receive the Eleonora axe. In the same room is Purging Stone x3
+- [ ] Climb the ladder, take the stairs to the top of the building in this area, and kill the court sorcerer to receive Logan's Scroll
+- [ ] There is Poison Arrow x18 on the right side of the roof
+- [ ] Fall down from the top of the roof into the building for the Wrath of the Gods miracle
+- [ ] In this room, you will find the Court Sorcerer Set and a Mimic chest containing the Court Sorcerer's Staff
+- [ ] Go down the stairs here to find some Rubbish
+- [ ] On the roof where you fought the court sorcerer, look torwards the stairs against the wall. You should see an open window which you can jump into. This leads to the cell that Siegward is stuck in. Open it and exhaust his dialogue, he'll give you a Titanite Slab for saving him. The Covetous Gold Serpent Ring is in the same room
+- [ ] Return to the roof and follow the stairway up. At the top of the stairs, attack into the alcove directly in front of you to unveil two invisible Jailers. At the end of the hall is the Jailer's Key Ring, which is used to free Karla
+- [ ] Exit through the hole in the wall to end up in the giant's cell. If you haven't killed him yet, do so now
+- [ ] In this room you can also pick up the Profaned Flame pyromancy, a Large Titanite Shard, and another
+- [ ] Large Titanite Shard
+- [ ] Exit the room through the tunnel on the left, go up the elevator, and open the shortcut to the Irithyll
+- [ ] Dungeon bonfire
+- [ ] Go back to the giant's cell and exit the opposite way for a Mimic chest with Dragonslayer Lightning
+- [ ] Arrow x10
+- [ ] Go up the ladder and jump from rafter to rafter for Lightning Bolt x9
+- [ ] With the giant dead, take out the Crystal Lizard for a Titanite Chunk and pick up a Soul of a Crestfallen
+- [ ] Knight (if you haven't done so before) From here you can also go to where Karla's cell is and send her to Firelink Shrine. Give her the two remaining pyromancy tomes and, with some effort, you can also give her the Londor Braille Divine Tome and Deep Braille Divine Tome instead of corrupting Irina
+- [ ] Teleport to the Irithyll Dungeon bonfire and open the last cell on the right in the first section for a Rusted
+- [ ] Gold Coin. Now drop down before the window you opened before, turn around, and open the first cell on the left which contains the Prisoner Chief's Ashes
+- [ ] Go back to the Profaned Capital bonfire
+- [ ] Take the ladder on the wall down and cross the bridge for Onislayer Greatarrow x8 and a Large Soul of a Weary Warrior farther on From the bridge drop down onto the structure below to find a matching Onislayer Greatbow
+- [ ] Drop farther down and loot a Rusted Coin. At the end of the platform you can find another Rusted Coin
+- [ ] Before the fog gate go right to find three chests. The leftmost chest is a Mimic with the Greatshield of Glory. The chest next to it is also a Mimic, with Rusted Gold Coin x2. The right chest is real and contains an Ember
+- [ ] Enter the boss room. If you are following Siegward's quest, a cutscene will show Siegward has come with you to help put his old friend to rest. Defeat Yhorm the Giant; receive Cinders of a Lord + Soul of Yhorm the Giant. Speak to Siegward for a Siegbräu
+- [ ] Upon defeating Yhorm, you will probably be teleported to Emma at the High Wall of Lothric (since this is the third Lord of Cinder). Speak with her to obtain the Basin of Vows. Approach the statue of a beheading knight to start the boss fight against the Dancer of the Boreal Valley
+- [ ] If Siegward helped you defeat Yhorm, return to Yhorm's boss room to find Siegward's Storm Ruler +
+- [ ] Pierce Shield as well as his Catarina Armor Set. If Yhorm is your second Lord of Cinder simply walk towards the flame on the outside and Siegward will die, dropping the items
+
+## Consumed King's Garden (Optional)
+
+- [ ] Defeat the Dancer of the Boreal Valley; receive Soul of the Dancer
+- [ ] After defeating the Dancer of the Boreal Valley, you can place the basin and climb the ladder to access
+
+## Lothric Castle
+
+- [ ] Take the first left to enter the Consumed King's Garden and pick up a Soul of a Weary Warrior
+- [ ] Halfway down the elevator, jump off to a platform and then head down the stairs to find an Estus Shard on the right From here go left and drop down to the stairs to find a Titanite Chunk
+- [ ] To the right of the elevator structure is a Ring of Sacrifice
+- [ ] Around where the slugs are you can find Black Firebomb x2, the Claw, the Shadow Set, and a Human
+- [ ] Pine Resin
+- [ ] Below the stairs on the left is a Dark Gem. Go up the stairs for a Titanite Chunk
+- [ ] On the right side you can find Human Pine Resin x2 and another Titanite Chunk
+- [ ] On the right side of the garden is a door with an elevator. Go up and enter the next room to find a Titanite Scale and a Titanite Chunk. Open the shortcut while you're here
+- [ ] Take the elevator back down and jump off at the halfway point to find the Dragonscale Ring
+- [ ] You can summon Hawkwood the Deserter for assistance if he has left Firelink Shrine. His summon sign is located on the large platform before the two knights
+- [ ] Kill the second greatsword-wielding knight outside the boss room to receive the Magic Stoneplate Ring
+- [ ] Defeat Oceiros, the Consumed King; receive Soul of Consumed Oceiros
+- [ ] After defeating Oceiros, continue on down and you'll find the Path of the Dragon gesture on a body
+- [ ] To the left of the gesture is a chest containing a Titanite Scale. Further on is a second chest holding another Titanite Scale. Advance through the illusory wall behind this chest to enter the Untended
+- [ ] Graves
+
+## Untended Graves (Optional)
+
+- [ ] From the bonfire go straight to find a Shriving Stone
+- [ ] Collect the Ashen Estus Ring located to the left from the bonfire
+- [ ] Pick up a Soul of a Crestfallen Knight near the square centre
+- [ ] Near the left outer wall is a Titanite Chunk
+- [ ] To the right is another Titanite Chunk
+- [ ] Kill the two Ravenous Crystal Lizards for four Titanite Scales
+- [ ] Where the first bonfire was in Cemetery of Ash, you'll be invaded by Daughter of Crystal Kriemhild if you're embered
+- [ ] Follow the path on the left for a Hidden Blessing
+- [ ] Sword Master is available to be summoned outside the boss room
+- [ ] Defeat Champion Gundyr; receive Soul of Champion Gundyr
+- [ ] In the arena is also the Black Knight Glaive
+- [ ] At the very end of the Untended Graves when you reach the alternate version of Firelink Shrine, explore the graves for the Hornet Ring (on the right where Hawkwood's Shield was) and Chaos Blade (where
+- [ ] Sword Master was)
+- [ ] Above the shrine entrance is a Soul of a Crestfallen Knight
+- [ ] Inside Firelink Shrine, you will discover the Coiled Sword Fragment where the bonfire normally is There is another Shrine Handmaid here that sells the Wolf Knight Armor Set, the Priestess Ring, and other merchandise. Unlike the regular Handmaid, she will not respawn if killed, so be careful
+- [ ] Where Andre normally is, you will find the Blacksmith Hammer
+- [ ] Activate the illusory wall to where Irina normally is and you'll find the Eyes of a Fire Keeper. These can be given to the Fire Keeper to enable the End of Fire ending
+- [ ] If Yuria of Londor did not spawn in your game, you will find Hollow's Ashes where Yoel would normally be
+- [ ] Archdragon Peak(Optional)
+- [ ] Return to the area in the Irithyll Dungeon with the dragon statue and perform the Path of the Dragon gesture to be teleported to Archdragon Peak
+- [ ] From where you spawn head to the tree for a Soul of a Weary Warrior
+- [ ] At the top of the big rock farther on is a Lightning Gem
+- [ ] On the left cliff is Homeward Bone x2
+- [ ] A Titanite Chunk is behind some rocks a bit farther on Next to the bonfire is an Ember
+- [ ] To the right of the structure in front of you is a Soul of a Nameless Soldier and to the left is a Titanite
+- [ ] Chunk
+- [ ] On top of the structure is the Ancient Dragon Greatshield and in the corner below is another Titanite
+- [ ] Chunk
+- [ ] Follow the path to the left of the gate to obtain the Lightning Clutch Ring
+- [ ] Defeat the Ancient Wyvern boss and you'll receive the Dragon Head Stone
+- [ ] After defeating the Ancient Wyvern, you will be transported to the Dragon-Kin Mausoleum bonfire
+- [ ] Return to the entrance of the Ancient Wyvern boss area
+- [ ] In the middle of the arena is a Large Soul of a Weary Warrior
+- [ ] Go to the right and pick up Stalk Dung Pie x6, an Ember, and another Ember
+- [ ] The railing is broken at the end, allowing you to walk along the edge. At the end of the path is the Ring of Steel Protection
+- [ ] Left of the arena middle is a Large Soul of a Nameless Soldier. Go up the stairs and left for Lightning
+- [ ] Urn x4
+- [ ] Continue down the normal path until you can go left into the dome building to find a Titanite Chunk
+- [ ] Go down the ladder to find Twinkling Titanite x2
+- [ ] Go back to the normal path and on the edge of the platform is Dung Pie x3
+- [ ] Go up the stairs and get to the top of this building for Titanite Chunk x2 and Lightning Bolt x12
+- [ ] Head to the area where you did the plunging attack, but this time climb up the ladder on the other end for Twinkling Titanite x2
+- [ ] Kill the Drakeblood Knight back at the Dragon-Kin Mausoleum to receive the Drakeblood Greatsword.
+- [ ] After killing the Drakeblood Knight, return to the Oceiros, the Consumed King bonfire and run up to the altar where you got the Path of the Dragon gesture to find the Drakeblood Set waiting for you there
+- [ ] Perform the Path of the Dragon gesture in front of the altar in the Dragon-Kin Mausoleum to receive the Calamity Ring
+- [ ] Turn around at the altar and follow the path for a Titanite Scale as well as another Titanite Scale further up Entering the altar room you can find a Soul of a Crestfallen Knight in the back left On the right side of the top level is an exit to the exterior with a Titanite Scale on a corpse
+- [ ] After going back in you can turn left to activate a shortcut
+- [ ] Examine the wooden gate to receive the Dragonslayer Spear
+- [ ] Proceed down the stairs, follow the path, and climb the ladder near the scaffolding to receive the Thunder Stoneplate Ring
+- [ ] Go along the path until you come to a Crystal Lizard who drops Twinkling Titanite x3. The chest in the next room contains Titanite Scale x3
+- [ ] In the former room you can jump on the small stone altar to pick up the Soul of a Weary Warrior
+- [ ] As you advance, you will encounter a Wyvern. You can kill this dragon safely by using arrows. Slaying it will reward you with Titanite Chunk x6 + Titanite Scale x3 + Twinkling Titanite x3 and 50,000 souls
+- [ ] In the next building, you should encounter the Rapier Champion; slay him for Ricard's Rapier. (It's also possible to get a Havel Knight, who drops Dragon Tooth + Havel's Greatshield)
+- [ ] In the following room, you will encounter a bell with a lever. Do not ring this bell until you are finished with this zone
+- [ ] Advance to discover the Great Belfry bonfire
+- [ ] If you go down the stairs you can find a Large Soul of a Crestfallen Knight in the middle
+- [ ] If he moved on from Firelink Shrine, you can summon Hawkwood the Deserter at the bottom of the stairs outside the the Great Belfry bonfire. He will assist you to get to the top of the stairway with loads of enemies in the path. Use the Path of the Dragon gesture at the altar at the very top of the stairway
+- [ ] (Hawkwood will show you where) and you'll get the Twinkling Dragon Torso Stone
+- [ ] On the way up the hill to get the Twinkling Dragon Torso Stone, you will find the Dragon Chaser's Ashes off to the left side
+- [ ] Go down the hill and through the structure on the left to end up at a ladder. Next to the ladder is a chest with Twinkling Titanite x3
+- [ ] Climb the ladder to discover Havel standing in front of a dead dragon. Kill him for Dragon Tooth +
+- [ ] Havel's Greatshield. Next to the dragon is a Titanite Slab
+- [ ] To the left of Havel, you can drop down a ledge to find the Great Magic Barrier miracle
+- [ ] After defeating Havel, you can find Havel's Set near the Stray Demon above the Old Wolf of Farron
+- [ ] Head back to Firelink Shrine and talk to Andre. He'll give you a message from Hawkwood asking you to come to the Abyss Watchers bonfire to settle things. Head there and battle Hawkwood. If you win, you gain the Twinkling Dragon Head Stone. If you lose, Hawkwood takes your Twinkling Dragon Torso
+- [ ] Stone. You can battle him as many times as you like until you beat him
+- [ ] Ring the bell to unlock the next boss battle
+- [ ] Defeat the Nameless King; receive Soul of the Nameless King
+- [ ] After killing the Nameless King turn around and pick up the Ember from the corpse in the other room
+- [ ] On the path towards the mausoleum you'll find a Titanite Slab and farther on the Dragonslayer Set
+
+## Lothric Castle
+
+- [ ] Greirat will request to pillage Lothric Castle. If you allow him, he will die on this trip as there is no method to saving him. His corpse with Greirat's Ashes will be found later in the Grand Archives, enabling all of his wares at the Shrine Handmaiden and unlocking Lightning Urn, Splintering Bolt, and Exploding Bolt. If you send him out, talk to Unbreakable Patches, as he will ask where Greirat goes. He will then leave and come back later with a hidden blessing after you defeat a boss
+- [ ] Advance past the three Lothric Knights to the Lothric Castle bonfire, picking up the Soul of a Crestfallen
+- [ ] Knight along the way
+- [ ] In the next room, you will find the Prayer Set in a chest
+- [ ] On the railing to the left is a Titanite Chunk
+- [ ] Continue outside and enter the room on the right. There will be a Winged Knight with twinaxes and a Twinkling Titanite behind the ladder. Climb the ladder and there will be an illusionary wall to a room with the Winged Knight Set and Sacred Bloom Shield
+- [ ] Go outside again and at the fork go left for a Titanite Chunk
+- [ ] Go up the right stairs, down, and left for a Large Soul of a Weary Warrior
+- [ ] On the other side is Titanite Chunk x2
+- [ ] Get back to the main path and in the next area you will find the Dragon Barracks bonfire
+- [ ] In a corner by the bonfire is an Ember
+- [ ] Head up the stairs to the left to find a Lothric Knight and a corpse containing the Greatlance
+- [ ] Starting at the Dragon Barracks bonfire, go up the stairs and to the bridge where the two Lothric
+- [ ] Wyverns are. You can kill a wyvern using a bow, causing the second to die as well. Additionally, you can target the Pus of Man at the wyvern's feet, this will cause the Lothric Wyverns to despawn. Alternatively, you can kill these mobs with melee later
+- [ ] Run almost all the way across the bridge and drop off at the end. An Undead Bone Shard is underneath the bridge
+- [ ] Drop down and pick up Twinkling Titanite x2 (on the left side), a Titanite Chunk, and another Titanite
+- [ ] Chunk
+- [ ] Break the barrels and boxes in the next room to reveal Lightning Urn x3
+- [ ] Kill the Crystal Lizard outside for Twinkling Titanite x2. (Note: If you kill this lizard and then die or reload before killing the second one in this area, that one will disappear permanently)
+- [ ] Farther and on the right is a Large Soul of a Nameless Soldier
+- [ ] Go up the small stairs, kill the Winged Knight, and pick up Sniper Crossbow + Sniper Bolt x11 behind him
+- [ ] Circle back to the bridge and drop down at the near end for a Titanite Chunk
+- [ ] Continue left until you can enter a room with a Large Soul of a Nameless Soldier and a Raw Gem
+- [ ] Go downstairs to encounter a Boreal Outrider Knight in a cellar. After killing it, you will receive the Irithyll
+- [ ] Rapier. In this room you will also find four chests containing Twinkling Titanite x2, a single Twinkling
+- [ ] Titanite, a Titanite Scale, and the Spirit Tree Crest Shield
+- [ ] Take the path right across where the wyverns would spit fire and on the left in the next room is Black
+- [ ] Firebomb x3. Go up the ladder and on the edge is a Large Soul of a Nameless Soldier
+- [ ] Kill the Pus of Man for Titanite Chunk x2 + Ember x2
+- [ ] Turn around and take the exit on the same level to find a Titanite Chunk, a Crystal Lizard who drops
+- [ ] Twinkling Titanite x2, and a Titanite Scale at the end. (Note: If you have died or reloaded since killing the first lizard in this area, the second one will have disappeared permanently)
+- [ ] Now that the wyverns are dead you can pick up these items here in peace: Lightning Urn x6, a Refined
+- [ ] Gem, an Ember, and another Ember
+- [ ] Enter the room with the ladder again, go up the stairs, and at the top you'll find a Mimic with Titanite
+- [ ] Scale x3. Next to it is a Pale Pine Resin
+- [ ] Exit to the right for another Titanite Scale
+- [ ] Continue to the next room for a lever. Pull this lever to open the gate underneath the wyverns
+- [ ] On the edge you can find a Large Soul of a Weary Warrior
+- [ ] An Ember can be found left of the stairs leading up After clearing your way to the roof, you will encounter the entrance to the Dragonslayer Armour boss fight. Opposing this entrance, you will find a shortcut elevator to the entrance of Lothric Castle
+- [ ] Next to the shortcut is also a Sunlight Medal
+- [ ] Facing away from the Dragonslayer Armour bossfight entrance, a doorway lit by torches is to the left. Proceed through the door and up the stairs. On the right is Rusted Coin x2 as well as a chest with a Titanite Scale
+- [ ] Turn around and exit using the door you can see. You will find the Red Tearstone Ring on a body to the right. Drop off the ledge to find Caitha's Chime
+- [ ] Facing away from the Dragonslayer Armour bossfight entrance, head to the right and drop off the ledge to kill the Pus of Man for Titanite Chunk x2 + Ember x2. Next to it is a Soul of a Crestfallen Knight
+- [ ] Inside the building, you will find a Mimic chest containing the Sunlight Straight Sword. In the same room, you will find a corpse with the Braille Divine Tome of Lothric
+- [ ] Facing away from the Dragonslayer Armour bossfight entrance, head to the right and use the ladder on the building to climb up it. You can find a Titanite Chunk on the side facing the fog door
+- [ ] Head over the roofs to the windows of an opposite building. Climb down the ladder and you will find the Knight's Ring
+- [ ] Continue across the bridge to reach the Altar of Sunlight. Pray at it to receive the Praise the Sun gesture and offer Sunlight Medals for the Warrior of Sunlight covenant. The chest contains Titanite
+- [ ] Scale x3. Open the door revealing a shortcut back to the Dragonslayer Armour area
+- [ ] Eygon of Carim can be summoned for the Dragonslayer Armour fight if you have not purchased any dark miracles from Irina and talked to him in Firelink Shrine so he disappears from there. His summon sign will be available in the chapel to the right of the boss area
+- [ ] Sirris can be summoned for this fight if you are friendly. Her summon sign is below the second set of stairs
+- [ ] Defeat the Dragonslayer Armour; receive Soul of Dragonslayer Armour
+- [ ] If Eygon of Carim has left Firelink Shrine, his dead body can now be found in Irina's original cell in the Undead Settlement, containing Morne's Great Hammer + Moaning Shield. You can then purchase
+- [ ] Morne's Armor Set from the Shrine Handmaid
+- [ ] There are two ends to Irina's side quest depending on your actions. (Note: If option B didn't happen yet check back after the Twin Princes fight)
+- [ ] Irina A: By giving her just the Braille Divine Tome of Carim and Braille Divine Tome of Lothric, or by giving her all 4 Tomes, but not buying any dark miracles, you can make Irina a Fire Keeper. Just buy all her standard spells, plus Med Heal, Tears of Denial, Force, Bountiful Light, Blessed Weapon, and Magic
+- [ ] Barrier. (If you want the Saint's Ring, be sure to purchase it now, as she will no longer offer it later.)
+- [ ] She'll move to the bottom of the tower to the left of Firelink Shrine after you refresh the world and will now act as a Fire Keeper. If you did give her the Londor and Deep Tome instead of Karla, they will be on the ground beside her and you can now give them to Karla
+- [ ] Irina B: If you gave Irina the Londor Braille Divine Tome or Deep Braille Divine Tome and bought ANY of these spells (Deep Protection, Gnaw, Dark Blade, Vow of Silence, or Dead Again), she will have disappeared for you sometime in the game from her normal location in Firelink Shrine. She would then be outside near the Iudex Gundyr fight area with Eygon. Eygon will believe you have killed her and is hostile. Upon killing him, you see that Irina is still actually alive, but the corruption has begun for her.
+- [ ] This is an alternate way of Morne's Armor Set being available for purchase. After Irina returns to Firelink
+- [ ] Shrine, buying all the dark miracles listed above will fully corrupt her and she'll no longer act as a vendor to you. Equipping Morne's Gauntlets allows her to believe you to be Eygon and she'll ask to be killed. Do so and you can give her ashes to the Shrine Handmaid to sell her miracles
+
+## Grand Archives
+
+- [ ] From the Dragonslayer Armour bonfire, facing the Grand Archives go right downstairs to find a Titanite
+- [ ] Chunk
+- [ ] In the first area, you will find the Grand Archives bonfire with Black Hand Gotthard's corpse nearby, containing Grand Archives Key + Gotthard Twinswords. (Note: This body will only appear once three
+- [ ] Lords of Cinder, namely the Abyss Watchers, Aldrich, and Yhorm, have fallen)
+- [ ] Once inside the Grand Archives, you will notice a Crystal Sage. Killing him will give you the Crystal
+- [ ] Scroll
+- [ ] If you have given Orbeck of Vinheim all four scrolls and bought every spell he offers, he will tell you he is departing. You'll now be able to summon him for the Twin Princes fight
+- [ ] On the left side of the archives is a Crystal Lizard who drops Crystal Gem + Twinkling Titanite
+- [ ] From the lizard go right, then take the first left for a Soul of a Crestfallen Knight
+- [ ] Now go up the stairs and right to find a Titanite Chunk
+- [ ] You will encounter an altar with four Scholars. After killing them, you can dunk your head in wax which will temporarily prevent the curse hands from harming you
+- [ ] Nearby you will find a Lothric Knight. In the room following him you will find the Crystal Chime
+- [ ] Go back outside. On the left is a Titanite Chunk. Then drop down for another Titanite Chunk
+- [ ] When standing before the altar turn around and on the right you'll see a Titanite Scale on the bookcases
+- [ ] Advance into the dark room, which has two Crystal Lizards who drop Twinkling Titanite + Chaos Gem and Twinkling Titanite x2 as well as a corpse with a Soul of a Nameless Soldier
+- [ ] Against the wall you will find a lever which will unlock a room containing Witch's Locks and Power
+- [ ] Within
+- [ ] On the top level of the dark room is a Titanite Scale
+- [ ] Leave the dark room and you will encounter a ladder which you can kick down to open a shortcut to the bottom floor
+- [ ] Take a right before the ladder to find a Titanite Chunk
+- [ ] On the left is a Crystal Lizard who drops Twinkling Titanite x2
+- [ ] The lever in the middle between the bookcases will unlock a room near the first wax altar containing a Titanite Slab
+- [ ] Go outside to find Homeward Bone x3
+- [ ] Inside and up the left stairs is another wax altar and a Titanite Chunk
+- [ ] Near the broken railing where a single Scholar is standing, drop down onto the bookshelf below to find a Titanite Scale and then roll off these onto bookshelves even farther below for the Avelyn
+- [ ] Return to the first wax altar, turn around, and on the back right is now a path that was revealed by pulling the second lever. Grab the Titanite Slab in the chest
+- [ ] Go back to the upper level and continue along. After ending up at the top, go left, and in a corner is a Titanite Scale
+- [ ] On the same level is a wall in the back left with gates. Hit it to reveal a room with a Boreal Outrider
+- [ ] Knight. Defeat it for the Outrider Knight Set. Exit through the back for the Soul Stream sorcery
+- [ ] Exit the illusory wall room, turn left, and next to the ladder in a corner is a Titanite Scale
+- [ ] Climb down the ladder and you'll see a Shriving Stone by the railing
+- [ ] Before crossing the bridge, pull the lever to the right to open a passage containing the Scholar Ring
+- [ ] Cross the bridge and take the elevator to the ground floor. Pull the lever to reveal a shortcut that returns you to the entrance
+- [ ] If you intend to send Greirat of the Undead Settlement on his final journey, this is a good time to do so.
+- [ ] You will be able to pick up his ashes soon
+- [ ] Returning to the bridge, there is a broken railing on the right. Drop down to find a Crystal Lizard with Titanite Scale x2. Use the elevator shortcut to return and then proceed upstairs
+- [ ] In the back of the room with the four Archive Scholars is a Large Soul of a Crestfallen Knight. In the chest to the left of the exit is Titanite Scale x3
+- [ ] In the next room is a Crystal Lizard with Twinkling Titanite + Refined Gem. The Fleshbite Ring will be to the right of it
+- [ ] On a rooftop with a landing is a wall with some broken segments and a Titanite Chunk
+- [ ] Continue along the rooftops and go up the left for a Soul of a Weary Warrior
+- [ ] On the big roof to the left are two Crystal Lizards who drop Twinkling Titanite + Heavy Gem and Twinkling Titanite + Sharp Gem
+- [ ] Drop to the lower platform with the Corvians and go into the small room to the right for a Hollow Gem.
+- [ ] Go outside and to the right for a Titanite Chunk
+- [ ] Go past where the Corvians were and jump to the lower platform for Titanite Scale x3 and Greirat Ashes if you sent him out to scavenge
+- [ ] Go back to the roof where the two Crystal Lizards were and stick to the right wall. After dropping down to another roof you will find a Titanite Chunk
+- [ ] Continue sticking to the right wall until you get to a broken window you can enter. Inside you'll find the last Undead Bone Shard and an Ember. You can also kick down the ladder here for a shortcut
+- [ ] Go all the way to the other side of the archives for Titanite Chunk x2 on a corpse out on the balcony
+- [ ] On the path you probably noticed a door. Step outside and you will encounter three NPCs: Black Hand
+- [ ] Kamui, Daughter of Crystal Kriemhild, and Lion Knight Albert. Killing them will reward you with Onikiri and Ubadachi, the Sage's Crystal Staff, and the Golden Wing Crest Shield, respectively
+- [ ] On the stairs is a Large Soul of a Crestfallen Knight
+- [ ] Continue up the stairs and you will find an elevator shortcut to the Grand Archives bonfire
+- [ ] At the very top of the Grand Archives, you will see a series of barricades leading to the Twin Princes fight. Turn around and go up the stairs. On the railing around the left is a Soul of a Crestfallen Knight
+- [ ] Go up the other roof where the three Gertrude's Knights are. You'll find the last Estus Shard on the very back of this roof
+- [ ] Killing all the knights on the roof awards you a Titanite Slab, but only once
+- [ ] At the top of the tower you will find the Hunter's Ring
+- [ ] Enter the lower entrance to the building and drop into the cage to receive the Divine Pillars of Light miracle
+- [ ] Exit the cage and on the rafters is a Blessed Gem
+- [ ] Drop down to the stone rafters and climb down the ladder on the side with the Man-grub. Down here are two chests containing a Divine Blessing and Twinkling Titanite x3
+- [ ] Return to the barricades and fight your way to the top. You will find an elevator shortcut leading to Lothric Castle's Dragonslayer Armour courtyard
+- [ ] This elevator has a second elevator underneath it. Send the elevator up and take the second elevator down to claim a Titanite Slab
+- [ ] Orbeck of Vinheim will be available to be summoned near the large metal door if you gave him all four sorcery scrolls and purchased all available spells
+- [ ] Sirris will be available to be summoned at the fog door if you are on friendly terms
+- [ ] Defeat the Twin Princes; receive Cinders of a Lord + Soul of the Twin Princes
+- [ ] After beating the Twin Princes, you can find Orbeck's Ashes on his body in the Grand Archives if he departed from your Firelink Shrine after you bought all his spells. His corpse will be in a chair up the shortcut elevator inside the archives, on the large wooden balcony just before the stairs that lead to the outside. If Yuria assigned you to assassinate Orbeck, give his ashes to her in exchange for the Morion
+- [ ] Blade. This also adds Orbeck's Clandestine Coat to the Shrine Handmaid's inventory
+- [ ] Return to Sirris' grandfather's grave in Firelink Shrine after the Twin Princes fight and you'll find her body with the Sunless Talisman on it. You can also now buy Sirris' Sunless Armor Set from the Shrine
+- [ ] Handmaid
+- [ ] With Sirris' side quest complete, you are now free to finally continue Leonhard's. Head to the Rosaria's
+- [ ] Bed Chamber bonfire (you might find a Man-grub in here which drops Heysel Pick + Xanthous Crown) and give her a Pale Tongue. Leonhard should now appear in this room. If not, refresh the world.
+- [ ] Exhaust his dialogue, refresh the world again and Rosaria will now be dead with a Black Eye Orb on her body
+- [ ] Head to the Aldrich, Devourer of Gods bonfire and take either of the lifts in the room up. The Black Eye
+- [ ] Orb will react to this room. Use it and you'll invade Leonhard's world. Kill him for Soul of Rosaria +
+- [ ] Crescent Moon Sword + Silver Mask. You can also now buy Leonhard's Armor Set from the Shrine
+- [ ] Handmaid. You can give the Soul of Rosaria to Ludleth for the Bountiful Sunlight miracle. There is no benefit to restoring Rosaria using her soul, as her being dead does not prevent you from offering pale tongues, redistributing attributes, or changing appearance
+
+## Kiln of the First Flame
+
+- [ ] Put all the Cinders of Lords back on their thrones if you haven't already and then interact with the Firelink Shrine bonfire to be teleported to the Kiln of the First Flame
+- [ ] After being teleported, you will find the Flameless Shrine bonfire. As you exit the building, you will find the Kiln of the First Flame. If you return to Firelink Shrine, you will discover the Skull Ring on Ludleth's throne
+- [ ] If you have 8 Dark Sigils, you can summon Yuria of Londor and Londor Pale Shade for the Soul of Cinder fight. If Yuria survives, you will be able to pick up Darkdrift + Black Set at her usual location in
+
+## Firelink Shrine
+
+- [ ] Defeat the Soul of Cinder; receive Soul of the Lords
+- [ ] Ending Guide: Depending on what you've done up to this point, you will have certain options for the endings you can select
+- [ ] Ending 1: If you did not follow the Yoel/Yuria quest line, simply interacting with the First Flame results in the standard "To Link the First Flame" ending. You will receive the To Link the First Flame achievement
+- [ ] (Note: If you did follow the quest line and still want Ending 1, let the Fire Keeper heal the Dark Sigil first)
+- [ ] Ending 2: If you obtained the Eyes of a Fire Keeper from the Untended Graves area and gave them to the Fire Keeper, you can use a summon sign next to the bonfire to trigger the "The End of Fire" ending.
+- [ ] You will receive the The End of Fire achievement
+- [ ] Ending 3: If you follow the steps to Ending 2, you have a short window where you regain control of your character during the final scene. You can attack the Fire Keeper after the cutscene for a different conclusion, often called the "Unkindled Ending". (Note: There is no achievement for this ending)
+- [ ] Ending 4: If you followed the Yoel/Yuria quest line to this point and have all 8 Dark Sigils (5 from Yoel and 3 from "marrying" Anri), interacting with the First Flame will wrest it from its mantle, triggering the "The Usurpation of Fire" ending. You will receive the The Usurpation of Fire achievement
+
+## Painted World of Ariandel (Ashes of Ariandel DLC)
+
+- [ ] To access the DLC area go to the Cleansing Chapel bonfire to find Slave Knight Gael next to the altar.
+- [ ] Talk to him and accept his offer to be transported to the Painted World of Ariandel. (Note: If you have already progressed into The Ringed City, Gael will be gone. To enter the Painted World you can instead touch the scrap of a painting, located under a small candelabrum on the right side of the altar)
+- [ ] Upon arriving, you'll find Rime-blue Moss Clump x2 to your left Exit the cave to find the first bonfire
+- [ ] From the bonfire stick to the left wall until you see a Large Soul of an Unknown Traveler next to a hill in the center
+- [ ] Continue along the left wall until you get to a fly and a Poison Gem
+- [ ] Stick to the wall again and follow it until the snow platform breaks. On a corpse is a Rime-blue Moss
+- [ ] Clump
+- [ ] Go along the right wall, past a lone wolf, and up the hill to find a Large Soul of an Unknown Traveler and the Follower Javelin a bit farther up Go back to where you dropped off and in the middle of the forest, next to a tree, is a Rusted Coin
+- [ ] Continue going straight towards the cliff and the Gravetender Greatwolf should attack you. At around
+- [ ] 50% he disappears and leaves you with Large Titanite Shard x3
+- [ ] Around where the wolf first notices you is a corpse with a Large Soul of an Unknown Traveler
+- [ ] Under the big rock, where the wolf was on, is a tree with another Large Soul of an Unknown Traveler next to it
+- [ ] From here follow the cliff and on the part where it juts out is Homeward Bone x6
+- [ ] Go towards the tower and with your back to it you can see a Heavy Gem in the corner of one of the structures
+- [ ] Enter the tower. (Note: It might help if you equip the Silvercat Ring for the tower section)
+- [ ] On the ground floor is a Soul of a Weary Warrior
+- [ ] After climbing up the ladder go down the stairs to find the Ethereal Oak Shield
+- [ ] On the next set of stairs is a Crystal Lizard with a Twinkling Titanite
+- [ ] Now go to the top floor and climb up the ladder on the outside to find a Large Soul of a Weary Warrior as well as the Captain's Ashes on the rafters. Giving these ashes to the Handmaiden enables you to buy three Refined Gems, the Millwood Knight Set, and Millwood Greatarrows
+- [ ] From the rafters drop down to the corpse to get the Millwood Battle Axe
+- [ ] Exit the tower and go around it on the right to find a Blessed Gem
+- [ ] With your back to the tower entrance head straight towards the hill with the trees
+- [ ] Go up the hill and left to find Millwood Greatbow + Millwood Greatarrow x5 next to some Millwood
+- [ ] Knights
+- [ ] Now take the other available way from the tower
+- [ ] Upon going up the hill you will be attacked by the Gravetender Greatwolf plus some normal wolves. The wolf again drops Large Titanite Shard x3
+- [ ] Continue this way and the snow will break again. Drop down the ledges and on the last one is a Large
+- [ ] Soul of an Unknown Traveler
+- [ ] Go left from here and pick up Black Firebomb x2 up the hill. In the maggot pit is the Frozen Weapon sorcery
+- [ ] Go up to the trees and pick up the Large Titanite Shard on the left wall
+- [ ] Now go back to where you dropped off after defeating the wolf and go right to find the Rope Bridge
+- [ ] Cave bonfire
+- [ ] Cross the bridge and pick up a Hollow Gem to the right of the entrance to the chapel
+- [ ] Talk to Sir Vilhelm, open the door, and light the Ariandel Chapel bonfire
+- [ ] Talk to Friede two times to gain the Chillbite Ring
+- [ ] Go back outside, destroy the bridge to create a ladder, and climb it down. At the bottom you can find
+- [ ] Rime-blue Moss Clump x4 on a corpse on the right wall
+- [ ] Drop down to the roots and go along until you find a Crystal Lizard who drops Twinkling Titanite
+- [ ] Stick to the right wall to find an Ember
+- [ ] On one of the lower roots you can find the Follower Sabre near the cliff
+- [ ] After reaching the frozen lake you can activate the bonfire and rest at it
+- [ ] In the lake you can see a frozen Giant Crab. Upon approaching it another one will come out of the lake.
+- [ ] Killing both of them rewards you with a Crystal Gem
+- [ ] Take the path behind the crab to find Homeward Bone x2 up a small hill
+- [ ] Continue along this path to find a mad tree who guards the Snap Freeze sorcery
+- [ ] Killing the mad tree also reveals a big ladder on the small hill where the Homeward Bones were. Climb it and the one after that to get to a Titanite Slab
+- [ ] Continue further and drop down to find a Shriving Stone next to some flies
+- [ ] Ignore the ladder up (it leads to the Rope Bridge Cave bonfire) and keep going forward to find a Crystal
+- [ ] Lizard who drops a Large Titanite Shard
+- [ ] Continue this way and after sliding down the hill go right. Next to the cliff is a Large Soul of an Unknown
+- [ ] Traveler
+- [ ] From where you slid down take the left path, drop down the ledges, and pick up Budding Green
+- [ ] Blossom x3 on the far side
+- [ ] Enter the Corvian Settlement and take the right path to find a Large Soul of an Unknown Traveler
+- [ ] After climbing up the ladder and entering the house pick up an Ember. There is a Corvian NPC who you can talk to in the kitchen
+- [ ] Exit the house and enter the one on the left to find the Corvian Settlement bonfire
+- [ ] Enter the leftmost house on the other side of the bridge to find an Ember
+- [ ] Exit the house, go right, and drop off on the right side of the bridge to find a Simple Gem. Open up the gate here if you want and return to the bonfire
+- [ ] Go back to the bridge, cross it, and go up the left side. A bit farther on you can jump from one side to the other to find a Large Soul of an Unknown Traveler in a broken wall
+- [ ] Enter the broken structure overlooking the entrance and go left along the wall to find a Crystal Lizard who drops Large Titanite Shard x2
+- [ ] Go back to the broken structure and jump towards the Crow Quills on the rock
+- [ ] Enter the settlement again and from the bonfire go to the cemetery gate at the far back and drop down at the cliff. Enter the house with the flies to find a Dark Gem
+- [ ] Continue along the cliff until you find a Large Soul of an Unknown Traveler
+- [ ] Climb up the ladder, drop down to the bridge, and open the door on the ground floor of the house
+- [ ] Cross the bridge and pick up the Large Soul of an Unknown Traveler on the roof
+- [ ] Enter the house with the Corvians on top and follow the path up to the roof to find the Crow Talons
+- [ ] Climb the ladder on the other house again, enter the tower, and drop down to find the Slave Knight Set
+- [ ] Enter the tower via the roof again, climb up the ladder, and from the bridge drop down to the right roof below to find Rusted Gold Coin x3
+- [ ] Now return to the tower and climb up the ladder once more, cross the bridge, and on the other bridge is a Crystal Lizard who drops a Twinkling Titanite
+- [ ] Go onto the roof of the church to find a Large Soul of a Weary Warrior on a corpse at the tower
+- [ ] Use the back right window of the church to drop down to the rafters and find a Soul of a Crestfallen
+- [ ] Knight
+- [ ] The corpse in front of the altar has the Way of White Corona miracle
+- [ ] Exit the church and open the cemetery gate
+- [ ] Instead of entering the library take a right and pick up the Young White Branch next to the living tree.
+- [ ] Farther in the back is Rusted Coin x2
+- [ ] Defeat Sir Vilhelm in the library to gain Contraption Key + Onyx Blade
+- [ ] Activate the lever, go to the second floor, talk to the NPC, and exit to the balcony. Go around the structure to find the bonfire and open the gate
+- [ ] From the bonfire take the path into the forest and stick to the left wall to find Prism Stone x10 on a corpse
+- [ ] Pass the tree, walk towards the cliff, and go right from here. Go up the hill, sticking to the cliff, and drop down in the back left to find the Follower Shield
+- [ ] Go around, take the first right, go straight, looking at the tower, and pick up an Ember in a small cave on the right From the cave continue towards the tower until you get to the cliff. There is a corpse on the right with a Titanite Chunk
+- [ ] Turn around, take the first right, and go past the bell while sticking to the right. After taking a right you should see a big tree with a red base. Interact with it to fell it and create a shortcut to an elevator
+- [ ] Cross the tree as well as the bridge and on the left is another tree bridge that leads to a platform with another Titanite Chunk
+- [ ] Take the same way back to the bell and follow the path up the hill. Take a left and go straight until you meet some wolves as well as Large Titanite Shard x2 around the corner to the left From here take the lower path to find the Follower Torch
+- [ ] Head back up the hill and take the lower path. Use the Silvercat Ring to jump down to the frozen lake. If you don't have the Silvercat Ring go back to the bell and go up the hill towards the cliff. You can drop down with a snow platform here
+- [ ] Enter the cave right where you jumped down to find the Earth Seeker
+- [ ] Around the lake itself you can find a Large Soul of a Crestfallen Knight, a Soul of a Crestfallen Knight, and another Soul of a Crestfallen Knight
+- [ ] After exiting the lake area follow the path along the cliff, go back to the wolves, and go even farther up the hill
+- [ ] Take a left and follow the short path to an enemy and the Quakestone Hammer
+- [ ] Take the other path, drop down a ledge to find Large Titanite Shard x2, fell the tree to create a shortcut, and enter the tunnel
+- [ ] In the room with the flies pick up Dung Pie x2 from the rafter, exit the room by going up, and open the shortcut door to the bonfire
+- [ ] Go back to the room with the flies and drop down to the lower floor
+- [ ] Here you can find a Blood Gem and Vilhelm's Set
+- [ ] If you take the stairs up you can find an illusory wall on the right that leads directly to the room on the upper floor
+- [ ] From where the Blood Gem was look towards the entrance on the upper floor and walk towards the pillar with some planks and stones next to it. Activate the handle to reveal a secret passage next to the bonfire
+- [ ] When looking at the handle turn left and walk straight towards the wall. Walk right until you see some small steps (you should also hear the sound of a Crystal Lizard). Hit the bricks to reveal an illusory wall
+- [ ] In this room are two Crystal Lizards who both drop a Twinkling Titanite
+- [ ] Go outside, drop down to the roots, and follow them to the platform on the tower to find Pyromancer's
+- [ ] Parting Flame + Homeward Bone x2
+- [ ] Towards the center of the tower you'll be invaded by Livid Pyromancer Dunnel if you're embered. He drops the Floating Chaos pyromancy
+- [ ] You'll have to use a Homeward Bone to leave this place. Warp to the Depths of the Painting bonfire and from here take the way right that leads to the tower
+- [ ] Defeat Champion's Gravetender & Gravetender Greatwolf
+- [ ] Killing this boss gives you Champion's Bones + Valorheart
+- [ ] Go back to the Ariandel Chapel bonfire
+- [ ] For the following boss you can summon Slave Knight Gael
+- [ ] Defeat Sister Friede; receive Soul of Sister Friede
+- [ ] During the fight you also gained a Titanite Slab
+- [ ] Travel back to the Corvian Settlement and go to the NPC in the house next to the bonfire. He is in the back where you climbed up the ladder. For defeating the boss you get a Titanite Slab from him. If you have killed this NPC before for some reason the slab will be in the kitchen
+- [ ] The Dreg Heap(The Ringed City DLC)
+- [ ] To access the DLC area go to the Kiln of the First Flame bonfire or the Sister Friede bonfire. Next to either you'll find another bonfire that sends you to The Dreg Heap. You will find an Ember to your right around a round rooftop
+- [ ] After taking the plunge go on the platform and take a left, up the set of stairs, and pick up the Titanite
+- [ ] Chunk. Take the other stairs further up to get the Aquamarine Dagger
+- [ ] Go back to the platform and go towards the item you can see. The floor will break and you will end up in a room with Soul of a Weary Warrior, Titanite Scale, Twinkling Titanite, and the Murky Hand Scythe (to the left of the exit, behind the bookshelves)
+- [ ] After taking another plunge go towards the church and pick up Lightning Urn x4. To the left is a wooden platform, remember it but ignore it for now, we'll come back here when the Angel is dead
+- [ ] Inside the church you will find a Soul of a Crestfallen Knight
+- [ ] After exiting the church go right and you will find Rusted Coin x2 next to the fountain
+- [ ] Enter the house and you will find a Titanite Chunk. Further in is the Murky Longstaff
+- [ ] After picking up the staff hit the illusory wall on the left (when entering the room) to reveal some stairs.
+- [ ] Go up and in the back left corner of the second room is an Ember
+- [ ] Continue along this path, kick down the ladder on the left, and find the Great Soul Dregs sorcery at the far end of the room
+- [ ] Go out on the wooden balcony and fall down at the far end to find the Covetous Silver Serpent Ring+3
+- [ ] Go back to the church and take a left. A tower will collapse into the church. Continue just a bit further to find and kill the first Angel Summoner for Twinkling Titanite x2
+- [ ] Now take the new path thanks to the collapsed tower in the church to find Lapp. Exhaust his dialogue
+- [ ] Proceed further and you will see two possible places where you can drop. Ignore the one to the right and instead drop down on a Harald Knight with a plunging attack. Collect a Titanite Chunk and Homeward Bone x3
+- [ ] Take the plunge to the Earthen Peak Ruins bonfire. If you have died since meeting Lapp, you will find him to the right on a cliff. If not go to Firelink Shrine and then back to reset the zone
+- [ ] Return to the first bonfire and run all the way to where the first Angel was (near the Lightning Urns).
+- [ ] Behind where you dropped down is a Divine Blessing. Go to the wooden platform and collect the Ring of Steel Protection+3
+- [ ] Return to where you first met Lapp, and this time drop down on the right into a bed of ash. On the upper platform you will find Projected Heal in a small alcove
+- [ ] From the miracle go left and drop further down to where the Lothric Knights are to find a Large Soul of a Weary Warrior and further in the Lothric War Banner
+- [ ] Consider killing the two Angel Summoners before looking for the items in the ruins. Each of them drops
+- [ ] Twinkling Titanite x2
+- [ ] Next to the windmill blades is Black Firebomb x4
+- [ ] In front of the windmill, closer to the cliff edge, is a corpse with a Titanite Chunk
+- [ ] Go towards the wooden hut on the cliff's edge to find the Desert Pyromancer Garb
+- [ ] Continue to the next hut to find Titanite Chunk x2
+- [ ] Turn around and you'll see a cliff that juts out with the Giant Door Shield at the end
+- [ ] From the bonfire you can see an item on a root. In order to get to it you have to cross the tower to the left of it, turn right, and run towards the back and onto the roots to get the Twinkling Titanite
+- [ ] Go to the entrance corridor of the swamp, the one with the two Thralls, and stick to the left to find an Ember
+- [ ] Go back out and cross the first collapsed tower on the left to find a Titanite Scale in the second one.
+- [ ] Drop down to enter the swamp
+- [ ] Turn around and take the path below the tower to find the Desert Pyromancer Gloves
+- [ ] To the left of the gloves, in the swamp, is the Desert Pyromancer Skirt
+- [ ] In the broken hut at the edge of the swamp is Purple Moss Clump x4
+- [ ] Go onto the giant root next to the hut and at the end find the Ring of Favor+3. Turn back and drop down to the lower root to find a Titanite Chunk
+- [ ] Drop down into the swamp and enter the cave to find a Large Soul of a Weary Warrior and a Titanite
+- [ ] Slab. If you have died or reloaded at least three times since talking to Lapp at the Earthen Peak Ruins bonfire, he will have gotten the Slab for you and will give it to you after talking to him. If you retrieve the Slab yourself, Lapp will give you a Siegbräu the next time you talk to him
+- [ ] Exit the cave and get the Large Soul of a Weary Warrior from the middle of the swamp and the Titanite
+- [ ] Chunk at the houses
+- [ ] Go right towards the island to find the Loincloth
+- [ ] Stick to the left side, going past the buildings, to find the Harald Curved Greatsword and further up a Homeward Bone
+- [ ] Drop down here, go up the root, and switch to the other one to find a Titanite Chunk
+- [ ] Follow the roots all the way up to the roof to find and dispatch the Angel Summoner
+- [ ] Now go up the roots to find Desert Pyromancer Zoey at the top. She drops Flame Fan
+- [ ] On this path you can find Prism Stone x6 and the Desert Pyromancer Hood
+- [ ] From the roots drop on to the smaller root on the right to find a Twinkling Titanite
+- [ ] After following the roots and dropping down to the tower get onto the roofs on the right to find a Divine
+- [ ] Blessing
+- [ ] Follow the roots down to where the Angel Summoner is to find an Ember
+- [ ] Go to where you first dropped down and light the Within the Earthen Peak Ruins bonfire
+- [ ] For the next boss you can summon both Slave Knight Gael and Amnesiac Lapp (if he moved to Earthen
+- [ ] Peak Ruins)
+- [ ] Defeat the Demon Prince to gain the Soul of the Demon Prince
+- [ ] If you had Lapp get the Titanite Slab for you, you can travel back to Earthen Peak Ruins and pick up a Siegbräu from where he was standing. Then return to The Demon Prince
+- [ ] Pick up the Small Envoy Banner and display it at the cliff to get to The Ringed City
+- [ ] The Ringed City(The Ringed City DLC)
+- [ ] Once you've arrived, turn around and get a Titanite Scale
+- [ ] After going down the stairs onto the bridge, take a right and go down the path to find the Ruin Set
+- [ ] Get to the halfway point on the bridge and drop down from the circular platform on the right. After dropping down to the path, turn around to find a Soul of a Crestfallen Knight
+- [ ] Continue on the path to find a Crystal Lizard who drops Twinkling Titanite + Titanite Scale
+- [ ] Go around the structure, climb up the ladder, and kill the judicator who drops a Divine Blessing
+- [ ] On the bridge itself you can find a Large Soul of a Weary Warrior, Titanite Chunk x2, an Ember, and Budding Green Blossom x2
+- [ ] Go down the stairs below the platform where the judicator was on (on the side facing the bridge) to find a Hidden Blessing in a room
+- [ ] Now go down the stairs behind the judicator and follow this path to find Purging Stone x2
+- [ ] After lighting the bonfire go out on the balcony and talk to Lapp to get a Siegbräu. Make sure to exhaust
+- [ ] Lapp's dialogue here and then pick up an Ember next to him
+- [ ] Take the only path and follow it to find a Hollow Gem on a corpse and stick to the right to find a Titanite
+- [ ] Chunk next to a railing
+- [ ] Follow the path and enter the circular room. Inside jump on the chandelier and onto the platform on the outer ring to find a Twinkling Titanite. Below you can find a Shriving Stone
+- [ ] Exit this room using the stairs and when coming to the street turn right and head towards the door. Talk to Shira, Knight of Filianore, making sure to answer Gwyn, and accept her request. She will give you the Sacred Chime of Filianore
+- [ ] Turn around and drop down at the right side for a Titanite Chunk
+- [ ] Now head towards the first bridge to find Mossfruit x2
+- [ ] Enter the small garden here to be invaded by Seeker of the Spurned. He will invade even if you are unembered and killing him rewards you with the Wolf Ring+3. Further in the back is the Black Witch Set
+- [ ] Go back on the street and in a small alcove on the left side, just before the swamp, is Mossfruit x2
+- [ ] Go onto the other side and through the corridor to find the Ringed Knight Spear
+- [ ] Drop down onto the street to find a Large Soul of a Crestfallen Knight
+- [ ] As you enter the swamp, pick up the Dark Gem before the collapsed tower
+- [ ] Take a right to find some stairs that lead to Prism Stone x4 and the Ringed City Streets bonfire
+- [ ] Exit back out of the bonfire room, drop down one level, go left, and drop down in the corner to find
+- [ ] White Preacher Head
+- [ ] Follow the path to reemerge at the swamp entrance. This time pass the stairs and pick up the Large
+- [ ] Soul of a Weary Warrior next to some rocks and a Titanite Chunk to the right behind the rocks. Kill the judicator for a Hidden Blessing
+- [ ] From the previous items continue sticking right and go up the hill to find the Ringed Knight Straight
+- [ ] Sword
+- [ ] Turn around and head back down where you pick up the Preacher's Right Arm from the collapsed tower, a Soul of a Weary Warrior from the smaller structure behind it, and another Soul of a Weary
+- [ ] Warrior in the middle of the swamp
+- [ ] From there head to the back cliff and look behind the rock on the left to find a Titanite Chunk
+- [ ] On the lower left side of the church is the Black Witch Veil
+- [ ] Go on the roof of the church and at the back is a Twinkling Titanite
+- [ ] Drop down in the back and open up the shortcut to the bonfire
+- [ ] Go out into the swamp and once you stand in it keep using Young White Branches until you transform into a Humanity. (Note: You may only walk in this form.) Now go back to the room where you opened the shortcut and there will be some writing on the wall to the left of the gate. Stand in front of it and a ladder will drop down After going up the ladder progress through the small area and kill the judicator who drops a Divine
+- [ ] Blessing, then go down some stairs and further down a ladder. Now cross the bridge, pick up the Large
+- [ ] Soul of a Crestfallen Knight on the left, and go right to find the Purging Monument. Interact with it
+- [ ] Head back across the bridge and continue on this path to find the Dragonhead Shield
+- [ ] Drop down from there and enter the building ahead to find the Covetous Gold Serpent Ring+3
+- [ ] Just to the right of it you will once again meet Lapp. Talk to him and make sure to speak of the Purging
+- [ ] Monument and exhaust his dialogue
+- [ ] Leave the room, circle around the structure in your path, and cross a bridge to encounter a Crystal
+- [ ] Lizard who drops Twinkling Titanite x2
+- [ ] Continue on in the same direction, dropping down a ledge. When you go upstairs from there and enter the structure you will get invaded by Silver Knight Ledo who drops Ledo's Great Hammer. The invasion takes place even if you are unembered
+- [ ] Explore the balcony on the left to find Titanite Chunk x2
+- [ ] Exit where you entered and drop down the ledges to find Havel's Ring+3
+- [ ] Below are three Monks around a Soul of a Crestfallen Knight
+- [ ] Turn back in the direction of the swamp entrance and pick up a Titanite Chunk on the left by the collapsed tower
+- [ ] Keep left until you come upon a sunken dome behind which there is a Twinkling Titanite
+- [ ] Continue along the left cliff and walk up the hill to find the White Birch Bow and a Titanite Chunk
+- [ ] Go down the hill on the other side to find a white birch with three Young White Branches
+- [ ] Enter the structure on the right to find the Church Guardian Shiv
+- [ ] Continue towards the back of the swamp and defeat the Dragonslayer Armour to get the Iron
+- [ ] Dragonslayer Set
+- [ ] In the vicinity you will find a Titanite Scale and another Titanite Scale
+- [ ] Turn around and head back into the swamp. Next to a tree is a Soul of a Crestfallen Knight
+- [ ] Go back to the bridge behind the church (e.g., by warping to the bonfire and exiting via the shortcut) and take a right to find a Titanite Scale and the Dragonhead Greatshield
+- [ ] On the cliffside where Midir attacks you, you can find Soul of a Weary Warrior, Titanite Scale x2 (in a small side room from which an enemy comes), Rubbish, and Large Soul of a Weary Warrior. (You can also come back later when the dragon is gone from the bridge above and pick up these items without having to worry about the fire)
+- [ ] On the path below the cliff you can find Titanite Scale x2
+- [ ] You will get invaded by Moaning Knight at some point in the Shared Graves area. He invades regardless of whether you are embered or not and drops the Blindfold Mask
+- [ ] After dropping down enter the first grave on the left for a Lightning Gem
+- [ ] Continue up to find a Simple Gem
+- [ ] After dropping down a second time turn around and walk up the stones to enter another grave
+- [ ] Lapp should be in here. Interact with him to gain the Patches Squat gesture if you don't already have it and talk to him. If he is not present simply reset the zone
+- [ ] Turn around and go to where the purple patch of cloth is and a cutscene will play, after which you are now at a lower staircase
+- [ ] After dropping down once again turn around to find a Blessed Gem
+- [ ] Continue up and in the first grave is a mimic chest. It drops the Ring of the Evil Eye+3
+- [ ] After lighting the bonfire you can kill the Crystal Lizard, who drops Twinkling Titanite + Titanite Scale
+- [ ] Go to where Lapp was before to find Champion's Bones + Lapp's Set (the bones will only be there if you haven't already gotten them from the Ashes of Ariandel DLC)
+- [ ] Go outside, defeat the dragon Midir (necessary to unlock the bossfight), and on the bridge is a Titanite
+- [ ] Scale
+- [ ] Enter the room and to the right of the stairs is an illusory wall. Behind it is another one with a Large Soul of a Weary Warrior. Behind this one is yet another illusory wall with the Lightning Arrow miracle
+- [ ] Go up the stairs to find a Crystal Lizard who drops Titanite Scale x2
+- [ ] In the next room take the elevator that leads you to the shortcut that connects to the Ringed Inner Wall bonfire
+- [ ] Take the elevator down and exit halfway. Take a right and drop down to the Chloranthy Ring+3
+- [ ] Use the elevator again, but this time go left. Pick up the Ember
+- [ ] Attack the statue that isn't holding a sword to reveal an illusory wall. Behind the ladder is a Filianore's
+- [ ] Spear Ornament
+- [ ] Take the ladder down to find the Antiquated Plain Set
+- [ ] For the following fight you can summon Shira, Knight of Filianore, if you accepted her request to put
+- [ ] Midir to rest
+- [ ] Defeat Darkeater Midir to gain Spears of the Church + Soul of Darkeater Midir
+- [ ] After killing Midir go back to Shira in the Ringed City Streets and she rewards you with a Titanite Slab
+- [ ] Go back to where you picked up the Chloranthy Ring and exit towards the church
+- [ ] Pick up Budding Green Blossom x3 on the left and then defeat the Ringed Knight to get the Ringed
+- [ ] Knight Paired Greatswords
+- [ ] To the right of where the knight was is the Ritual Spear Fragment
+- [ ] Before entering the church, drop down on the left to find Twinkling Titanite x2
+- [ ] You can summon Unbreakable Patches for the next fight if you encountered him in the Shared Grave.
+- [ ] His summon sign is inside the church, by the opened door
+- [ ] Defeat Halflight, Spear of the Church to gain Titanite Slab + Filianore's Spear Ornament
+- [ ] After entering Filianore's Rest, walk through the broken window and stick to the right to get to a church- like structure. Shira, Knight of Filianore will appear and upon defeating her will drop the Crucifix of the Mad King. She will also drop her Titanite Slab if you did not already obtain it
+- [ ] From where you started stick to the left now to find a Ringed Knight who rewards you with a Titanite
+- [ ] Slab
+- [ ] After killing Shira go back to where you first met her to find the door now open and Shira's Set inside
+- [ ] Go to the start of the DLC, The Dreg Heap bonfire, and interact with the corpse of the old woman to receive the Old Woman's Ashes, which allow the Handmaiden to sell the Splitleaf Greatsword (if you haven't already bought it)
+- [ ] Defeat Slave Knight Gael to gain Soul of Slave Knight Gael + Blood of the Dark Soul
+- [ ] Bring the Blood of the Dark Soul to the painter in Ariandel Chapel if you want
+
+## Pickle Pee, Pump-a-Rum Crow Trades
+- [ ] Trade Firebomb or Rope Firebomb for Large Titanite Shard
+- [ ] Trade Black Firebomb or Rope Black Firebomb for Titanite Chunk
+- [ ] Trade Prism Stone for Twinkling Titanite
+- [ ] Trade Loretta's Bone for Ring of Sacrifice
+- [ ] Trade Avelyn for Titanite Scale x3
+- [ ] Trade Coiled Sword Fragment for Titanite Slab
+- [ ] Trade Lightning Urn for Iron Helm
+- [ ] Trade Homeward Bone for Iron Bracelets
+- [ ] Trade Seed of a Giant Tree for Iron Leggings
+- [ ] Trade Siegbräu for Armor of the Sun
+- [ ] Trade Vertebra Shackle for Lucatiel Mask
+- [ ] Trade Divine Blessing for Very Good Carving
+- [ ] Trade Hidden Blessing for Thank You Carving
+- [ ] Trade Alluring Skull for Hello Carving
+- [ ] Trade Undead Bone Shard for Porcine Shield
+- [ ] Trade any Sacred Chime for Help Me Carving
+- [ ] Trade Shriving Stone for I'm Sorry Carving
+- [ ] Trade Xanthous Crown for Lightning Gem
+- [ ] Trade Mendicant's Staff for Sunlight Shield
+- [ ] Trade Blacksmith Hammer for Titanite Scale
+- [ ] Trade Large Leather Shield for Twinkling Titanite
+- [ ] Trade Moaning Shield for Blessed Gem
+- [ ] Trade Eleonora for Hollow Gem
+
+## Achievement Checklists
+
+## Master of Expression: Learn all gestures
+- [ ] Beckon: Talk to Yoel of Londor not far from the Foot of the High Wall bonfire
+- [ ] Call Over: Received after trading a Homeward Bone with Pickle Pee, Pump-a-Rum Crow
+- [ ] Welcome: Talk to the Cornyx of the Great Swamp in the Undead Settlement, and accept his services.
+- [ ] Talk to him again at Firelink Shrine to get the gesture
+- [ ] Applause: Received by talking to Leonhard after defeating the Darkwraith in High Wall of Lothric at his request
+- [ ] Quiet Resolve: Finish Anri of Astora's questline up to Irithyll of the Boreal Valley. They will grant you the gesture when speaking to them at the Church of Yorshka Bonfire
+- [ ] Rejoice: Received during the Siegward of Catarina questline
+- [ ] Hurrah!: Talk to Blacksmith Andre
+- [ ] Praise the Sun: Received from praying at the Altar of Sunlight in Lothric Castle, near the Dragonslayer
+- [ ] Armour boss fight
+- [ ] My Thanks!: Obtained from Knight Slayer Tsorig deep in the Demon Ruins, regardless of who wins the fight
+- [ ] Proper Bow: Kill Yellowfinger Heysel, the NPC invader in Farron Keep. Then give a pale tongue to the Rosaria's Fingers covenant. Yellowfinger Heysel's summon sign appears next to the tower full of slugs near the Keep Ruins bonfire. Summon her to receive the gesture. Abyss Watchers must be alive
+- [ ] Dignified Bow: Received from meeting Yuria of Londor
+- [ ] Duel Bow: Received after summoning Londor Pale Shade before Abyss Watchers or Pontiff Sulyvahn
+- [ ] Legion Etiquette: Pray to the Old Wolf of Farron in the Farron Swamp
+- [ ] Darkmoon Loyalty: Received from speaking with Sirris of the Sunless Realms in Firelink Shrine after she arrives
+- [ ] By My Sword: Received from summoning Black Hand Gotthard. He will perform the gesture as he is summoned
+- [ ] Prayer: Received from Irina of Carim
+- [ ] Silent Ally: Given by Orbeck of Vinheim once you buy Aural Decoy, Farron Flashsword, Pestilent Mist, and Spook
+- [ ] Rest: Received after resting at a bonfire for the first time
+- [ ] Collapse: Received from meeting Hawkwood
+- [ ] Patches Squat: Talk to Patches while he's sitting in Firelink Shrine
+- [ ] Prostration: Received from Patches after replying no when he asks for forgiveness, or after confronting him in the Cathedral of the Deep after he lowers the bridge with "You know who I am"
+- [ ] Toast: Received by talking to Siegward of Catarina after defeating the demon in Undead Settlement
+- [ ] Sleep: After receiving the Toast gesture from Siegward of Catarina, wait for him to go to sleep. Then talk to him again
+- [ ] Curl Up: Talk to Greirat of the Undead Settlement after giving him Loretta's bone and resting at the bonfire
+- [ ] Stretch Out: Found on the corpse of Laddersmith Gilligan on the first bonfire in Profaned Capital
+- [ ] Path of The Dragon: Received from corpse after Oceiros, the Consumed King
+
+## Master of Sorceries: Acquire all sorceries
+- [ ] Soul Arrow: Sold by Yoel of Londor/Yuria of Londor / Orbeck Of Vinheim for 1000 souls
+- [ ] Great Soul Arrow: Sold by Orbeck Of Vinheim for 3000 souls
+- [ ] Heavy Soul Arrow: Sold by Yoel of Londor/Yuria of Londor / Orbeck Of Vinheim for 2000 souls
+- [ ] Great Heavy Soul Arrow: Sold by Orbeck Of Vinheim for 4000 souls
+- [ ] Farron Dart: Sold by Orbeck Of Vinheim for 500 souls
+- [ ] Great Farron Dart: Sold by Orbeck Of Vinheim for 2000 souls. Requires Sage's Scroll
+- [ ] Farron Hail: Sold by Orbeck Of Vinheim for 5000 souls. Requires Sage's Scroll
+- [ ] Homing Soulmass: Sold by Orbeck Of Vinheim for 6000 souls. Requires Logan's Scroll
+- [ ] Homing Crystal Soulmass: Sold by Orbeck Of Vinheim for 18,000 souls. Requires Crystal Scroll
+- [ ] Crystal Hail: Obtained by Soul of a Crystal Sage Transposition
+- [ ] Soul Spear: Sold by Orbeck Of Vinheim for 5000 souls. Requires Logan's Scroll
+- [ ] Crystal Soul Spear: Sold by Orbeck Of Vinheim for 15,000 souls. Requires Crystal Scroll
+- [ ] White Dragon Breath: Obtained by Soul of Consumed Oceiros Transposition
+- [ ] Soul Stream: Found in the Grand Archive behind an illusory wall near the Boreal Outrider Knight
+- [ ] Soul Greatsword: Sold by Yoel of Londor/Yuria of Londor / Orbeck Of Vinheim for 5000 souls
+- [ ] Farron Flashsword: Sold by Orbeck Of Vinheim for 3000 souls
+- [ ] Magic Weapon: Sold by Yoel of Londor/Yuria of Londor for 4500 and Orbeck Of Vinheim for 3000 souls
+- [ ] Great Magic Weapon: From the Farron Keep Perimeter bonfire, turn around 180 and head towards the shortcut gate to Road of Sacrifices. The spell will be on a corpse at the gate
+- [ ] Crystal Magic Weapon: Sold by Orbeck Of Vinheim for 10,000 souls. Requires Crystal Scroll
+- [ ] Magic Shield: Sold by Yoel of Londor/Yuria of Londor for 4500 and Orbeck Of Vinheim for 3000 souls
+- [ ] Great Magic Shield: Found in Irithyll Dungeon
+- [ ] Spook: Sold by Orbeck Of Vinheim for 2000 souls
+- [ ] Aural Decoy: Sold by Orbeck Of Vinheim for 2000 souls
+- [ ] Pestilent Mist: Sold by Orbeck Of Vinheim for 1000 souls. Requires any scroll
+- [ ] Cast Light: Sold by Orbeck Of Vinheim for 1000 souls. Requires Golden Scroll
+- [ ] Repair: Sold by Orbeck Of Vinheim for 2000 souls. Requires Golden Scroll
+- [ ] Hidden Weapon: Sold by Orbeck Of Vinheim for 1500 souls. Requires Golden Scroll
+- [ ] Hidden Body: Sold by Orbeck Of Vinheim for 3000 souls. Requires Golden Scroll
+- [ ] Chameleon: Found in the Church of Yorshka bonfire in Irithyll of the Boreal Valley during Anri's questline. The spell will drop from an assassin disguised as a statue. Found in Darkmoon Tomb on the pilgrim's corpse
+- [ ] Twisted Wall of Light: Sold by Orbeck Of Vinheim for 6000 souls. Requires Golden Scroll
+- [ ] Deep Soul: Obtained by Soul of Deacons of the Deep Transposition
+- [ ] Great Deep Soul: Aldrich Faithful Rank 1 reward
+- [ ] Affinity: Sold by Karla for 15,000 souls
+- [ ] Dark Edge: Sold by Karla for 8000 souls
+
+## Master of Pyromancies: Acquire allpyromancies
+- [ ] Fireball: Sold by Cornyx of the Great Swamp for 1000 souls
+- [ ] Fire Orb: Sold by Cornyx of the Great Swamp for 3000 souls. Requires Great Swamp Pyromancy Tome
+- [ ] Bursting Fireball: Sold by Cornyx of the Great Swamp for 5000 souls. Requires Great Swamp Pyromancy Tome
+- [ ] Great Chaos Fire Orb: Sold by Cornyx of the Great Swamp for 10,000 souls. Requires Izalith Pyromancy Tome
+- [ ] Chaos Bed Vestiges: Acquired from Soul of the Old Demon King Transposition
+- [ ] Fire Surge: Sold by Cornyx of the Great Swamp for 1000 souls
+- [ ] Fire Whip: Sold by Karla for 10,000 souls. Requires Quelana Pyromancy Tome
+- [ ] Firestorm: Sold by Karla for 15,000 souls. Requires Quelana Pyromancy Tome
+- [ ] Chaos Storm: Sold by Cornyx of the Great Swamp for 12,000 souls. Requires Izalith Pyromancy Tome
+- [ ] Great Combustion: Sold by Cornyx of the Great Swamp for 3,000 souls
+- [ ] Sacred Flame: Found within the lava area of Smouldering Lake where you fight Knight Slayer Tsorig
+- [ ] Profaned Flame: Found at the foot of the Giant in Irithyll Dungeon
+- [ ] Poison Mist: Sold by Cornyx of the Great Swamp for 2,000 souls. Requires Great Swamp Pyromancy Tome
+- [ ] Toxic Mist: Found on corpse in lava area of the Catacombs of Carthus
+- [ ] Acid Surge: Sold by Cornyx of the Great Swamp for 6,000 souls. Requires Carthus Pyromancy Tome
+- [ ] Flash Sweat: Sold by Cornyx of the Great Swamp for 1,000 souls
+- [ ] Profuse Sweat: Sold by Cornyx of the Great Swamp for 2,000 souls. Requires Great Swamp Pyromancy Tome
+- [ ] Iron Flesh: Found in the Farron Keep swamp
+- [ ] Power Within: Found on a corpse behind a hidden wall in Grand Archives
+- [ ] Carthus Beacon: Sold by Cornyx of the Great Swamp for 8,000 souls. Requires Carthus Pyromancy Tome
+- [ ] Carthus Flame Arc: Sold by Cornyx of the Great Swamp for 10,000 souls. Requires Carthus Pyromancy Tome
+- [ ] Warmth: Mound Makers Rank 2 reward
+- [ ] Rapport: Sold by Karla for 7000 souls. Requires Quelana Pyromancy Tome
+- [ ] Boulder Heave: Acquired from Soul of a Stray Demon Transposition
+- [ ] Black Flame: Sold by Karla for 10,000 souls. Requires Grave Warden Pyromancy Tome
+- [ ] Black Fire Orb: Sold by Karla for 10,000 souls. Requires Grave Warden Pyromancy Tome
+- [ ] Black Serpent: Acquired from Soul of High Lord Wolnir Transposition
+
+## Master of Miracles: Acquire all miracles
+- [ ] Heal Aid: Purchased from Shrine Handmaid for 500 souls
+- [ ] Heal: Purchased from Irina of Carim for 1000 souls
+- [ ] Med Heal: Purchased from Irina of Carim for 3500 souls. Requires Braille Divine Tome of Carim
+- [ ] Great Heal: Found on corpse in the Irithyll of the Boreal Valley
+- [ ] Soothing Sunlight: Acquired by Soul of the Dancer Transposition
+- [ ] Replenishment: Purchased from Irina of Carim for 1000 souls
+- [ ] Bountiful Light: Purchased from Irina of Carim for 5000 souls. Requires Braille Divine Tome of Lothric
+- [ ] Bountiful Sunlight: Acquired by Soul of Rosaria Transposition
+- [ ] Caressing Tears: Purchased from Irina of Carim for 1500 souls
+- [ ] Tears of Denial: Purchased from Irina of Carim for 10,000 souls. Requires Braille Divine Tome of Carim
+- [ ] Homeward: Purchased from Irina of Carim for 3000 souls
+- [ ] Seek Guidance: Looted from a corpse in Cathedral of the Deep. Just past the first giant and down the stairs to the left. It's a sort of dark ish room above the Cathedral Knight with the mace
+- [ ] Sacred Oath: Warriors of Sunlight Rank 1 reward
+- [ ] Force: Purchased from Irina of Carim for 1000 souls. Requires Braille Divine Tome of Carim
+- [ ] Emit Force: Acquired by Siegward of Catarina during third encounter. Below Irithyll of the Boreal Valley in a kitchen just after a sewer area
+- [ ] Wrath of the Gods: Acquired by dropping from the ledge near the spellcaster on the roof in Profaned Capital
+- [ ] Lightning Spear: Use the elevator near the Old Wolf of Farron and take the stairs up. Turn to the right and run to the closed gate. On the right side of the gate drop down and follow the path, one of the items there is Lightning Spear
+- [ ] Great Lightning Spear: Warriors of Sunlight Rank 2 reward
+- [ ] Sunlight Spear: Acquired by Soul of the Lords Transposition
+- [ ] Lightning Stake: Dropped by the Carthus Sandworm before the Old Demon King boss fight
+- [ ] Lightning Storm: Acquired by Soul of the Nameless King Transposition
+- [ ] Divine Pillars of Light: Found at the top of Lothric Castle
+- [ ] Blessed Weapon: Purchased from Irina of Carim for 8,000 souls. Requires Braille Divine Tome of Lothric
+- [ ] Lightning Blade: Located in Irithyll Dungeon
+- [ ] Darkmoon Blade: Blade of the Darkmoon covenant Rank 2 reward
+- [ ] Magic Barrier: Purchased from Irina of Carim for 5000 souls. Requires Braille Divine Tome of Lothric
+- [ ] Great Magic Barrier: Archdragon Peak found off a ledge where you find Havel and a dead dragon
+- [ ] Dark Blade: Purchased from Irina of Carim for 10,000 souls. Requires Londor Braille Divine Tome
+- [ ] Vow of Silence: Purchased from Irina of Carim for 15,000 souls. Requires Londor Braille Divine Tome
+- [ ] Dead Again: Purchased from Irina of Carim for 5000 souls. Requires Londor Braille Divine Tome
+- [ ] Atonement: Farron Keep Perimeter bonfire. Turn around 180 degrees and follow the path until you reach a hole in the wall on your right. Drop down on the ledge below. The spell will be on a corpse
+- [ ] Deep Protection: Purchased from Irina of Carim for 4000 souls. Requires Deep Braille Divine Tome
+- [ ] Gnaw: Purchased from Irina of Carim for 2000 souls. Requires Deep Braille Divine Tome
+- [ ] Dorhys' Gnawing: Guaranteed kill reward for the screaming Evangelist in Irithyll of the Boreal Valley, found behind an illusionary fence
+- [ ] Lifehunt Scythe: Acquired from Soul of Aldrich Transposition
+- [ ] Way of White Corona: Found on a corpse in the Corvian settlement church (Ashes of Ariandel DLC)
+- [ ] Floating Chaos: Acquired after defeating Livid Pyromancer Dunnel on a tower behind an illusory wall (Ashes of Ariandel DLC)
+- [ ] Frozen Weapon: In the red pit near the Drop Bridge Cave bonfire (Ashes of Ariandel DLC)
+- [ ] Snap Freeze: Guarded by a mad tree near the Depths of the Painting bonfire (Ashes of Ariandel DLC)
+- [ ] Lightning Arrow: After fighting the dragon after the Shared Grave bonfire, it's just inside the building next to the stairs with crystal lizard, behind 3 illusory walls (The Ringed City DLC)
+- [ ] Projected Heal: A hidden area just shortly after you meet Lapp for the first time before Earthen Peak Ruins bonfire (The Ringed City DLC)
+- [ ] Flame Fan: Acquired after defeating Desert Pyromancer Zoey (The Ringed City DLC)
+- [ ] Seething Chaos: Obtained by Soul of the Demon Prince Transposition (The Ringed City DLC)
+- [ ] Great Soul Dregs: After you see the first Cursed Angel, proceed forward through the arched doorway ahead. Looking towards the 2 knights at the end of the room take the arched doorway to the right. Turn right and head up to the back of the area and through another arched doorway. Proceed up the stairs and into through the doorway into a dead end room. Attack the wall on the left to reveal an illusionary wall. Proceed up the stairs until you come to the final room. The sorcery is at the back of the room next to the Murkman (The Ringed City DLC)
+- [ ] Old Moonlight: Obtained by Soul of Darkeater Midir Transposition (The Ringed City DLC)
+
+## Master of Rings: Acquire all rings
+### New Game (First Playthrough)
+- [ ] Life Ring: Starting gift or sold by the Shrine Handmaid in Firelink Shrine for 1500 souls
+- [ ] Sun Princess Ring: Found in Gwynevere's Chamber above the Aldrich, Devourer of Gods bonfire
+- [ ] Estus Ring: Behind the locked door on the left side of Firelink Shrine accessible by going through the locked door on the right side of the area (which requires the 20k souls key from the Shrine Handmaid to unlock) and dropping down via coffins sticking out of the wall
+- [ ] Ashen Estus Ring: Proceed from the Untended Graves bonfire and take left path. The ring is on a corpse behind some crow enemies
+- [ ] Chloranthy Ring: Under breakable crates/barrels in the bottom of the tower that you go through to exit the Siegward/Fire Demon area in Undead Settlement
+- [ ] Havel's Ring: Trade with Ludleth of Courland for the Soul of a Stray Demon
+- [ ] Ring of Favor: Defeat the guard dogs near Archdeacon McDonnell
+- [ ] Prisoner's Chain: Trade with Ludleth of Courland for the Soul of Champion Gundyr
+- [ ] Ring of Steel Protection: In the Ancient Wyvern area, take the right path to the end and go around a railing
+- [ ] Magic Stoneplate Ring: Dropped by one of the knights outside Oceiros' boss door
+- [ ] Flame Stoneplate Ring: On a corpse hanging from a tree in the Undead Settlement by the Mound
+- [ ] Makers cage guy. It may drop all the way down to in front of the building with the lift that leads to the giant
+- [ ] Thunder Stoneplate Ring: Proceed from the Dragon-Kin Mausoleum bonfire until you reach an outside area with some scaffolding. Climb a ladder in this area to reach the platform where the ring is located
+- [ ] Dark Stoneplate Ring: In the lower area to the left of the open area with giants just past the Pontiff Sulyvahn bonfire
+- [ ] Speckled Stoneplate Ring: Behind a breakable wall in the Smoldering Lake area of the Catacombs of Carthus (must be broken by ballista fire)
+- [ ] Bloodbite Ring: Obtained by killing the large rat in the area across the bridge from the Dilapidated Bridge bonfire in the Undead Settlement
+- [ ] Poisonbite Ring: From the cleansing Chapel bonfire, head outside and turn right from where the four enemies are praying, Drop down and follow the path around until you reach an area with a large crystal enemy among some blue crystals. There will be an entrance to a grey stone area nearby where the ring is inside on a corpse
+- [ ] Cursebite Ring: From the Profaned Capital bonfire, work your way to the area with the toxic swamp.
+- [ ] The ring is on a corpse in the cave that you can drop into via the building above
+- [ ] Fleshbite Ring: In the Grand Archives, cross the bridge and proceed past the shortcut ladder by four
+- [ ] Mage enemies and some bookshelves. The ring is on a corpse one level up next in an area with a bunch of books and cursed hands
+- [ ] Knight's Ring: In Lothric Castle in a room before the Sunlight Altar
+- [ ] Hunter's Ring: Climb high onto the roof of the Grand Archives where three flying knights engage you. The ring is on a corpse at the top of the central tower in this area
+- [ ] Scholar Ring: You can pull a lever next to the bridge in the center of the Grand Archives to lower an adjacent bookshelf revealing a corpse with the ring
+- [ ] Priestess Ring: Sold by the Handmaid in Dark Firelink
+- [ ] Covetous Gold Serpent Ring: In the locked cell with Siegward in Irithyll Dungeons. The key to the cell is in the right side chest at the end of a hallway leading away from the area with the giant
+- [ ] Covetous Silver Serpent Ring: Behind an illusory wall above the main Firelink bonfire, requires key from Handmaid for 20k souls
+- [ ] Saint's Ring: Sold by Irina of Carim in Firelink
+- [ ] Deep Ring: Dropped by an enemy in a tower accessible by a lift near the Cleansing Chapel bonfire
+- [ ] Darkmoon Ring: Reward for reaching rank 1 in the Blade of the Darkmoon covenant. The Silver Knights in Anor Londo can drop the covenant item (very rare), and you need 10 to reach rank 1
+- [ ] Young Dragon Ring: Given by Orbeck of Vinheim after returning a scroll and buying 3 sorceries
+- [ ] Bellowing Dragoncrest Ring: From the Irithyll Dungeon bonfire, proceed into the large room and follow the hallway to the right to a locked door. Open this door with the key from a cell upstairs on the other side of the large room and drop to a platform where this ring is on a corpse
+- [ ] Great Swamp Ring: Dropped by a large crab in the Crucifixion Woods
+- [ ] Witch's Ring: On an alter at the end of the hallway just before the Abandoned Tomb bonfire in the
+- [ ] Morne's Ring: Backtrack from the Halfway Keep bonfire in Crucifixion Woods to a bridge. You can drop to a ledge below and the ring is on a corpse nearby
+- [ ] Ring of the Sun's First Born: Backtrack from the Pontiff Sulhvahn bonfire and fall off the ledge to a platform below
+- [ ] Lingering Dragoncrest Ring: Obtained upon killing one of the giant crabs in Farron Keep
+- [ ] Sage Ring: From the Crucifixion Woods bonfire, drop into the water and follow the wall until you see an opening. The ring is on a corpse in this area
+- [ ] Dusk Crown Ring: On a corpse in a cell in the lowest level of Irithyll Dungeon
+- [ ] Leo Ring: In a chest on the second level of the large room just beyond the kitchen area in Irithyll of the Boreal Valley somehwat close to the Distant Manor bonfire
+- [ ] Wolf Ring: Obtained by reaching rank 2 in Watchdogs of Farron covenant
+- [ ] Hawk Ring: Dropped by the giant atop the tower in the Undead Settlement
+- [ ] Hornet Ring: On a path to the right of Dark Firelink shrine
+- [ ] Knight Slayer's Ring: Obtained by killing the phantom invader Knight Slayer Tsorig near the bridge in the
+- [ ] Ring of the Evil Eye: Given by Anri of Astora either in the Catacombs of Carthus (if you tell of Horace's location) or at the Church of Yorshka bonfire. You must have first talked to Anri at the Halfway Fortress bonfire, then at Firelink, then in two places in the Catacombs of Carthus
+- [ ] Farron Ring: Acquired by talking to Hawkwood after defeating the Abyss Watchers
+- [ ] Dragonscale Ring: Take the shortcut lift down to the toxic swamp before Oceiros' room but jump off early to access the path where the ring is on a corpse
+- [ ] Horsehoof Ring: Sold by Patches in Firelink
+- [ ] Wood Grain Ring: Sold by the Handmaid in Firelink (requires Easterner's Ashes from the area just past the Pontiff Sulyvahn bonfire)
+- [ ] Flynn's Ring: On the highest roof in the area where you fight the Fire Demon with Siegward in the
+- [ ] Magic Clutch Ring: Behind an illusory wall near the Church of Yorshka bonfire (sort of under the Pontiff
+- [ ] Sulyvahn fog door)
+- [ ] Lightning Clutch Ring: In an alcove to the left of the Ancient Wyvern area
+- [ ] Fire Clutch Ring: In the Undead Settlement near the Cliff Underside bonfire. It's on a wooden structure dangling off a cliff
+- [ ] Dark Clutch Ring: In a Mimic chest at the end of a sewer hallway that connects to the large lower level of Irithyll Dungeon
+- [ ] Red Tearstone Ring: Backtrack from the Dragonslayer Armour boss room and go into the building on the left (with a lift). You can access a ledge via a hole in the wall where the ring is on a corpse
+- [ ] Blue Tearstone Ring: Given by Greirat in High Wall
+- [ ] Lloyd's Sword Ring: On a corpse on the ledge that you run around to get past the giant in the Cathedral of the Deep
+- [ ] Lloyd's Shield Ring: Sold by the Handmaid in Firelink after the Paladin's Ashes are returned
+- [ ] Carthus Milkring: In an area with many breakable pots just before the Catacombs of Carthus bonfire
+- [ ] Carthus Bloodring: Head left from the Catacombs of Carthus bonfire, then take two rights and follow a path that leads to some wheel skeleton guys. The ring is on a corpse at the end of this path
+- [ ] Pontiff's Right Eye: Obtained by killing the Sulyvahn's Beast on the bridge upon entering Itithyll of the Boreal Valley
+- [ ] Pontiff's Left Eye: Trade with Ludleth of Courland for the Soul of Boreal Valley Vordt
+- [ ] Aldrich's Ruby: Dropped by the Deep Accursed behind the main gate in Anor Londo
+- [ ] Aldrich's Sapphire: Dropped by the Deep Accursed in Cathedral of the Deep
+- [ ] Silvercat Ring: Given by Sirris in Firelink after using her summon sign on the Boreal Valley bridge and defeating the enemy
+- [ ] Slumbering Dragoncrest Ring: Given by Orbeck of Vinheim after buying Aural Decoy, Farron
+- [ ] Flashsword, Pestilent Mist, and Spook
+- [ ] Obscuring Ring: Reward for reaching rank 1 in Rosaria's Fingers
+- [ ] Untrue Dark Ring: Sold by Yuria of Londor for 5000 souls
+- [ ] Untrue White Ring: Sold by Yuria of Londor for 5000 souls
+- [ ] Reversal Ring: In the Darkmoon Tomb right before entering Anor Londo
+- [ ] Skull Ring: Appears on Ludleth's corpse in Firelink after killing the four lords of cinder, placing their remains on their thrones, and interacting with the bonfire
+- [ ] Calamity Ring: Use the Path of the Dragon gesture by the altar right next to the Dragon-Kin Mausoleum bonfire in Archdragon Peak
+- [ ] Ring of Sacrifice: Found on an ledge/awning above a courtyard in High Wall of Lothric. Found in the watery area between the Church of Yorshka and Distant Manor Bonfires. Sold by Yuria in Firelink
+### NG+ (Second Playthrough)
+- [ ] Life Ring+1: On a ledge where you meet Siegward in the Undead Settlement that is accessed by jumping off the lift before it reaches the top
+- [ ] Life Ring+2: From the Dragon Barracks bonfire, cross the bridge and enter the room on the right. Climb a ladder and then exit through the door on the left. Once outside, head around to the right and look for the ring on a ledge below
+- [ ] Chloranthy Ring+1: From the Pontiff Sulyvahn bonfire, leave through the initial entrance and drop off a ledge straight ahead to land on a structure below. The ring in on ground level behind this structure
+- [ ] Havel's Ring+1: From the Great Belfry bonfire in Archdragon Peak, head outside and follow the path towards the altar. It's on the left side in a corner just through the second stone arch
+- [ ] Ring of Favor+1: In a walkway above the Pontiff Sulyvahn bonfire
+- [ ] Ring of Steel Protection+1: At Dark Firelink Shrine behind the tower on the far right Magic Stoneplate Ring+1: Head to the right from the Farron Keep bonfire to an area with curse frogs. It's on a corpse in this area
+- [ ] Flame Stoneplate Ring+1: Near the Profaned Capital bonfire, in an alcove on the roof of the front of building with the three big rhino/hand guys in the toxic water area
+- [ ] Thunder Stoneplate Ring+1: In an area with many breakable pots just before the Catacombs of Carthus bonfire
+- [ ] Dark Stoneplate Ring+1: Backtrack from the Dragonslayer Armour bonfire and drop through a break in the railing on the right side of the area to access a room. The ring is on a ledge outside of this room
+- [ ] Speckled Stoneplate Ring+1: From where you start each playthrough, proceed straight ahead and then to the right to an area with a crystal enemy. The ring is in this area
+- [ ] Bloodbite Ring+1: Near the giant ballista above Smoldering Lake deep in the Catacombs of Carthus
+- [ ] Poisonbite Ring+1: Behind a well in the cemetery area of the Undead Settlement (where arrows rain down on you)
+- [ ] Fleshbite Ring+1: On a roof not far from the Tower on the Wall bonfire. Head out onto a large roof with one of the transforming monsters and go to the ladder where you will see the ring on the next roof over Covetous Gold Serpent Ring+1: From the Church of Yorshka bonfire in Irithyll of the Boreal Valley, proceed beyond the graveyard to the dark room with all the ghosts inside. Just outside the exit, take a right and drop down to a small rocky ledge below
+- [ ] Covetous Silver Serpent Ring+1: Take the shortcut door to next to the Irithyll Dungeon bonfire to a lift. Jump off early to reach a platform where the ring is on a corpse
+- [ ] Lingering Dragoncrest Ring+1: On a corpse in the water area of Crucifixion Woods near the giant crabs
+- [ ] Sage Ring+1: Climb out onto the roof of the Grand Archives where three flying knights engage you. High atop this roof, you can drop into the inside of the building and then work your way down some rafters. The ring is on a corpse on one of the rafters
+- [ ] Wolf Ring+1: From the Keep Ruins bonfire, exit and circle the building
+- [ ] Ring of the Evil Eye+1: Behind the large structure right before the Deacons of the Deep boss room
+- [ ] Wood Grain Ring+1: From the Dancer of the Boreal Valley bonfire, climb the stairs and head left. Continue to the lift and go down. The ring is behind the lift at the bottom
+### NG++ (Third Playthrough)
+- [ ] Life Ring+3: Behind the large throne in Dark Firelink
+- [ ] Chloranthy Ring+2: On a ledge under a bridge that you cross as you progress from the Road of Sacrifices bonfire
+- [ ] Havel's Ring+2: On a wooden beam below the Prison Tower bonfire in Anor Londo
+- [ ] Ring of Favor+2: From the Cleansing Chapel bonfire, head through the door on the left and take a lift up to a tower. Go around the outside of the tower and climb a ladder to the top and then drop down to a slanted platform that leads up to a roof. Turn left and an axe wielding enemy will come out of an alcove. The ring is in this alcove
+- [ ] Ring of Steel Protection+2: Visible on a platform in the catacombs off the left side of the first long bridge
+- [ ] Magic Stoneplate Ring+2: From the Profaned Capital bonfire, climb down the interior ladder, exit through the hole in the wall, and turn right. The ring will be towards the end of this path
+- [ ] Flame Stoneplate Ring+2: Located in the Smouldering Lake, near Demon Ruins bonfire. Behind a hidden wall where the Black Knight with axe is found. Right beside the Black Knight Sword
+- [ ] Thunder Stoneplate Ring+2: Backtrack from Dragonslayer Armour bonfire and go left into the building with a lift. Go through an opening on the left to get outside on a ledge. Drop down from that ledge onto a roof and the ring is on the right side
+- [ ] Dark Stoneplate Ring+2: From the Keep Ruins bonfire, look behind the building beyond the three enemies on the bridge
+- [ ] Covetous Gold Serpent Ring+2: In the area accessible after defeating the Nameless King
+- [ ] Covetous Silver Serpent Ring+2: Visible on a ledge just below Flynn's Ring in the Siegward/Fire Demon area of the Undead Settlement
+- [ ] Lingering Dragoncrest Ring+2: Climb high onto the roof of the Grand Archives where three flying knights engage you. The ring is in an alcove on the roof immediately above the area where the knights land
+- [ ] Sage Ring+2: From the Dancer of the Boreal Valley bonfire, climb the ladder and head left. Once outside, follow the path to a lift and jump off halfway down. Head left and fall onto a platform, then jump to an adjacent platform where the ring is Wolf Ring+2: On the left immediately outside the first boss door
+- [ ] Ring of the Evil Eye+2: In a corner behind some barrels in the room in High Wall of Lothric where Greirat's cell key and the first Estus Shard is found
+- [ ] Wood Grain Ring+2: In Irithyll of the Boreal Valley, after exiting the building with a Silver Knight shooting you with a greatbow, there are stairs to the left but instead turn right and look around the corner for the ring
+- [ ] Chillbite Ring: Given by Sister Friede after talking to her twice (Ashes of Ariandel DLC)
+- [ ] Chloranthy Ring+3: From the Shared Grave Bonfire follow the path up past the bridge and into the Church. Take a left up the stairs. On the right theres should be an invisible wall/ path to an elevator. Take it up and on your right is a alcove you roll/walk into. Make a right from there and fall through the hole and pick up the ring (The Ringed City DLC)
+- [ ] Ring of Steel Protection+3: Immediately after The Dreg Heap bonfire, head forward and past the horde of enemies to a corpse. When you try to grab it you will fall and the ceiling will break, and you will fall. Once at the bottom, out the only door, there will be an angel-like hollow firing projectiles at you. Drop down and run past it and take cover behind the building. Now circle around to the other side of the building along the planks (leaving yourself exposed to the Angel's beams) to find a corpse with the ring
+- [ ] Wolf Ring+3: Dropped by Seeker of the Spurned (The Ringed City DLC)
+- [ ] Ring of Favor+3: Can be found on a corpse in The Dreg Heap, up a large root in the swamp just after the Earthen Peak Ruins bonfire (The Ringed City DLC)
+- [ ] Covetous Gold Serpent Ring+3: All the way down the stairs from the Shira and and left and up the ladder immediately on your left in the swamp. Double back across the bridge, defeating the two Ringed Knights. On a corpse in a room past them with Lapp inside (The Ringed City DLC)
+- [ ] Covetous Silver Serpent Ring+3: After meeting the first angel that shoots at you fall down onto the perch and continue into the open door archway. From there you should see 2 Knight enemies and on the right hand side there is an area you enter. You make a right and you should be in some small quarter areas. Proceed all the way to the furthest wall north of you. Turn to the left and hit it to reveal an illusory wall. Climb the stairs there and just before you obtain Great Soul Dreg on your left, is a balcony. From that balcony you must drop down and there is your ring (The Ringed City DLC)
+- [ ] Havel's Ring+3: Just below where you get invaded by Dark Spirit Ledo, on the ledges above the swamp (The Ringed City DLC)
+- [ ] Ring of the Evil Eye+3: Dropped from a mimic inside the spiral crypt across the bridge from the Ringed City Streets bonfire shortcut (The Ringed City DLC)
+
+## Master of Infusion: Perform all forms ofinfusion
+- [ ] Refined: Available from start, requires Refined Gem
+- [ ] Raw: Available from start, requires Raw Gem
+- [ ] Fire: Available from start, requires Fire Gem
+- [ ] Heavy: Available after acquiring Farron Coal from Road of Sacrifices, requires Heavy Gem
+- [ ] Sharp: Available after acquiring Farron Coal from Road of Sacrifices, requires Sharp Gem
+- [ ] Poison: Available after acquiring Farron Coal from Road of Sacrifices, requires Poison Gem
+- [ ] Crystal: Available after acquiring Sage's Coal from Farron Keep, requires Crystal Gem
+- [ ] Blessed: Available after acquiring Sage's Coal from Farron Keep, requires Blessed Gem
+- [ ] Deep: Available after acquiring Sage's Coal from Farron Keep, requires Deep Gem
+- [ ] Dark: Available after acquiring Profaned Coal from Irithyll Dungeon, requires Dark Gem
+- [ ] Blood: Available after acquiring Profaned Coal from Irithyll Dungeon, requires Blood Gem
+- [ ] Hollow: Available after acquiring Profaned Coal from Irithyll Dungeon, requires Hollow Gem
+- [ ] Lightning: Available after acquiring Giant's Coal from Anor Londo, requires Lightning Gem
+- [ ] Simple: Available after acquiring Giant's Coal from Anor Londo, requires Simple Gem
+- [ ] Chaos: Available after acquiring Giant's Coal from Anor Londo, requires Chaos Gem
+
+## Ending Achievements
+- [ ] To Link the First Flame: Reach "To Link the First Flame" ending
+- [ ] The End of Fire: Reach "The End of Fire" ending
+- [ ] The Usurpation of Fire: Reach "The Usurpation of Fire" ending
+
+## Boss Achievements
+- [ ] Iudex Gundyr: Defeat "Heir of Fire" Iudex Gundyr
+- [ ] Vordt of the Boreal Valley: Defeat Vordt of the Boreal Valley
+- [ ] Curse-rotted Greatwood: Defeat the Curse-rotted Greatwood
+- [ ] Crystal Sage: Defeat Crystal Sage
+- [ ] Lords of Cinder: Abyss Watchers: Defeat the Abyss Watchers, Lords of Cinder
+- [ ] Deacons of the Deep: Defeat the Deacons of the Deep
+- [ ] High Lord Wolnir: Defeat High Lord Wolnir
+- [ ] Old Demon King: Defeat Old Demon King
+- [ ] Pontiff Sulyvahn: Defeat Pontiff Sulyvahn
+- [ ] Lord of Cinder: Yhorm the Giant: Defeat Yhorm the Giant, Lord of Cinder
+- [ ] Lord of Cinder: Aldrich, Devourer of Gods: Defeat Aldrich, Devourer of Gods, Lord of Cinder
+- [ ] Dancer of the Boreal Valley: Defeat Dancer of the Boreal Valley
+- [ ] Dragonslayer Armour: Defeat Dragonslayer Armour
+- [ ] Oceiros, the Consumed King: Defeat Oceiros, the Consumed King
+- [ ] Champion Gundyr: Defeat Champion Gundyr
+- [ ] Lord of Cinder: Lothric, Younger Prince: Defeat Lothric, Younger Prince, Lord of Cinder
+- [ ] Ancient Wyvern: Defeat Ancient Wyvern
+- [ ] The Nameless King: Defeat Nameless King
+
+## Misc Achievements
+- [ ] Supreme Weapon Reinforcement: Reinforce any weapon to the highest level
+- [ ] Ultimate Bonfire: Reinforce a bonfire to the highest level
+- [ ] Ultimate Estus: Reinforce the Estus Flask to the highest level
+- [ ] Untended Graves: Reach the Untended Graves
+- [ ] Archdragon Peak: Reach Archdragon Peak
+- [ ] Enkindle: Light a bonfire flame for the first time
+- [ ] Embrace the Flame: Become a Host of Embers for the first time
+
+## Covenant Achievements
+- [ ] Covenant: Warrior of Sunlight: Discover Warrior of Sunlight covenant
+- [ ] Covenant: Way of Blue: Discover Way of Blue covenant
+- [ ] Covenant: Blue Sentinels: Discover Blue Sentinels covenant
+- [ ] Covenant: Blade of the Darkmoon: Discover Blade of the Darkmoon covenant
+- [ ] Covenant: Rosaria's Fingers: Discover Rosaria's Fingers covenant
+- [ ] Covenant: Mound-makers : Discover Mound-makers covenant
+- [ ] Covenant: Watchdogs of Farron: Discover Watchdogs of Farron covenant
+- [ ] Covenant: Aldrich Faithful: Discover Aldrich Faithful covenant
+- [ ] (No Achievement) Covenant: Spears of the Church (The Ringed City DLC)
+
+## Weapons and Shields Checklists
+
+- [ ] Weapons
+- [ ] Shields
+- [ ] Weapons
+- [ ] Daggers
+- [ ] Dagger
+- [ ] Parrying Dagger
+- [ ] Mail Breaker
+- [ ] Harpe
+- [ ] Bandit's Knife
+- [ ] Rotten Ghru Dagger
+- [ ] Corvian Greatknife
+- [ ] Murky Hand Scythe
+- [ ] Handmaid's Dagger
+- [ ] Scholar's Candlestick
+- [ ] Aquamarine Dagger
+- [ ] Tailbone Short Sword
+- [ ] Brigand Twindaggers
+- [ ] Straight Swords
+- [ ] Shortsword
+- [ ] Long Sword
+- [ ] Broadsword
+- [ ] Broken Straight Sword
+- [ ] Astora Straight Sword
+- [ ] Lothric Knight Sword
+- [ ] Barbed Straight Sword
+- [ ] Dark Sword
+- [ ] Cleric's Candlestick
+- [ ] Irithyll Straight Sword
+- [ ] Anri's Straight Sword
+- [ ] Sunlight Straight Sword
+- [ ] Morion Blade
+- [ ] Ringed Knight Straight Sword
+- [ ] Lothric's Holy Sword
+- [ ] Gotthard Twinswords
+- [ ] Valorheart
+- [ ] Greatswords
+- [ ] Bastard Sword
+- [ ] Claymore
+- [ ] Flamberge
+- [ ] Drakeblood Greatsword
+- [ ] Executioner's Greatsword
+- [ ] Black Knight Sword
+- [ ] Onyx Blade
+- [ ] Hollowslayer Greatsword
+- [ ] Wolnir's Holy Sword
+- [ ] Greatsword of Judgment
+- [ ] Storm Ruler
+- [ ] Wolf Knight's Greatsword
+- [ ] Moonlight Greatsword
+- [ ] Firelink Greatsword
+- [ ] Twin Princes' Greatsword
+- [ ] Gael's Greatsword
+- [ ] Ultra Greatswords
+- [ ] Zweihander
+- [ ] Greatsword
+- [ ] Astora Greatsword
+- [ ] Lothric Knight Greatsword
+- [ ] Cathedral Knight Greatsword
+- [ ] Black Knight Greatsword
+- [ ] Fume Ultra Greatsword
+- [ ] Profaned Greatsword
+- [ ] Lorian's Greatsword
+- [ ] Ringed Knight Paired Greatswords
+- [ ] Farron Greatsword
+- [ ] Curved Swords
+- [ ] Scimitar
+- [ ] Falchion
+- [ ] Shotel
+- [ ] Carthus Curved Sword
+- [ ] Carthus Shotel
+- [ ] Rotten Ghru Curved Sword
+- [ ] Painting Guardian's Curved Sword
+- [ ] Follower Sabre
+- [ ] Pontiff Knight Curved Sword
+- [ ] Crescent Moon Sword
+- [ ] Storm Curved Sword
+- [ ] Demon's Scar
+- [ ] Sellsword Twinblades
+- [ ] Warden Twinblades
+- [ ] Dancer's Enchanted Swords
+- [ ] Curved Greatswords
+- [ ] Murakumo
+- [ ] Carthus Curved Greatsword
+- [ ] Exile Greatsword
+- [ ] Harald Curved Greatsword
+- [ ] Old Wolf Curved Sword
+- [ ] Thrusting Swords
+- [ ] Rapier
+- [ ] Estoc
+- [ ] Ricard's Rapier
+- [ ] Irithyll Rapier
+- [ ] Crystal Sage's Rapier
+- [ ] Crow Quills
+- [ ] Katanas
+- [ ] Uchigatana
+- [ ] Washing Pole
+- [ ] Black Blade
+- [ ] Bloodlust
+- [ ] Chaos Blade
+- [ ] Darkdrift
+- [ ] Frayed Blade
+- [ ] Onikiri and Ubadachi
+- [ ] Axes
+- [ ] Hand Axe
+- [ ] Thrall Axe
+- [ ] Battle Axe
+- [ ] Brigand Axe
+- [ ] Dragonslayer's Axe
+- [ ] Millwood Battle Axe
+- [ ] Man Serpent Hatchet
+- [ ] Butcher Knife
+- [ ] Eleonora
+- [ ] Winged Knight Twinaxes
+- [ ] Greataxes
+- [ ] Greataxe
+- [ ] Great Machete
+- [ ] Black Knight Greataxe
+- [ ] Demon's Greataxe
+- [ ] Dragonslayer Greataxe
+- [ ] Yhorm's Great Machete
+- [ ] Earth Seeker
+- [ ] Hammers
+- [ ] Club
+- [ ] Reinforced Club
+- [ ] Mace
+- [ ] Morning Star
+- [ ] Warpick
+- [ ] Blacksmith Hammer
+- [ ] Heysel Pick
+- [ ] Drang Hammers
+- [ ] Great Hammers
+- [ ] Large Club
+- [ ] Great Club
+- [ ] Great Mace
+- [ ] Spiked Mace
+- [ ] Pickaxe
+- [ ] Great Wooden Hammer
+- [ ] Gargoyle Flame Hammer
+- [ ] Morne's Great Hammer
+- [ ] Smough's Great Hammer
+- [ ] Quakestone Hammer
+- [ ] Ledo's Great Hammer
+- [ ] Vordt's Great Hammer
+- [ ] Old King's Great Hammer
+- [ ] Dragon Tooth
+- [ ] Spears
+- [ ] Spear
+- [ ] Winged Spear
+- [ ] Partizan
+- [ ] Rotten Ghru Spear
+- [ ] Four-Pronged Plow
+- [ ] Saint Bident
+- [ ] Follower Javelin
+- [ ] Gargoyle Flame Spear
+- [ ] Soldering Iron
+- [ ] Yorshka's Spear
+- [ ] Dragonslayer Spear
+- [ ] Golden Ritual Spear
+- [ ] Tailbone Spear
+- [ ] Arstor's Spear
+- [ ] Dragonslayer Swordspear
+- [ ] Drang Twinspears
+- [ ] Pikes
+- [ ] Pike
+- [ ] Greatlance
+- [ ] Lothric Knight Long Spear
+- [ ] Lothric War Banner
+- [ ] Ringed Knight Spear
+- [ ] Halberds
+- [ ] Halberd
+- [ ] Red Hilted Halberd
+- [ ] Lucerne
+- [ ] Glaive
+- [ ] Crescent Axe
+- [ ] Winged Knight Halberd
+- [ ] Splitleaf Greatsword
+- [ ] Black Knight Glaive
+- [ ] Crucifix of the Mad King
+- [ ] Immolation Tinder
+- [ ] Gundyr's Halberd
+- [ ] Reapers
+- [ ] Great Scythe
+- [ ] Great Corvian Scythe
+- [ ] Pontiff Knight Great Scythe
+- [ ] Friede's Great Scythe
+- [ ] Whips
+- [ ] Whip
+- [ ] Notched Whip
+- [ ] Spotted Whip
+- [ ] Witch's Locks
+- [ ] Rose of Ariandel
+- [ ] Fists
+- [ ] Caestus
+- [ ] Demon's Fist
+- [ ] Dark Hand
+- [ ] Claws
+- [ ] Claw
+- [ ] Manikin Claws
+- [ ] Crow Talons
+- [ ] Bows
+- [ ] Short Bow
+- [ ] Composite Bow
+- [ ] Longbow
+- [ ] Black Bow of Pharis
+- [ ] White Birch Bow
+- [ ] Dragonrider Bow
+- [ ] Darkmoon Longbow
+- [ ] Greatbows
+- [ ] Dragonslayer Greatbow
+- [ ] Onislayer Greatbow
+- [ ] Millwood Greatbow
+- [ ] Crossbows
+- [ ] Light Crossbow
+- [ ] Heavy Crossbow
+- [ ] Sniper Crossbow
+- [ ] Arbalest
+- [ ] Knight's Crossbow
+- [ ] Avelyn
+- [ ] Repeating Crossbow
+- [ ] Staves
+- [ ] Sorcerer's Staff
+- [ ] Heretic's Staff
+- [ ] Court Sorcerer's Staff
+- [ ] Witchtree Branch
+- [ ] Storyteller's Staff
+- [ ] Mendicant's Staff
+- [ ] Murky Longstaff
+- [ ] Izalith Staff
+- [ ] Archdeacon's Great Staff
+- [ ] Man-grub's Staff
+- [ ] Preacher's Right Arm
+- [ ] Sage's Crystal Staff
+- [ ] Pyromancy Flames
+- [ ] Pyromancy Flame
+- [ ] Pyromancer's Parting Flame
+- [ ] Talismans
+- [ ] Talisman
+- [ ] Canvas Talisman
+- [ ] Saint's Talisman
+- [ ] Sunlight Talisman
+- [ ] Sunless Talisman
+- [ ] White Hair Talisman
+- [ ] Sacred Chimes
+- [ ] Cleric's Sacred Chime
+- [ ] Priest's Chime
+- [ ] Saint-tree Bellvine
+- [ ] Yorshka's Chime
+- [ ] Caitha's Chime
+- [ ] Crystal Chime
+- [ ] Sacred Chime of Filianore
+- [ ] Shields
+- [ ] Torches
+- [ ] Torch
+- [ ] Follower Torch
+- [ ] Small Shields
+- [ ] Buckler
+- [ ] Target Shield
+- [ ] Small Leather Shield
+- [ ] Leather Shield
+- [ ] Crimson Parma
+- [ ] Red and White Round Shield
+- [ ] Caduceus Round Shield
+- [ ] Elkhorn Round Shield
+- [ ] Warrior's Round Shield
+- [ ] Plank Shield
+- [ ] Ghru Rotshield
+- [ ] Iron Round Shield
+- [ ] Hawkwood's Shield
+- [ ] Llewellyn Shield
+- [ ] Eastern Iron Shield
+- [ ] Golden Falcon Shield
+- [ ] Sacred Bloom Shield
+- [ ] Dragonhead Shield
+- [ ] Shields
+- [ ] Large Leather Shield
+- [ ] Carthus Shield
+- [ ] East-West Shield
+- [ ] Blue Wooden Shield
+- [ ] Round Shield
+- [ ] Wooden Shield
+- [ ] Wargod Wooden Shield
+- [ ] Follower Shield
+- [ ] Kite Shield
+- [ ] Silver Eagle Kite Shield
+- [ ] Knight Shield
+- [ ] Lothric Knight Shield
+- [ ] Spider Shield
+- [ ] Sunset Shield
+- [ ] Sunlight Shield
+- [ ] Stone Parma
+- [ ] Spiked Shield
+- [ ] Pierce Shield
+- [ ] Porcine Shield
+- [ ] Grass Crest Shield
+- [ ] Crest Shield
+- [ ] Dragon Crest Shield
+- [ ] Spirit Tree Crest Shield
+- [ ] Golden Wing Crest Shield
+- [ ] Pontiff Knight Shield
+- [ ] Black Knight Shield
+- [ ] Silver Knight Shield
+- [ ] Ethereal Oak Shield
+- [ ] Shield of Want
+- [ ] Greatshields
+- [ ] Twin Dragon Greatshield
+- [ ] Black Iron Greatshield
+- [ ] Lothric Knight Greatshield
+- [ ] Cathedral Knight Greatshield
+- [ ] Stone Greatshield
+- [ ] Bonewheel Shield
+- [ ] Ancient Dragon Greatshield
+- [ ] Greatshield of Glory
+- [ ] Moaning Shield
+- [ ] Wolf Knight's Greatshield
+- [ ] Havel's Greatshield
+- [ ] Curse Ward Greatshield
+- [ ] Dragonslayer Greatshield
+- [ ] Yhorm's Greatshield
+- [ ] Dragonhead Greatshield
+- [ ] Giant Door Shield
+
+## Armor Checklists
+
+- [ ] Head
+- [ ] Chest
+- [ ] Hands
+- [ ] Legs
+- [ ] Head
+- [ ] Standard Helm
+- [ ] Brigand Hood
+- [ ] Lucatiel's Mask
+- [ ] Chain Helm
+- [ ] Northern Helm
+- [ ] Creighton's Steel Mask
+- [ ] Iron Helm
+- [ ] Sellsword Helm
+- [ ] Follower Helm
+- [ ] Shira's Crown
+- [ ] Undead Legion Helm
+- [ ] Herald Helm
+- [ ] Knight Helm
+- [ ] Nameless Knight Helm
+- [ ] Fallen Knight Helm
+- [ ] Elite Knight Helm
+- [ ] Alva Helm
+- [ ] Drakeblood Helm
+- [ ] Faraam Helm
+- [ ] Sunset Helm
+- [ ] Sunless Veil
+- [ ] Brass Helm
+- [ ] Slave Knight Hood
+- [ ] Vilhelm's Helm
+- [ ] Helm of Favor
+- [ ] Eastern Helm
+- [ ] Helm of Thorns
+- [ ] Catarina Helm
+- [ ] Morne's Helm
+- [ ] Lapp's Helm
+- [ ] Lothric Knight Helm
+- [ ] Cathedral Knight Helm
+- [ ] Winged Knight Helm
+- [ ] Millwood Knight Helm
+- [ ] Ruin Helm
+- [ ] Outrider Knight Helm
+- [ ] Pontiff Knight Crown
+- [ ] Fire Witch Helm
+- [ ] Dancer's Crown
+- [ ] Dark Mask
+- [ ] Black Knight Helm
+- [ ] Silver Knight Helm
+- [ ] Ringed Knight Hood
+- [ ] Dragonslayer Helm
+- [ ] Wolf Knight Helm
+- [ ] Smough's Helm
+- [ ] Iron Dragonslayer Helm
+- [ ] Lorian's Helm
+- [ ] Golden Crown
+- [ ] Firelink Helm
+- [ ] Black Iron Helm
+- [ ] Executioner Helm
+- [ ] Exile Mask
+- [ ] Gundyr's Helm
+- [ ] Havel's Helm
+- [ ] Assassin Hood
+- [ ] Black Hand Hat
+- [ ] Thief Mask
+- [ ] Shadow Mask
+- [ ] Silver Mask
+- [ ] Sneering Mask
+- [ ] Billed Mask
+- [ ] Painting Guardian Hood
+- [ ] Sorcerer Hood
+- [ ] Old Sorcerer Hat
+- [ ] Court Sorcerer Hood
+- [ ] Karla's Pointed Hat
+- [ ] Black Witch Hat
+- [ ] Black Witch Veil
+- [ ] Crown of Dusk
+- [ ] Xanthous Crown
+- [ ] Sage's Big Hat
+- [ ] Pyromancer Crown
+- [ ] Old Sage's Blindfold
+- [ ] Conjurator Hood
+- [ ] Desert Pyromancer Hood
+- [ ] Cleric Hat
+- [ ] Maiden Hood
+- [ ] Ordained Hood
+- [ ] Evangelist Hat
+- [ ] Archdeacon White Crown
+- [ ] Aristocrat's Mask
+- [ ] Hood of Prayer
+- [ ] Ragged Mask
+- [ ] Worker Hat
+- [ ] Grave Warden Hood
+- [ ] Steel Soldier Helm
+- [ ] Thrall Hood
+- [ ] Pharis's Hat
+- [ ] Wolnir's Crown
+- [ ] Blindfold Mask
+- [ ] Symbol of Avarice
+- [ ] White Preacher Head
+- [ ] Chest
+- [ ] Hard Leather Armor
+- [ ] Brigand Armor
+- [ ] Mirrah Vest
+- [ ] Chain Armor
+- [ ] Northern Armor
+- [ ] Mirrah Chain Mail
+- [ ] Armor of the Sun
+- [ ] Sellsword Armor
+- [ ] Drang Armor
+- [ ] Follower Armor
+- [ ] Shira's Armor
+- [ ] Undead Legion Armor
+- [ ] Herald Armor
+- [ ] Knight Armor
+- [ ] Nameless Knight Armor
+- [ ] Fallen Knight Armor
+- [ ] Elite Knight Armor
+- [ ] Alva Armor
+- [ ] Drakeblood Armor
+- [ ] Faraam Armor
+- [ ] Sunset Armor
+- [ ] Sunless Armor
+- [ ] Brass Armor
+- [ ] Slave Knight Armor
+- [ ] Vilhelm's Armor
+- [ ] Embraced Armor of Favor
+- [ ] Eastern Armor
+- [ ] Armor of Thorns
+- [ ] Catarina Armor
+- [ ] Morne's Armor
+- [ ] Lapp's Armor
+- [ ] Lothric Knight Armor
+- [ ] Cathedral Knight Armor
+- [ ] Winged Knight Armor
+- [ ] Millwood Knight Armor
+- [ ] Harald Legion Armor
+- [ ] Ruin Armor
+- [ ] Outrider Knight Armor
+- [ ] Pontiff Knight Armor
+- [ ] Fire Witch Armor
+- [ ] Dancer's Armor
+- [ ] Dark Armor
+- [ ] Black Knight Armor
+- [ ] Silver Knight Armor
+- [ ] Ringed Knight Armor
+- [ ] Dragonslayer Armor
+- [ ] Wolf Knight Armor
+- [ ] Smough's Armor
+- [ ] Iron Dragonslayer Armor
+- [ ] Lorian's Armor
+- [ ] Dragonscale Armor
+- [ ] Firelink Armor
+- [ ] Black Iron Armor
+- [ ] Executioner Armor
+- [ ] Exile Armor
+- [ ] Gundyr's Armor
+- [ ] Havel's Armor
+- [ ] Assassin Armor
+- [ ] Black Hand Armor
+- [ ] Black Leather Armor
+- [ ] Shadow Garb
+- [ ] Leonhard's Garb
+- [ ] Pale Shade Robe
+- [ ] Black Dress
+- [ ] Painting Guardian Gown
+- [ ] Antiquated Plain Garb
+- [ ] Sorcerer Robe
+- [ ] Clandestine Coat
+- [ ] Old Sorcerer Coat
+- [ ] Court Sorcerer Robe
+- [ ] Karla's Coat
+- [ ] Black Witch Garb
+- [ ] Antiquated Dress
+- [ ] Xanthous Overcoat
+- [ ] Scholar's Robe
+- [ ] Pyromancer Garb
+- [ ] Cornyx's Garb
+- [ ] Conjurator Robe
+- [ ] Desert Pyromancer Garb
+- [ ] Cleric Blue Robe
+- [ ] Maiden Robe
+- [ ] Ordained Dress
+- [ ] Evangelist Robe
+- [ ] Deacon Robe
+- [ ] Archdeacon Holy Garb
+- [ ] Jailer Robe
+- [ ] Robe of Prayer
+- [ ] Fire Keeper Robe
+- [ ] Master's Attire
+- [ ] Worker Garb
+- [ ] Grave Warden Robe
+- [ ] Deserter Armor
+- [ ] Leather Armor
+- [ ] Hands
+- [ ] Hard Leather Gauntlets
+- [ ] Brigand Gauntlets
+- [ ] Mirrah Gloves
+- [ ] Leather Gauntlets
+- [ ] Northern Gloves
+- [ ] Mirrah Chain Gloves
+- [ ] Iron Bracelets
+- [ ] Sellsword Gauntlet
+- [ ] Drang Gauntlets
+- [ ] Follower Gloves
+- [ ] Shira's Gloves
+- [ ] Undead Legion Gauntlet
+- [ ] Herald Gloves
+- [ ] Knight Gauntlets
+- [ ] Nameless Knight Gauntlets
+- [ ] Fallen Knight Gauntlets
+- [ ] Elite Knight Gauntlets
+- [ ] Alva Gauntlets
+- [ ] Drakeblood Gauntlets
+- [ ] Faraam Gauntlets
+- [ ] Sunset Gauntlets
+- [ ] Sunless Gauntlets
+- [ ] Brass Gauntlets
+- [ ] Slave Knight Gauntlets
+- [ ] Vilhelm's Gauntlets
+- [ ] Gauntlets of Favor
+- [ ] Eastern Gauntlets
+- [ ] Gauntlets of Thorns
+- [ ] Catarina Gauntlets
+- [ ] Morne's Gauntlets
+- [ ] Lapp's Gauntlets
+- [ ] Lothric Knight Gauntlets
+- [ ] Cathedral Knight Gauntlets
+- [ ] Winged Knight Gauntlets
+- [ ] Millwood Knight Gauntlets
+- [ ] Harald Legion Gauntlets
+- [ ] Ruin Gauntlets
+- [ ] Outrider Knight Gauntlets
+- [ ] Pontiff Knight Gauntlets
+- [ ] Fire Witch Gauntlets
+- [ ] Dancer's Gauntlets
+- [ ] Dark Gauntlets
+- [ ] Black Knight Gauntlets
+- [ ] Silver Knight Gauntlets
+- [ ] Ringed Knight Gauntlets
+- [ ] Dragonslayer Gauntlets
+- [ ] Wolf Knight Gauntlets
+- [ ] Smough's Gauntlets
+- [ ] Iron Dragonslayer Gauntlets
+- [ ] Lorian's Gauntlets
+- [ ] Golden Bracelets
+- [ ] Firelink Gauntlets
+- [ ] Black Iron Gauntlets
+- [ ] Executioner Gauntlets
+- [ ] Exile Gauntlets
+- [ ] Gundyr's Gauntlets
+- [ ] Havel's Gauntlets
+- [ ] Assassin Gloves
+- [ ] Black Leather Gloves
+- [ ] Shadow Gauntlets
+- [ ] Leonhard's Gauntlets
+- [ ] Pale Shade Gloves
+- [ ] Black Gauntlets
+- [ ] Painting Guardian Gloves
+- [ ] Violet Wrappings
+- [ ] Sorcerer Gloves
+- [ ] Old Sorcerer Gauntlets
+- [ ] Court Sorcerer Gloves
+- [ ] Karla's Gloves
+- [ ] Black Witch Wrappings
+- [ ] Antiquated Gloves
+- [ ] Xanthous Gloves
+- [ ] Pyromancer Wrap
+- [ ] Cornyx's Wrap
+- [ ] Conjurator Manchettes
+- [ ] Desert Pyromancer Gloves
+- [ ] Cleric Gloves
+- [ ] Maiden Gloves
+- [ ] Evangelist Gloves
+- [ ] Jailer Gloves
+- [ ] Fire Keeper Gloves
+- [ ] Master's Gloves
+- [ ] Worker Gloves
+- [ ] Grave Warden Wrap
+- [ ] Leather Gloves
+- [ ] Legs
+- [ ] Hard Leather Boots
+- [ ] Brigand Trousers
+- [ ] Mirrah Trousers
+- [ ] Chain Leggings
+- [ ] Northern Trousers
+- [ ] Mirrah Chain Leggings
+- [ ] Iron Leggings
+- [ ] Sellsword Trousers
+- [ ] Drang Shoes
+- [ ] Follower Boots
+- [ ] Shira's Trousers
+- [ ] Undead Legion Leggings
+- [ ] Herald Trousers
+- [ ] Knight Leggings
+- [ ] Nameless Knight Leggings
+- [ ] Fallen Knight Trousers
+- [ ] Elite Knight Leggings
+- [ ] Alva Leggings
+- [ ] Drakeblood Leggings
+- [ ] Faraam Boots
+- [ ] Sunset Leggings
+- [ ] Sunless Leggings
+- [ ] Brass Leggings
+- [ ] Slave Knight Leggings
+- [ ] Vilhelm's Leggings
+- [ ] Leggings of Favor
+- [ ] Eastern Leggings
+- [ ] Leggings of Thorns
+- [ ] Catarina Leggings
+- [ ] Morne's Leggings
+- [ ] Lapp's Leggings
+- [ ] Lothric Knight Leggings
+- [ ] Cathedral Knight Leggings
+- [ ] Winged Knight Leggings
+- [ ] Millwood Knight Leggings
+- [ ] Harald Legion Leggings
+- [ ] Ruin Leggings
+- [ ] Outrider Knight Leggings
+- [ ] Pontiff Knight Leggings
+- [ ] Fire Witch Leggings
+- [ ] Dancer's Leggings
+- [ ] Dark Leggings
+- [ ] Black Knight Leggings
+- [ ] Silver Knight Leggings
+- [ ] Ringed Knight Leggings
+- [ ] Dragonslayer Leggings
+- [ ] Wolf Knight Leggings
+- [ ] Smough's Leggings
+- [ ] Iron Dragonslayer Leggings
+- [ ] Lorian's Leggings
+- [ ] Dragonscale Waistcloth
+- [ ] Firelink Leggings
+- [ ] Black Iron Leggings
+- [ ] Executioner Leggings
+- [ ] Exile Leggings
+- [ ] Gundyr's Leggings
+- [ ] Havel's Leggings
+- [ ] Assassin Trousers
+- [ ] Black Leather Boots
+- [ ] Shadow Leggings
+- [ ] Leonhard's Trousers
+- [ ] Pale Shade Trousers
+- [ ] Black Leggings
+- [ ] Painting Guardian Waistcloth
+- [ ] Sorcerer Trousers
+- [ ] Old Sorcerer Boots
+- [ ] Court Sorcerer Trousers
+- [ ] Karla's Trousers
+- [ ] Black Witch Trousers
+- [ ] Antiquated Skirt
+- [ ] Xanthous Trousers
+- [ ] Pyromancer Trousers
+- [ ] Cornyx's Skirt
+- [ ] Conjurator Boots
+- [ ] Desert Pyromancer Skirt
+- [ ] Cleric Trousers
+- [ ] Maiden Skirt
+- [ ] Ordained Trousers
+- [ ] Evangelist Trousers
+- [ ] Deacon Skirt
+- [ ] Archdeacon Skirt
+- [ ] Jailer Trousers
+- [ ] Skirt of Prayer
+- [ ] Fire Keeper Skirt
+- [ ] Loincloth
+- [ ] Worker Trousers
+- [ ] Grave Warden Skirt
+- [ ] Deserter Trousers
+- [ ] Loincloth (Ringed City Version)
+- [ ] Leather Boots
