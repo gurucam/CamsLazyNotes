@@ -1,0 +1,992 @@
+# Leon A
+
+## Get to the RPD (Leon)
+
+### The Gas Station
+
+- [ ] Choose "New Game" / "Leon S. Kennedy" from the main menu and your chosen difficulty.
+  - [ ] After the initial cutscenes, run towards the door and push it open to trigger the next cutscene.
+  - [ ] You will automatically pick up a torch.
+- [ ] Turn left, run to the end of the aisle and go though the door past the injured police officer.
+- [ ] Make your way to the end of the next passage and go through the slightly ajar door for another cutscene after which you'll be thrown into your first battle.
+- [ ] Deliver two headshots to stagger your foe, shove your way past him and go down the aisle where he's standing to find a key hanging on a board.
+  - [ ] Take the key and go back down the aisle, shooting the zombie again if necessary.
+- [ ] Take a left down the other aisle where you'll come to a locked door.
+  - [ ] Use the key you just picked up to open it.
+  - [ ] There are three zombies in here but you don't need to fight.
+  - [ ] Your goal is the door to your left as you enter the room.
+  - [ ] Unfortunately, one of the zombies will knock over a trolley blocking your route.
+- [ ] Run down the aisle immediately to your right, turn left at the end and run down the next aisle past a zombie as he knocks over another trolley.
+  - [ ] As you approach the door, you will trigger another cutscene where you meet Claire and make your escape.
+  - [ ] When the opening credits and next cutscene are done, you will find yourself surrounded by the undead.
+  - [ ] It's not immediately clear where you need to go.
+- [ ] Run to the right of the female zombie facing away from you.
+- [ ] Make your way around the burning cars and a little further ahead, you will see an alley to your left.
+- [ ] Run down it and follow it to the end.
+  - [ ] You will emerge in sight of the police station.
+- [ ] Pick your way through the path formed by the stationary cars.
+- [ ] You should be able to avoid being harassed by enemies if you give them a reasonably wide berth.
+- [ ] Open the gates for another short cutscene and go through the doors in front of you.
+
+## Police Station
+
+- [ ] First of all, bring up your map / inventory / information menu (triangle button on the PS4) and read the file Orientation Letter (1/58).
+  - [ ] Pick up the Handgun Ammo x 6 from the desk in front of you, reload your pistol, save your game and discard the Worn Key from your inventory.
+- [ ] Check out the laptop nearby for a cutscene where you see an officer in distress.
+- [ ] Go to the door to the southeast of the hall.
+  - [ ] You'll pass some ammo crates with a can of First Aid Spray on them.
+- [ ] Ignore it for the time being - it's not going anywhere - and press the button next to the shutter to open the way to the east side of the station.
+- [ ] It doesn't open very far so crawl underneath it.
+- [ ] Your immediate goal is the Watchman's Room to the east.
+- [ ] Go north, ignoring the locked door to your right and turn right.
+  - [ ] As you pass it, go into the Press Room and examine the body on the floor for Handgun Ammo x 10.
+- [ ] Go back outside and interact with the filing cabinet blocking your path to move it out of the way.
+- [ ] Duck left and go into the ladies' toilet where you'll find a can of First Aid Spray in the second cubicle.
+- [ ] Go back outside and make your way to your goal.
+  - [ ] As you approach, you will hear someone shouting for help.
+- [ ] Go into the Watchman's Room and interact with the shutter to try to help poor Elliot.
+  - [ ] You will automatically pick up the file Officer's Notebook (2/58).
+- [ ] The notebook gives you the solutions to the puzzle statues that you'll find in various places in the station.
+- [ ] Afterwards, a zombie will start breaking down the door of the office.
+- [ ] Try to go out yourself.
+  - [ ] As he breaks in, you should be able to get past him without being chewed.
+- [ ] Make your way back the way you came.
+- [ ] A zombie will break through the glass behind you.
+  - [ ] You'll also notice that the previously clear passage ahead is now rather more occupied.
+  - [ ] There are a total of three zombies blocking your way.
+- [ ] Kneecap the male and female zombies and run past them as they're staggered; the third guy in the corner isn't an immediate threat and can be ignored or dealt with.
+  - [ ] If you do choose to deal with him, you can go into the cupboard that he came out of and find Wooden Boards and Handgun Ammo x 10.
+- [ ] Run back to the shutter leading to the Main Hall for another cutscene where you'll be introduced to Marvin Branagh.
+- [ ] He will give you your uniform and a Combat Knife which you need to proceed.
+- [ ] Cut the tape around the gate switch and activate the shutter that leads to the west of the building.
+  - [ ] Grab the Green Herb and the Handgun Ammo x 11 from the Reception Area.
+  - [ ] If you picked up the Wooden Boards earlier, I would board up the window at the top of this corridor where a zombie is trying to break through.
+- [ ] Continue west and north and turn east at the top to go into the Operations Room.
+  - [ ] Grab the Handgun Ammo x 7 from a chair on the left side of the room.
+- [ ] Look on a desk for the file Record of Events (3/58).
+  - [ ] Examine the map on the board for the Police Station 1F Map.
+  - [ ] If you were unable to board the window, a zombie might follow you in; shoot her in the head a couple of times if you need to.
+  - [ ] When you're ready to leave, climb on the box in the east of the room and go through the window.
+- [ ] In the hallway outside, you'll want to drop the fat zombie banging on the vending machine because otherwise he'll come and harass you shortly.
+  - [ ] If you want a bit more ammo, go north and examine the corpse on the floor to the north for Handgun Ammo x 5.
+- [ ] Go south and duck into the West Office.
+  - [ ] Pick up the Gunpowder from the desk immediately in front of you and read the file Uses of Gunpowder (4/58).
+- [ ] Make your way to the other end via the right-hand side, making a note of the names on the desks: Neil Carsen, Elliot Edward and David Ford.
+- [ ] Along the way read the file Operation Report (5/58) on Elliot's desk.
+- [ ] At the end is a desk with a puzzle.
+  - [ ] Read the file Rookie's First Assignment (6/58) note to continue.
+  - [ ] There are two combination locks on either side of the drawer.
+- [ ] You've got the combination for the first so use the combination "NED" on the left lock.
+  - [ ] Now go along the desks on the other side to read the names Marvin Branagh, Rita Phillips and, upside down on the floor.
+- [ ] George Scott.
+  - [ ] Note that going down that side will animate the corpse and you'll have to deal with him.
+- [ ] Go back to the puzzle desk and use the combination "MRG" on the right hand lock to obtain the High Capacity Magazine (Matilda) accessory.
+- [ ] Immediately combine it with your pistol.
+- [ ] While you're here look up to your right to spot your first Mr.
+- [ ] Raccoon figure (1/15).
+- [ ] On your way back to the door, grab the Handgun Ammo x3 from a locker in the corner.
+- [ ] Back outside, another zombie may have shuffled back to life.
+  - [ ] If so, put him down.
+- [ ] Go through the door to the Safety Deposit Room.
+- [ ] Inside, look to your left to find the file Storage Locker Terminal Memo (7/58) on a desk.
+  - [ ] Now use the keypad.
+- [ ] Due to the missing keys, there's only a couple of lockers that you can open.
+- [ ] Enter the combinations 106 and 109 and go round and pick up the "Commemorative" Roll Film and Handgun Ammo x 9.
+- [ ] Leave the room and head north.
+  - [ ] You will see a zombie banging on the window by the stairs but I would ignore him for the time being.
+  - [ ] There are some Wooden Boards nearby but ignore them as well.
+  - [ ] Pick up the Green Herb lying in the hallway and duck into the Dark Room.
+- [ ] On a filing cabinet is a file Medicinal Benefits of Herbs (8/58).
+  - [ ] Grab the Handgun Ammo x 4 and Gunpowder from the lockers here.
+- [ ] Go into the back room, pick up the Red Herb and combine it with one of your Green Herbs.
+  - [ ] Use the facilities to develop the Commemorative film you picked up.
+- [ ] Place the G+R Herb in the item box together with any First Aid Spray, save your game and leave.
+- [ ] Back outside, go up the stairs.
+- [ ] At this point, the zombie will break through the window so take a moment to put him down.
+- [ ] Another zombie will likely fall down from above; put him down too and pick up the Wooden Boards that you ignored earlier.
+- [ ] Go up the stairs again.
+- [ ] There's a corpse at the top of the first flight.
+- [ ] She will become a nuisance later so deal with her now.
+- [ ] Afterwards, pick up the Handgun Ammo x 5 from where she was sitting.
+- [ ] Go long the landing to find a Red Herb past a cupboard.
+- [ ] Go into the nearby Men's Locker Room.
+- [ ] Look on the wall for the file Portable Safe Instructions (9/58).
+
+### Portable Safe
+
+- [ ] Nearby on top of the towel rack is the Portable Safe that it refers to.
+  - [ ] These items have a random combination but are reasonably easy to brute-force.
+  - [ ] Examine the item in your inventory.
+  - [ ] However you number the keys in your mind, press "1" and a light will turn green.
+  - [ ] Now press "2".
+  - [ ] If this is part of the correct sequence, a second light will turn green, otherwise the light will flash red.
+  - [ ] If this is the case, cancel it and try again, but this time, press "3" and so on until you get the next value in the sequence which you should write down.
+- [ ] Repeat the process to find the rest of the sequence.
+- [ ] Inside is a Spare Part which you will need to use on the keypad in the Safety Deposit Room next time you're there.
+- [ ] Open up the Portable Safe to find a Spare Part inside which can be used to partially fix the keypad in the Safety Deposit Room downstairs.
+  - [ ] There are some lockers to your left.
+- [ ] Open the left hand one to find Shotgun Shells x 3, which I would leave where they are for the time being.
+- [ ] There's another locker in here with a combination lock which you don't know at this point.
+- [ ] You can't explore further on this floor for the time being because of the steam that blocks your way.
+- [ ] Since time isn't too much of an issue, go back downstairs to the Safety Deposit Room and use the Spare Part to fix the "2" key on the keypad.
+- [ ] You can now unlock 102 which gives you Gunpowder and 208 which gives you Shotgun Shells x 3.
+- [ ] Again, I'd leave the Shotgun Shells where they are for now.
+- [ ] Go back up the stairs and continue to the top floor where you find Handgun Ammo x 8.
+- [ ] At the end of the corridor is another locker that requires a combination you don't have.
+- [ ] Go through the hole in the wall and pick up the Spade Key from the desk.
+- [ ] Leave and go east and south and follow the corridor to the end.
+- [ ] Look on the packing boxes for a file To any survivors (10/58).
+- [ ] Go through the nearby door into the West Storage Room.
+  - [ ] As you make your way through the room, pick up some Gunpowder and some Wooden Boards.
+- [ ] Ignore the corpse hanging from the ceiling.
+- [ ] Continue down and pick up the Hip Pouch for two more item slots.
+- [ ] Next to it is a file Some Guy's Scribblings (11/58).
+- [ ] Hardcore difficulty: there is no Hip Pouch here.
+- [ ] Leave through the door next to the bookcase which brings you out into the Library.
+- [ ] Go across the walkway in front of you, turn right and go down the stairs.
+  - [ ] There will be a zombie wandering around whom you will need to kill.
+- [ ] There's another corpse playing dead leaning against a desk near the door.
+- [ ] Kneecap him and finish him off as well.
+  - [ ] There is a door on your left which leads to the Lounge.
+- [ ] Nearby is a dead cop and next to him is a Combat Knife on the floor.
+- [ ] Don't necessarily pick it up at this time but do make a note of it.
+- [ ] Go into the Lounge, examine the Unicorn Statue and turn the dials to read Fish, Scorpion and Urn to retrieve the Unicorn Medallion.
+- [ ] While you're here, pick up the Police Station Upper Floors Map from the box on the wall and some Gunpowder from a table.
+- [ ] Return to the Library.
+- [ ] Go to where the moveable bookshelves are.
+- [ ] There's a zombie feeding whom you should kill.
+- [ ] Look at the rightmost bookcase and move it one to the left.
+- [ ] Move the leftmost two one space to the right.
+  - [ ] Pick up the Handgun Ammo x 12 from behind the leftmost bookcase.
+  - [ ] This will save time later.
+- [ ] Go back, grab the Red Book key item from the table near the door and use the Spade Key to unlock it.
+  - [ ] You will emerge on the landing overlooking the Main Hall.
+  - [ ] If you turn right and go to the end of the landing, you'll find Handgun Ammo x 15.
+- [ ] There's another medallion to claim up here.
+- [ ] Go back the way you came and continue round to the Lion Statue.
+- [ ] Turn the dials to read Lion, Branch, Eagle to retrieve the Lion Medallion.
+- [ ] Head down the stairs for a cutscene with Marvin.
+- [ ] Afterwards, use the Spade Key to unlock the door leading to the West Office.
+- [ ] Place your two medallions in the Goddess Statue, dump stuff you don't need right now in the item box and save your game.
+- [ ] Make sure you have the Red Book with you because we're going to use it shortly.
+- [ ] You should have two lots of Wooden Boards.
+- [ ] Go through Reception into the western corridor and board up two open windows there.
+  - [ ] This will make things less hazardous later.
+- [ ] Head up the eastern staircase and go through the southeast door to the Waiting Room.
+  - [ ] Pick up the Green Herb from the table and look on the desk for the file Guide Pamphlet (12/58).
+- [ ] Make a note of the safe behind the desk but we don't have the combination at this point.
+  - [ ] Use the Spade Key to unlock the door leading further east.
+- [ ] You can now discard the key, freeing up an inventory slot.
+- [ ] Out in the hallway, head north and pick up the Wooden Boards.
+- [ ] Turn back and go through the nearby door to enter the Art Room.
+- [ ] Look on a chair for a file Art Article: "The Red Stone" (13/58).
+- [ ] Make sure that you pick up the Weapons Locker Key Card from the round table.
+- [ ] In the south of the room is a statue and next to it is an arm lying on a table.
+  - [ ] If you remember the Commemorative Photo it showed the statue holding a book.
+  - [ ] Pick up the Statue's Left Arm and combine it with the Red Book in your inventory.
+  - [ ] Now use the Left Arm with Book on the statue to obtain a Scepter.
+  - [ ] Examine the Scepter in your inventory and rotate it until you can see a switch.
+- [ ] Press the switch to obtain a Red Jewel.
+- [ ] Return to the passageway and head east.
+  - [ ] As you approach the Fire Exit door, grab the Green Herb on the windowsill.
+- [ ] Go through the door for a scene with Claire.
+- [ ] Immediately afterwards, grab the Wooden Boards from behind you, Handgun Ammo x 12 from a barrel and the Cutting Tool by the door.
+  - [ ] Use the cutters on the chain holding the door closed and go through.
+  - [ ] Use the cutters again on the nearby door to the East Office.
+  - [ ] You will see a zombie banging on the second window along - use your Wooden Boards before it breaks through.
+- [ ] There'll be a zombie wandering around and another may come through the door behind you.
+  - [ ] Take them both out so you can explore uninterrupted.
+  - [ ] You'll probably need to make some space in your inventory - I had two Green Herb items which can be combined.
+  - [ ] Pick up another Green Herb nearby and a Flash Grenade from a nearby desk.
+  - [ ] Examine the corpse near the window for Handgun Ammo x 10.
+  - [ ] There are two key items that you need to pick up in here: the Electrical Part from the desks in the centre of the room and the Round Handle from the private office area.
+- [ ] There's some High Grade Gunpowder in here as well but you may not have room for it.
+- [ ] Leave through the door to the west.
+  - [ ] If you didn't deal with them earlier, a brain-hungry mob of zombies may be outside.
+- [ ] In the corridor leading back to the Main Hall, use the Electrical Part on the fuse box near the shutter and it will raise completely.
+  - [ ] As you go back into the Main Hall, pick up the First Aid Spray that you may have left earlier.
+- [ ] Put stuff in storage - you won't need the Red Jewel for a good while yet and you only need one healing item.
+- [ ] Make sure you have the Cutting Tool and Weapons Locker Key Card and save your game.
+- [ ] Go west through the Reception area and make your way west and north.
+  - [ ] Fortunately, you boarded up the windows here so the place isn't crawling with zombies.
+  - [ ] Your goal is the Operations Room.
+  - [ ] When you get inside, go to the southern door and cut the chain here.
+  - [ ] Pick up the Electronic Gadget key item from the desk immediately in front of you and discard the Cutting Tool - we're done with it.
+- [ ] Look on the board.
+- [ ] That looks like the combination to a lock.
+  - [ ] Pick up the Green Herb, Wooden Boards and Flash Grenade and unlock the door to the east.
+  - [ ] This will bring you out in the corridor near the Safety Deposit Room.
+- [ ] Before going in, you may need to drop off a few things in the Dark Room.
+  - [ ] As I approached, a zombie came through the open window so I killed him and boarded the window up.
+- [ ] Return to the Safety Deposit Room, run to the back, use your Weapons Locker Key Card on the locker at the back and grab the W-870 Shotgun and the Shotgun Shells x 4 inside.
+- [ ] Take a moment to switch weapons and load ammo into your shotgun.
+  - [ ] Pick up the Shotgun Shells from locker 208 while you're here.
+- [ ] Go to the Dark Room and drop stuff off / heal up.
+- [ ] You don't need any healing items because you'll pick one up soon.
+- [ ] Make sure you have the Round Handle and Electronic Gadget in your inventory along with a Flash Grenade.
+- [ ] Go up the stairs by the Dark Room to the second floor and go into the Men's Locker Room.
+- [ ] Open one of the lockers to find Shotgun Shells x 3.
+- [ ] Continue around the room to find another set of lockers.
+  - [ ] Use the combination "CAP" on the right-hand one and grab the Shotgun Shells x 3 from inside.
+  - [ ] If curiosity gets the better of you, the other locker contains a jump scare.
+- [ ] The way ahead is blocked by escaping steam so use the Round Handle on the valve to shut it off.
+- [ ] Go through the shower room.
+- [ ] Ignore the corpse sitting on the bench and grab the Gunpowder from the lockers.
+- [ ] Arm yourself with Flash Grenades and your Shotgun and go through the door leading south.
+  - [ ] You will see a Licker on the ceiling ahead.
+  - [ ] Pick up the Shotgun Shells x 2 from the sofa and creep slowly down the corridor.
+- [ ] Shoot the licker, throw a Flash Grenade and give it everything you've got - it should take four or five shotgun shells to kill.
+- [ ] Although you can sneak past, this thing will just become more of a pain later if you don't deal with it now.
+- [ ] Afterwards, go through the door into the S.T.A.R.S. Office.
+  - [ ] There may be more stuff in here than you can actually carry.
+- [ ] Over on the east side of the room is a desk with some High Grade Gunpowder.
+- [ ] Next to it is a pouch containing a can of First Aid Spray.
+- [ ] Look on the nearby desk for a Mr.
+- [ ] Raccoon figure (2/15).
+  - [ ] There are Shotgun Shells x 2 on another desk.
+- [ ] Ignore the PC for the moment.
+- [ ] Instead, go into the office, grab the Battery off the desk and combine it with the Electronic Gadget in your desk to create a Detonator.
+- [ ] Look on the sideboard at the back for a file Internal Memo (14/58) which gives you the combination for a safe in the West Office.
+  - [ ] Pick up the Red Herb on your way out if you have space.
+- [ ] Leave the room and go south and east.
+- [ ] Unlock the door at the end leading to the Lounge.
+- [ ] Go through the Lounge into the Library.
+- [ ] Head for the ladder to the next level and take the nearby door to the West Storage Room.
+  - [ ] Use the Detonator on the C4 Explosive.
+- [ ] Quickly head back into the Library and wait there until you hear the explosion.
+- [ ] Return to the Storage Room and go through into the newly opened area.
+  - [ ] Examine the Maiden Statue.
+- [ ] The solution is Maiden, Bow, Snake but the figures are very hard to see.
+  - [ ] When you retrieve the Maiden Medallion, don't hang around since a Licker will spawn.
+- [ ] Just get back to the Library and go through to the Main Hall.
+- [ ] Go downstairs and into the West Office.
+- [ ] Go into the Private Office area.
+- [ ] There's a zombie here whom you will have to take care of.
+- [ ] Afterwards, check out the safe.
+- [ ] The combination is L9, R15, L7 - you should end up on the 1.
+  - [ ] Grab the Hip Pouch to give yourself two more item slots.
+- [ ] Return to the Main Hall and place the final medallion to open up a path leading underground.
+- [ ] Open the door and we'll have a scene with Marvin.
+- [ ] Who is not looking too good.
+  - [ ] When the scene is over, go through the newly opened passageway and downstairs to find a Safe Room.
+  - [ ] Pick up the Gunpowder from the desk and put it into storage along with any herbs.
+  - [ ] You'll want a full heal or two (First Aid Spray and/or Green Herb x 3) and a Combat Knife which you should set as your secondary weapon.
+- [ ] Make Handgun Ammo if you're low, grab the Shotgun Shells x 3 from the other table and save your game.
+- [ ] Make your way to the exit and take the lift down.
+- [ ] Head downstairs to the first landing and go through the open door.
+- [ ] Follow the path round until your way is blocked by a fallen filing cabinet.
+- [ ] Move it out of the way to trigger a cutscene and your first boss encounter with William Birkin in his G-1 form.
+  - [ ] You'll have a few seconds which you can use to slash him a few times with your knife.
+- [ ] Afterwards, your goal is to keep your distance and shoot him when you're not in danger, preferably in the head.
+  - [ ] When the large eyeball appears from his shoulder, shoot that.
+  - [ ] If he grabs you, you will stab him in the eyeball with your Combat Knife.
+  - [ ] If he grabs you when you don't have any secondary weapons, he'll probably take you down into the red zone use a healing item ASAP.
+- [ ] Kite him around the walkways but use your map to ensure that you don't end up in a corner room when he's nearby - he'll trap you and you'll take a beating.
+- [ ] Afterwards, you'll probably be low on resources.
+- [ ] Start with the bottom right corner room and grab Handgun Ammo x 15 and a Green Herb.
+- [ ] Move onto the lower left and help yourself to the Red Herb and Handgun Ammo x 14.
+- [ ] Finally, go the upper right room and retrieve the Handgun Ammo x 14, Hand Grenade and Green Herb.
+  - [ ] When you're done looting, climb up the ladder in the north of the area to get back onto the walkways.
+- [ ] Go into the room on your right.
+  - [ ] Grab the Gunpowder from the lockers and a Green Herb.
+- [ ] Run west and up the stairs.
+  - [ ] As you go through the next room, pull a lever to activate a bridge.
+- [ ] Go across and follow the walkway to the Operators Room.
+  - [ ] Grab the Hip Pouch from the locker, use the item box (I kept a G+R Herb) and save your game.
+  - [ ] There is no Hip Pouch here if you're playing on Hardcore difficulty.
+- [ ] Leave this room via the ladder leading up.
+
+## Parking Garage
+
+- [ ] After a brief cutscene you will be in the Parking Garage.
+- [ ] Run over to the grille blocking the exit, investigate the card reader and cancel out for a cutscene where you're introduced to Ada Wong.
+- [ ] And zombie dogs.
+- [ ] Follow Ada through the southern door.
+  - [ ] You'll find the Police Station B1 Map in a box on the wall and Handgun Ammo x 7 on a cabinet.
+- [ ] Head through the exit of this room to enter the jail area.
+- [ ] Ignore the undead in the various cells and make your way to the end to meet up with Ben Bertolucci who offers you his garage access card in return for freedom.
+- [ ] Until events intervene, that is.
+  - [ ] After the scene finishes, pick up the Tool from the table near Ben's cell and look just to the right for a file Memo: "Jail Power Panel" (15/58).
+- [ ] Head back out to the garage.
+  - [ ] This time, take the northeastern exit (the northern door remains locked during Leon's story).
+  - [ ] Take the passage leading south as you enter.
+- [ ] Follow this passage until you arrive in the Kennel.
+  - [ ] Pick up the High Grade Gunpowder near the door and then examine the nearby cages.
+  - [ ] You will see that there are three infected dogs currently locked up.
+- [ ] Take a moment or two to shoot them through the bars.
+- [ ] Run around the cage area to the other exit in the east.
+- [ ] Back out in the corridor, go through the nearby door to the morgue.
+- [ ] Look on the table just inside the entrance for the file Autopsy Record No. 53477 (16/58).
+- [ ] There's a zombie near the door pretending to be dead; he'll come to life shortly, but I found that he's a real bullet sponge unless you get lucky so kneecap him and use your knife.
+  - [ ] There are items in the drawers.
+- [ ] The second one along contains a Red Herb while if you pull out the last drawer on the right, you will find a Flash Grenade.
+- [ ] Make sure you shut the drawer afterwards.
+- [ ] Finally, check out the second from last drawer on the other side.
+- [ ] Pull out the drawer and grab the Diamond Key.
+- [ ] The corpse next to it will come to life.
+- [ ] Don't bother attempting to kill it, just hightail out of here.
+- [ ] Go north from the Morgue until you come to a shutter blocking your way.
+  - [ ] Use the Tool that you picked up in the cells on the mechanism to raise it.
+- [ ] Go past the shutter and enter the Generator Room on your right.
+  - [ ] As you enter, look to the left for a Green Herb.
+- [ ] Go back into the main area and look for a table with an orange box on it.
+  - [ ] Take the Boxed Electronic Part and examine it in your inventory to reveal an Electronic Part, one of two you need to get Ben's cell open.
+- [ ] Opposite the table are some shelves with some Gunpowder.
+- [ ] Run around the central structure to find a fuse box with four switches.
+- [ ] Flick switches 3 and 4 to turn on the power.
+  - [ ] This has the unfortunate side effect of unleashing a bunch of dogs into the underground area.
+- [ ] Shoot one through the fence and then simply run out of the Generator Room - you can avoid most of the dogs just by running.
+- [ ] The zombie from the morgue may have followed you in - use a Flash Grenade or suck up him chewing on you if needs be.
+- [ ] Run through the Kennel and north up the corridor.
+- [ ] Turn right at the top and duck into the Firing Range.
+- [ ] Ignore the zombies - they're no immediate threat to you.
+- [ ] Look on the table just inside the door for a file Equipment Disposal Notice (17/58).
+- [ ] Afterwards, pick up the yellow box and examine it for the Well Worn Key.
+- [ ] The zombies from the neighbouring room will have probably come through the door by this point so deal with them however you see fit.
+  - [ ] When they're dealt with, look on the counter for a file A Message from Mr.
+- [ ] Raccoon (18/58).
+  - [ ] Use the Diamond Key to open the door at the back.
+  - [ ] Pick up the Red Herb if you want it along with the "3F Locker" Roll Film.
+- [ ] Leave and go through the door to the Firing Range proper.
+  - [ ] You'll find Shotgun Shells x 4 on a trolley.
+- [ ] Finally, look near the targets along the back wall to find a Mr.
+- [ ] Raccoon figure (3/15).
+- [ ] Heal up if needs be and go out into the Parking Garage.
+  - [ ] There are four infected dogs in here whom you may want to deal with now rather than later.
+  - [ ] Examine the Well Worn Key in your inventory and turn it round to reveal a button.
+- [ ] Press it to unlock the boot of the black and white police cruiser.
+  - [ ] Discard the key.
+- [ ] Inside the boot is the Gun Stock (Matilda) accessory.
+  - [ ] This allows Matilda to burst fire and reduces the time it takes for your aiming reticule to shrink, but your gun now occupies two spaces in your inventory.
+- [ ] The burst fire is actually quite useful for taking out the dogs.
+- [ ] Go back into the underground area and go past the Firing Range, turn north up the passage and go through the door that you unlocked by tripping the switches in the Generator Room.
+  - [ ] This will bring you to an area of the Police Station that you've not been to before.
+  - [ ] Pick up the Shotgun Shells x 2 from the shelves near the stairs.
+- [ ] Go through the door to the Break Room.
+- [ ] There's a Blue Herb that you can combine with Green+Red to make the best healing item in the game.
+- [ ] There's some High Grade Gunpowder and Hand Gun Ammo x 15 in the lockers.
+- [ ] Go into the room at the back to find an Electrical Part on a chair.
+- [ ] There's also MAG Ammo x 3 on the sink.
+  - [ ] If you look behind the bag at the foot of one of the bunk beds, there's also a Mr.
+- [ ] Raccoon figure (4/15).
+  - [ ] Use the item box - I kept the Electrical Part, the Roll Film and the Tool and took out some Wooden Boards - and save your game.
+- [ ] Leave the room and place Wooden Boards across the second and third windows along (if you can).
+- [ ] Go south and around the corner to find three zombies.
+- [ ] Two are immediate threats while the third is feeding on the lower half of Elliot.
+  - [ ] When the way is clear, use the Electrical Part on the fuse box by the shutter leading into the Watchman's Room to open it.
+  - [ ] Take the Combat Knife sticking out of the wall if you need it.
+- [ ] Inside the Watchman's Room, Elliot's upper half is now crawling around the floor and will chew you up given half a chance - you may want to stab him a few times since we'll be back along here.
+  - [ ] There are a couple of errands to run while the Police Station is still relatively safe.
+- [ ] Go west to the Main Hall, up the stairs on the left (careful not to aggro Marvin who isn't really Marvin anymore), through the Library and the Lounge and use the Diamond Key to unlock the door to the Linen Room.
+  - [ ] Discard the Diamond Key, pick up some Gunpowder and a Portable Safe.
+  - [ ] This contains the other Spare Part for the Safety Deposit Room.
+- [ ] Leave the Linen Room, go north past the S.T.A.R.S. Office, through the Men's Locker Room and down the stairs.
+- [ ] Go into the Dark Room and develop the Roll Film you picked up in the Firing Range.
+  - [ ] This gives you the combination for the locker on the third floor.
+- [ ] Since it's close, head up there and enter "DCM" into the combination lock to obtain MAG Ammo x 5.
+- [ ] Go back downstairs and make your way carefully to the Safety Deposit Room but be careful because there's a Licker in the hallway.
+  - [ ] Use the Spare Part to replace the "3" key on the keypad.
+- [ ] You can now use the combinations 103 for a Combat Knife and 203 for a Hip Pouch.
+- [ ] Being careful to avoid the Licker outside, go through the West Office to the Main Hall and go back upstairs.
+- [ ] Continue through the Waiting Room and go north past Art Room.
+- [ ] At the end of the corridor is another shutter that you can open with your Tool, which you can then discard.
+- [ ] In the new hallway, look on the table by the stairs for a Mr.
+- [ ] Raccoon figure (5/15).
+- [ ] Go up the stairs and grab some Wooden Boards at the top.
+- [ ] The lockers contain a Flash Grenade and Handgun Ammo x 8.
+- [ ] Go through the door to the west which leads to the East Storage Room.
+  - [ ] Pick up the Blue Herb from the shelves and then look a little further inside for the Large Gear lying on top of a box.
+  - [ ] There are Shotgun Shells x 4 on a shelf near locked door, but you'll likely have to tangle with the two zombies in here to get them.
+- [ ] Leave the room by the door that you came in through (watch out for any remaining enemies as you do so) and then take the other door leading to the balcony.
+  - [ ] Pick up another Blue Herb from the table outside and then climb down the ladder for a cutscene.
+- [ ] Shouldn't have eaten all those pies, Leon.
+- [ ] Go through the nearby door and pick up the Red Herb that's just inside then go back outside and down the stairs.
+- [ ] At the bottom, go east to find two Green Herbs and then go west to the Boiler Room.
+- [ ] Careful as you approach, because there's a couple of zombies just inside.
+- [ ] Your best bet is to backpedal and try and get round them.
+- [ ] Just outside the Boiler Room is a yellow lever that you need to turn.
+- [ ] Go inside, pick up some Gunpowder and then go into the back room and look on the board for the Club Key.
+- [ ] Afterwards, heal up as required, drop off the Large Gear in the item box and grab the Red Jewel.
+- [ ] Head back outside.
+- [ ] Avoid any zombies that might be wandering around and go up the stairs.
+- [ ] Look for a lever near to the burning wreckage and flip it to put out the fire.
+- [ ] Go inside the nearby door and go round the corner for a cutscene.
+- [ ] Shoot the Tyrant's hat for the Hats Off! trophy and reload the most recent autosave.
+- [ ] The guy in the hat is Mr. X and he's a Tyrant.
+- [ ] He's going to be chasing you for the next section.
+- [ ] Although it is possible to make him stop chasing you for a brief period (by, for example, sending a face full of Magnum ammo his way), there is no point.
+- [ ] Just run.
+- [ ] Eventually, you'll lose him.
+
+### Safe Rooms and Mr. X
+
+- [ ] Note that there are certain rooms that he will not enter which you can use to your advantage.
+  - [ ] Break Room
+  - [ ] Dark Room
+  - [ ] Interrogation Room / Observation Room
+  - [ ] S.T.A.R.S. Office
+  - [ ] Clock Tower
+- [ ] The following rooms accessible from here are safe (i.e. Mr. X won't enter): If you're able to get to one of these rooms, you can just wait him out - he gets bored after a while and stomps off.
+- [ ] Wait for his footsteps to fade and you're good to go.
+- [ ] Run back outside and when Mr. X follows you, dodge past him and go back inside.
+- [ ] Head west, north and east around the Art Room and go downstairs.
+  - [ ] If you are able to, board the window that a zombie is banging on and continue west.
+  - [ ] Grab some High Grade Gunpowder from a locker and use the Club Key to unlock the Observation Room at the end.
+  - [ ] There are a number of things to pay attention to in here.
+- [ ] Firstly, look on the filing cabinet for a file Confiscation Report (19/58) which gives us the combination for the safe in the Waiting Room.
+- [ ] Look on the table for a fancy box.
+  - [ ] Combine the Box with the Red Jewel and it will open up to give you a S.T.A.R.S. Badge.
+- [ ] Jump through the broken window, grab the Handgun Ammo x 13 off the table and leave through the Observation Room door.
+- [ ] Head back upstairs and go south and west into the Waiting Room.
+- [ ] Unlock the safe with the combination you just found: L6, R2, L11 (you should end up on the 15).
+  - [ ] This gives you the Muzzle Brake attachment for your Matilda pistol.
+- [ ] Run around the balcony and go though the Library and Lounge.
+- [ ] Go past the Linen Room door and go north to the S.T.A.R.S. Office.
+  - [ ] Examine the S.T.A.R.S. Badge in your inventory and you'll see that you can turn it into a USB dongle.
+  - [ ] Insert it into the PC near the cage at the top of the office and use the keyboard to open the Armory door.
+- [ ] Retrieve your S.T.A.R.S. Badge and examine it again to retract the USB connector.
+- [ ] Go into the Armory and help yourself to the Lightning Eagle pistol.
+  - [ ] This is a powerful weapon that you should keep back for boss encounters.
+- [ ] Look on the footlockers for a file Letter to S.T.A.R.S. Members (20/58).
+- [ ] The safest route if you can avoid Mr. X is back through the Library into the Main Hall.
+  - [ ] Use the item box and drop off your Lightning Eagle and S.T.A.R.S. Badge.
+  - [ ] Grab the Large Gear.
+  - [ ] If you need to heal, you may want to use a G+R+B Herb because the next bit will be a bit hairy.
+- [ ] Go south and west through Reception.
+- [ ] Sneak (or run depending on whether you are being chased) west along the corridor doing your best to avoid the Licker.
+- [ ] Go north at the end and use the Club Key to unlock the door to the Records Room (you can discard the key now).
+- [ ] There's Gunpowder in here and a Hand Grenade.
+  - [ ] Pick up the Tool from the table.
+- [ ] Quickly head back out and return the way you came to the Main Hall.
+- [ ] Use a Flash Grenade if you find both Mr. X and the unfriendly neighbourhood Licker ganging up on you.
+- [ ] From the Main Hall, go up the stairs and into the Library.
+- [ ] Look for the row of moveable bookshelves.
+  - [ ] One of them cannot be moved because it's raised on some sort of trolley device.
+  - [ ] Use the Tool that you picked up a minute ago to free it.
+  - [ ] Grab the leftmost bookcase and move it one space to the right (we prepared this earlier).
+- [ ] Mr. X may catch up with you here.
+  - [ ] If you need to, run out through the Lounge and seek refuge in the S.T.A.R.S. Office - the way is clear - until he goes away and return to the Library to complete your task.
+- [ ] Moving the shelves formed a bridge under the broken walkway above you.
+- [ ] Climb the ladder to the upper walkway and exit through the now-accessible door to the east.
+  - [ ] You will find yourself on a third floor balcony overlooking the Main Hall.
+- [ ] Go all the way south, deal with the two zombies who hang around there, pick up the Green Herb and enter the door to your right to find yourself in the Clock Tower.
+- [ ] You are safe here.
+- [ ] The first thing you want to do is read the file Repair Plan (21/58) on the table.
+- [ ] Next, look for a mechanism with cogs in the corner.
+  - [ ] Use the Large Gear on it to lower some stairs that you can use to get to the upper level.
+- [ ] IMPORTANT: take the Large Gear with you.
+- [ ] Go round the bell cage and up the stairs.
+- [ ] Look for another mechanism on the upper level.
+  - [ ] Examine it to receive a Small Gear and place your Large Gear in the mechanism.
+- [ ] Run back down the stairs and look for another mechanism near the cage.
+  - [ ] Use your Small Gear to fire up the works.
+- [ ] The bell will dislodge another orange box containing the second Electronic Part.
+  - [ ] If you want to, you can go out through the door to the west, follow the corridor around and pick up a Gunpowder (Large).
+- [ ] More importantly, there's a Mr.
+- [ ] Raccoon figure (6/15) on the windowsill.
+- [ ] Leave the Clocktower the way you came in.
+  - [ ] Grab the Green Herb if you didn't earlier, run to the northeast corner, avoiding any zombies in your way, and unlock the door leading to the East Storeroom.
+- [ ] Run straight through and down one flight of stairs.
+- [ ] Make your way south past the Art Room and out through the southeast exit and down the fire escape.
+- [ ] Go back into the building and go north through the Watchman's Room.
+- [ ] Be careful, however, because the corridor outside is liable to be crawling with zombies.
+- [ ] Continue north and go into the Break Room to save your game and pick up the other Electronic Part if you need it.
+- [ ] Leave the Break Room and go down the stairs to the north.
+  - [ ] You'll find yourself back in the basement area.
+- [ ] Go south and west to get to the Parking Garage and then run across to the southern door to the jail area.
+- [ ] Make your way round to Ben's cell and use both Electronic Parts on the device on the wall.
+- [ ] You now have to manipulate elements to join up the input wires on the left to the output wire on the right.
+- [ ] Each time you interact with a square you will rotate it though ninety degrees.
+- [ ] Numbering the squares 1-16 left to right and top to bottom, here's a solution: 2, 3, 3, 7, 7, 7, 8, 11, 11, 12, 13, 14, 15 (13 moves total).
+  - [ ] This will open the door to Ben's cell.
+- [ ] Go inside and look on the desk for a file Ben's Memo (22/58).
+  - [ ] Pick up the First Aid Spray from beside the toilet and collect the Parking Garage Key Card from Ben's remains.
+  - [ ] You will automatically acquire the file Interview Transcript (23/58).
+  - [ ] After the cutscene, all hell will break loose as the cells are opened and zombies pour into the hallway.
+- [ ] Quickly run out of the cell and pull the lever on the nearby wall to open up an alternative path out.
+- [ ] Start down it only to meet Mr. X coming the other way.
+- [ ] Return and use the slightly more open area to avoid him and run back down the passage.
+- [ ] Take care to avoid any zombies on your way out and get to the Parking Garage for a cutscene where Ada saves your behind.
+  - [ ] After the scene, use your key card on the card reader to raise the grille.
+  - [ ] You'll be pleased to know that Mr. X is no longer chasing you all the time This next bit's a little slow.
+- [ ] Ada isn't the fastest walker in the world so jog and she'll keep up.
+
+### Gun Shop Kendo
+
+- [ ] Go north and east across the street to a store called Gun Shop Kendo.
+- [ ] Wait for Ada to open the door (some time this week would be nice).
+- [ ] Once inside go left to find a Hand Grenade and look on the shelf nearby for the Long Barrel (W-870) accessory for your Shotgun.
+- [ ] Go towards the back of the shop to pick up Handgun Ammo x 5 and then out of the back for a cutscene.
+- [ ] Afterwards, go through the gate to the east.
+
+## Sewers
+
+- [ ] Run around the scaffolding and into the pipe leading to the sewers.
+- [ ] Once in the pipe, follow it round.
+  - [ ] When you get towards the end of this section, go all the way south to find Handgun Ammo x 8.
+  - [ ] Now go down the narrow tunnel leading west, where you'll see something mildly disturbing, and continue to find a Safe Room where you can save your game.
+- [ ] Leave through the gate leading west and go north up the tunnel.
+  - [ ] When you get to the top, go into the concrete platform, pick up the Handgun Ammo x 5 and go down the steps.
+- [ ] Follow the metal walkway and drop off the end for a brief cutscene.
+  - [ ] When you regain control you will be running for your life from a giant, infected alligator.
+  - [ ] This next sequence is refreshingly simple.
+- [ ] While running, have Leon stay on the left of the screen until the alligator lunges and snaps its jaws.
+- [ ] Then move to the right of the screen until the next lunge then back left.
+  - [ ] After this, Leon will leap over a gas pipe and the alligator will bite it.
+  - [ ] Now simply shoot the pipe to destroy the alligator.
+- [ ] Afterwards, pick up the Hand Grenade lying nearby and then look behind you for a Mr.
+- [ ] Raccoon figure (7/15).
+- [ ] Wait for Ada to kick down a ladder (sometime this month, preferably).
+- [ ] Climb up and go west and north to a lift.
+- [ ] Wait for Ada to arrive and take the lift down.
+- [ ] Afterwards, head north to a safe room and save your game if you like.
+
+### Ada
+
+- [ ] Leave for a cutscene with Annette Birkin where Leon takes a bullet and you take control of Ada.
+- [ ] There's a trophy, One Slick Super-spy, for completing the next section only using the EMF Visualizer.
+- [ ] There's only one zombie whom it's advisable to shoot.
+- [ ] You can also go around him.
+  - [ ] This trophy is much easier to unlock on Assisted difficulty.
+- [ ] Run towards the ladder and attempt to climb it for a brief cutscene.
+- [ ] Ada will produce the EMF Visualizer from ... somewhere.
+- [ ] You use this to hack hidden switches and break fans that are blocking your way.
+- [ ] The first hack is a hidden switch immediately on front of you.
+- [ ] Next hack the fan above your head.
+- [ ] Climb the ladder and enter the tunnel.
+- [ ] At the end, look right for your first hack.
+  - [ ] Now hack the fan in front of you.
+- [ ] Finally point your Visualizer down and right to reroute power to the door ahead of you.
+- [ ] Drop down into a room and look on the counter to your right for a file Sept.
+- [ ] Inspection (Week 1) (24/58).
+- [ ] Go though the door before the zombie here fully wakes up.
+  - [ ] You'll find Handgun Ammo x 12 on a barrel in front of you.
+- [ ] Head down the steps and go north and all the way southeast around a structure.
+  - [ ] When you see this guy, you can go around the box to his right to avoid getting chewed.
+- [ ] Personally, I'd shoot him in the head enough times to make him drop so that he doesn't screw you over on the way back.
+- [ ] Continue west and north (if you draw your Visualizer you will be able to see that you are following a wire).
+- [ ] A zombie will drop down as you run.
+- [ ] Ignore it and use it as an indicator that you're close to the switch that you want to hack.
+- [ ] Switch to your pistol and head back south and all the way east.
+- [ ] Your way will be blocked by zombies so use judicious headshots to stagger them.
+- [ ] Run all the way north and west to a lift up to the next walkway.
+- [ ] A zombie will block your way as you approach the lift.
+- [ ] Stagger him and run past.
+  - [ ] When you approach the lift the game will create a new autosave.
+  - [ ] If you are in the danger zone, you may want to go back to the current checkpoint and repeat this section.
+- [ ] Being unable to run very fast will make the next bit very tricky.
+  - [ ] If you're in the caution state, you're good to go.
+- [ ] Step on the elevator to get up to the walkway.
+- [ ] Switch to your EMF Visualizer.
+- [ ] Follow the walkway round and go through the door after Annette.
+- [ ] At the end of the passage is a locked door with a switch.
+- [ ] Point your Visualizer right to find the junction that you need to hack to reroute power.
+- [ ] Some familiar-sounding steps behind you make this section kinda tense.
+- [ ] Pull the lever and go though the door.
+- [ ] Point your Visualizer immediately above the door and hack the junction to reroute power to the fan.
+- [ ] Run to the back of the room and hack the fan.
+- [ ] Interact with it to escape.
+- [ ] Hopefully, you were able to get this done before Mr. X gave you a good kicking.
+- [ ] Head north up the stairs to find a very welcome typewriter where you can save your game so you don't have to repeat that last bit.
+- [ ] Run up the stairs to the north and follow the walkway to find a lever that you have to pull to power up the door to the Incinerator.
+- [ ] Next to it on a table is a file Sept.
+- [ ] Inspection (Week 2) (25/58).
+- [ ] Go back down the stairs and look to the right of the Incinerator to spot a well-hidden Mr.
+- [ ] Raccoon figure (8/15).
+- [ ] Go into the Incinerator and examine the corpse at the back to obtain an ID Wristband.
+- [ ] Pick it up for a cutscene.
+- [ ] Oh no!
+- [ ] I bet you didn't see that one coming.
+- [ ] You have a minute to get out of here.
+- [ ] Face the door and point your Visualizer to the lower left to find the first junction that you need to hack (you can locate it while Ada and Annette are talking).
+  - [ ] Now hack the left junction above the Incinerator door.
+- [ ] Point your Visualizer halfway along the left wall to find the next junction.
+  - [ ] Now hack the right junction above the door.
+- [ ] Point your Visualizer halfway along the right wall to find the last-but-one junction.
+- [ ] Finally, hack the middle junction above the door and exit.
+- [ ] Having escaped the Incinerator, leave via the door in the east of the chamber.
+- [ ] Once through the door turn left and head north through the door to the Treatment Pool Room.
+- [ ] Follow the walkway round and attempt to cross the bridge for a cutscene.
+
+### You are in control of Leon again
+
+- [ ] You are in control of Leon again.
+- [ ] You can't go up the ladder that Ada used so turn round and look left for a lift that you can ride up.
+- [ ] Go west to find a typewriter and item box.
+- [ ] Head down the stairs just to the north and drop down into the muck.
+  - [ ] Pick up the Handgun Ammo x 10 from the pile of rubbish, wade north and turn right into the Upper Waterway.
+  - [ ] You will come to two branches.
+  - [ ] Take the northern branch first and pick up Shotgun Shells x 2, then turn round and take the southern branch.
+  - [ ] After a short distance, you will be able to climb back out.
+- [ ] Climb the stairs to get back onto solid ground.
+  - [ ] Examine the ground by one of the dead soldiers to find a U.S.S. Digital Video Cassette.
+  - [ ] As you continue, you will encounter a zombie.
+- [ ] Deal with it and head north along the walkway.
+- [ ] You may find a couple more undead as you make your way through the room.
+  - [ ] Note that the doors in here are locked, so don't bother trying.
+  - [ ] You will see a Rook Plug in a socket on the wall but resist the temptation to take it at this point.
+- [ ] Continue north, turn right at the top and go down the stairs to the Lower Waterway.
+  - [ ] Pick up the Combat Knife from the barrel at the bottom, equip it and drop into the muck again.
+- [ ] Turn right (heading west) and slide down into the lower channel.
+- [ ] Hug the left wall.
+  - [ ] When you come to a platform, climb and retrieve the Blue Herb and drop back down into the water.
+- [ ] Keep hugging the left side and you'll find some High Grade Gunpowder.
+- [ ] Continue wading through the water and you'll see a thing ahead of you.
+  - [ ] This is a G-Adult and is extremely dangerous.
+- [ ] There's dry land a short distance ahead but this thing is in the way.
+  - [ ] As you approach it, shoot it a couple of times with your pistol and run past it as it rises from the water.
+  - [ ] If you simply try to squeeze past, you will be grabbed.
+- [ ] You can use your knife to get free, but you'll have been turned around and will likely just get grabbed again.
+- [ ] Once on land, head up the stairs by the cable car.
+- [ ] Climb the ladder at the top and go into the Control Room.
+  - [ ] As you go in, look to your right for a table with a file Copy of Emails to Umbrella HQ (26/58).
+- [ ] On top if a chair in the corner are Shotgun Shells x 2 and next to the table where you picked up the file is a locker to which you do not have the combination at this time.
+- [ ] Drop down the shaft next to the locker into the Monitor Room for a cutscene where you'll see Ada lying injured.
+- [ ] Look on the table next to the typewriter for a file Sewers Company Pamphlet (27/58).
+- [ ] Next to that is a TV and VCR.
+  - [ ] Use the digital video cassette you picked up earlier to gain some insight as to what went down here.
+- [ ] While you're in this room, go the area to the south.
+- [ ] The door that you need to go through is locked and needs to be opened by placing the correct chess-themed plugs in the right sockets.
+- [ ] Look on the table by the noticeboard for a file Unlocking the U-Area Door (28/58).
+- [ ] On the noticeboard is a puzzle clue.
+- [ ] Ignore it for the moment.
+  - [ ] Use the item box here and arrange things so that you have six free inventory slots (seven is even better and you don't need healing items).
+- [ ] Afterwards, grab the Handgun Ammo x 8 from a box near the consoles and the Sewer Map from the wall near the door.
+- [ ] Go through the door and pull the lever just ahead of you to activate a bridge.
+- [ ] Go across and turn left at the end, heading north towards the cable car.
+  - [ ] Grab the Red Herb by the fence and the Tool from the table.
+- [ ] From here go down the steps and look on the table for the file Delivery Receipt (29/58) which gives you the instructions for a nearby safe.
+- [ ] Go back the way you came, continue past the door and turn right to find a safe.
+  - [ ] Use the combination L2, R12, L8 (ending on the 14) to open it and grab the Shotgun Stock (W-870) from inside.
+- [ ] There's also a Blue Herb nearby, but you'll have to kill the zombie sitting on the ground to get it.
+- [ ] Go back to the door marked "EXIT" and go through.
+- [ ] At the bottom of the stairs are a pair of zombies that you will probably have to deal with permanently to get past.
+- [ ] There's a third playing dead on the ground.
+- [ ] There's a Green Herb on this platform that you can combine with the herbs you've just picked up.
+  - [ ] If you drop down into the muck here and go left, you'll find a Hand Grenade a short distance along.
+- [ ] Go left and use your tool to turn the crank and open the door.
+- [ ] Follow the walkway round and pick up the Sewer Key from the box on the wall.
+- [ ] Drop back into the muck.
+- [ ] There's a Green Herb next to a body.
+  - [ ] As you approach, a G-embryo will burst from the chest.
+- [ ] Climb onto the platform just on to your left where there are a bunch of dead bodies with holes in their chests and go back down into the water.
+  - [ ] This next bit is hairy.
+  - [ ] There are three G-Adults in the water ahead.
+  - [ ] You'll be able to see the first a short distance ahead.
+- [ ] Shoot it and run past when it rises out of the water.
+- [ ] Quickly equip a Hand Grenade because the second one is hard to avoid.
+  - [ ] Use the grenade when it grabs you and run past it to the right (otherwise you'll reach a dead end).
+- [ ] A third will emerge from a pipe near your goal but you should be able to wade past and get onto the platform.
+- [ ] Go through the door and you'll be in the Supplies Storage Room.
+- [ ] Head up the first set of stairs and turn left.
+- [ ] Look in the corner here for a Mr.
+- [ ] Raccoon figure (9/15).
+- [ ] Follow the walkway around.
+  - [ ] You'll find a Red Herb on a shelf but you should probably ignore it unless you have more than four free inventory slots.
+- [ ] Go down the stairs, turn left and go through an open door way where you'll see the Queen Plug in its socket.
+- [ ] Retrieve it and the gate will close, apparently locking you in.
+- [ ] Go to the bottom of the passage that you're in and you can pick up a Blue Herb if you have space (combine it with the Red Herb for poison protection for the way back).
+  - [ ] You'll also find another Queen socket.
+- [ ] Plug the Queen in and go through the door.
+  - [ ] As you go towards a flight of stairs, a zombie will fall down from above.
+- [ ] Take it out so that we can explore freely.
+- [ ] Go up the stairs and retrieve the King Plug from its socket at the top.
+- [ ] The door will close and you'll have to drop down to the level below through a hole in the fence.
+- [ ] Go through the door that you've just been though and go to the top of the passage.
+  - [ ] There is another King socket here.
+  - [ ] Use the King Plug and the gate will open allowing you to grab the Chemical Flamethrower (which will be something you can use against the G-Adults outside).
+- [ ] Before leaving this room, open the locked door.
+- [ ] Go back the way you came and grab the King Plug.
+- [ ] Retrieve the Queen Plug as well and put it back where you originally found it.
+- [ ] Go though the opened gate and go west to find another King socket.
+  - [ ] Use the King Plug to open the gate and go though and retrieve the Queen Plug.
+- [ ] Return to the King Plug and grab that as well.
+- [ ] Leave the Storage Room and return to the sewer.
+- [ ] There'll be a G-Adult in front of you.
+- [ ] Douse it with flames from your flamethrower and run past while it is panicked.
+- [ ] Keep to the left of the area and climb up onto a platform and drop down the other side.
+  - [ ] There will be one more G-Adult in your way.
+  - [ ] Use your flamethrower again and then climb a ladder to where you found the Sewer Key.
+- [ ] Go west and north around the walkway to where you fought the zombies earlier.
+- [ ] There's a Green Herb here if you missed it earlier.
+- [ ] There's a lever nearby that you need to pull to raise a grate.
+- [ ] Drop back into the water and head east along the Lower Waterway.
+- [ ] A G-Adult will emerge from a pipe but you should be able to avoid it.
+- [ ] Climb onto the platform where you picked up a Blue Herb earlier and use your Tool to raise the door.
+- [ ] Go through and grab the Shotgun Shells x 3 from the barrel and take the Workroom Lift up.
+- [ ] There's a zombie on the floor whom you will likely need to kill.
+- [ ] There's a Hip Pouch on one table, the "Hiding Place" Roll Film on another and Handgun Ammo x 10 on a lathe.
+- [ ] Hardcore difficulty: there is no Hip Pouch here.
+- [ ] Exit the room and go past the Rook Plug.
+- [ ] Go north and use the Sewer Key to open the door to the Water Injection Chamber.
+- [ ] Inside you will find a Large Gunpowder and a High Grade Gunpowder that you can combine to make 5 or 6 Shotgun Shells.
+- [ ] Leave the Water Injection Chamber and go back and retrieve the Rook Plug.
+- [ ] South of here is another locked door that can be unlocked with the Sewer Key (you can discard it now).
+  - [ ] Grab the Gunpowder from the table and Handgun Ammo x 10 from a locker.
+- [ ] Look on the table for a file Jazz Festival Flyer (30/58).
+  - [ ] Examine the poster carefully and note the circled letters.
+- [ ] That looks like a three letter locker combination.
+- [ ] On the other side of the room are some taped-up lockers.
+- [ ] Push them aside to reveal a lift.
+- [ ] Go up and in the next room you find MAG Ammo x 5 on a bucket.
+- [ ] Go up the stairs and unlock the gate.
+- [ ] Go up two flights of stairs to find the lift that takes you back up to the safe room under the Goddess Statue.
+- [ ] You can use the Tool here to open the way back up to the police station.
+  - [ ] Take the S.T.A.R.S. badge out of the item box.
+- [ ] Go up the stairs to the Main Hall, being careful not to aggro Marvin.
+- [ ] Go through the door to the West Office.
+  - [ ] There may be zombies if you didn't deal with them earlier and there is a Licker outside.
+- [ ] Try and get to the Dark Room without getting chewed up too much and develop the Roll Film that you picked up earlier.
+  - [ ] This reveals the hiding places of two pieces of loot.
+- [ ] Go up the stairs and go though the Shower Room to the S.T.A.R.S. Office.
+  - [ ] Examine the desk in the private office to find a Wooden Box containing a Red Dot Sight (Lightning Hawk) accessory.
+- [ ] Click on the drawer again to receive the "Rising Rookie" Roll Film.
+- [ ] Head back downstairs and develop the film you just picked up for a gravure photo of Rebecca Chambers.
+- [ ] Make your way back to the Main Hall and go across to the Press Room.
+  - [ ] Examine a desk in here for 400 Fuel for your flamethrower.
+- [ ] Trophy unlocked: Treasure Hunter Return to the space under the Goddess Statue.
+- [ ] Go back down the lift and back down both flights of stairs.
+- [ ] At the bottom you can find a Hand Grenade on the floor (I didn't have room to pick this up earlier) and a locked case.
+  - [ ] Use your S.T.A.R.S. Badge to open it up and retrieve the Long Barrel (Lightning Hawk) accessory.
+- [ ] You can leave the Badge there.
+  - [ ] Take the stairs and lift back down to the Workers Break Room.
+- [ ] Make your way back to the Workroom and take the lift back down.
+- [ ] Drop back down into the water and use your flamethrower to force your way past the G-Adults as you go north up the Lower Waterway.
+- [ ] At the top get back on the platform and go up the stairs back almost to where you started.
+- [ ] Head up the stairs and the ladder to the Control Room.
+- [ ] Enter the code "SZF" that you found earlier into the combination lock and grab the MAG Ammo x 6.
+- [ ] Trophy unlocked: Master of Unlocking Drop down into the Monitor Room and equip yourself for a boss fight from the item box.
+- [ ] You want at least two full heals.
+- [ ] Equip the Lightning Hawk with one full clip, but arm yourself with the shotgun initially.
+- [ ] The flamethrower can go in your item box for the time being.
+  - [ ] Now to solve the door puzzle.
+- [ ] Go into the back of the room and you'll see three sockets on either side.
+- [ ] Face the notice board.
+- [ ] The right hand side is King, Queen, Pawn (the latter is already in the correct position).
+- [ ] Place the Bishop Plug in your inventory.
+- [ ] The left hand side is Bishop, Rook, Knight (one swap is required).
+- [ ] With the plugs placed correctly, the nearby door will finally open.
+- [ ] Go down the steps and grab the Blue Herb.
+- [ ] Continue around the walkway, picking up a Green Herb along the way.
+- [ ] Follow the walkway round the Main Power Room in the south.
+- [ ] Take note of the corner in the screenshot below.
+  - [ ] Pick up the Red Herb and then flick the nearby power switches.
+- [ ] The correct combination is 1, 2 and 4.
+- [ ] Approach the door to see a massive claw come through the ceiling.
+  - [ ] Now hide in the corner that I pointed out.
+- [ ] You shouldn't get hit by the claw but it will be dangled in your face a few times.
+- [ ] Eventually, G-2 Birkin will burst through the door.
+- [ ] Avoid him and get out of the room - you can't beat him here.
+- [ ] Run along the passage west to the Processed Water Purification Room.
+- [ ] Jump down to the arena.
+- [ ] There's a cargo container on a crane.
+- [ ] Hit the left hand switch as soon as you can.
+  - [ ] Pick up a Flash Grenade and a Combat Knife while you're here.
+- [ ] The goal is to get Birkin down on one knee in the path of the returning crane swing.
+  - [ ] When that happens, quickly hit the right hand switch on the crane controls.
+- [ ] Hopefully, G-2 will stay down long enough for the container to hit him.
+  - [ ] As previously, the prominent shoulder eye is a weakpoint and another eye has grown out of his back which is an even weaker point.
+- [ ] You need to hit him with the container twice or bring him down to one knee three times and hit him with the container once.
+  - [ ] If you need it, the arena also has Handgun Ammo x 15 to pick up along with MAG Ammo x 3.
+  - [ ] Note that there is a trophy, Gotcha!, for only using the crane once.
+  - [ ] This is most easily achieved on Assisted difficulty.
+  - [ ] If you don't get it, reload your most recent autosave and try again.
+  - [ ] After the fight, a new path will have opened up that takes you to the Garbage Room.
+- [ ] Flick the switch on the door for a cutscene.
+- [ ] You need to go with Ada to the cable car.
+- [ ] Pro tip: you don't have to stick to Ada's slow pace.
+- [ ] Run up to the Monitor Room and through the other door and across the bridge to the cable car.
+- [ ] Approach it for a cutscene.
+- [ ] Go inside and flick the switch on the front console for another cutscene.
+  - [ ] When the cable car comes to a halt, run down the stairs and use your ID Wristband to go through the triple set of doors at the bottom.
+
+## Welcome to NEST
+
+- [ ] Welcome to NEST.
+- [ ] Looks a bit nicer than everywhere else, doesn't it?
+- [ ] Don't worry, the impression won't last long.
+- [ ] You cannot go through the southern doors at this point.
+- [ ] Ignore the door immediately to your right for the moment.
+- [ ] Go south and through the door on your left to the Security Room.
+  - [ ] Pick up the Shotgun Shells x 4 from the centre table and go around it to pick up the Research Lab North Area Map.
+- [ ] Back out in the reception area look on the computer at the main desk for a file Nap Room Log (31/58).
+- [ ] Go into the nearby break room and, if you like, save your game.
+- [ ] Look on the board here for a file ID Wristbands (32/58).
+- [ ] Go through the door that I told you to ignore earlier and follow it round to the Canteen.
+  - [ ] There are several members of the walking dead in here.
+- [ ] One is wandering around and can be seen from the doorway.
+- [ ] Drop him and then look in the right hand corner for two corpses on the floor.
+  - [ ] Pick up the Hand Grenade nearby but don't bother them.
+- [ ] Look on the tables in the middle of the room for Handgun Ammo x 15.
+- [ ] Look to the northwest corner of the room for a Mr.
+- [ ] Raccoon figure (10/15).
+- [ ] The third zombie is on the floor on the left side of the room, feeding.
+  - [ ] Pick up the Fuel x 200 from the counter and leave her to her dinner.
+- [ ] Follow the clear area round to the back.
+- [ ] Another zombie will get up but you should be able to avoid him by climbing the ladder.
+- [ ] Follow the passage in the roofspace and drop down into the kitchen.
+  - [ ] Pick up the Large Gunpowder and Combat Knife from the counter and arm yourself with your shotgun.
+- [ ] Open the door very carefully because the worst zombie in the game is just outside - he's in full body armour and will chew you up good as you exit.
+- [ ] Instead, remain in the doorway and let him come to you.
+- [ ] Backpedal a little and blow his head off when he gets near.
+- [ ] Go west to the Nap Room at the end.
+  - [ ] Pick up Shotgun Shells x 3 from the table.
+- [ ] Look in the left hand locker for a Regulator (Flamethrower) attachment which you should immediately combine with your flamethrower.
+- [ ] Finally, look at the arm dangling out of the bunk.
+  - [ ] Grab the Electronic Chip off it and combine it with your ID Wristband to get level 2 clearance.
+  - [ ] Take the direct route back to the reception area and use the item box to clear a few spaces in your inventory.
+- [ ] Go through the door to the south that is now passable with your level 2 clearance.
+  - [ ] Examine the dead soldier on the ground for the file Special Forces Recording (33/58) and flick through the info screens to update your goals.
+  - [ ] Use the console to extend a bridge to the Main Shaft.
+- [ ] Go across and find the level 2 console that extends a bridge to the East Lab Area.
+- [ ] Go across this new bridge to find yourself in the East Lab lobby.
+  - [ ] Pick up the Green Herb from the counter and some Gunpowder from the desk and save your game.
+- [ ] Arm yourself with the flamethrower and go though the eastern door to the Presentation Room.
+  - [ ] You will see a dead scientist with a level 3 clearance wristband pinned to the window by excessive plant growth.
+- [ ] Leave via the northwest entrance and look up to see a thing dangling from the ceiling.
+  - [ ] This is an Ivy.
+- [ ] Not only do they have an instant kill attack but the only way to definitively kill them is to burn burn them up completely - otherwise next time you return to an area, they're as right as rain.
+- [ ] Use controlled bursts of flame until the thing falls to the ground then continue to attack until it bursts into a vigorous flame.
+  - [ ] Note that this process take a good sixty or seventy units of fuel so only kill the things that you absolutely have to.
+  - [ ] Pick up the High Grade Gunpowder from a console table and kill another Ivy a short distance ahead.
+- [ ] Make your way past its smouldering remains and continue into the Control Room.
+  - [ ] Pick up the Flash Grenade from the table and examine the console to your right.
+- [ ] You enter access codes using strange symbols.
+  - [ ] You will figure these out as you explore the labs.
+  - [ ] Examine the machine near the window to receive an empty Dispersal Cartridge.
+- [ ] Enter the Greenhouse and turn left.
+  - [ ] Pick up the Red Herb from the walkway and follow the path to find a locked hatch on your left.
+  - [ ] Examine the hatch to see some symbols printed on it.
+  - [ ] This is the code that you'll need to enter in the console in the nearby control room.
+  - [ ] If you follow the path round, you can pick up a Blue Herb from the walkway.
+- [ ] Return to the Greenhouse Control Room and use the console.
+- [ ] Don't worry too much about the symbols - just treat it like a numeric keypad and enter 3123: If you examine the keys closely, you will see that the numbers are actually black-on-black.
+  - [ ] This is most obvious with the "3" key, but when you know what to look for, you can see the digits on the other keys as well.
+- [ ] Return to the Greenhouse and go down the hatch you've just opened.
+- [ ] At the bottom go into the western corner to find a Large Gunpowder and the Research Lab Area East Map.
+  - [ ] Now go through the door in the opposite corner.
+- [ ] Ignore the corridor to your left and continue into a Lounge area.
+  - [ ] Pick up the Shotgun Shells x 4 from the arm of the sofa and check out the corpses in the room.
+- [ ] The three on the left are playing-dead zombies and will screw you over shortly so take a few moments to kill them.
+  - [ ] This is an opportunity to unlock the Zombie Roundup trophy.
+- [ ] Kneecap the nearest and furthest corpses and when they are close to third toss a Hand Grenade.
+- [ ] There's a Green Herb lying around that you can grab.
+  - [ ] Pick up the Trophy on the table and examine it in your inventory - these are the symbols that you need to unlock another area: Arm yourself with your flamethrower and Flash Grenades and head west.
+- [ ] Two Lickers will drop down from the ceiling.
+- [ ] You absolutely want to kill these two.
+- [ ] Throw a Flash Grenade and then use your flamethrower which is surprisingly effective against them.
+- [ ] Much more so than your shotgun.
+  - [ ] When they're dead, continue west and go through the door.
+- [ ] There's a zombie at the bottom of the stairs that you need to take care of.
+- [ ] Run up the stairs; a zombie will drop behind you but you can ignore it for the moment.
+- [ ] Go through the door at the top of the stairs and shoot the zombie inside.
+- [ ] There's High Grade Gunpowder in here and Handgun Ammo x 15 in a locker.
+- [ ] The prize is sticking out of the wall, however.
+  - [ ] Grab the Signal Modulator.
+- [ ] Look on the chair next to it for a file Somebody's Note (34/58).
+- [ ] Unlock the door to the Lobby and save your game.
+- [ ] Make your way back through the Presentation Room to the Control Room.
+  - [ ] Use the console and enter the code you found on the bottom of the trophy, 2067: Discard the Trophy and return to the Greenhouse, turn left and go into the Drug Testing Lab.
+  - [ ] Grab the Large Gunpowder from the middle table and a Hand Grenade from the floor by a dead scientist in a corner.
+- [ ] Look on the counter in the centre of the room for a file Herbicide Synthesis (35/58).
+  - [ ] Use your Dispersal Cartridge on the machine in the corner.
+  - [ ] There are three colour-coded buttons.
+  - [ ] Your goal is to get the exact right amount of solution in the leftmost vial.
+- [ ] Here's a solution: R, G, B, R, G, B, R, G. This will fill your dispenser up.
+- [ ] Not quite there yet, however.
+- [ ] Return to the Greenhouse and go down the ladder and follow the path to the Lounge.
+  - [ ] Examine the Signal Modulator in your inventory and set it to "MURF".
+- [ ] Twiddle the left and right knobs until the two waveforms come together like this: Plug into the slot in the end wall to restore power to the area.
+  - [ ] Now go back west to the Low Temperature Testing Lab.
+- [ ] Ignore the corpse on the floor - if you don't bother her she won't bother you.
+  - [ ] Examine the computer on the desk for the file Wayne Li's Inbox (36/58).
+- [ ] Go through the next door pick up the Gunpowder on your way to the cryogenic machine at the back.
+  - [ ] Insert your Dispersal Cartridge to have it turned - finally - into a vial of Herbicide.
+- [ ] Leave the lab and return to the lounge.
+  - [ ] Now that the power's back on we can access the Server Room.
+  - [ ] There are a bunch of goodies to pick up - High Grade Gunpowder, a Combat Knife and Fuel x 100.
+- [ ] More importantly, it's a Safe Room so you can manage your inventory and save your game.
+- [ ] Return to the Greenhouse via the ladder and make your way to the Control Room.
+- [ ] Don't bother with enemies on the way because we're about to change them up anyway.
+  - [ ] Use the vial of Herbicide in the Dispenser Machine to destroy some of the growth in the Greenhouse allowing you access to the dead scientist with the level 3 wristband.
+- [ ] Arm yourself with your flamethrower and a Combat Knife.
+- [ ] On your way to pick up the wristband, it is important that you clear a path back to the Control Room.
+- [ ] You don't need to kill the Ivies - just get them on their backs kicking and screaming; when they get up again, you'll be long gone.
+  - [ ] Pick up the wristband and increase your clearance to level 3.
+- [ ] At this point, Mr. X will come crashing through the Presentation Room window.
+  - [ ] Fortunately, you've cleared the way back (tangling with Ivies and Mr. X gets you a game over, although the sudden-kill animation of the Ivies should be seen at least once).
+- [ ] Run back to the Control Room and into the Presentation Room.
+- [ ] Take a brief moment to check out the PC on the podium for the file Byron Cartwright's Inbox (37/58).
+- [ ] Continue into the Lobby where you'll shake off the attentions of Mr. X.
+  - [ ] You'll also be able to save your game.
+  - [ ] Examine the Signal Modulator, set to "MUF" and twiddle the knobs until the waveforms come together like this: Go back to the Lab Area North and head all the way west to the Nap Room.
+- [ ] You may have to take out a zombie or two on your way.
+- [ ] Plug your Modulator into the wall to restore power and retrieve the final Hip Pouch from the leftmost bunk.
+- [ ] A zombie will fall out of the next bunk and animate so put it down.
+- [ ] Check inside the bunk where you picked up the Hip Pouch for a Mr.
+- [ ] Raccoon figure (11/15).
+- [ ] Look in the bunk that the zombie fell out of for a file Wayne Li's Note (38/58).
+- [ ] Return to the central shaft and use your level 3 clearance to open up a path to the Lab Area West.
+- [ ] Go across and though the door.
+  - [ ] Pick up the Lab Digital Video Cassette and Hand Grenade from the floor next to the dead soldier and continue to the next room.
+  - [ ] Examine the Signal Modulator, set it to "OSS" and twiddle the knobs until the waveforms look like this: Plug it in the wall and the power will turn on in the lab.
+- [ ] You can now discard the Signal Modulator.
+  - [ ] Use the TV and video player to play the tape you just picked up and then discard it.
+- [ ] Afterwards use the PC to access the file William Birkin's Inbox (39/58).
+- [ ] Head west, picking up a Blue Herb and High Grade Gunpowder as you go.
+- [ ] Cross the long bridge in the Bioreactors Room and continue through the decontamination area.
+  - [ ] When you get to the laboratory at the end look to your left for a PC where you can obtain the file Research Diary (40/58).
+- [ ] Afterwards, pick up the virus sample from its container.
+- [ ] Just across the way is a Safe Room with some goodies: Large Gunpowder, High Grade Gunpowder and a Red Herb.
+- [ ] Prepare yourself for a major boss fight.
+- [ ] The flamethrower will be useful here along with your shotgun and Lightning Hawk.
+- [ ] Be careful not to use up all your ammo, though, because this isn't the final boss!
+- [ ] You want at least three full heals (you should have a decent amount of G+R+B herbs at this point).
+- [ ] Don't bring knives - the boss doesn't appear to grab you - but Hand Grenades are always good if you can spare them.
+  - [ ] Save your game.
+- [ ] Head back through the Bioreactors Room for a massive cutscene after which you're thrown into battle with Birkin in his G-3 form.
+- [ ] You goal is to destroy the eyes on his body then target the eye complex that appears in his chest.
+- [ ] Try and be on the move at all times and make sure that you target the eyes because shooting the rest of him doesn't do too much good.
+- [ ] The flamer can be effective at targeting all the eyes at once.
+  - [ ] If he gets uncomfortably close, a shotgun blast directly to an eye can stagger him.
+  - [ ] If he picks up something to throw, try and shoot an eye with a high damage weapon to get him to drop it.
+  - [ ] When the central eye complex pops out (you'll know it when you see it), switch to the Lightning Hawk and deliver multiple shots right where it hurts him the most.
+- [ ] It may take a couple of goes and all your healing items that you brought, but you should be able to manage it eventually.
+- [ ] During and after the fight, be sure to pick up the goodies dotted around (Handgun Ammo x 100, MAG Ammo x 2, Fuel x 200, a Hand Grenade, 2 Flash Grenades and a First Aid Spray).
+  - [ ] When you're done looting, take the lift up out of the arena for another cutscene.
+- [ ] Afterwards, run back out of the West Lab Area to the central shaft for another cutscene (you might want to use the item box on the way).
+  - [ ] When this finishes, the lift down will be accessible and a countdown will begin.
+- [ ] You have ten minutes to get out.
+  - [ ] Take the lift down (it only takes the best part of a minute!), pick up the First Aid Spray and keep moving for another brief cutscene.
+- [ ] Afterwards, head through to the next area and save your game.
+- [ ] Arm yourself with your flamethrower and go through the exit.
+  - [ ] Take the lift down a short way.
+  - [ ] There are 3 Ivies through here - flame them until they drop and run past them.
+- [ ] In the next area go down a ladder.
+- [ ] Guess who shows up?
+- [ ] Kite Mr. X around the walkway and go though the next door.
+- [ ] A zombie will appear in your path - use your shotgun if it's a threat.
+- [ ] Go through the next door for another cutscene.
+- [ ] Go though a final door.
+- [ ] There's another item box.
+- [ ] You need to leave two spaces in your inventory.
+  - [ ] As it happens, the flamethrower is not terribly effective against the next boss so you can put that away to free up the necessary space.
+- [ ] Equip yourself for the final boss fight.
+- [ ] Hand Grenades and Flash Grenades are really good as many as you can manage.
+- [ ] Bring all the healing items you can fit into your inventory.
+- [ ] Hopefully, the G-3 battle didn't leave you too depleted and you have at least a few rounds of MAG Ammo.
+  - [ ] Pick up the Joint Plug and use it on the nearby lift control.
+  - [ ] Unfortunately, Mr. X, now in his Super Tyrant form, has other ideas.
+  - [ ] This is an endurance contest (and easier than the G-3 fight).
+- [ ] You need to survive for a certain amount of time.
+- [ ] Damaging Mr. X reduces the amount of time.
+  - [ ] As time proceeds, bits of masonry fall into the battle arena.
+  - [ ] If you hide behind them you can avoid at least one Mr. X attack.
+- [ ] Flash Grenades will stun him briefly, giving you the opportunity to unload on him.
+- [ ] Hand Grenades stun him and hurt him.
+- [ ] His weak point is his exposed heart.
+  - [ ] After surviving for a while, you will have a cutscene where Ada drops you a Rocket Launcher.
+- [ ] Pick it up when it's safe to do so and fire a single rocket at Mr. X's upper body to being the fight to a conclusion.
+- [ ] Afterwards, you will go down in the lift to the bottom level.
+- [ ] Three zombies will come though a door but you can destroy all three with a rocket blast.
+- [ ] Go through the door they came through for the final cutscenes.
