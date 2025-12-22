@@ -1,0 +1,1754 @@
+## Guide Credit:
+https://smcnabb.github.io/dark-souls-2-cheat-sheet/
+
+## Things Betwixt (Level 1)
+
+- [ ] Head through the gap in the wall, turn right and in to the hidden area beside the fallen tree to get the Rusted Coin
+- [ ] Enter the house and choose your name, class, starting gift and appearance
+- [ ] Talk to Housekeeper Milibeth and the Old Firekeepers
+- [ ] Go upstairs and get the Human Effigy from the chest
+- [ ] Go out the door beside the women, destroy the cart to get the Soul Of A Lost Undead and Torch, and rest at the bonfire
+- [ ] Go back through the house and take the hidden path below the bridge to get the Small Smooth and Silky Stone
+- [ ] Go back up, cross the bridge, through the bushes and kill the Ogre to get the Stone Ring
+- [ ] Get the Gold Pine Resin from the corpse
+- [ ] Return to the bonfire and continue to the tutorial section
+- [ ] Go through the first fog gate, complete the section, getting the Dagger and Lifegem along the way
+- [ ] Leave the Small Smooth and Silky Stone on the nest for Sparkling Sisters Dyna and Tillo to get a random item and kick down the ladder
+- [ ] Drop off the ledge to get the Soul of a Nameless Soldier and drop down to the main path
+- [ ] Go through the second fog gate and jump the gap to get the Amber Herbs
+- [ ] Jump back and go up the ladder, drop down and open the door to get the Cracked Red Eye Orb
+- [ ] Drop down to the main area and go through the third fog gate
+- [ ] Push down the tree, cross it, go outside and push down the second tree shortcut
+- [ ] Kill the two Ogres
+- [ ] Optionally sleep in the coffin to change the sex of your character
+- [ ] Go back to the house and talk to Housekeeper Milibeth to get the Handmaid's Ladle
+- [ ] Head back to the tutorial section and continue on to Majula
+- [ ] On the way drop off to the right between the boulders to get Morning Star, Cleric's Sacred Chime and Binoculars
+
+## Majula (Levels 1-10)
+
+- [ ] Rest at the bonfire and then talk to the Emerald Herald to get your Estus Flask and level up
+- [ ] Go back up the path, pick up the Divine Blessing, head through the gap on the right and talk to Benhart Of Jugo
+- [ ] Optionally kill him to get the Bluemoon Greatsword, and make Benhart's Set and Benhart's Parma available to buy from Merchant Hag Melentia
+- [ ] Pick up the Lifegems and Homeward Bones
+- [ ] Go in to the building, open the door on the left, kill the Bloated Hollow and get the Lloyd's Talismans
+- [ ] Return to the bonfire, go up the steps to talk to Saulden The Crestfallen Warrior, learn the Welcome gesture and optionally join the Way Of Blue covenant
+- [ ] Optionally kill him to get the Ring Of Steel Protection
+- [ ] Examine the plaque beside him to see how many deaths there have been
+- [ ] Talk to Blacksmith Lenigrast to find out why he's outside, and pick up the Soul of a Nameless Soldier and Lifegems to the right of his house
+- [ ] Head towards the pit and get the Lifegem from under the tent
+- [ ] Head down the steps to the right of the tent, go down the spiral staircase and get the Crimson Parma shield from the chest
+- [ ] Go back up, up the hill to the Victor's Stone, pick up the Homeward Bones and optionally join the Company of Champions covenant if you're up for a harder challenge
+- [ ] Enter the house to the right of the pit, talk to Sweet Shalquoir and buy anything you need from her
+- [ ] Ring of the Evil Eye @ 4,500 souls (Absorb HP from each defeated foe)
+- [ ] Silvercat Ring @ 13,400 souls (Reduces damage from falling)
+- [ ] Redeye Ring @ 6,700 souls (Easier to be detected by enemies)
+- [ ] Name Engraved Ring @ 5,500 souls (Easier to connect to players who chose the same god)
+- [ ] Ring of Whispers @ 5,800 souls (Can hear the voices of foes)
+- [ ] Homeward Bones @ 600 souls each (Max 10)
+- [ ] Prism Stones @ 300 souls each (Max 10)
+- [ ] Alluring Skulls @ 300 souls each (Max 10)
+- [ ] Lloyd's Talisman @ 1,600 souls each (Max 10)
+- [ ] Later, when you kill Royal Rat Vanguard and Royal Rat Authority she will sell Flying Feline Boots for 6,000 souls, which reduce falling damage
+- [ ] Go to the well to the right of the mansion and hit the stone to get the Estus Flask Shard
+- [ ] Head to the house on the other side of the pit, talk to Maughlin The Armorer and buy any shields or armor you need from him
+- [ ] Iron Parma @ 1,200 souls
+- [ ] Silver Eagle Kite Shield @ 1,500 souls
+- [ ] Twin Dragon Greatshield @ 2,000 souls
+- [ ] Standard Helm @ 800 souls
+- [ ] Hard Leather Armor @ 1,260 souls
+- [ ] Hard Leather Gauntlets @ 940 souls
+- [ ] Hard Leather Boots @ 1,100 souls
+- [ ] Infantry Boots @ 1,000 souls
+- [ ] Infantry Gloves @ 750 souls
+- [ ] Infantry Armor @ 850 souls
+- [ ] Falconer Helm @ 900 souls
+- [ ] Falconer Armor @ 1,500 souls
+- [ ] Falconer Gloves @ 1,050 souls
+- [ ] Falconer Boots @ 1,200 souls
+- [ ] If you spend 1,000 souls with him he will sell
+- [ ] Royal Soldier Helm @ 1,600 souls
+- [ ] Royal Soldier Armor @ 2,700 souls
+- [ ] Royal Soldier Gauntlets @ 1,900 souls
+- [ ] Royal Soldier Leggings @ 2,200 souls
+- [ ] Elite Knight Helm @ 2,200 souls
+- [ ] Elite Knight Armor @ 4,000 souls
+- [ ] Elite Knight Gloves @ 2,500 souls
+- [ ] Elite Knight Leggings @ 2,900 souls
+- [ ] If you spend 16,000 souls with him he will sell
+- [ ] Alva Helm @ 5,200 souls
+- [ ] Alva Armor @ 8,000 souls
+- [ ] Alva Gauntlets @ 6,000 souls
+- [ ] Alva Leggings @ 7,100 souls
+- [ ] If you spend 16,00 souls with him and talk to him with 0 soft souls he will give you the Aurous Set
+- [ ] He will will also sell boss armor later when you kill certain bosses
+- [ ] Go up the ladder beside Maughlin and get the Titanite Shard from the chest
+- [ ] Go back to the Emerald Herald and upgrade your Estus Flask
+- [ ] Head down the path along the cliff, get the Rusted Coin from the chest in the first building, and pull the switch to open the gate
+- [ ] Go through the gate, drop down to get the Human Effigy, jump across and pick up the Homeward Bone and Soul Of A Lost Undead
+- [ ] Continue on to the Forest of Fallen Giants
+
+## Forest of Fallen Giants (Levels 10-20)
+
+- [ ] Pick up the Lifegem from the side of the river and rest at the bonfire
+- [ ] Clear out the area, pick up the Soul Of A Lost Undead from the end of the river and go up the ladder
+- [ ] Clear out the area at the top of the ladder, go up the second ladder, get the Soul of a Nameless Soldier and kill the Hollow Archer
+- [ ] Jump the gap and pick up the Shortsword and the Soul Of A Lost Undead
+- [ ] Go back down to the main area and pick up the Broken Straight Sword, Human Effigy and Lifegem
+- [ ] Kill the Heide Knight to get the Heide Knight Sword
+- [ ] Go back to the base of the second ladder, jump across to get the Throwing Knives and the Soul of a Nameless Soldier, and head back up
+- [ ] Go through the fog gate, go through the hole in the wall, clear the room and smash the cabinet to get the Wood Bolts
+- [ ] Run up the steps, watching out for the Hollow archer and firebomb thrower
+- [ ] Get the Buckler, go up the ladder and pick up the Witching Urns
+- [ ] Open the door and rest at the bonfire
+- [ ] Talk to Merchant Hag Melentia and buy useful stuff from her
+- [ ] Lenigrast's Key @ 1,000 souls (Very Important)
+- [ ] Traveling Merchant Hat @ 850 souls (Raises item discovery)
+- [ ] Pharros Lockstone @ 4000 souls
+- [ ] Hand Axe @ 700 souls
+- [ ] Club @ 800 souls
+- [ ] Caestus @ 1,000 souls
+- [ ] Soul Arrow Sorcery @ 1,500 souls
+- [ ] Heal Miracle @ 1,500 souls
+- [ ] Human Effigy @ 1,500 souls each (Max 5)
+- [ ] Lifegem @ 300 souls each (Max 10)
+- [ ] Amber Herbs @ 1,600 souls each (Max 3)
+- [ ] Firebombs @ 200 souls each
+- [ ] Witching Urns @ 400 souls each
+- [ ] Throwing Knives @ 100 souls each
+- [ ] Optionally kill her or spend 10,000 souls to get the Covetous Silver Serpent Ring +1
+- [ ] Talk to her and exhaust her dialog so that she will move back to Majula soon
+- [ ] Go upstairs and hit the door a few times to break it
+- [ ] Get the Small Leather Shield and Repair Powder from the chest, and the Hand Axe and Lifegem from behind the cart
+- [ ] Open the other door, watch for the ambush by the Hollow Infantry, and get the Estus Flask Shard and Small White Sign Soapstone from the chest
+- [ ] Drop down on to the branch to get the Divine Blessing, and drop down again
+- [ ] Go back out the door you came in, drop down on to the scaffolding and jump the gap to get the Human Effigy
+- [ ] Make your way down the scaffolding and get the Soul Of A Lost Undead and Torch from the branch near the bottom
+- [ ] In the first cave get the Hollow Soldier Helm, and in the second cave get the Soul Of A Proud Knight, watching for the ambush from behind
+- [ ] Wait for a gap in the fireballs from the Flame Salamander, open the door and get the Fire Longsword from the chest
+- [ ] Head back out and up towards the ladder, getting the Lifegems to the left before going up, go through the hole in the wall and back to the bonfire
+- [ ] Go back to Majula, upgrade your Estus Flask, open the door for Blacksmith Lenigrast, rest at the bonfire and buy anything you need from him
+- [ ] Titanite Shards @ 800 souls each (Max 10)
+- [ ] Repair Powder @ 2,500 souls (Max 1)
+- [ ] Wood Arrows @ 10 souls each
+- [ ] Wood Bolts @ 25 souls each
+- [ ] Iron Arrows @ 30 souls each (Max 50)
+- [ ] Heavy Bolts @ 50 souls each (Max 50)
+- [ ] Longsword @ 1,300 souls
+- [ ] Broadsword @ 1,700 souls
+- [ ] Falchion @ 1,200 souls
+- [ ] Estoc @ 1,500 souls
+- [ ] Rapier @ 1,000 souls
+- [ ] Battle Axe @ 1,500 souls
+- [ ] Mace @ 1,200 souls
+- [ ] Spear @ 1,400 souls
+- [ ] If you spend 8,000 souls with him he will give you the Blacksmith's Hammer
+- [ ] Optionally, kill him to get the Blacksmith's Hammer
+- [ ] Get the Short Bow from the chest behind him
+- [ ] Travel back to the Forest of Fallen Giants / Cardinal Tower bonfire, go down the ladder, across the bridge and get the Soul Of A Lost Undead
+- [ ] Optionally, if you bought the Silvercat Ring, kill the first Flame Salamander from range, drop down on to the rubble and kill the second salamander
+- [ ] If you dropped down, pick up the Hawk Ring, Firedrake Stone, Large Soul Of A Proud Knight, and get the Flame Quartz Ring +1 from the chest
+- [ ] If you dropped down, go in to the cave and get the Cracked Red Eye Orbs and the Rebel's Greatshield, and go back to the bonfire and down the ladder again
+- [ ] Go through the fog gate, up the branch, clear the Hollows at the top, and bait the firebomb thrower to destroy the wall and open the shortcut
+- [ ] Go up the ladder to kill the Firebomb Hollow, and try to kill the Pursuer to get the Ring of Blades and the Soul of the Pursuer
+- [ ] Head back to the branch, jump down on the scaffolding and make your way to the cave on the left to pick up the Human Effigy
+- [ ] Talk to Cale The Cartographer until he gives you the House Key and talks about going back to Majula, and get the Amber Herb from the ledge
+- [ ] Optionally, kill him to get Cale's Helm and make the rest of Cale's Set available to buy from Merchant Hag Melentia
+- [ ] Leave the cave, go up the ladder, kill the Hollow Archer, drop down on to the roof, clear out the scaffolding, and drop down in to the tower to get the Torch
+- [ ] Go back up on the scaffolding, jump across to the loft of the house, drop down and get the Titanite Shard from beside the gate, and head back to the bonfire
+- [ ] Go through the hole in the wall, head left down the steps, and drop off to get the Green Blossom from beside the steps
+- [ ] Run in and out of the room with the ballistas to avoid getting skewered and kill the Hollows that rush you
+- [ ] Pick up the Great Soul Arrow sorcery, Blue Wooden Shield and the Large Soul Of A Lost Undead from the corpses
+- [ ] Go down the ladder, open the trapped chest to get the Titanite Shard, and use the Pharros Lockstone to open the hidden door
+- [ ] Get the Chloranthy Ring and Titanite Slab from the chests
+- [ ] Knock on the wooden door by hitting it with your weapon, clear the room and get the Life Ring and the Large Titanite Shard from the chest
+- [ ] Go back up top, talk to Mild Mannered Pate and go through the gate that shuts behind you
+- [ ] Clear out the first area, go in to the building and clear that out and pick up the Aromatic Ooze
+- [ ] Use the illusory wall on the right of the bottom of the stairs and get the Sorcerer's Staff and Amber Herb from the chest
+- [ ] Head up the stairs and drop down to Pate to get the White Sign Soapstone
+- [ ] If you died go back to Pate and you will still get the White Sign Soapstone. You can use the ladder on the other side of the wall to get back in if you want to Optionally, kill him to get Pates Spear and the Ring Of Thorns, and make Pate's Set and Pate's Shield available to buy from Merchant Hag Melentia
+- [ ] Go through the archway, get the Large Soul Of A Lost Undead from behind the tree to the right, go up the ladder and get the Light Crossbow
+- [ ] Go in to the building, jump across to the platform and get the Soul of a Nameless Soldier and Torch from the corpse
+- [ ] Drop down, get the Mail Breaker and Infantry Helm from the chest, and drop down outside
+- [ ] Go through the door, kill the two hollows guarding the fog gate, go through it and open the shortcut door on the left back to the bonfire
+- [ ] Pick up the Fire Arrows on the ledge, go in to the room, kill the Crystal Lizard, and get the Large Leather Shield and Lifegem from the steps
+- [ ] Go back outside and pick up the Amber Herbs from the left, and the Lifegem and Homeward Bone from the platform on the right
+- [ ] Go up the giant sword, watching out for the ambush from behind, and get the Halberd and the Soul of a Nameless Soldier
+- [ ] Go back inside, head down the elevator and kill the Last Giant boss
+- [ ] You can summon Mild Mannered Pate just outside the fog gate. If he survives he will give you Pate's Set when you meet him in Earthen Peak
+- [ ] You will get the Soul of the Last Giant, the Soldier Key and 10,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 2,500 souls each time
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] If you need Lifegems, Merchant Hag Melentia should now be there and will have an infinite supply at 300 souls each
+- [ ] Travel back to the Forest of Fallen Giants / Cardinal Tower bonfire
+- [ ] Go back down the ladder, across the bridge and unlock the door to get the Ring Of Restoration and a Torch
+- [ ] Go back outside to the giant sword, turn right and unlock the door, go up the stairs and get the Soul of a Nameless Soldier and Lifegem from the platform
+- [ ] If you didn't kill him earlier, go through the fog gate and kill the Pursuer boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] You can use the ballistas to quickly dispatch him. Be careful not to kill any players you summon
+- [ ] You will get the Ring of Blades, the Soul of the Pursuer and 17,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 4,250 souls each time
+- [ ] Move on to the next area, drop down and get the Drangleic Set (minus the helmet), the Drangleic Sword and Drangleic Shield
+- [ ] Drop down, make your way back up to the Pursuer boss area and examine the nest to get flown to the The Lost Bastille / The Tower Apart bonfire
+- [ ] At this point we're going to do a quick bit of this level to get some good upgrade items and a useful bonfire
+- [ ] Walk around the ledge of the building on the left and get the Radiant Lifegem and Large Titanite Shard from the corpse
+- [ ] Drop down and get the Antiquated Key and Covetous Silver Serpent Ring from the chest
+- [ ] Open the door, go up the ladder and along the walkway to the left, roll through the barrels and open the door
+- [ ] Talk to Lucatiel of Mirrah until you get a Human Effigy and have exhausted her dialog
+- [ ] Optionally, kill her to get Lucatiel's Mask and make the rest of Lucatiel's Set available to buy from Merchant Hag Melentia
+- [ ] Go out the door, walk on to and along the wall on the right, go up the ladder and get the Large Titanite Shard from the corpse
+- [ ] Go back out the same door, and continue along the walkway, getting the Gold Pine Resin from the corpse in the small alley on the left
+- [ ] Nudge the barrel so it rolls down and blows open a hole in the wall, go down and light the bonfire
+- [ ] Light your torch, go in to the room and get the Large Titanite Shards, Titanite Shards, Iron Arrows and Heavy Bolts from the chests
+- [ ] Talk to Steady Hand McDuff, light the stationary torch in the room and rest at the bonfire again
+- [ ] Go back in to the room and get the Craftsman's Hammer and Twinkling Titanite from the chest he was sitting on
+- [ ] Go back to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] If you killed Mild Mannered Pate you can now buy Pate's Set from Merchant Hag Melentia
+- [ ] Open the door of the mansion, get the Pharros Lockstone from the library, and the Titanite Shards and Torch from the chest upstairs
+- [ ] Go down below the map room, kill the Skeleton and pick up the Human Effigy it drops, get the Estus Flask Shard and then the Soul Vessel from the chest
+- [ ] Go to the Emerald Herald and upgrade your Estus Flask
+- [ ] Travel back to the Forest of Fallen Giants / Cardinal Tower bonfire
+- [ ] Go down the ladder, head to the left, passed the bridge and open the door with the Soldier Key
+- [ ] Head down the corridor, getting the Black Firebombs and the Homeward Bone from the alcove to the left, and the Torch from the end
+- [ ] Open the door, go in to the next building, go up the ladder and get the Soul of a Nameless Soldier and Cracked Red Eye Orbs
+- [ ] Go back down the ladder and get the Bastard Sword from behind the boxes
+- [ ] Go outside and get the Amber Herb and Green Blossom from beside the immovable gate
+- [ ] Go through the next building and get the Large Soul Of A Proud Knight and Leather Set from the chest on the wooden structure
+- [ ] Go inside the next building and light the bonfire
+- [ ] Go out and in to the second room of this building to find a sleeping giant, that has the chance to give a Seed Of A Tree Of Giants if you get invaded
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Go down the stone staircase towards Heide's Tower Of Flame, picking up the Soul Of A Lost Undead and Broken Thief Sword along the way
+
+## Heide's Tower Of Flame (Levels 30-40)
+
+- [ ] Kill the first Old Knight and light the first bonfire to the right of him
+- [ ] Kill the second Knight, pick up the Sublime Bone Dust it drops, and pick up the Soul of a Nameless Soldier and Human Effigy from the corpse
+- [ ] Kill the Knight guarding the first switch, use it to raise the first platform, and get the Lloyd's Talisman from behind the door
+- [ ] Kill the first Knight in the circular room, kill the two that will then rush you, and use the switch that appears to raise the second platform
+- [ ] Head out the right door, go down the steps and kill the Knight guarding the fog door, and get the Green Blossoms from the chest
+- [ ] Go through the fog gate and kill the Dragonrider boss
+- [ ] You can summon Masterless Glencour just outside the fog gate
+- [ ] Make sure you hit both switches before the fight so you don't have to worry about falling off
+- [ ] You will get the Dragonrider Soul and 12,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 3,000 souls each time
+- [ ] Go up the stairs, light the bonfire and anything you need from Licia Of Lindeldt
+- [ ] Clerics's Sacred Chime @ 1,400 souls
+- [ ] Ring of Prayer @ 28,000 souls (Increases Faith by 5)
+- [ ] Heal Miracle @ 1,500 souls
+- [ ] Med Heal Miracle @ 3,000 souls
+- [ ] Great Heal Excerpt Miracle @ 4,500 souls
+- [ ] Replenishment Miracle @ 3,000 souls
+- [ ] Resplendent Life Miracle @ 4,500 souls
+- [ ] Caressing Prayer Miracle @ 2,000 souls
+- [ ] Force Miracle @ 1,800 souls
+- [ ] Lightning Spear Miracle @ 6,000 souls
+- [ ] Homeward Miracle @ 2,400 souls
+- [ ] Guidance Miracle @ 3,700 souls
+- [ ] Talk to Licia until you exhaust her dialog so that she will return to Majula
+- [ ] If you have at least 30 Faith she will give you the Saint's Set and the Idol's Chime
+- [ ] Optionally, kill her to get the Rotunda Lockstone and Idol's Chime, and make the Saint's Set available to buy from Merchant Hag Melentia
+- [ ] Go back to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Remember to burn the Sublime Bone Dust to strengthen your Estus Flask
+- [ ] While you are in Majula, go back down the stone stairs and talk to Licia, and pay the 2,000 souls to open up the path to Huntsman's Copse
+- [ ] Get the Rouge Water and follow the path up to the bonfire
+- [ ] If you have at least 8 Faith and 8 Intelligence talk to Felkin the Outcast and buy useful stuff from him
+- [ ] Archdrake Staff @ 4,000 souls
+- [ ] Archdrake Chime @ 4,000 souls
+- [ ] Ring of Life Protection @ 6,000 souls
+- [ ] Dark Pine Resin @ 1,500 souls
+- [ ] Magic Barrier Miracle @ 2,700 souls
+- [ ] Dark Orb @ Hex 600 souls
+- [ ] Dark Weapon Hex @ 2,700 souls
+- [ ] Great Resonant Soul Hex @ 3,400 souls
+- [ ] Resonant Soul Hex @ 1,100 souls
+- [ ] Resonant Flesh Hex @ 3,400 souls
+- [ ] Resonant Weapon Hex @ 4,000 souls
+- [ ] If you have at least 20 Faith and 20 Intelligence talk to him to get the Hexer's Set and Sunset Staff
+- [ ] Optionally, kill him to get the Sunset Staff and make the Hexer's Set available to buy from Merchant Hag Melentia
+- [ ] Travel back to the Heide's Tower Of Flame / Tower Of Flame bonfire
+- [ ] Make your way back up to the room with the three knights, go out the doorway on the right, and get the Divine Blessing from the ledge
+- [ ] Kill the Knight to reveal the switch, use it to lower the drawbridge and walk up it
+- [ ] Get the Old Radiant Lifegem from the corpse, and the Ring Of Binding and Human Effigy from the chest
+- [ ] Go through the fog gate and kill the Old Dragonslayer boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] You will get the Old Dragonslayer Soul, the Old Leo Ring and 15,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 3,750 souls each time
+- [ ] Go out the door and get the Cracked Blue Eye Orbs, Heide Knight Iron Mask and Tower Shield from the chests
+- [ ] If you have a Token of Fidelity, talk to Blue Sentinel Targray to learn the Duel Bow gesture and buy anything you need from him
+- [ ] Morning Star @ 1,600 souls
+- [ ] Halberd @ 2,500 souls
+- [ ] Emit Force Miracle @ 4,200 souls
+- [ ] Heavenly Thunder Miracle @ 3,300 souls
+- [ ] Monastery Charm @ 2,200 souls each (Max 3)
+- [ ] Holy Water Urn @ 300 souls each
+- [ ] Boltstone @ 7,000 souls each
+- [ ] Optionally, join the Blue Sentinels covenant and get the Blue Seal ring, which increases HP by 3%
+- [ ] Optionally, kill him to get the Blue Knight's Halberd and make Targray's Set available to buy from Merchant Hag Melentia
+- [ ] Go down the stairs, light the bonfire, go back to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Go talk to Cale The Cartographer who should now be in the map room in the mansion
+- [ ] Travel back to the Heide's Tower Of Flame / Tower Of Flame bonfire, head towards the door and down the spiral staircase, picking up the Monastery Charm at the bottom
+- [ ] Get the Human Effigy, Dark Torches, Soul Of A Proud Knight and Old Knight Halberd from the corpses on the upper level, and go downstairs
+- [ ] Take the elevator down, kill the Knight to get access to the stairs, and get the Knight Set from the chest upstairs
+- [ ] Go out the hole in the wall and the lower level and follow the path to the bonfire
+
+## No-Man's Wharf (Levels 35-45)
+
+- [ ] Talk to Lucatiel of Mirrah until you have exhausted her dialog
+- [ ] Optionally, kill her to get Lucatiel's Mask and make the rest of Lucatiel's Set available to buy from Merchant Hag Melentia
+- [ ] Head out to the wharf and get the Titanite Shard from the chest in the first house, and the Soul Of A Proud Knight from the balcony, and move on to the next set of houses
+- [ ] Pick up the Large Soul Of A Lost Undead and Lifegem from the water, the Dark Pine Resin from the left house, and the Iron Arrows from the right house
+- [ ] Go up the first set of stairs, turn right and get the Bandit Axe and Brigand Set from the first chest in the house
+- [ ] Clear out the Hollows from the upper floor and get the Repair Powder and Titanite Shard from the second chest
+- [ ] Go back downstairs and use the Pharros Lockstone to light up the area
+- [ ] Drop down on to the roof and get the Large Soul Of A Proud Knight and Small Smooth and Silky Stone from the corpse
+- [ ] Go back to the stairs, go up two flights and clear out the area, and get the Ring Of Life Protection from behind the shelves in the left house
+- [ ] Head up the next set of stairs and get the Large Soul Of A Lost Undead and Emit Force miracle from the corpse
+- [ ] Clear out the Dark Stalkers from the house, and get the Greatsword from the metal chest, and the Silver Talismans from the trapped chest on the right
+- [ ] Talk to Lonesome Gavlan and buy useful stuff from him
+- [ ] Ring of Giants @ 5,000 souls (Increases Poise by 10)
+- [ ] Poison Arrows @ 60 souls each (Max 20)
+- [ ] Poison Moss @ 1,500 souls each (Max 20)
+- [ ] Poison Throwing Knife @ 350 souls each (Max 20)
+- [ ] Rotten Pine Resin @ 2,000 souls each (Max 20)
+- [ ] Sell any items you won't need to him to get some more souls
+- [ ] Optionally, kill him to get the Gyrm Greataxe
+- [ ] Go back outside, go upstairs in the next house, and continue outside to ring the bell to call the ship
+- [ ] Drop down on the roof to get the Lifegem and Homeward Bone from the corpse
+- [ ] Drop down again, go inside the house and get the Fire Arrows from the stairs, continue outside, and walk down to the next level
+- [ ] Turn left, go in to the house and get the Throwing Knives and Flame Butterflies from the corpse behind the poison urns
+- [ ] Get the Estus Flask Shard from the chest, smash the wall and kill the Crystal Lizard
+- [ ] Pick up the Soul of a Nameless Soldier, Large Soul Of A Nameless Soldier, Lifegems, and Fading Soul from around the cave, and the Royal Soldier's Ring from the chest
+- [ ] Go in to the next house, use the illusory wall and get the Firebombs and Large Titanite Shard from the chests, and go upstairs to open the shortcut gate
+- [ ] Head back down and outside, and get the Human Effigy and Lifegems from the corpse on the boat
+- [ ] Kill the two Hollows hanging on to the walkway, and the one in the water before they ambush you
+- [ ] If you have at least 8 Intelligence, go right along the walkway, talk to Carhillion Of The Fold and buy anything you need from him
+- [ ] Sorcerer's Staff @ 1,000 souls
+- [ ] Spell Quartz Ring @ 2,000 souls (Increases magic defense by 5%)
+- [ ] Clear Bluestone Ring @ 2,000 souls (Shortens spell casting time by 25%)
+- [ ] Soul Arrow Sorcery @ 1,500 souls
+- [ ] Great Soul Arrow Sorcery @ 3,000 souls
+- [ ] Heavy Soul Arrow Sorcery @ 2,000 souls
+- [ ] Great Heavy Soul Arrow Sorcery @ 4,500 souls
+- [ ] Shockwave Sorcery @ 1,800 souls
+- [ ] Soul Spear Barrage Sorcery @ 2,600 souls
+- [ ] Magic Weapon Sorcery @ 2,000 souls
+- [ ] Yearn Sorcery @ 3,000 souls
+- [ ] Amber Herb @ 1,600 souls each (Max 10)
+- [ ] Twilight Herb @ 2,400 souls each (Max 5)
+- [ ] Simpleton's Spice @ 13,000 souls (Max 1)
+- [ ] If you have at least 30 Intelligence, talk to him to get the Northern Ritual Band +1 ring
+- [ ] Optionally, kill him to get the Northern Ritual Band +1 ring
+- [ ] Head to the ship, go downstairs, through the fog gate and kill the Flexile Sentry boss
+- [ ] You can summon Lucatiel of Mirrah from away back at the shortcut gate
+- [ ] This is the first of at least three boss fights you need to summon her for and have her survive to complete her quest
+- [ ] You will get the Flexile Sentry Soul and 14,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 3,500 souls each time
+- [ ] Go up the ladder, get the Pyromancy Flame and Fireball Pyromancy from the chest, and examine the compass to take a one-way trip to the next level
+- [ ] Go in to the cave, up in the elevator, quickly run over the elevator switch and out of the cage, and jump on top of it as it goes down
+- [ ] When it gets near the bottom walk through the hole on the door side and get the Scimitar and Repair Powder from the hidden cave
+- [ ] Go back up in the elevator, get the Soul Of A Proud Knight and Radiant Lifegem from the corpse in the cell
+- [ ] Go up the stairs, get the Common Fruit from the third cell on the right, and rest at the bonfire in the fifth cell on the left
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Don't forget to upgrade your Estus Flask
+- [ ] If you talked to Carhillion Of The Fold earlier then he will now be beside the dead tree on the left of the hill
+
+## The Pit / Grave Of Saints (Levels 45-55)
+
+- [ ] Get 13,400 souls and buy the Silvercat Ring from Sweet Shalquoir. If you can't afford it you can come back here later
+- [ ] Get naked and drop down on to the first set of logs in the pit to get a Radiant Lifegem
+- [ ] Drop down on to the second set of logs to get a Pharros Lockstone
+- [ ] Drop down again and then do a running jump across to get the Poison Mosses
+- [ ] Drop down on to the ledge, go inside and use the bonfire to return to Majula
+- [ ] Drop down again 4 times to where you picked up the Poison Mosses, but this time drop down to the next set of logs instead of the ledge
+- [ ] Keep dropping down until you get the Ring of the Evil Eye +1 and then put your gear back on
+- [ ] Use a Homeward Bone to return to Majula and then travel to the Grave Of Saints / Harval's Resting Place bonfire
+- [ ] If you are online then keep alert because you can be called to invade members of the Rat King Covenant while you are in this area
+- [ ] Go in to the circular room and get the Large Soul Of A Nameless Soldier from the corpse
+- [ ] Go up the steps and to the left to get the Small Smooth and Silky Stones
+- [ ] Use a Pharros Lockstone to lower the bridge near the top of steps, go across and get the Poison Mosses
+- [ ] Go up the stairs and get the Whisper Of Despair Hex and Torch
+- [ ] Go back across the bridge, turn left and go up the ladder near the end, turn left at the top and get the Homeward Bones in the room at the end
+- [ ] Head back towards the ladder and light the bonfire past it on the right
+- [ ] Go through the fog gate and kill the Royal Rat Vanguard boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] After killing 10 of the normal rats the boss will show up. He's the one with the mohawk hair style
+- [ ] You will get the Royal Rat Tail, the Royal Rat Vanguard Soul and 11,000 souls
+- [ ] Go talk to The Rat King and buy anything you need from him
+- [ ] Corrosive Urn @ 700 souls each
+- [ ] Dung Pie @ 600 souls each
+- [ ] Common Fruit @ 1,600 souls each
+- [ ] Red Leech Troches @ 1,600 souls
+- [ ] Triclops Snake Troches @ 2,000 souls
+- [ ] Optionally, you can join the Rat King Covenant to try and earn some more Pharros Lockstones
+- [ ] Continue on, drop down the hole and pick up the Pharros Lockstone
+- [ ] Drop down the coffins on to the walkway, and get the Bleed Stone from the corpse at the end
+- [ ] If you've got the nerve, jump across and get the Disc Chime from the small ledge
+- [ ] Drop or jump to the bridge and kill the Crystal Lizard, then jump across the gap and get the Ash Knuckle Ring from the chest
+- [ ] Drop down and be prepared to kill the six Exploding Undead Citizens, then get the Great Heal Miracle from the blocked tunnel
+- [ ] Go out the other tunnel, make your way down the ladders to the right and get the Human Effigy
+- [ ] Continue down the ladders, getting the Radiant Lifegem on the way, and get the Token of Spite from the chest at the bottom
+- [ ] Head out the tunnel, watching out for the poison statues, drop down on the first roof, watch for the collapsing floor, then drop down to the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Travel to the The Lost Bastille / Exile Holding Cells bonfire
+
+## The Lost Bastille / Belfry Luna (Levels 55-65)
+
+- [ ] Go up the steps and kill the Heide Knight to get the Heide Spear
+- [ ] Drop down in to the gap in the walkway and go around the ledge to get the Soul Of A Brave Warrior and Human Effigy
+- [ ] Drop off the wall and smash the wooden structure to get an Alluring Skull
+- [ ] Go down the alley on the left and get the Estus Flask Shard and Large Titanite Shard from the chest
+- [ ] Go back to where you dropped off the wall, smash the planks covering the hole in the wall and get the Flame Butterflies from the cell
+- [ ] Open the door with the Antiquated Key, hit the block on the well, kill the three Undead Citizens, and get the Wanderer Set from one of their corpses
+- [ ] Go down the alleyway, up the ladder, clear the room, go up the next ladder and get the Large Soul Of A Nameless Soldier and Green Blossom
+- [ ] Climb down, back outside and up the first ladder again
+- [ ] Use a Firebomb to explode the barrels and get the Archdrake Robes and Archdrake Shield, and move in to the next room
+- [ ] Open up the chests to get the Parrying Dagger, Twinblade and Bone Staff
+- [ ] Use a Pharros Lockstone and get the Soul Vessel and Wilted Dusk Herb from the chests in the hidden rooms it reveals
+- [ ] Go up in the cage elevator in the right room and get the Skeptic's Spice from the corpse
+- [ ] Drop down on to the ledge in the elevator shaft to get the Bonfire Ascetic, drop down again and go back up in the elevator
+- [ ] Open the door, and if you already have a Fragrant Branch of Yore you can go upstairs, talk to Straid Of Olaphis and light his bonfire
+- [ ] If you want to skip most of The Lost Bastille you can open the gate and continue on to Sinner's Rise
+- [ ] Go downstairs, in to the alcove beside the cage, open the secret door in front of you, then open the second secret door on the left
+- [ ] Go outside and to the left to pick up the Bracing Knuckle Ring, then jump across the gap and pick up the Flame Butterfly and Torch
+- [ ] Follow the ledge to get the Soul Of A Brave Warrior and Golden Wing Shield, drop down, and walk down the steps to the bonfire
+- [ ] Go back up the stairs, cross the stone rubble on the right, open the door and deal with the ambush
+- [ ] Head downstairs, open the shortcut door, and get the Soul Of A Proud Knight and Human Effigy from the corpse
+- [ ] Go up the ladders and get the Radiant Lifegem from the corpse in the open cell
+- [ ] Go through the fog gate and kill the Ruin Sentinels boss
+- [ ] You can summon Pilgrim Bellclaire from the open cell before the fog gate
+- [ ] You will get the Ruin Sentinel Soul and 33,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 8,250 souls each time
+- [ ] After the fight, open the four hidden doors in the boss room and get the Target Shield and Rusted Coin
+- [ ] Go up the ladder in one of the rooms to get the Hush Sorcery from the chest, open the hidden door and get the Homeward Bone from the ledge
+- [ ] Go out the door, up the stairs, open the hidden door, watch out for the Undead Citizen and get the Rouge Water from the chest
+- [ ] Continue on, watching for the exploding Undead Citizen in the narrow passageway, get the Soul of a Nameless Soldier and light the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Remember to upgrade your Estus Flask
+- [ ] Travel back to The Lost Bastille / Servants' Quarters bonfire
+- [ ] Go up the steps, along the passageway, open the door and get the Human Effigy from the corpse at the edge on the left
+- [ ] Go in to the tower and through the door on the left, go through the gap in the wall on to the roof and get the Flame Butterflies from the corpse
+- [ ] Jump across to the other roof, get the Large Soul Of A Nameless Soldier, go up the ladder, through the barrel room, down the staircase and back to the bonfire
+- [ ] Go down the ladder, get the Priest's Chime from the chest, and the Large Club from the corpse
+- [ ] Use a Pharros Lockstone to open the hidden door and head in to Belfry Luna
+- [ ] If you are online then keep alert because you can be invaded here by members of the Bell Keepers covenant
+- [ ] Talk to the Belfry Guard and optionally join the Bell Keepers covenant to try and earn some Titanite Chunks
+- [ ] Go up to next floor, get the Skeptic's Spice from the corpse on the railing
+- [ ] Drop down the hole in the floor and get the Blue Tearstone Ring from the chest, the Skeptic's Spice from the corpse, and go up to the top floor
+- [ ] Go up the ladder and get the Radiant Lifegems and Twilight Herbs from the chest, and Skeptic's Spice from the corpse
+- [ ] Pull the lever to ring the bell and go back down the ladder
+- [ ] Go through the fog gate and kill the Belfry Gargoyles boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] You will get the Belfry Gargoyle Soul and 25,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 6,250 souls each time
+- [ ] Get the Soul Of A Proud Knight from the edge of the roof
+- [ ] Go out the door, down the staircase, get the Southern Ritual Band from the chest, go out the door and light the bonfire
+- [ ] Go down the ladder beside the bonfire and be ready for a tough ambush by dogs and the red phantom Vorgol The Sinner
+- [ ] Pick up the Bastille Key and Enchanted Falchion, and go back up the ladder
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Talk to Merchant Hag Melentia to get a Radiant Lifegem
+- [ ] Travel to the Huntsman's Copse / Undead Refuge bonfire
+
+## Huntsman's Copse / Undead Purgatory (Levels 55-65)
+
+- [ ] Remember that Felkin the Outcast is just beside the bonfire if you need to buy anything from him
+- [ ] Make your way up the path and kill the Great Moth before it poisons you
+- [ ] Keep moving ahead towards the building, stay on the ledge when you get inside and deal with the door ambush at the end
+- [ ] Go out the door, get the Cracked Red Eye Orbs, climb down the ladder, light the bonfire and push down the tree shortcut
+- [ ] Go up the ladder and make the difficult jump across to the pillar to get the Pharros Lockstone and Token of Fidelity
+- [ ] Drop down to the lower ledge, go in to the cavern, kill the Great Moths, and get the Monastery Charm and Soul Of A Proud Knight from the corpse
+- [ ] Drop down the mushrooms, get the Poison Moss on the second one, and get Ricard's Rapier from the chest at the bottom
+- [ ] Open the hidden door, go through the tunnel, get the Large Soul Of A Nameless Soldier, and go up in the cage elevator
+- [ ] Continue on and open the next hidden door to return to the main building
+- [ ] Go down in to the lower area, and get the Bandit's Knife, Soul of a Nameless Soldier and Lifegem from the corpses
+- [ ] Go up the ladder on to the roof, drop down to the ledge to get the Poison Mosses and Lifegem, drop down again and return to the bonfire
+- [ ] Continue in to the copse, and get the Large Soul Of A Lost Undead and Small Orange Burr from the corpse to the left of the first bridge
+- [ ] Go over the bridge and get the Lifegem, Aromatic Ooze, Morning Star and Large Soul Of A Nameless Soldier from the area on the left
+- [ ] Continue up the hill, drop down through the roof of the hut and get the Soul Spear Sorcery, Poison Moss and Green Blossom
+- [ ] Go back up the hill and in to the next hut, watching for the ambush from above, and pull the lever to lower the bridge
+- [ ] Head across the bridge, go over the smaller bridge, and continue along the ledge until you get to a path leading up to the left
+- [ ] Go up the path, kill the Crystal Lizard and get the Poison Throwing Knives
+- [ ] Walk or drop back down and continue until you get to a hut with two enemies in it
+- [ ] Kill them, get the Undead Lockaway Key, return to the bridge, open the door of the hut and light the bonfire
+- [ ] Talk to Creighton The Wanderer and learn the Fist Pump gesture
+- [ ] Optionally, kill him to get Creighton's Steel Mask, and make the rest of Creighton's Set available to buy from Merchant Hag Melentia
+- [ ] In the next cave area remember that the skeletons respawn until you kill the Necromancer and the puts inflict curse until you destroy them
+- [ ] Go in to the cave beside the hut, get the Magic Mace and Titanite Shard, and kill the Necromancer in the next room
+- [ ] Go out the other tunnel, cross the small wooden bridge and continue along the ledge to the right
+- [ ] Near the waterfall you will get invaded by Merciless Roenna, so be ready
+- [ ] Don't go through the fog gate yet, instead continue along the ledge in to the cave and jump across to kill the Necromancer
+- [ ] Go out the tunnel on the right and get the Combustion Pyromancy and Titanite Shard from the ledge
+- [ ] Go back in and cross the room, get the Flame Butterflies, pull the lever to open the shortcut gate and return to the fog gate
+- [ ] Go through the fog gate and kill the Skeleton Lords boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] As you kill each Lord, several enemies will spawn after several seconds
+- [ ] You will get the Skeleton Lord's Soul and 15,000
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 3,,750 souls each time
+- [ ] Go out the new passageway, lower the bridge, continue on and light the bonfire in the cave, remembering about the poison at the entrance
+- [ ] Leave the cave, talk to Stone Trader Chloanne and buy useful stuff from her
+- [ ] Bonfire Ascetic @ 7,500 souls
+- [ ] Titanite Shard @ 1,000 souls each (Max 10)
+- [ ] Soul Appease Miracle @ 8,800 souls
+- [ ] Dead Again Hex @ 4,000 souls
+- [ ] Exhaust her dialog so that she returns to Majula
+- [ ] If you spend 20,000 souls with her she will give you two Twinkling Titanite
+- [ ] Optionally, kill her to get a Palestone
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] If you talk to Saulden The Crestfallen Warrior he should give you a Soul Vessel. If not, come back to talk to him later
+- [ ] Travel to the Huntsman's Copse / Undead Lockaway bonfire
+- [ ] Go back across the large bridge, drop down to the left and cross the smaller stone bridge
+- [ ] Go up the hill, get the Notched Whip and continue through the passageway on the left
+- [ ] Make your way forward, watching out for the four enemies that will drop down and try to ambush you
+- [ ] Cross the bridge, watching out for the gaps, and kill red phantom that blocks the way
+- [ ] Jump across to the platform to get the Sublime Bone Dust and Fire Seed
+- [ ] Go through the fog gate and kill the Executioner's Chariot boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] Use Alluring Skulls to distract the skeletons while you kill the Necromancers
+- [ ] You will get the Executioner's Chariot Soul and 19,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 4,750 souls each time
+- [ ] Pick up the Soul Of A Brave Warrior and Fading Souls scattered around the area, the go upstairs and light the bonfire
+- [ ] If you have a Token of Spite, talk to Titchy Gren if you want to join the brotherhood of blood covenant and be able to buy stuff from him
+- [ ] Great Scythe @ 3,000 souls
+- [ ] Priest's Chime @ 4,000 souls
+- [ ] Firestorm Pyromancy @ 4,500 souls
+- [ ] Great Combustion Pyromancy @ 4,800 souls
+- [ ] Fire Whip Pyromancy @ 3,800 souls
+- [ ] Delicate String @ 20,000 souls (Max 1)
+- [ ] Hexing Urn @ 360 souls each
+- [ ] Silver Talisman @ 1,300 souls each
+- [ ] Red Sign Soapstone @ 5,000 souls (Max 1)
+- [ ] Once you have killed the Skeleton Lords he will sell the Bone King Set (18,600 souls)
+- [ ] Once you have killed the Executioner's Chariot and been to Drangleic Castle he will sell the Executioner Set (25,100 souls)
+- [ ] Optionally, kill him to get Nahr Alma Hood, and make the Nahr Alma Robes and Scythe of Nahr Alma available to buy from Merchant Hag Melentia
+- [ ] If you joined the covenant you can use the statues in front of him to duel other Brotherhood of Blood members
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Remember to burn the Sublime Bone Dust to strengthen your Estus Flask
+- [ ] Travel to the Harvest Valley / Poison Pool bonfire
+
+## Harvest Valley (Levels 60-70)
+
+- [ ] Make sure you have some Poison Moss or lots of Lifegems to deal with the poison in this level
+- [ ] Head down in to the valley and get the Lifegem from the corpse
+- [ ] Pick up the Fading Souls, Titanite Shards, Small Smooth and Silky Stones, Titanite Chunk and Poison
+- [ ] Throwing Knives from the first area
+- [ ] Go through the hole in to the second area and get the Fragrant Branch of Yore and Torch from the corpse
+- [ ] Drop down in to the poison mist and get the Fire Seed and Divine Blessing from the chest
+- [ ] Go back up, in to the cave, get the Raw Stone from the chest, and buy anything you need from Lonesome Gavlan
+- [ ] Head back out and in to the next area, getting the Torch on the way, go up the first ladder and get the Hexing Urns
+- [ ] Go back down, up the second ladder, pull the lever to open the gate, go through and to the right to light the bonfire
+- [ ] Continue to the next area, take the passageway to the left and go in to the right to face the ambush by the Artificial Undead
+- [ ] Get the Green Blossoms from the corpse and then go around smashing the planks and picking up the items
+- [ ] You will get Lifegems, Simpleton's Spice, a Large Titanite Shard, a Large Soul Of A Brave Warrior, a Radiant Lifegem and Skeptic's Spice
+- [ ] Go through the tunnel on the upper level, turn left and kill the Crystal Lizard but do not drop down in to the mist
+- [ ] Double back, get the Titanite Shard and Fragrant Branch of Yore and drop down to the main area
+- [ ] Go back up the same way, wait for the Mounted Overseer to smash through the planks, and bait him in to smashing the planks behind him
+- [ ] Pick up the Soul Of A Lost Undead, Old Knight Pike, Old Knight Greatshield, Torch, Radiant Lifegem and Smooth and Silky Stone
+- [ ] Leave the cave, drop down to the right and get the Poison Stone and Rotten Pine Resins from the chest
+- [ ] Climb down the ladder in to the poison mist, go straight ahead, pick up the Soul of a Nameless Soldier and climb up the ladder
+- [ ] Drop down the smallest hole without the ladder and get the Fading Soul
+- [ ] Continue forward and to the right, pick up the Simpleton's Spice, and go up the ramp to the right at the end
+- [ ] Drop down in to the mist and get the Human Effigy, Large Titanite Shard, Titanite Shard, Soul Of A Brave Warrior and the Chameleon Sorcery
+- [ ] Go across the bridge, up the steps and turn left before entering the building, and continue forward through the tunnels
+- [ ] Examine the statue to learn the Praise The Sun gesture and optionally join the Heirs of the Sun covenant
+- [ ] Take a moment to gaze at the sun!
+- [ ] Go back and in to the building, watching out for the Undead Steelworker that will ambush you through the poison pots
+- [ ] Continue forward and up the steps to the fog gate, and drop down the gap beside the wooden planks to get the Skeptic's Spice
+- [ ] Jump across to the ledge of the cage room and go down the passageway, watching out for the arrow trap that fires from behind you
+- [ ] Get the Soul of a Nameless Soldier and Titanite Shards from the corpse
+- [ ] Get the Heavy Crossbow +3 and the Heavy Bolts from the chest, head back out and jump across to the steps
+- [ ] Go down the steps in to the poison, go straight down the passageway, turn right in to the room and clear it out
+- [ ] Use a Pharros Lockstone and get the Poisonbite Ring and Soul Of A Proud Knight from the chest in the hidden room
+- [ ] Go back in to the poison, turn right and get the Estus Flask Shard from the end, and then go all the way back to the fog gate
+- [ ] Go in to the side room and get the Torch from the trapped chest
+- [ ] Go through the fog gate and kill the Covetous Demon boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] You can use Iron Arrows or Heavy Bolts to shoot down the pots to release enemies to distract the boss
+- [ ] You will get the Covetous Demon Soul and 13,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 3,250 souls each time
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Don't forget to upgrade your Estus Flask
+- [ ] Now that you have a couple of Fragrant Branches of Yore you can take care of a couple of things
+- [ ] If you want some boss soul weapons then you need to go and free Straid Of Olaphis
+- [ ] Travel to the The Lost Bastille / Servants' Quarters bonfire
+- [ ] Go up the steps, across the wooden bridge, up the spiral staircase in the tower and through the barrel room
+- [ ] Go in to the room with the big pots, and keep going up the stairs until you get to him
+- [ ] Use a Fragrant Branch of Yore to free him
+- [ ] Don't forget to light the bonfire to make it easy to get back here
+- [ ] Learn the Mock gesture from him and buy anything you need
+- [ ] Ring of Knowledge @ 28,000 souls (Increases Intelligence)
+- [ ] Lingering Dragoncrest Ring @ 2,500 souls (Extends length of spell effect)
+- [ ] Homing Soul Arrow Sorcery @ 6,500 souls
+- [ ] Strong Magic Shield Sorcery @ 6,300 souls
+- [ ] Cast Light Sorcery @ 3,000 souls
+- [ ] Resplendent Life Miracle @ 4,500 souls
+- [ ] Great Lightning Spear Miracle @ 13,000 souls
+- [ ] Unveil Miracle @ 2,200 souls
+- [ ] Sunlight Blade Miracle @ 12,400 souls
+- [ ] Lingering Flame Pyromancy @ 6,700 souls
+- [ ] Flame Swathe Pyromancy @ 9,500 souls
+- [ ] Dark Orb Hex @ 600 souls
+- [ ] Dark Hail Hex @ 1,500 souls
+- [ ] Dark Fog Hex @ 5,200 souls
+- [ ] Affinity Hex @ 11,500 souls
+- [ ] Rouge Water @ 3,000 souls each (Max 3)
+- [ ] Trade in your boss souls for any weapons or spells that you want
+- [ ] Optionally, kill him to get the Black Hood, and make the rest of the Black Set available to buy from Merchant Hag Melentia
+- [ ] Unlock the cell beside him with the Bastille Key to get the Petrified Dragon Bone and Firebombs
+- [ ] If you want to reinforce your Pyromancy Flame or buy some more Pryomancies then you need to go and free Rosabeth Of Melfia
+- [ ] Go back to where you met Benhart Of Jugo, go inside the building and use a Fragrant Branch of Yore to free her
+- [ ] Do not use the switch yet because it will trigger an ambush
+- [ ] Talk to her to get a Prism Stone and buy anything you need from her
+- [ ] Flame Quartz Ring @ 2,000 souls (Increases fire defense)
+- [ ] Thunder Quartz Ring @ 2,000 souls (Increases lightning defense)
+- [ ] Dark Quartz Ring @ 2,000 souls (Increases dark defense)
+- [ ] Fireball Pyromancy @ 1,200 souls
+- [ ] Fire Orb Pyromancy @ 3,400 souls
+- [ ] Combustion Pyromancy @ 1,500 souls
+- [ ] Poison Mist Pyromancy @ 3,400 souls
+- [ ] Flash Sweat Pyromancy @ 2,300 souls
+- [ ] Iron Flesh Pyromancy @ 3,500 souls
+- [ ] Small Blue Burr @ 1,200 souls each
+- [ ] Small Yellow Burr @ 1,200 souls each
+- [ ] Small Orange Burr @ 1,200 souls each
+- [ ] Fire Seed @ 8,000 souls each (Max 3)
+- [ ] If you have any Fire Seeds she can reinforce your Pyromancy Flame
+- [ ] Optionally, kill her to get a Fire Seed
+- [ ] It is advised at this point to get her back to Majula before using the switch
+- [ ] Exhaust her dialog, give her at least one item of clothing and return to the Majula bonfire and rest at it. She should now be up on the hill
+- [ ] Travel back to the Earthen Peak / Lower Earthen Peak bonfire
+
+## Earthen Peak (Levels 65-75)
+
+- [ ] Talk to Lucatiel of Mirrah to get the Ring of Steel Protection +1
+- [ ] Continue onwards and up the stairs, and get the Radiant Lifegem from the corpse
+- [ ] Go across the walkway, watching for the archers to your right, turn right at the end and follow the path to the chest to get the Pike
+- [ ] Head back the way you came and up the ladder, go through the fog gate, light the bonfire and then light your torch
+- [ ] Burn the windmill to drain poison from some keys areas in this level
+- [ ] Go up the stairs, pick up the Black Firebombs, watch for the arrow trap that fires towards you, and get the Manikin Mask
+- [ ] Go out the door, break the fence and walk along the ledge to the left, and talk to Laddersmith Gilligan
+- [ ] You can pay him 2,000 souls to lower a ladder so you can get a Pharros Lockstone and Twinkling Titanite from the ledge
+- [ ] Talk to him to learn the Prostration gesture and buy stuff from him
+- [ ] Reinforced Club @ 2,000 souls
+- [ ] Whip @ 1,800 souls
+- [ ] Claws @ 1,500 souls
+- [ ] Wooden Shield @ 1,200 souls
+- [ ] Thief Mask @ 1,000 souls
+- [ ] Black Leather Armor @ 1,200 souls
+- [ ] Black Leather Gloves @ 1,000 souls
+- [ ] Black Leather Boots @ 1,100 souls
+- [ ] Lacerating Knife @ 350 souls each
+- [ ] Aromatic Ooze @ 2,000 souls each
+- [ ] Bleeding Serum @ 2,000 souls each
+- [ ] Ladder Miniature @ 6.399 souls
+- [ ] Optionally, kill him to get the Melu Scimitar and Ladder Miniature
+- [ ] Go back along the ledge to get a Simpleton's Spice
+- [ ] Pull the lever and quickly get the Large Soul Of A Proud Knight and Divine Blessing from underneath and climb up the ladder
+- [ ] (WARNING: In SOTFS do this step after speaking to Mild Mannered Pate in the step below, otherwise he will disappear and you won't be able to continue the questline) Pull the lever again and ride the platform up, watch out for the enemies behind the pots, and get the Mirrah Shield from the chest
+- [ ] Drop down, go up the ladder, follow the passageway, head down in to the room on the right and talk to Mild Mannered Pate
+- [ ] Go back up and continue up the steps to get a Pharros Lockstone from the trapped chest
+- [ ] Go back down, go straight ahead and try the difficult jump to get the Radiant Lifegem, and a Soul Of A Brave Warrior and Crimson Water from the chest
+- [ ] Jump back, drop down on to the platform below, get the Great Heavy Soul Arrow Sorcery from the chest, go through the door and talk to Pate again
+- [ ] Go back out the door, drop down to the platform on the right, and get the Lightning Spear Miracle from the chest
+- [ ] Get a good running jump across to the other walkway and get the Poisonous Broadsword and Human Effigy from the corpse
+- [ ] Jump across to the next walkway where you opened the chest earlier, and make your way back to the bonfire
+- [ ] Go up the stairs, passed the arrow trap, and take the ladder up to the next level, turning left at the top
+- [ ] Make your way along, ignoring the fog gate for now, go up the steps and clear the room on the right, and get the Small Smooth and Silky Stone from the corpse
+- [ ] Don't waste a Pharros Lockstone but do kill the Mimic, and get the Dark Gauntlets and Work Hook
+- [ ] Leave the room and go upstairs and kill the Crescent Sickle Phantom
+- [ ] Go left along the ledge, open the hidden door and get the Petrified Something from the chest
+- [ ] Go along the ledge in the other direction, open the hidden door and light the hidden bonfire
+- [ ] Head down to the fog gate and pick up the Poison Stone to the left of the steps
+- [ ] Go through the fog gate and kill the Mytha The Baneful Queen boss
+- [ ] You can summon Jester Thomas to the right of the steps
+- [ ] Make sure you set fire to the windmill earlier or this fight will be multiple times harder
+- [ ] You will get the Mytha, the Baneful Queen Soul and 20,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 5,000 souls each time
+- [ ] Continue through the new door, go up in the elevator to enter the Iron Keep, and light the bonfire down the steps to the left
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] If you still need the ladders to get down the pit go talk to Laddersmith Gilligan
+- [ ] The small ladder costs 500 souls
+- [ ] The medium ladder costs 3,500 souls
+- [ ] The long ladder costs 12,000 souls
+- [ ] If you buy the long ladder and talk to him he will give you the Melu Scimitar
+- [ ] Now that you've opened up Iron Keep it's worth doing the beginning of the level to get the Dull Ember to open up Steady Hand McDuff
+- [ ] Travel to the Iron Keep / Threshold Bridge bonfire, go across the bridge and open the door Inside turn right, go talk to Magerold of Lanafir and buy anything you need from him
+- [ ] Jester's Cap @ 2,000 souls
+- [ ] Jester's Robes @ 3,000 souls
+- [ ] Jester's Gloves @ 2,300 souls
+- [ ] Jester's Tights @ 2,600 souls
+- [ ] Spiked Bandit Helmet @ 1,000 souls
+- [ ] Bandit Armor @ 1,600 souls
+- [ ] Bandit Gauntlets @ 1,200 souls
+- [ ] Bandit Boots @ 1,300 souls
+- [ ] Cursebite Ring @ 9,000 souls (Increases curse resistance)
+- [ ] Human Effigy @ 3,000 souls each (Max 5)
+- [ ] Green Blossom @ 1,300 souls each (Max 10)
+- [ ] Black Firebomb @ 300 souls each
+- [ ] Charcoal Pine Resin @ 1,500 souls
+- [ ] Repair Powder @ 2,500 souls each (Max 1)
+- [ ] Rusted Coin @ 900 souls each (Max 5)
+- [ ] Hello Carving @ 2,000 souls
+- [ ] Thank You Carving @ 2,000 souls
+- [ ] I'm Sorry Carving @ 2,000 souls
+- [ ] Very Good! Carving @ 2,000 souls
+- [ ] Fragrant Branch of Yore @ 7,500 souls (Max 1)
+- [ ] Soul Arrow Sorcery @ 1,500 souls
+- [ ] Great Soul Arrow Sorcery @ 3,000 souls
+- [ ] Heavy Soul Arrow Sorcery @ 2,000 souls
+- [ ] Great Heavy Soul Arrow Sorcery @ 4,500 souls
+- [ ] Fall Control Sorcery @ 4,800 souls
+- [ ] Dark Hail Hex @ 1,500 souls
+- [ ] Darkstorm Hex @ 4,700 souls
+- [ ] If you have any Skeptic's Spice or Simpleton's Spice he can also incense your spells to lower their Intelligence or Faith requirements
+- [ ] Later, once you have the Petrified Egg from Dragon Shrine, you can talk to him to join the Dragon Remnants covenant
+- [ ] Optionally, kill him to get the Covetous Gold Serpent Ring +1
+- [ ] Go upstairs, get the Pharros Lockstone to the left and open the hidden door to the right
+- [ ] Get the Fire Arrows from the corpse, open the next hidden door in front of the ballista and head in to the next area
+- [ ] Use ranged attacks to take out the Alonne Knight archer to the right, head along the walkway and drop down to pull the first lever
+- [ ] Go up the steps, head to the right, drop down and get the Soul Of A Proud Knight and Repair Powder
+- [ ] Climb up the ladder and get the Life Ring +1 and Twinkling Titanite from the chest, drop down and head back to the bridge
+- [ ] Go across the bridge, jump across to the pillar and get the Large Soul Of A Nameless Soldier and Red Leech Troches from the corpse
+- [ ] Drop down, pull the second lever, drop to the steps and go up to turn off the fire in the furnace
+- [ ] If you have enough fire defense and/or healing you can go to the bottom of the steps and get the Phoenix Parma from the chest
+- [ ] Go in to the furnace and get the Large Titanite Shards and Petrified Dragon Bone from the corpse
+- [ ] Go through the other door, back across the bridge, jump across the gap and get the Zweihander from the chest
+- [ ] Make the tricky jump down on to the steps and get the Dull Ember, go up the ladder, don't waste a Pharros Lockstone and drop down
+- [ ] At this point we've got what we've came for, so make your way back to the bonfire
+- [ ] Travel to the The Lost Bastille / McDuff's Workshop bonfire and give Steady Hand McDuff the ember
+- [ ] Talk to him and buy anything you need
+- [ ] Bastard Sword @ 3,000 souls
+- [ ] Uchigatana @ 5,000 souls
+- [ ] Greataxe @ 6,200 souls
+- [ ] Winged Spear @ 2,500 souls
+- [ ] Scythe @ 3,500 souls
+- [ ] Long Bow @ 2,000 souls
+- [ ] Light Crossbow @ 1,500 souls
+- [ ] Royal Kite Shield @ 2,400 souls
+- [ ] Wood Arrow @ 10 souls each
+- [ ] Iron Arrow @ 30 souls each
+- [ ] Iron Greatarrow @ 120 souls each
+- [ ] Wood Bolt @ 25 souls each
+- [ ] Heavy Bolt @ 50 souls each
+- [ ] Repair Powder @ 2,500 souls (Max 1)
+- [ ] Large Titanite Shard @ 2,500 souls each
+- [ ] He can also infuse your weapons and shields if you have the required stones
+- [ ] If you spend 14,000 souls on his services, not including buying stuff from him, he will give you a Titante Slab
+- [ ] Optionally, kill him to get a Titante Slab
+- [ ] Travel to The Gutter / Upper Gutter bonfire
+
+## The Gutter (Levels 65-75)
+
+- [ ] There are a few things to note while making your way through this area
+- [ ] It is much easier if you carry a torch at all times, and light all the sconces for better visibility and to know where you've been
+- [ ] Make sure you have some Poison Moss or lots of Lifegems to deal with the poison in this level
+- [ ] Smashing the Poison Shooting Statues uses weapon durability, so bring a second weapon or Repair Powder with you
+- [ ] The steps below assume you don't fall through a collapsible floor unless stated
+- [ ] There are multiple branching paths in this area, so it's easy to get lost or turned around. Stay calm, there's always a way back
+- [ ] Thankfully there is no Fucking Branch!
+- [ ] Before crossing the first bridge break the pot to the left to get the Dung Pies
+- [ ] Cross the bridge, watching out for the collapsing floor in the middle, cross the next bridge and kill the Molerat
+- [ ] Cross the next bridge, go up the ramp and drop down to the dirt area below
+- [ ] Drop off the edge farthest from where you came from and towards the wooden structure
+- [ ] Climb up the ladder on the side of the structure, jump across to the ledge and get the Ring of Soul
+- [ ] Protection from the chest
+- [ ] Roll from the ledge back in to the wooden structure to get the Twinkling Titanite and Small Smooth and Silky Stones from the chest
+- [ ] Go back up the ladder, jump across to the ledge and light the sconce at the other end to get Melinda The Butcher to invade you
+- [ ] Drop down off the ledge, drop down again at the other edge, head back towards the bonfire, getting the Lifegem from the pot along the way
+- [ ] Go back across the first bridge, drop down through the collapsing floor, taking care of the ambush when you drop
+- [ ] Take a running rump across to the platform with the torch wielding Undead Citizen
+- [ ] Later, when you get the Forgotten Key in Black Gulch, come back here and go up the ladder to get Havel's Set and Havel's Greatshield
+- [ ] Go across the bridge, drop down the hole, kill the Molerat, and get the Dark Pyromancy Flame and Rotten Pine Resins from the pot
+- [ ] Go up two ladders, get the Large Soul Of A Nameless Soldier from the pot and drop down back to the start of the first rope bridge
+- [ ] Start across the bridge but watch for the exploding Undead Citizen in front of you and the Molerat that might drop down behind you
+- [ ] On the other side of the bridge, kill the Molerat, go up the ladder and get the Black Firebombs from the chest
+- [ ] Go down the ladder and drop down twice on the same structure and get the Titanite Chunk from the pot
+- [ ] Drop down in to the next structure and get the Tattered Set from the pot
+- [ ] Jump across to the dirt ledge and get the Ring of the Evil Eye from the chest, being ready for the ambush
+- [ ] Go up the very long ladder, get the Soul Of A Proud Knight and the Bandit Greataxe from the pot
+- [ ] Go up the ladder and use the zip line to return to the main area
+- [ ] Drop down in to the room below and drop down once more to return to the start of the first rope bridge
+- [ ] Cross the bridge, go to the next structure and climb the ladder to the start of the second rope bridge
+- [ ] Cross the bridge, watching for the exploding Undead Citizen, kill the Molerat at the end, watching out for the collapsing floor in the middle
+- [ ] Cross the third rope bridge, in to the cave and get the Wicked Eye Greatshield from the chest
+- [ ] Leave the cave, drop down to the left, go in to the cave with the Corrosive Ant Queen and get the Poison Moss from the pot
+- [ ] Go through the fog gate, wacthing out for the holes in the floor, smash the wooden wall and light the bonfire
+- [ ] Go back throgh the wall you smashed and down the ladder in the far left corner of the room
+- [ ] Drop down, get the Rotten Pine Resins from the pot, drop down two more dirt ledges and get the Great Club from the chest
+- [ ] Get the Dark Fog Hex and Torch from the pot
+- [ ] Use a ranged weapon, spell or consumable to destroy the corrosive pots in front of the hole in the wall, drop down and get the Fragrant Branch of Yore
+- [ ] Go through the fog gate in to Black Gulch and light the bonfire in the cave to the left
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Travel to the Black Gulch / Black Gulch Mouth bonfire
+
+## Black Gulch (Levels 65-75)
+
+- [ ] As with The Gutter there are a couple things to note while making your way through this area
+- [ ] Make sure you have some Poison Moss or lots of Lifegems to deal with the poison in this level
+- [ ] Smashing the Poison Shooting Statues uses weapon durability, so bring a second weapon or Repair Powder with you
+- [ ] Watch out for the Grippers that will pop out of the pools of poison and try to grab you
+- [ ] Also watch out for the two Razorback Nightcrawlers that pop out of the holes on the left as you go down the hill
+- [ ] Leave the cave and just after the rock that juts out on the left wall drop down on the right to the ledge and go talk to Lucatiel of Mirrah
+- [ ] Drop down out of the tunnel, go right and in to the cave to get the Shotel and Great Magic Weapon sorcery from the chest
+- [ ] Get the Large Soul Of A Nameless Soldier, Scraps Of Life Hex and Torch from the corpse beside the first Razorback Nightcrawler
+- [ ] Continue down, get the Radiant Lifegem from the pot and the Divine Blessing from the chest in the next cave on the left
+- [ ] Go to the cliff edge and follow it around to another cave with a bonfire, light it and get the Pharros Lockstone from the jar
+- [ ] Go back out, follow the cliff edge back up the hill, and drop off beside the Nightcrawler to a ledge with a door you can't open yet
+- [ ] Drop off to a smaller ledge, and then once more to the ledge leading in to a large cave
+- [ ] Go in to the cave, hug the right wall and go in to the second smaller cave,
+- [ ] Open the chest and get the Ring Of Giants +1 and Petrified Dragon Bone
+- [ ] Kill the two Elite Giants to get the Forgotten Key and Soul of a Giant
+- [ ] Go back to the first of the smaller caves, jump across to get the Silver Talismans from the pot, jump back and go up in the cage elevator
+- [ ] Go back up and drop down again to the first ledge with the door, open it and go talk to Darkdiver Grandahl
+- [ ] Optionally, kill him to get the Dragon Chime
+- [ ] This is the first of three locations where you need to talk to him to be able to join the Pilgrims Of Dark covenant
+- [ ] Drop down and use the cage elevator again to get back to the bonfire
+- [ ] Go to the fog gate and kill The Rotten boss
+- [ ] You can summon Lucatiel of Mirrah beside tbe bonfire
+- [ ] This is the second of at least three boss fights you need to summon her for and have her survive to complete her quest
+- [ ] You can also summon Lone Hunter Schmidt just around the corner from the fog gate
+- [ ] You can chop off his right arm so that he can no longer use his cleaver, making the fight easier from that point on
+- [ ] You can chop off his left arm to get a Pharros Lockstone from a corpse in the cave after the fight
+- [ ] You will get the Soul of the Rotten and 47,000
+- [ ] This is one of four boss souls needed to open the door to the Shrine Of Winter
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 11,750 souls each time
+- [ ] If you have enough fire defense and/or healing you can jump or run across the fire to get a Fire Seed
+- [ ] Go out the tunnel, get the Sublime Bone Dust from the chest in the cave to the right, and go light the primal bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Remember to burn the Sublime Bone Dust to strengthen your Estus Flask
+- [ ] If you haven't already, buy the 12,000 ladder from Laddersmith Gilligan, talk to him to get the Melu Scimitar and slide down the ladder
+- [ ] Go up the other ladder, open the door and get the Soul Vortex Sorcery, Witchtree Branch, Witchtree Bellvine and Great Lightning Spear Miracle
+- [ ] Go back to the bonfire and travel to the The Gutter / Upper Gutter bonfire
+- [ ] Go and get Havel's Set and Havel's Greatshield as described earlier in The Gutter section, and return to the bonfire
+- [ ] Travel to the Iron Keep / Threshold Bridge bonfire, go across the bridge and open the door
+
+## Iron Keep / Belfry Sol (Levels 80-90)
+
+- [ ] We already did part of this area above at the end of the Earthen Peak section, so complete that section first if you haven't already
+- [ ] If you have enough fire defense and/or healing you can run under the steps to get the Human Effigy
+- [ ] Also, you can get a Bonfire Ascetic from jumping off the bridge and crossing the platforms
+- [ ] Continue in to the keep, going right if you need to talk to Magerold of Lanafir if you need to buy stuff from him or incense your spells
+- [ ] If you have enough fire defense and/or healing you can run under the fire and get the Iron Key
+- [ ] Make your way to the fog gate and kill Smelter Demon boss
+- [ ] You can summon Lucatiel of Mirrah outside the fog gate
+- [ ] This is the third of at least three boss fights you need to summon her for and have her survive to complete her quest
+- [ ] You will get the Smelter Demon Soul and 32,000
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 8,000 souls each time
+- [ ] Go out the door, up the steps and get the Porcine Shield and Flame Butterflies from the chest, and light the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] You can now buy the Smelter Demon Set from Maughlin The Armorer if you've spent at least 1,000 souls with him
+- [ ] Travel back to the Iron Keep / Ironhearth Hall bonfire
+- [ ] Go back down to the boss room and kill The Pursuer to get the Ring of Blades +1 and return to the bonfire
+- [ ] Go out the door, down the ladder and get the Old Radiant Lifegem and Green Blossom from the corpse, and go back up the ladder
+- [ ] Go across the the bridge, jumping the gap if needed, and pull the lever to lower the two Ironclad Soldiers in to the lava
+- [ ] Open the door, use a Pharros Lockstone, open the hidden door and go up the ladder to get the Thunder Quartz Ring +1 from the chest
+- [ ] Make the one way drop down to the bonfire and light it
+- [ ] Head up the ladder, talk to the Belfry Guard and optionally join the Bell Keepers covenant to try and earn some Titanite Chunks
+- [ ] If you are online then keep alert because you can be invaded in the next area by members of the Bell Keepers covenant
+- [ ] Go through the fog gate, clear out the area, pull the lever to ring the bell and get the Simpleton's Spice from the side of the tower
+- [ ] Go up the ladder, clear out the roof top and get the Simpleton's Spice from beside the railing
+- [ ] Go down the roof, get the Simpleton's Spice from the corpse and the Immolation Pyromancy from the chest
+- [ ] Go down the steps and get the Human Effigy and Triclops Snake Troches from the corpse
+- [ ] Go out on to the ledge and open the hidden door to the right before you drop down
+- [ ] Get the Black Knight Greatsword, Protective Chime and Grand Spirit Tree Shield from the chests
+- [ ] Drop down, pull the lever again and take out the Alonne Knight archers in the area
+- [ ] Go up and then down the steps, kill the Crystal Lizard and go along the walkway watching out for the lava button traps
+- [ ] Get the Large Soul Of A Proud Knight and Radiant Lifegem from the corpse
+- [ ] If you have enough fire defense and/or healing you can get the Fire Seed from below the steps and the Chaos Storm Pyromancy from the chest
+- [ ] Go back up on to the platforms, making sure to stick to the edges, and pick up the Large Soul Of A Nameless Soldier
+- [ ] Go up the ladder and get the Lightning Winged Spear and Dark Armor from the mimic
+- [ ] Head up the steps and along the walkway, get the Destructive Greatarrows from the corpse, and climb up the ladder
+- [ ] Don't waste a Pharros Lockstone but do kill the three Alonne Knight archers
+- [ ] Get the Simpleton's Spice and Black Knight Greataxe from the chest
+- [ ] Drop down on to the third walkway below to get the Cracked Red Eye Orb and Torch from the corpse
+- [ ] Keep dropping down, eventually dropping on to the rim of the pot to get the Covetous Gold Serpent Ring and kill the Alonne Knight
+- [ ] Go out the fog gate and get the Large Soul Of A Nameless Soldier and Monastery Charm from the corpse and then come back in
+- [ ] Go down the steps, through the passageway, killing the two Ironclad Soldiers and continue to the fire trap room
+- [ ] Avoiding the fire, go to the corner of the room, up the two ladders, use the switch to turn off the fire and then light the bonfire
+- [ ] Go back down the stairs, get the Lightning Short Bow +1 and head outside
+- [ ] Head in to the fog gate and kill the Old Iron King boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] You will get the Old Iron King Soul and 48,000 souls
+- [ ] This is one of four boss souls needed to open the door to the Shrine Of Winter
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 12,000 souls each time
+- [ ] Go in to the building, get the Sublime Bone Dust from the chest and light the primal bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Remember to burn the Sublime Bone Dust to strengthen your Estus Flask
+- [ ] Stone Trader Chloanne will now sell more items
+- [ ] Titanite Shards @ 1,000 souls each (Now unlimited)
+- [ ] Large Titanite Shards @ 2,500 souls each (Max 10)
+- [ ] If you didn't get it earlier, travel back to the Iron Keep / Threshold Bridge bonfire and get the Iron Key
+- [ ] Go back to where you met Benhart Of Jugo, talk to him to learn the Joy gesture, pull the lever and deal with the ambush
+- [ ] In the next room, open the door on the right and get the Estus Flask Shard from the chest, and open the door on the left to find the bonfire
+- [ ] Make a quick return trip back to Majula to upgrade your Estus Flask
+
+## Shaded Woods (Levels 80-90)
+
+- [ ] Go up the steps and jump across to the left side to get a Soul Of A Proud Knight and Human Effigy from the second room
+- [ ] Drop down and pull the switch beside the door you came in to open both doors and let you continue
+- [ ] Head down the path, getting the Fading Soul from the corpse
+- [ ] When you get to the start of the stone walls, go up on the left side to get a Pharros Lockstone
+- [ ] Continue on to light the next bonfire and go upstairs to the right to talk to Creighton The Wanderer
+- [ ] Make a quick run out the north door and get the Red Tearstone Ring from the water and then return to the bonfire
+- [ ] Head out the east door in to the mist, watching out the for the invisible Rogues in the area
+- [ ] Hug the right wall to get Lloyd's Talismans and then further on the Old Sun Ring from a chest
+- [ ] Follow the cliff and then the wall to find a ramp that leads to a chest with a Chloranthy Ring +1
+- [ ] Drop down and keep following the wall, ignoring the first hill going up to the right shortly after the chest
+- [ ] Go up the next hill to get the Soul Of A Proud Knight and Human Effigy from the corpse
+- [ ] Go up the hill a bit more to find a broken structure, with a Fire Seed behind the wall and a head to talk to
+- [ ] Talk to the Head Of Vengarl, learn the Decapitate gesture and buy anything you need from him
+- [ ] Claymore @ 4,300 souls
+- [ ] Greatsword @ 5,000 souls
+- [ ] Ring of Soul Protection @ 8,000 souls
+- [ ] Destructive Greatarrows @ 180 souls each
+- [ ] Lightning Urns @ 400 souls each
+- [ ] Gold Pine Resin @ 1,500 souls each
+- [ ] Magic Barrier Miracle @ 2,700 souls
+- [ ] Keep talking to him until he gives you Vengarl's Helm
+- [ ] Later, when you defeat Body of Vengarl, he will sell the Red Rust Sword, Red Rust Scimitar and Red Rust Shield
+- [ ] Go back down and go straight to find a corpse with a Soul of a Nameless Soldier and Radiant Lifegem
+- [ ] The other items are in the middle of the mist and it's hard to describe where to find them
+- [ ] Explore the middle carefully to get a Soul of a Nameless Soldier and Amber Herbs from corpses, and the Clear Bluestone Ring +1 from a chest
+- [ ] Go back to the hill beside the chest on the ramp that you ignored earlier, go up it and in to the building, and light the bonfire
+- [ ] Head up the ramp and get the Radiant Lifegem from the corpse and then drop down
+- [ ] Go down the ramp in front of you on the left, get the Magic Bolts from the chest and go back up
+- [ ] Move forward in to the ruins, up the ramp and kill the Giant Basilisk to get a Petrified Dragon Bone
+- [ ] Go in to the structure behind where the basilisk was and get the Pharros Lockstone and Soul Of A Brave Warrior from the corpse up on the ledge
+- [ ] Get the Human Effigy and Bleeding Serums from the chest in the building to the left of where the basilisk was
+- [ ] Go downstairs in the building to the left of the ramp to get a Soul Of A Brave Warrior and Pharros Lockstone
+- [ ] Go out the door, kill the Crystal Lizard and get the Dark Scythe from the chest
+- [ ] Go down in to the sand, put on the Ring of Whispers and talk to Manscorpion Tark
+- [ ] Go down the passageway and get the Torch and then go all the way back to the main area
+- [ ] Go down the hill to the left of the ramp to get a Flame Butterfly and Torches
+- [ ] Go to the right of the ramp this time and jump across back to the structure where the bonfire is to get a Titanite Chunk and Petrified Dragon Bone from a chest
+- [ ] Get the Lifegem from beside the collapsing pit trap
+- [ ] Go in to the second tower and all the way to the top to get the Skeptic's Spice and Soul Of A Brave Warrior
+- [ ] Use a Fragrant Branch of Yore to access to the structure opposite the tower and get a Fragrant Branch of Yore and the Lion Mage Set from the chest
+- [ ] Drop down to a ledge to the left of this structure, turn right and get a Soul Of A Brave Warrior and Firebomb from the corpse
+- [ ] Go back the other direction on the ledge and use a Fragrant Branch of Yore to free a Lion Warrior who will drop the Fang Key
+- [ ] Cross the branch back to the bonfire, and jump out the window to the left down on to a ledge
+- [ ] Go in to the building and get a Soul Of A Brave Warrior and Twilight Herb
+- [ ] Go back to the ledge, jump across to the other ledge and get the Black Knight Halberd from the chest
+- [ ] Jump out the window and across to the ledge and return back to the bonfire
+- [ ] Go back up to the towers, fall down the trap in the long grass and get the Homing Soul Mass Sorcery from the chest
+- [ ] Talk to Darkdiver Grandahl. This is the second of three locations where you need to talk to him to be able to join the Pilgrims Of Dark covenant
+- [ ] Drop down and head up the slope, avoiding all the pools of corrosive acid that will destroy gear
+- [ ] Kill all the Basilisks, get the Twinkling Titanite from the cave on the right, open the door and pick up the Estus Flask Shard
+- [ ] Talk to Weaponsmith Ornifex until you exhaust her dialog and so she will appear later and allow you to make boss soul weapons
+- [ ] Go back down the slope, drop out the hole and cross the branch back to the bonfire
+- [ ] Go back to the towers, go between them and up the hill to the fog gate
+- [ ] Head in to the fog gate and kill the Scorpioness Najka boss
+- [ ] If you talked to Manscorpion Tark earlier you can summon him outside the fog gate
+- [ ] You can chop off her stingers when she embeds them in the ground but she will start using homing soulmass more often
+- [ ] If you want the Flame Butterfly hanging on the tree you need to get her to knock it down
+- [ ] You will get the Scorpioness Najka Soul and 23,000
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 5,750 souls each time
+- [ ] Go through the long tunnel to the start of the Doors of Pharros and clear the first area
+- [ ] Get the Prism Stones from the corpse, and the Black Scorpion Stinger and Dark Leggings from the mimic
+- [ ] Go in to the cave and light the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Don't forget to upgrade your Estus Flask
+- [ ] Travel back to the Shaded Woods / Shaded Ruins bonfire, go talk to Manscorpion Tark to get a Fragrant Branch of Yore and learn the Warmup gesture
+- [ ] Return to the bonfire and travel to the Doors Of Pharros / Gyrm's Respite bonfire
+
+## Doors Of Pharos (Levels 80-90)
+
+- [ ] Go back the way you came in, go up the ramp, get the Dragon Charm from the chest, keep going up and get the Lifegem from the corpse
+- [ ] Talk to Lonesome Gavlan and buy or sell or anything you need to. He now sells more items
+- [ ] Poison Arrows @ 60 souls each (Now unlimited)
+- [ ] Poison Moss @ 1,500 souls each (Now unlimited)
+- [ ] Poison Throwing Knife @ 350 souls each (Now unlimited)
+- [ ] Rotten Pine Resin @ 2,000 souls each (Now unlimited)
+- [ ] Return to the bonfire and go out the other door this time
+- [ ] If you are online then keep alert because you can be called to invade members of the Rat King Covenant while you are in this area
+- [ ] Go through the door on the left, up the ramp and get the Gyrm Axe and Torch
+- [ ] Drop down, use a Pharros Lockstone on the contraption in the water in front of the big door, go in and get Santier's Spear from the chest
+- [ ] Go to the far end of the cave, get the Amber Herbs from the corpse and move in to the next cave
+- [ ] Go up the ladder and get the Twisted Barricade Hex and Soul Of A Proud Knight from the corpse
+- [ ] Walk around the ledge, use a Pharros Lockstone on the first contraption, go back down the ladder and in to the area below the contraption
+- [ ] Go in the now open door, get the Faintstone and Twinkling Titanite from the chest, follow the ramp up and drop out back to the contraption
+- [ ] Keep walking around the ledge and get the Titanite Chunk and Petrified Dragon Bone from the trap chest
+- [ ] Continue up the ledge, get the Large Soul Of A Nameless Soldier and Pharros Lockstone from the corpse beside the stairs, and go in to the next area
+- [ ] Walk around the ledge to the far side, get the Soul Of A Brave Warrior, come back around, go in to the room and light the bonfire
+- [ ] Head in to the fog gate and kill the Royal Rat Authority boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] Kill the four small rats as quickly as possible and stay under his legs
+- [ ] You will get the Royal Rat Authority Soul, Rat Tail and 14,000 souls
+- [ ] Go back to the bonfire and return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] You can now buy the Flying Feline Boots for 6,000 souls from Sweet Shalquoir
+- [ ] Travel back to the Doors Of Pharos / Gyrm's Respite bonfire
+- [ ] Go back up the ramp towards Lonesome Gavlan, continue passed him, watching out for the axe throwing Gyrm and kill the Crystal Lizard
+- [ ] Continue on in to Brightstone Cove Tseldora, picking up the Radiant Lifegem from the pot on the left
+- [ ] Go in to the most lit up tent and light the bonfire
+
+## Brightstone Cove Tseldora (Levels 90-100)
+
+- [ ] Get the three Soul of a Nameless Soldier and Large Soul Of A Proud Knight near the cliff
+- [ ] Destroy the wooden tower to get the Lacerating Arrows and break the jar beside the building to get a Large Soul Of A Nameless Soldier
+- [ ] Get the Titanite Shard from the well, break the wooden bit above it, go up the ramp and jump in to the well to get the Witching Urns
+- [ ] Go along the tunnel, up the ladder, get the Human Effigies from the chest, and leave the building
+- [ ] Go down the hill, watching out for the boulder traps, get the Soul of a Nameless Soldier, go up the ladder and get the Soul Of A Brave Warrior
+- [ ] Continue down the hill, get the Large Titanite Shard from the corpse on the ledge and open the door Follow the tunnel, clear out the spiders at the bottom, get the Heavy Bolts from the chest, and open the door to find a fog gate
+- [ ] Before going through the fog gate open the illusory wall in front of you and go up the stairs to get the Estus Flask Shard
+- [ ] Go through the fog gate and kill the Prowling Magus & Congregation boss
+- [ ] You can summon Benhart Of Jugo away back at the campsite in one of the tents
+- [ ] This is the first of at least three boss fights you need to summon him for and have him survive to complete his quest
+- [ ] Use the benches for cover and get a chance to heal
+- [ ] You will get a Titanite Slab and 7,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 1,750 souls each time
+- [ ] Leave the building and go up the ladder in the alcove to the left as you go out the door
+- [ ] Pick up the Fading Souls, Bonfire Ascetic, Cleric's Small Shield and Skeptic's Spice from the corpses
+- [ ] Talk to Cromwell The Pardoner to have your sins pardoned and buy anything you need from him
+- [ ] White Priest Headpiece @ 4,500 souls
+- [ ] White Priest Robe @ 5,000 souls
+- [ ] White Priest Gloves @ 4,600 souls
+- [ ] White Priest Skirt @ 4,800 souls
+- [ ] Poisonbite Ring @ 5,500 souls
+- [ ] Bloodbite Ring @ 7,000 souls
+- [ ] Cursebite Ring @ 9,000 souls
+- [ ] Dark Troches @ 1,200 souls each
+- [ ] Great Heal Miracle @ 8,000 souls
+- [ ] Replenishment Miracle @ 3,000 souls
+- [ ] Caressing Prayer Miracle @ 2,000 souls
+- [ ] Force Miracle @ 1,800 souls
+- [ ] Emit Force Miracle @ 4,200 souls
+- [ ] Heavenly Thunder Miracle @ 3,300 souls
+- [ ] Perseverance Miracle @ 3,500 souls
+- [ ] Scraps of Life Hex @ 2,200 souls
+- [ ] If you have at least 35 Faith he will give you the Ring of Resistance
+- [ ] Optionally, kill him to get the Ring of Resistance
+- [ ] Go down the ladder, through the hole in the wall and follow the ledge around to the left to light the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Travel back to the Brightstone Cove Tseldora / Chapel Threshold bonfire
+- [ ] This part of the area involves a lot of one-way paths. So the first priority is to get a useful bonfire to save on Homeward Bones
+- [ ] Go down the steps and get the Soul Of A Proud Knight from the corpse hidden under the stairs
+- [ ] Get the Wilted Dusk Herbs from the pot, go out on to the ledge, snipe the Hollow Mages and use the zip line
+- [ ] Enter the house to watch Mild Mannered Pate and Creighton The Wanderer fight and choose one of them to kill
+- [ ] If you kill Mild Mannered Pate he will drop Pates Spear and the Ring Of Thorns
+- [ ] If you kill Creighton The Wanderer he will drop Creighton's Steel Mask
+- [ ] Depending on who you kill, Merchant Hag Melentia will now sell the rest of either Pate's Set or Creighton's Set
+- [ ] In both scenarios, talk to the survivor and get the Tseldora Den Key
+- [ ] Get the Charcoal Pine Resins from the jar, destroy the bookcase, open the first door and get the Torch
+- [ ] Open the next door and quickly kill the Crystal Lizard to the right, and get the Titanite Chunk from the corpse on the left
+- [ ] Go back out the other way and take the second zip line down to the lower ledge
+- [ ] Go in to the house, watch for the two Hollow Mages and the hole in the floor, and get the Lightning Urns
+- [ ] Go down the ladder, open the door and light the bonfire
+- [ ] Head outside and get the Petrified Dragon Bone from the right, watching out the spider ambush
+- [ ] Go back to the pit, open the door to the left, get the Pharros Lockstone from the jar and the Flame Butterfly from behind the shelves
+- [ ] Talk to Weaponsmith Ornifex and buy anything you need from her
+- [ ] Murakumo @ 5,800 souls
+- [ ] Partizan @ 3,000 souls
+- [ ] Twinblade @ 5,000 souls
+- [ ] Composite Bow @ 5,500 souls
+- [ ] Heavy Crossbow @ 4,000 souls
+- [ ] Fire Arrows @ 60 souls each
+- [ ] Fire Bolts @ 80 souls each
+- [ ] Amber Herbs @ 1,600 souls each (Max 10)
+- [ ] Green Blossoms @ 1,300 souls each (Max 10)
+- [ ] Flame Butterflies @ 600 souls each
+- [ ] Homing Soul Arrow Sorcery @ 6,500 souls
+- [ ] Homing Soulmass Sorcery @ 6,000 souls
+- [ ] Fall Control Sorcery @ 4,800 souls
+- [ ] She will also trade for boss soul weapons and shields, and upgrade your weapons and armor
+- [ ] Go back to the bonfire and travel back to the Brightstone Cove Tseldora / Chapel Threshold bonfire
+- [ ] Go back down the first zip line but instead of taking the second zip line, drop off on to the wooden platform and then drop down again to get the Large Titanite Shard
+- [ ] Drop down off this ledge to the ledge below, using the pots as a guide, and get the Estus Flask Shard from the room
+- [ ] Use the bonfire to get back up to the chapel bonfire again
+- [ ] Go up to the front of the chapel and drop on to the ledge to kill the Crystal Lizard
+- [ ] Drop on to the stone ledge to get the Titanite Chunk and Twinkling Titanite from the corpse and then drop down to the ground
+- [ ] Go around the pit, ignoring the red Crystal Lizard, and go in to the room
+- [ ] Smash the bookcases and get the Crescent Axe and Soul Vortex Sorery from the chest
+- [ ] Back in the main room, walk up the sand and in to the corridor, and get the Titanite Chunk from the corpse
+- [ ] Go outside, go in to the house straight ahead of you, go upstairs and get the Large Titanite Shard from the ledge
+- [ ] Head outside again, go to the door on the other side and hit it with range attacks until the sand comes flooding out
+- [ ] Go in and get the Engraved Gauntlets from the chest on the right and the Rusted Coins from the trap chest on the left
+- [ ] Head through the archway, being ready for the pickaxe wielding red phantom that will attack you
+- [ ] Go across the walkway, taking out the two enemies waiting to ambush you above the door, open the door and kill all the spiders
+- [ ] Get the Soul Of A Hero and Gold Pine Resins from behind one of the benches
+- [ ] The door on the right of the room is opened using the Brightstone Key, which you will get for killing the boss of this area
+- [ ] Pull the right lever, get the Homeward Bones, pull the left lever and kill the enemy waiting behind the door
+- [ ] Go up the ladder and start making your way down the maze of webs
+- [ ] Get the Torch from behind the pillar of the second platform and the the Pharros Lockstone from the jar across from it
+- [ ] Get the Wilted Dusk Herbs from the platform below this one and the Radiant Lifegem from the corpse stuck in the web
+- [ ] At the bottom pick up the Twilight Herb, Simpleton's Spice and Corrosive Urns
+- [ ] Go through the fog gate and kill The Duke's Dear Freja boss
+- [ ] You can summon Ashen Knight Boyd from behind a pillar at far end of the room from the fog gate
+- [ ] Take out the small spiders as quickly as possible to avoid distractions
+- [ ] You will get the Soul Of The Duke's Dear Freja and 42,000 souls
+- [ ] This is one of four boss souls needed to open the door to the Shrine Of Winter
+- [ ] Once you have defeated her, examine the red light that appears to embrace the great soul
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 10,500 souls each time
+- [ ] Go through the tunnel to the library and kill the Duke to get the Brightstone Key, a Fragrant Branch of Yore and the Dark Quartz Ring +1
+- [ ] Continue on and kill the Body of Vengarl to get Vengarl's Armor, Vengarl's Gloves and Vengarl's Boots
+- [ ] Light the primal bonfire to return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Don't forget to upgrade your Estus Flask
+- [ ] Merchant Hag Melentia will now sell
+- [ ] Pate's Helm @ 3,000 souls (If you killed Mild Mannered Pate)
+- [ ] Pate's Armor @ 5,500 souls (If you killed Mild Mannered Pate)
+- [ ] Pate's Gloves @ 3,800 souls (If you killed Mild Mannered Pate)
+- [ ] Pate's Trousers @ 4,600 souls (If you killed Mild Mannered Pate)
+- [ ] Creighton's Chainmail @ 7,000 souls (If you killed Creighton The Wanderer)
+- [ ] Creighton's Chainmail @ 5,100 souls (If you killed Creighton The Wanderer)
+- [ ] Creighton's Chain Leggings @ 6,200 souls (If you killed Creighton The Wanderer)
+- [ ] Travel back to the Brightstone Cove Tseldora / Lower Brighstone Cove bonfire and make your way back to the building with all the spiders hanging from the ceiling
+- [ ] You can now unlock the door on the right but be ready for the spider ambush when you open the second door
+- [ ] Open the chest to get the Black Knight Ultra Greatsword, the Great Fireball Pyromancy and a Fire Seed
+- [ ] Return to the bonfire and travel to the Shaded Woods / Ruined Fork Road bonfire
+- [ ] Go in to the mist, hug the left wall, and go up the hill until you get back to the Head Of Vengarl, who will now sell more items
+- [ ] Red Rust Sword, @ 7,000 souls
+- [ ] Red Rust Scimitar @ 7,500 souls
+- [ ] Red Rust Shield @ 4,500 souls
+- [ ] Get back to the bonfire and travel to The Lost Bastille / Straid's Cell bonfire
+- [ ] Talk to Straid Of Olaphis, make any boss souls weapons you need and buy anything you need from him
+- [ ] Go downstairs, though the gate and head towards the fog gate, watching out the for the snipers above it
+- [ ] Go inside the building, out to the right, climb up the ladder and light the bonfire
+
+## Sinner's Rise / Shrine Of Winter (Levels 95-105)
+
+- [ ] Get the Large Soul Of A Lost Undead from the ledge inside the building, go down the ladder, down the stairs and get the Human Effigy
+- [ ] Go down in the elevator, jumping off to the platform near the bottom to get the Lacerating Knives
+- [ ] Clear out the first part of the water area and get the Sublime Bone Dust and Large Soul Of A Nameless Soldier
+- [ ] As you came down the stairs in to the water, there is a hidden wall to the right leading outside
+- [ ] Open it, hug the wall to the left and get the Northern Ritual Band and Bleed Stone from the corpse
+- [ ] Kill the exploding Undead Citizens in the lower cells and get the Soul Of A Proud Knight and Pharros Lockstone
+- [ ] Go up the stairs to the upper cells, open the door using the Bastille Key and get the Fire Seed
+- [ ] Open the gate or door, continue along the walkway towards the fog gate, and get the Radiant Lifegem from the alcove on the left
+- [ ] Go up both sets of stairs, unlock the doors, use a Flame Butterfly to light your torch and ignite the oil, and get the Smooth and Silky Stone
+- [ ] Go through the fog gate and kill Lost Sinner boss
+- [ ] You can summon Lucatiel of Mirrah away back at the bottom of the elevator This is the fourth of at least three boss fights you need to summon her for and have her survive to complete her quest
+- [ ] Make sure to light both oil pools to light up the arena and make targeting easier
+- [ ] You will get the Soul of the Lost Sinner and 45,000 souls
+- [ ] This is one of four boss souls needed to open the door to the Shrine Of Winter
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 11,250 souls each time
+- [ ] Continue on, getting the Fragrant Branch of Yore and Elizabeth Mushroom from the chest, and light the primal bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Remember to burn the Sublime Bone Dust to strengthen your Estus Flask
+- [ ] You can now buy the Penal Set from Maughlin the Armourer
+- [ ] You should now have collected the four boss souls need to open the door to the Shrine Of Winter
+- [ ] Travel to the Shaded Woods / Ruined Fork Road bonfire and head out the west archway
+- [ ] Continue along the path and get the Ring of Life Protection and Soul Of A Proud Knight from behind the bridge support
+- [ ] Keep going along the path, kill the Flexile Sentry and pick up the Dragonslayer's Crescent Axe and Golden Falcon Shield
+- [ ] Go up and open the door, go down the windy path, turn right and get the Repair Sorcery and Large Soul Of A Lost Undead
+- [ ] Head back the other way, get the Divine Blessing and kill the Heide Knight to get the Heide Lance
+- [ ] Continue on, getting the Large Soul Of A Nameless Soldier and Human Effigy from the corpse, and follow the steps all the way up
+- [ ] Get the Holy Water Urns from behind the bolder and kill the Crystal Lizard
+
+## Drangleic Castle / King's Passage (Levels 95-105)
+
+- [ ] Go up the steps and talk to the Emerald Herald
+- [ ] Continue up the stairs, killing the Mastodons and the archers
+- [ ] Start killing the respawning Royal Swordsmen close to the statues at the door to get the door to open
+- [ ] Go in to the castle, ignoring the stairs in front of you for the moment and go through the door on the right
+- [ ] Open the door to the right, watch for the ambush by the Royal Swordsman behind it, go down the ladder, open the two blue doors and light the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] You can now buy the Executioner Set from Titchy Gren at the Undead Purgatory bonfire
+- [ ] Return to the Drangleic Castle / King's Gate bonfire
+- [ ] Go back up the ladder and in to the entrance hall again, head outside around to the left, and get the Great Combustion and Fire Seed from the chest
+- [ ] Head back inside and talk to Chancellor Wellager, learn the This One's Me gesture and buy anything you need from him
+- [ ] Flamberge @ 4,200 souls
+- [ ] Lucerne @ 4,800 souls
+- [ ] Bracing Knuckle Ring +1 @ 9,000 souls
+- [ ] Magic Arrows @ 60 souls each
+- [ ] Lightning Arrows @ 60 souls each
+- [ ] Magic Bolts @ 60 souls each
+- [ ] Lightning Bolts @ 60 souls each
+- [ ] Old Radiant Lifegems @ 2,500 souls each (Max 10)
+- [ ] Wilted Dusk Herbs @ 4,000 souls (Max 10)
+- [ ] Divine Blessing @ 6,000 souls (Max 1)
+- [ ] Repair Powders @ 2,500 souls
+- [ ] Great Magic Barrier Miracle @ 8,300 souls
+- [ ] He will sell some more weapons and shields when you have defeated the Looking Glass Knight later in this area
+- [ ] Take a quick look in the throne room at the top of the steps, which will be empty for now
+- [ ] Go back to the bonfire, ignoring the other doors at the top of the ladder, since you can't open the two blue ones and the small door leads to an empty room
+- [ ] Head in to the room with all of the statues and start killing them to open the doors and activate the two large statues at the end
+- [ ] The first room on the left has no items
+- [ ] The second room on the left has a Pharros Lockstone
+- [ ] The third room on the left has a collapsible floor. See below
+- [ ] The first room on the right is the way forward in the level. See below
+- [ ] The second room on the right has a Mastodon Greatsword
+- [ ] The third room on the right has a Royal Soldier's Ring + 1
+- [ ] Fall down the collapsing floor in the third room on the left and pick up the Faraam Set
+- [ ] Light the bonfire in the cave on the right and go talk to Darkdiver Grandahl in the cave on the left
+- [ ] This is the third of three locations where you need to talk to him to be able to join the Pilgrims Of Dark covenant
+- [ ] If you join his covenant you can talk to him and buy anything you need from him
+- [ ] Human Effigies @ 3,000 souls each (Max 3)
+- [ ] Bonfire Ascetics @ 7,500 souls each (Max 10)
+- [ ] Cast Light Sorcery @ 3,000 souls
+- [ ] Dark Orb Hex @ 600 souls
+- [ ] Dark Hail Hex @ 1,500 souls
+- [ ] Darkstorm Hex @ 4,700 souls
+- [ ] Profound Still Hex @ 13,000 souls
+- [ ] If you joined the covenant you can now do the Dark Chasm Of Old areas. They are very difficult and are covered later in Dark Chasm Of Old section
+- [ ] Use the bonfire to go back to the Drangleic Castle / King's Gate bonfire
+- [ ] Go back to the statue room, go in to the first room on the right and get the Dark Arrows from the chest
+- [ ] Get the Soul Of A Hero, Old Radiant Lifegems and Monastery Charm from under the stairs
+- [ ] Continue until you get to a pool of corrosive acid, at which point you need to start watching out for the snipers in this area
+- [ ] Get naked, get the Elizabeth Mushroom and then the Corrosive Urns from the chest, and get dressed again
+- [ ] Continue up the poison dart throwing mask room and roll through to the door
+- [ ] Go up to the next room, clear it, watching out for the cursed painting, and move on to be invaded by the Nameless Usurper
+- [ ] Continue up, go down the ladder on the left and get the Soul Of A Brave Warrior from the corpse
+- [ ] Go down the next ladder and get the Hunter's Blackbow and the Dark Arrows from the chest
+- [ ] Go back up one ladder, use the illusory wall and light the bonfire
+- [ ] Go back up to the stairs, continue on, talk to the Queen and continue on to the fog gate
+- [ ] Go through the fog gate and kill Dragonriders boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] Take out the one on top of the platform firing arrows at you as quickly as possible
+- [ ] You will get the Dragonrider Soul and 26,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 6,500 souls each time
+- [ ] Go through to the next room, light the bonfire and talk to Benhart Of Jugo
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Return to the Drangleic Castle / Central Castle Drangleic bonfire
+- [ ] Go down the stairs, up the very long ladder, and kill the soldiers in the room close to the large statue to enable the elevator
+- [ ] Go out the door and get the Old Knight Hammer, Caitha's Chime and the Soul Greatsword Sorcery from the chests
+- [ ] Head in to the next room, head upstairs and carefully take out the archers
+- [ ] Get the Firestorm Pyromancy from the chest on the right (as you go up the first flight) and the Fire Greatarrows from the chest on the left
+- [ ] Go out the main door, climb up the ladder on the right and kill the three archers, or take them out from range below
+- [ ] Go through the smaller door, get the Repair Powder and Flame Butterflies from the corpse, and the Estus Flask Shard from the chest
+- [ ] Pull the lever to unblock the door, head down back to the bonfire and return to Majula to to upgrade your Estus Flask
+- [ ] Return to the Drangleic Castle / Central Castle Drangleic bonfire
+- [ ] Go down the stairs again, up in the elevator, open the door and examine the cage in front of you, which you can't do anything with yet
+- [ ] Get the Key To King's Passage, Soul Vessel, Fire Seed and Strong Magic Shield Sorcery from the chests
+- [ ] Go back down on the elevator, use the key to open the door, go in and get the Alluring Skulls from the corpse on the right
+- [ ] Continue forward, remembering that four of the statues come to life, and get the Lifegem, Soul Of A Proud Knight and Twinkling Titanite from behind the pillars
+- [ ] Go through the fog gate and kill the Looking Glass Knight boss
+- [ ] You can summon Benhart Of Jugo to the left of the fog gate
+- [ ] This is the second of at least three boss fights you need to summon him for and have him survive to complete his quest
+- [ ] When he is down to half health he will summon either an NPC or player phantom to help him
+- [ ] You will get the Looking Glass Knight Soul and 25,500 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 6,375 souls each time
+- [ ] Go out the archway and get the Soul Bolt Sorcery, Spell Quartz Ring +2 and the Bonfire Ascetics from the chest on the left
+- [ ] Take the elevator down, continue forward, getting the Green Blossom from behind the branches, and light the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Sweet Shalquoir will now sell more items
+- [ ] Homeward Bones @ 600 souls each (Now unlimited)
+- [ ] Prism Stones @ 300 souls each (Now unlimited)
+- [ ] Alluring Skulls @ 300 souls each (Now unlimited)
+- [ ] Lloyd's Talisman @ 1,600 souls each (Now unlimited)
+- [ ] Stone Trader Chloanne will now sell more items
+- [ ] Large Titanite Shards @ 2,500 souls each (Now unlimited)
+- [ ] Poison Stones @ 7,000 souls each (Max 3)
+- [ ] Bleed Stones @ 7,000 souls each (Max 3)
+- [ ] You can travel back to the Drangleic Castle / King's Gate bonfire and go back to Chancellor Wellager, who will now sell more items
+- [ ] Black Flamestone Dagger @ 8,000 souls
+- [ ] Yellow Quartz Longsword @ 8,000 souls
+- [ ] Bound Hand Axe @ 8,000 souls
+- [ ] Homunculus Mace @ 8,000 souls
+- [ ] Transgressor's Staff @ 8,000 souls
+- [ ] Transgressor's Leather Shield @ 8,000 souls
+- [ ] Black Flamestone Parma @ 8,000 souls
+- [ ] Yellow Quartz Shield @ 8,000 souls
+- [ ] Bound Wooden Shield @ 8,000 souls
+- [ ] Homunculus Wooden Shield @ 8,000 souls
+- [ ] Travel back to the Shrine of Amana / Tower Of Prayer bonfire
+
+## Shrine of Amana (Levels 95-105)
+
+- [ ] Go down the steps, open the door and go along the ledge and hit the branch to knock down the Flame Butterfly and Twinkling Titanite to the area below
+- [ ] Go to the end of the ledge and get the Wilted Dusk Herb and Skeptic's Spice from the chest
+- [ ] Go back to the building, go down and get the Large Soul Of A Nameless Soldier from under the stairs at the bottom
+- [ ] From this point watch out for ranged attacks from Amana Shrine Maiden, Corrupted Lurkers hidden in the water and underwater cliffs
+- [ ] Head outside, go around to the right and get the Flame Butterfly and Twinkling Titanite that you knocked down
+- [ ] Move forwards towards the hut and talk to the first Milfanito to exhaust her dialog and get a Smooth and Silky Stone
+- [ ] Go outside and around the side of the house, watching out for the curse pot, and get the Crimson Waters from the chest
+- [ ] Continue on and pick up the Souls Of A Lost Undead, Torch, Skeptic's Spice and Large Soul Of A Proud Knight
+- [ ] Get the Dragon Charm from the chest submerged in the water to the left before you go in to the cave
+- [ ] Go in to the cave, clear the cave to the left and get the Twinkling Titanite and Smooth and Silky Stones from the chest
+- [ ] Head through the fog gate and light the bonfire in the ruins on the right
+- [ ] Use a Pharros Lockstone on the contraption in the water to the left of the ramp to get the Helix Halberd
+- [ ] Continue on, getting the Fire Seed from the next set of ruins
+- [ ] To the left of these ruins is a submerged path leading to a locked door that you can't open until you have killed King Vendrick
+- [ ] To the right is an Ogre that you should take out with range attacks
+- [ ] Very carefully follow the path shown by the pillars where the Ogre was to get a Estus Flask Shard and the Sunlight Blade Miracle from a chest
+- [ ] Go back and in to the building to get a Large Soul Of A Proud Knight and Old Radiant Lifegem
+- [ ] Go out the back door of the hut and watch for the ambush to the left
+- [ ] Out the back door and slightly to the right is a submerged chest with the Fire Tempest Pyromancy
+- [ ] It's tough to find but aim roughly for where two roots come down from the roof in to the water but be careful not to fall off the underwater cliff
+- [ ] Continue passed the hut, break the branches to the cave on the left, kill the Ogre and get the Singer's Dress and Life Ring +2
+- [ ] Get the Alluring Skulls from the ramp to the left of the fog gate, and the Soul Of A Hero and Divine Blessing from a ledge to the right
+- [ ] Go through the fog gate, light the bonfire and return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Don't forget to upgrade your Estus Flask
+- [ ] Travel back to the Shrine of Amana / Rhoy's Resting Place bonfire
+- [ ] Go out the cave, along the ledge to the right and get the Large Soul Of A Proud Knight and Green Blossom
+- [ ] Start clearing out the Corrupted Lurkers in the circular area and get ready to be invaded by the red phantom Peculiar Kindular
+- [ ] Pick up the Skeptic's Spice, Human Effigies, Soul Of A Brave Warrior, Petrified Dragon Bone, Soul Of A Proud Knight and Red Iron Twinblade
+- [ ] Carefully get the Homing Crystal Soulmass Sorcery from the corpse on the broken pillar
+- [ ] Continue on, get the Large Soul Of A Proud Knight and Green Blossom from the corpse, and go in to the hut
+- [ ] Try and talk to the second Milfanito who will vanish
+- [ ] Go through the fog gate and kill the Demon Of Song boss
+- [ ] You can summon Felicia the Brave away back at the second hut
+- [ ] You will get the Demon of Song Soul and 26,000 souls
+- [ ] You will also receive the Key to the Embedded that you can use to unlock the cage at the top of the elevator in Drangleic Castle
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 6,500 souls each time
+- [ ] Leave the boss area, follow the path to a door, head to the right of it, get the Magic Arrows from the chest and go in the tower to light the bonfire
+- [ ] There's a door upstairs that you can't open just yet
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Travel back to the Drangleic Castle / Central Drangleic Castle bonfire, go down the stairs and up in the elevator
+- [ ] Open the cage with the Key to the Embedded, and talk to the third Milfanito to get the Ring Of The Dead
+- [ ] Go back to the bonfire and travel back to Shrine of Amana / Rise Of The Dead bonfire and kill or curse yourself to get in to hollow form
+- [ ] Go upstairs, open the door, take out the mage and go in to the building to talk to the Milfanito She will give you a Fire Seed, Divine Blessing and Smooth and Silky Stone
+- [ ] If you run out of Human Effigies you can come back here and revive to human for free
+- [ ] Go downstairs and get another Fire Seed from the corpse in the cave below the stairs
+- [ ] Go outside, drop down to the left of the stairs and get the Manslayer from the chest
+- [ ] Go to the other side of the stairs and get the Bonfire Ascetic from the chest
+- [ ] Head back to the bonfire, go outside and open the door you passed earlier, and take the elevator down
+
+## Undead Crypt (Levels 100-110)
+
+- [ ] Go in to the crypt and get the Radiant Lifegem from the right of the stairs and light the bonfire on the left of the stairs
+- [ ] Head up the stairs and in to the crypt, making sure not to have your torch lit, and continue until you hear Grave Warden Agdayne talking to you
+- [ ] Go up the stairs, get the Large Soul Of A Nameless Soldier, talk to him, learn the Have Mercy gesture and buy anything you need from him
+- [ ] Shield of the Insolent @ 6,400 souls
+- [ ] Insolent Helm @ 5,400 souls
+- [ ] Insolent Armor @ 9,000 souls
+- [ ] Insolent Gloves @ 6,300 souls
+- [ ] Insolent Boots @ 7,200 souls
+- [ ] Ring of Thorns + 1 @ 9,000 souls
+- [ ] Dark Arrows @ 60 souls each
+- [ ] Dark Bolts @ 80 souls each
+- [ ] Human Effigies @ 3,000 souls each (Max 13)
+- [ ] Elizabeth Mushrooms @ 4,500 souls each (Max 13)
+- [ ] Soul Spear Sorcery @ 12,000 souls
+- [ ] Soul Vortex Sorcery @ 10,400 souls
+- [ ] Soul Appease Miracle @ 8,800 souls
+- [ ] Warmth Pyromancy @ 5,200 souls
+- [ ] Later, once you have the King's Ring he will give you Agdayne's Armor Set and Darkdrift
+- [ ] Continue on, clear the bridge, and then drop down beside the door and get the Simpleton's Spice and Soul Of A Hero
+- [ ] Go up the ladder, get the Crushed Eye Orb and Fire Seed from the chest, and drop down to the bridge
+- [ ] Drop off to the left of the fog gate, go down the stairs and light the statue to light up the whole area
+- [ ] Go back up the stairs, get the Soul Vessel from the chest, go up the ladder and get the Soul Of A Hero
+- [ ] Go down the broken ladder and light the bonfire
+- [ ] Destroy all the statues in the room to stop the Leydia Pyromancers from spawning
+- [ ] Get the Simpleton's Spice, Black Firebombs, Titanite Chunk and Petrified Dragon Bone around the room
+- [ ] Go up the ladder in the corner of the room and get the Dried Fingers, Bonfire Ascetic and Twinkling Titanite from the chest
+- [ ] Drop down in to the next room, destroy the two statues and get the Soul Of A Lost Undead and the Bracing Knuckle Ring +2 from the corpses
+- [ ] Go up the steps to the next room and prepare to be invaded by the Nameless Usurper for the second time
+- [ ] To the right as you came in there is an illusory wall, with two phantoms in the wall, and Avelyn and Heavy Bolts in the chest
+- [ ] Watch out for more phantoms in the wall and pick up the Soul Of A Hero and Divine Blessing
+- [ ] Make your way down the corridor, watching for more wall phantoms, kill the two Imperious Knights and drop down the hole in to a tough area
+- [ ] Quickly destroy the statues in the room, including the one in the hallway, and also kill the bell ringing hollow in one of the other hallways
+- [ ] Open the illusory wall that was in front of you when you dropped down, and use a Pharros Lockstone
+- [ ] Go to the other side of the room, hit the hidden wall, and get the Great Lightning Spear and Olenford's Staff from the chest
+- [ ] Get the Mace Of The Insolent, Soul Of A Hero, Radiant Lifegem and Homeward Bone from the corpses in the room
+- [ ] Leave the room by the widest hallway, turn left outside and pull the lever to open the shortcut
+- [ ] Go back down and before going in to the next room get the Magic Stone and Darknight Stone
+- [ ] Head in to the room, quickly drop off to the right and kill the hollow before he has a chance to ring the bell
+- [ ] Clear the room, go through the fog gate and kill the Velstadt The Royal Aegis boss
+- [ ] You can summon Grave Warden Agdayne beside the last pillar on the left
+- [ ] You will get the Soul of Velstadt and 37,500 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 9,375 souls each time
+- [ ] In the next room is an optional boss, King Vendrick, but he is very difficult until you collect at least four Souls Of A Giants
+- [ ] You do however need the King's Ring that's in the room with him. Luckily he won't attack you until you attack him
+- [ ] So go in and get the King's Ring, come back out and talk to the Emerald Herald who is now at the top of the steps
+- [ ] Go back to the bonfire and return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Now that you've seen King Vendrick, Stone Trader Chloanne will now sell more items
+- [ ] Titanite Chunks @ 6,000 souls each (Max 10)
+- [ ] Titanite Slab @ 13,000 souls (Max 1)
+- [ ] Twinkling Titanites @ 15,000 souls each (Max 3)
+- [ ] Petrified Dragon Bones @ 17,500 souls each (Max 3)
+- [ ] Faintstones @ 7,000 souls each (Max 3)
+- [ ] Boltstones @ 7,000 souls each (Max 3)
+- [ ] Firedrake Stones @ 7,000 souls each (Max 3)
+- [ ] Darknight Stones @ 7,000 souls each (Max 3)
+- [ ] Raw Stones @ 7,000 souls each (Max 3)
+- [ ] Magic Stones @ 7,000 souls each (Max 3)
+- [ ] Old Mundane Stones @ 7,000 souls each (Max 3)
+- [ ] Now that you have the Crushed Eye Orb you can invade Licia Of Lindeldt
+- [ ] Go down the stone steps to her and the orb will start to tremble
+- [ ] Make sure you have bought everything you need from here and use the orb to invade her world as a red phantom
+- [ ] This can be a tricky fight because the area is small, her miracles hit hard and she heals a lot
+- [ ] She will drop the Rotunda Lockstone, a Soothing Sunlight Miracle, the Saint's Set and the Idol's Chime
+- [ ] Travel to the Shaded Woods / Ruined Fork Road bonfire and head out the north archway
+- [ ] Follow the path, picking up the Red Tearstone Ring from the water if you didn't earlier
+- [ ] At the door put on the King's Ring to open it and remember to switch back your ring
+
+## Aldia's Keep (Levels 100-100)
+
+- [ ] Pick up the Soul of a Nameless Soldier and the Petrified Dragon Bone from the bush to the left
+- [ ] Clear out the Toxic Rats in the area, and get the Poison Throwing Knives and Alluring Skulls from the corpses
+- [ ] Kill the mimic in the corner to get the Dark Mask and Sunset Staff
+- [ ] Go in to the hut, light the bonfire and talk to Lucatiel of Mirrah
+- [ ] If you completed her quest successfully she will give you the Mirrah Greatsword and Lucatiel's Set
+- [ ] Go up the steps, get the Radiant Lifegem from the pool and the Twilight Herb from the alcove to the left of the door
+- [ ] Enter the building and get ready to be invaded by Aslatiel of Mirrah
+- [ ] Open the door and get ready to dodge out of the way of the dragon skeleton
+- [ ] Go forward, under the stairs, and go around to the right to find an imprisoned Royal Sorcerer Navlaan
+- [ ] If you are hollow and talk to him you will be able to start his assassination quest
+- [ ] First, he will ask you to kill Laddersmith Gilligan and show him the Ladder Miniature as proof You can either buy the ladder for 7,999 souls or kill him to get it
+- [ ] You will get the Dispelling Ring as a reward
+- [ ] Second, he will ask you to kill Cale the Cartographer and show him Cale's Helm as proof You can either complete Cale's quest, which ends with the defeat of the final boss, or kill him to get it
+- [ ] You will get a Simpleton's Spice as a reward
+- [ ] Third, he will ask you to kill Felkin the Outcast and show him the Sunset Staff as proof You can either find the staff in Aldia's Keep (you should just have picked it up above) or kill him to get it
+- [ ] You will get the Forbidden Sun Pyromancy as a reward
+- [ ] Lastly, he will ask you to kill the Emerald Herald and show him the Aged Feather as proof You can either get the feather from her later in the Dragon Shrine or kill her to get it
+- [ ] You will get the Unleash Magic Sorcery as a reward
+- [ ] If you talk to him again he will give you the Chaos Set
+- [ ] If you are human, you have the option of freeing him using the lever under the left hand stairs but he will invade you in various places
+- [ ] If you complete his quest or decide to free him you will be able to buy stuff from him
+- [ ] Moon Hat @ 3,600 souls
+- [ ] Astrologist's Robe @ 6,000 souls
+- [ ] Astrologist's Gauntlets @ 4,200 souls
+- [ ] Astrologist's Gauntlets @ 4,800 souls
+- [ ] Black Witch Robe @ 7,700 souls
+- [ ] Black Witch Gloves @ 5,600 souls
+- [ ] Black Witch Trousers @ 6,500 souls
+- [ ] Black Witch Trousers @ 7,200 souls
+- [ ] Thunder Quartz Ring +2 @ 8,400 souls
+- [ ] Lightning Greatarrows @ 180 souls each
+- [ ] Lightning Greatarrows @ 180 souls each
+- [ ] Fire Greatarrows @ 180 souls each
+- [ ] Dragon Charms @ 3,600 souls each (Max 5)
+- [ ] Crimson Waters @ 4,200 souls each (Max 5)
+- [ ] Bonfire Ascetics @ 7,500 souls each (Max 10)
+- [ ] Great Magic Weapon Sorcery @ 6,000 souls
+- [ ] Strong Magic Shield Sorcery @ 6,300 souls
+- [ ] Go up the right stairs, around to the right, ignore the red Crystal Lizard and get the Great Magic Barrier Sorcery from the chest
+- [ ] Head back, kill the three phantoms that break out of the mirrors, and pick up the Northern Ritual Band +2 and Petrified Dragon Bone
+- [ ] Go back to the top of the stairs, take the second set of stairs up and kill the Giant Basilisk that will drop a Magic Stone
+- [ ] Pick up the Crimson Water, go around to the right and get the Bonfire Ascetics from the chest
+- [ ] Go back and through the door, pull the chain on the statue to open the next door, go through it and use a Pharros Lockstone to light up the corridor
+- [ ] Go down the corridor, watching for the Dragon Acolytes behind the paintings and ignoring the caged Ogre, and pick up the Radiant Lifegem
+- [ ] Go in the first door on the left, down the first set of steps and use the illusory wall on the left to find a bonfire
+- [ ] Head down the next set of stairs, open the cage but don't go in, and kill the two Molerats
+- [ ] Get naked and get the Large Soul Of A Nameless Soldier, Corrosive Urns, Aldia Key, Soul Geyser Sorcery and Petrified Dragon Bone
+- [ ] Get dressed again, go back up to the corridor, open the door on the opposite wall, and get the Soul Of A Proud Knight and Large Soul Of A Brave Warrior
+- [ ] Go back out the door you came in, go down to the end of the hallway and bait the Ogre in to smashing the wooden door on the left of the hallway
+- [ ] Get the Malformed Shell from the chest and continue down the corridor Watch out for the second Ogre that will smash through the wall, and get the Simpleton's Spice and Twilight Herb from the corpse
+- [ ] Go through the fog gate and kill the Guardian Dragon boss
+- [ ] There are no NPCs to summon for this fight
+- [ ] You will get the Guardian Dragon Soul and 37,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 9,250 souls each time
+- [ ] Continue on, get the Dragon Scale from the corpse and use the elevator
+
+## Dragon Aerie (Levels 105-115)
+
+- [ ] Go up the path, ignoring the fork to the left for now, and talk to the Emerald Herald to get the Aged Feather
+- [ ] Head back to the fork, follow it along the bridge, and light the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Travel back to the Dragon Aerie bonfire
+- [ ] Go up the path, across the bridge and in to the cave, watching out for the exploding enemy on the bridge, kill the Crystal Lizard and get the Radiant Lifegem
+- [ ] Ignore the path to the right, since it's just a path that allows you to skip the dragon we're about to kill and you'll miss all the nice items
+- [ ] Go up the path in front of you, kill the Dragon and kill the four Crystal Lizards. The dragon doesn't respawn, so if you miss any lizards go back to the bonfire
+- [ ] There is another Crystal Lizard up the ramp to the right
+- [ ] Pick up the Darknight Stone, Dragon Tooth, Boltstone and Soul Of A Brave Warrior from the corpses
+- [ ] Cross the next bridge, watch out for the exploding enemy at the end, and pick up the Old Radiant Lifegem
+- [ ] Go across the next bridge, watching out for another exploder, cross the next bridge and kill the second Dragon
+- [ ] Kill the three Crystal Lizards in this area. If you miss any of them don't go back to the bonfire as we're about to open a shortcut back to here
+- [ ] Pick up the Soul of a Great Hero and Large Soul Of A Brave Warrior from the corpses
+- [ ] Go in to the cave on the right, watching out for another exploding enemy, and snipe the third Dragon
+- [ ] Drop off the ledge to the right, quickly turn around and kill the Crystal Lizard, and drop down and kill another Crystal Lizard
+- [ ] Pick up the Soul of a Great Hero, Ring of the Evil Eye +1, Flame Quartz Ring +2, Dragon Charm and Firedrake Stone
+- [ ] The cave to the left leads back to the top, so ignore it for now and take the bridge on the right
+- [ ] Use the zip line to return to an area above the bonfire and kick down the ladder to open this shortcut
+- [ ] Go back up the ladder and use the zip line to return to the area we just came from
+- [ ] Head up the path and to the right, across the bridge and back to where we killed the third dragon
+- [ ] Go in to cave on the right and drop off the ledge
+- [ ] Pick up the Large Soul Of A Brave Warrior and Pharros Lockstone, and use the Aged Feather to get back to the bonfire
+- [ ] Go up the ladder, ignore the zip line, go down the path and drop off the ledge to get a Twinkling Titanite
+- [ ] Use the feather, go up the ladder, zip line across and try to drop off on to the platform to get the Soul of a Great Hero
+- [ ] Again feather back to the bonfire, go up the ladder, across the zip line and head across the final bridge to light the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Travel back to the Dragon Shrine / Shrine Entrance bonfire
+
+## Dragon Shrine (Levels 105-115)
+
+- [ ] Go up the stairs, go through the door to the right and get the Bonfire Ascetics from the chest
+- [ ] Use a Pharros Lockstone on the contraption hidden below the stairs and get the Staff Of Wisdom and Judgment Set
+- [ ] Go up the stairs, through the archways on the left, up the stairs and kill the Drakekeeper, being careful he doesn't smash the chest
+- [ ] Get the Twinkling Titanites from the chest, go to the tower to kill the mage and get the Faintstone
+- [ ] Jump across the gap, and get the Drakekeeper's Greataxe and Drakekeeper's Greatshield from the chest
+- [ ] Drop down, go up the stairs, clear the area, cross the bridge and drop down to the two chests
+- [ ] Get the Washing Pole and Petrified Dragon Bone from the mimic on the right, and the Titanite Slab from the chest on the left
+- [ ] Go in to the next area and get the Skeptic's Spice and Twilight Herb from the corpse in the alcove
+- [ ] Open the door, get the Third Dragon Ring from the chest and get invaded by Dragonfang Villard
+- [ ] Go up the spiral staircase and kill him, pick up the Petrified Egg and get the Watchdragon Parma from the chest
+- [ ] Drop off to the ledge, get the Crystal Magic Weapon Sorcery from the chest, drop down again and open the door to the right
+- [ ] Open the next door and carefully fight your way up the huge stairs
+- [ ] Talk to the Ancient Dragon to get the Ashen Mist Heart
+- [ ] If you feel up to the challenge kill the Ancient Dragon boss
+- [ ] You can summon Head of Vengarl just outside the boss area
+- [ ] You can summon Melinda the Butcher back at the bottom of the stairs
+- [ ] You will get a Soul of a Giant, Petrified Dragon Bone and 120,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 30,000 souls each time
+- [ ] Use your Aged Feather to return to the bonfire
+- [ ] Return to Majula, level up, upgrade your weapons and armor, and buy any consumables you need
+- [ ] Now that you have the Petrified Egg you can join the Dragon Remnants covenant
+- [ ] Travel to the Iron Keep / Threshold Bridge bonfire
+- [ ] Go across the bridge, inside and go right to talk to Magerold of Lanafir
+- [ ] While you're here incense any spells and buy anything you need from him
+
+## Memory Of Orro (Levels 110-120)
+
+- [ ] Travel to the Forest of Fallen Giants / Cardinal Tower bonfire and head up to the area where you fought the The Pursuer
+- [ ] Examine the tree to enter the memory. You will have about 5 minutes to complete it
+- [ ] Go forward, talk to Benhart Of Jugo, head up the left stairs and clear the room
+- [ ] Get the Fading Soul, use a Pharros Lockstone and get the Souls Of A Hero from the chest behind the wall
+- [ ] Don't waste a Pharros Lockstone on the second contraption, it's a trap
+- [ ] To the right of the trapped contraption is a illusory wall, use it and get the Steel Set and Fire Seed from the chests
+- [ ] Go up the stairs to the roof, clear it out, and hit the wooden support on the wheel in the far left corner to drop a platform
+- [ ] Roll off the roof on to the platform, jump in to the room, and get the Grand Lance and Bonfire Ascetics from the chests
+- [ ] Drop out the hole at the end of the room, get the Wilted Dusk Herbs, drop down and get the Soul of a Great Hero and Soul Vessel
+- [ ] Go across the courtyard, up the ladder and get the Soul Of A Proud Knight from the corpse
+- [ ] Go back up on to the roof and drop down on to the bridge to get the Soul Of A Brave Warrior
+- [ ] Drop down on to the roof, go to the end, drop down and examine the giant corpse to get the Soul of a Giant and again to leave the memory
+
+## Memory of Jeigh (Levels 110-120)
+
+- [ ] Travel to the Forest of Fallen Giants / Cardinal Tower bonfire
+- [ ] Go down the ladder, cross the bridge and head outside to the large door, and put on the King's Ring to open it
+- [ ] Rest at the bonfire, go out and drop down to get the Twinkling Titanites, and use your feather to get back to the bonfire
+- [ ] Examine the tree to enter the memory. You will have about 5 minutes to complete it
+- [ ] You can summon Benhart Of Jugo before you go through the fog gate, at the bottom of the steps
+- [ ] This is the third of at least three boss fights you need to summon him for and have him survive to complete his quest
+- [ ] You can summon Captain Drummond before you go through the fog gate
+- [ ] You can only summon one of them. The other's summon sign will vanish when you summon one of them
+- [ ] Go through the fog gate, remembering about the fireballs that will rain down in this area
+- [ ] Get the Bonfire Ascetic from the corpse on the first platform on the left
+- [ ] Move forward passed the first fireball area and trigger the huge rolling head
+- [ ] Move forward, and get the Fire Seed from the platform on the left near the end
+- [ ] Kill the Giant Lord boss
+- [ ] You were able to summon Benhart Of Jugo or Captain Drummond as mentioned above
+- [ ] You will get the Giant Lord Soul, Giant's Kinship and 75,000 souls
+- [ ] Get the Old Radiant Lifegem from beside the pillar and then go out the door and down the steps
+- [ ] Examine the giant corpse to get the Soul of a Giant and again to leave the memory
+
+## Memory of Vammar (Levels 110-120)
+
+- [ ] Travel to the Forest of Fallen Giants / Cardinal Tower bonfire and head down to the area beside where you first met Mild Mannered Pate
+- [ ] Examine the tree to enter the memory. You will have about 5 minutes to complete it
+- [ ] Head forward and talk to Captain Drummond to learn the Hurrah gesture
+- [ ] If you have already completed the Memory of Jeigh then he will also give you the Drangleic Helm
+- [ ] Open the door to the left and get the Smooth and Silky Stone from the chest
+- [ ] Head through the other door, watching out for the enemy that breaks through the wall, and get the Fire Seed from the corpse at the end
+- [ ] Go up the hill, through the archway and run for the ladder leading up to the roof on the right
+- [ ] Run across the roof, drop down at the end and run in to the building to the left for cover
+- [ ] Go up the ladder in the building, cross the wooden bridge, clear the roof and get the Soul of a Great Hero and Bonfire Ascetic
+- [ ] Drop down, turn left before the door to the building, and get the Blossom Kite Shield from the chest
+- [ ] Go to the right side of the door this time and get the Giant Warrior Club from the corpse in the corner
+- [ ] Go back in to the building, out the back door and get the Rouge Water from the corpse beside the steps
+- [ ] Go up the steps and get the Old Radiant Lifegem, Soul of a Great Hero and Torch from the corpses
+- [ ] Examine the giant corpse to get the Soul of a Giant and again to leave the memory
+
+## King Vendrick (Levels 110-120)
+
+- [ ] Now that you have at least four Souls Of Giants the fight against King Vendrick will be easier
+- [ ] Travel to the Undead Crypt / Undead Ditch bonfire and make your way to where you fought Velstadt The Royal Aegis
+- [ ] Go through the fog gate and kill King Vendrick
+- [ ] There are no NPCs to summon for this fight
+- [ ] You will get 90,000 souls
+- [ ] Now that you have killed King Vendrick travel to the Shrine of Amana / Crumbled Ruins bonfire
+- [ ] Make sure you are in human form and go back to the submerged path ahead, chop down the vines and open the door
+- [ ] Get the Soul Of The King from the chair and the King's Set from the chest
+- [ ] Use your feather to get back to the bonfire
+
+## Ancient Dragon's Memories (Levels 110-120)
+
+- [ ] Travel back to the Brightstone Cove Tseldora / Lower Brighstone Cove bonfire
+- [ ] Make your way back to where you fought The Duke's Dear Freja
+- [ ] Examine the formation that has appeared in the boss room
+- [ ] Head forward and examine the dead dragon to get the Ancient Dragon Soul and again to leave the memory
+- [ ] Use your feather to get back to the bonfire
+
+## Throne Of Want (Levels 110-120)
+
+- [ ] Travel back to the Drangleic Castle / King's Gate bonfire
+- [ ] Go out and down to the left to the door and put on the King's Ring to open it
+- [ ] Talk to the Emerald Herald and continue along the path to the fog gate
+- [ ] Go through the fog gate and first kill the Throne Defender and Throne Watcher
+- [ ] You can summon Benhart Of Jugo outside the fog gate to the left
+- [ ] This is the fourth of at least three boss fights you need to summon him for and have him survive to complete his quest
+- [ ] You can summon Head Of Vengarl outside the fog gate to the right
+- [ ] You will get the Throne Defender Soul and the Throne Watcher Soul and 68,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 17,000 souls each time
+- [ ] Now you need to kill Nashandra
+- [ ] You must have killed the Giant Lord before she will spawn
+- [ ] Your summons will stay with you for this fight
+- [ ] You will get the Soul of Nashandra and 90,000 souls
+- [ ] Optionally do some jolly co-op to get some extra souls. You will get 22,500 souls each time
+- [ ] Walk forwards and enjoy the ending cutscene
+- [ ] You will now be back at Majula, where you can finish up some final tasks before continuing to New Game Plus
+
+## Miscellaneous Tasks
+
+- [ ] Now that you've completed the game, Stone Trader Chloanne will sell more items
+- [ ] Titanite Chunks @ 6,000 souls each (Now unlimited)
+- [ ] Go talk to Cale the Cartographer to get Cale's Set
+- [ ] You should now have all the items needed for Royal Sorcerer Navlaan, so go talk to him in Aldia's Keep to get your rewards
+- [ ] If you have been doing Benhart Of Jugo's quest then you can go talk to him in the Memory Of Orro to complete it
+- [ ] Travel to the Forest of Fallen Giants / Cardinal Tower bonfire and head up to the area where you fought the The Pursuer
+- [ ] Go forward, talk to Benhart Of Jugo who will give you the Bluemoon Greatsword and Benhart's Set
+
+## Dark Chasm Of Old (Levels 95-105)
+
+- [ ] I leave this to last due to it's difficulty and the need to use Human Effigies every time
+- [ ] Also, I like to do these in a particular order so that the easiest one is last, making the Darklurker fight easier to repeat if needed
+- [ ] If you have met Darkdiver Grandahl in all three locations you can now join the Pilgrims Of Dark covenant
+- [ ] Travel to the Black Gulch / Hidden Chamber, go up the hill and drop off by the first worm to the ledge
+- [ ] Go in and talk to Darkdiver Grandahl, join the covenant if you haven't already, and give him a Human Effigy to open the portal
+- [ ] Enter the portal and complete the area
+- [ ] You will need to kill four enemies. One heavy melee, two pyromancers and a shade
+- [ ] Remember to light the cauldron, using a Flame Butterfly to light your torch
+- [ ] Drop down the mist filled hole to complete the area
+- [ ] Talk to Darkdiver Grandahl to rank up in the covenant and receive the Resonant Soul Hex
+- [ ] Travel to the Drangleic Castle / Under Castle Drangleic bonfire, go out and around the corner to speak to Darkdiver Grandahl
+- [ ] Give him a Human Effigy to open the portal, enter it and complete the area
+- [ ] You will need to kill four enemies. One heavy melee, two fast melee and a shade
+- [ ] Be very careful not to fall of the ledges in the water
+- [ ] Remember to light the cauldron, using a Flame Butterfly to light your torch
+- [ ] Drop down the mist filled hole to complete the area
+- [ ] You won't rank up after the second area is complete. You need to complete all three areas to get the next rank
+- [ ] Travel back to the Shaded Woods / Shaded Ruins bonfire and drop down the hole near the second tower
+- [ ] Give Darkdiver Grandahl a Human Effigy to open the portal, enter it and complete the area
+- [ ] You will need to kill four enemies. Two fast melee, one archer and a shade
+- [ ] Remember to light the cauldron, using a Flame Butterfly to light your torch
+- [ ] Drop down the mist filled hole to complete the area
+- [ ] When you drop down the fog gate in the third area you can kill the Darklurker
+- [ ] There are no NPCs to summon for this fight
+- [ ] You will get the Darklurker Soul and 35,000 souls
+- [ ] If you completed all areas talk to Darkdiver Grandahl to rank up and receive the Great Resonant Soul Hex
+- [ ] If you also killed the boss talk to him to rank up and receive the Climax Hex, Xanthous Set and Dragon Chime
+- [ ] Head back to Majula
+
+## New Game Plus Preparation
+
+- [ ] If you missed any Crystal Lizards go and kill them
+- [ ] Make any thing you need from boss souls with Straid Of Olaphis and Weaponsmith Ornifex
+- [ ] Buy any boss armors you need from Maughlin The Armorer
+- [ ] Buy any NPC armors you need from Merchant Hag Melentia
+- [ ] Buy any upgrade items you need from Stone Trader Chloanne
+- [ ] Upgrade any weapons or armor you need with Blacksmith Lenigrast
+- [ ] Infuse any weapons or armor you need with Steady Hand McDuff
+- [ ] Incense any spells you need with Magerold of Lanafir
+- [ ] Upgrade your Pyromancy Flame with Rosabeth Of Melfia
+- [ ] Buy any consumables you need from the various vendors, like arrows
+- [ ] Join whatever covenant you want to start the next playthrough as
+- [ ] Kill any NPCs you need items from, remembering that sin carries across to NG+, so you may get invaded by Blue Sentinels
+- [ ] When you're ready go to the Far Fire bonfire in Majula and do this all again
+
+## Additional Checklists
+
+### Master Of Sorcery (Learn all sorceries)
+
+- [ ] Soul Arrow - Sold by Merchant Hag Melentia, Carhillion of the Fold and Magerold of Lanafir for 1,500 souls
+- [ ] Great Soul Arrow - Found in Forest of Fallen Giants and sold by Carhillion of the Fold for 3,000 souls
+- [ ] Heavy Soul Arrow - Sold by Carhillion of the Fold and Magerold of Lanafir for 2,000 souls
+- [ ] Great Heavy Soul Arrow - Sold by Carhillion of the Fold for 4,500 souls and found in Earthen Peak
+- [ ] Shockwave - Sold by Carhillion of the Fold for 1,800 souls
+- [ ] Soul Spear Barrage - Sold by Carhillion of the Fold for 2,600 souls
+- [ ] Magic Weapon - Sold by Carhillion of the Fold for 2,000 souls
+- [ ] Yearn - Sold by Carhillion of the Fold for 3,000 souls
+- [ ] Hush - Found in Lost Bastille or Rank 2 reward from the Way of the Blue covenant
+- [ ] Hidden Weapon - Rank 2 reward from the Bell Keepers covenant
+- [ ] Soul Spear - Found in Huntsman's Copse or sold by Grave Warden Agdayne for 12,000 souls
+- [ ] Chameleon - Found in Harvest Valley
+- [ ] Heavy Homing Soul Arrow - Trade Ruin Sentinel Soul and 1,500 souls with Straid of Olaphis
+- [ ] Homing Soul Arrow - Sold by Straid of Olaphis and Weaponsmith Ornifex for 6,500 souls
+- [ ] Strong Magic Shield - Sold by Straid of Olaphis and Royal Sorcerer Navlaan for 6,300 souls, and found in Drangleic Castle
+- [ ] Cast Light - Sold by Straid of Olaphis and Darkdiver Grandahl for 3,000 souls
+- [ ] Fall Control - Sold by Magerold of Lanafir and Weaponsmith Ornifex for 4,800 souls
+- [ ] Great Magic Weapon - Found in Black Gulch, sold by Royal Sorcerer Navlaan for 6,000 souls and Rank 1 reward from the Company of Champions covenant
+- [ ] Soul Vortex - Found in the pit using the 12,000 ladder and Forgotten Key, found in Brightstone Cove Tseldora and sold by Grave Warden Agdayne for 10,400 souls
+- [ ] Homing Soulmass - Found in Shaded Woods or sold by Weaponsmith Ornifex for 6,000 souls
+- [ ] Soul Shower - Trade Scorpioness Najka Soul and 1,500 souls with Straid of Olaphis
+- [ ] Repair - Found in Shrine Of Winter
+- [ ] Soul Greatsword - Found in Drangleic Castle
+- [ ] Soul Bolt - Found in Drangleic Castle
+- [ ] Homing Crystal Soulmass - Found in Shrine Of Amana
+- [ ] Unleash Magic - Reward for finishing Royal Sorcerer Navlaan's quest
+- [ ] Soul Geyser - Found in Aldia's Keep
+- [ ] Crystal Magic Weapon - Found in Dragon Shrine
+- [ ] Crystal Soul Spear - Trade Old Paledrake Soul (from The Duke's Dear Freja in NG+) and 10,000 souls with Straid of Olaphis
+
+### Master Of Miracles (Learn all miracles)
+
+- [ ] Heal - Sold by Merchant Hag Melentia and Licia of Lindeldt for 1,500 souls
+- [ ] Med Heal - Sold by Licia of Lindeldt for 3,000 souls
+- [ ] Great Heal Excerpt - Sold by Licia of Lindeldt for 4,500 souls
+- [ ] Replenishment - Sold by Licia of Lindeldt and Cromwell the Pardoner for 3,000 souls
+- [ ] Resplendent Life - Sold by Licia of Lindeldt and Straid of Olaphis for 4,500 souls
+- [ ] Caressing Prayer - Sold by Licia of Lindeldt and Cromwell the Pardoner for 2,000 souls
+- [ ] Force - Sold by Licia of Lindeldt and Cromwell the Pardoner for 1,800 souls
+- [ ] Lightning Spear - Sold by Licia of Lindeldt and found in Earthen Peak
+- [ ] Homeward - Sold by Licia of Lindeldt for 2,400 souls
+- [ ] Guidance - Sold by Licia of Lindeldt for 3,700 souls
+- [ ] Magic Barrier - Sold by Felkin the Outcast and Head Of Vengarl for 2,700 souls
+- [ ] Emit Force - Sold by Blue Sentinel Targray and Cromwell the Pardoner for 4,200 souls, and found in No-Man's Wharf
+- [ ] Heavenly Thunder - Sold by Blue Sentinel Targray and Cromwell the Pardoner for 3,300 souls
+- [ ] Great Heal - Found in Grave of Saints and sold by Cromwell the Pardoner for 8,000 souls
+- [ ] Perseverance - Sold by Cromwell the Pardoner for 3,500 souls
+- [ ] Soul Appease - Sold by Stone Trader Chloanne and Grave Warden Agdayne for 8,800 souls
+- [ ] Great Lightning Spear - Found in the pit using the 12,000 ladder and Forgotten Key, sold by Straid of Olaphis for 13,000 souls and found in Undead Crypt
+- [ ] Unveil - Sold by Straid of Olaphis for 2,200 souls
+- [ ] Sunlight Blade - Sold by Straid of Olaphis for 12,400 and found in Shrine of Amana
+- [ ] Great Magic Barrier - Sold by Chancellor Wellager for 9,300 souls and found in Aldia's Keep
+- [ ] Sacred Oath - Trade Soul of Velstadt and 3,000 souls with Straid of Olaphis
+- [ ] Soothing Sunlight - Dropped by Licia of Lindeldt when you invade and kill her
+- [ ] Sunlight Spear - Reward from Rank 3 in the Heirs of the Sun covenant
+- [ ] Blinding Bolt - Trade Old King Soul (from Old Iron King in NG+) and 10,000 souls with Straid of Olaphis
+- [ ] Wrath of the Gods - Sold by Chancellor Wellager for 8,200 souls in NG++ and Rank 2 reward from the Blue Sentinels covenant
+- [ ] Bountiful Sunlight - Sold by Chancellor Wellager for 11,000 souls in NG++ and Rank 3 reward from the Blue Sentinels covenant
+
+### Master Of Hexes (Learn all hexes)
+
+- [ ] Dark Orb - Sold by Felkin the Outcast, Straid of Olaphis and Darkdiver Grandahl for 600 souls
+- [ ] Dark Weapon - Sold by Felkin the Outcast for 2,700 souls
+- [ ] Resonant Soul - Sold by Felkin the Outcast for 1,100 souls and reward from Rank 1 in the Pilgrims Of Dark covenant
+- [ ] Great Resonant Soul - Sold by Felkin the Outcast for 3,400 souls and reward from Rank 2 in the Pilgrims Of Dark covenant
+- [ ] Resonant Flesh - Sold by Felkin the Outcast for 3,400 souls
+- [ ] Resonant Weapon - Sold by Felkin the Outcast for 4,000 souls
+- [ ] Whisper of Despair - Found in Grave of Saints
+- [ ] Dead Again - Sold by Stone Trader Chloanne for 4,000 souls
+- [ ] Dark Hail - Sold by Straid of Olaphis, Magerold of Lanafir and Darkdiver Grandahl for 1,500 souls
+- [ ] Dark Fog - Sold by Straid of Olaphis for 5,200 souls and found in The Gutter
+- [ ] Affinity - Sold by Straid of Olaphis for 11,500 souls
+- [ ] Darkstorm - Sold Magerold of Lanafir and Darkdiver Grandahl for 4,700 souls
+- [ ] Scraps of Life - Found in Black Gulch and sold by Cromwell the Pardoner for 2,200 souls
+- [ ] Twisted Barricade - Found in Doors of Pharros
+- [ ] Profound Still - Sold by Darkdiver Grandahl for 13,000 souls
+- [ ] Repel - Trade Giant Lord Soul and 5,000 souls with Straid of Olaphis
+- [ ] Climax - Reward from Rank 3 in the Pilgrims Of Dark covenant
+- [ ] Lifedrain Patch - Trade Darklurker Soul and 5,000 souls with Straid of Olaphis
+- [ ] Numbness - Trade Old Dead One Soul (from The Rotten in NG+) and 5,000 souls with Straid of Olaphis
+
+### Master of Pyromancy (Learn all pyromancies)
+
+- [ ] Fireball - Found in No-Man's Wharf and sold by Rosabeth of Melfia for 1,200 souls
+- [ ] Combustion - Found in Huntsman's Copse and sold by Rosabeth of Melfia for 1,500 souls
+- [ ] Firestorm - Sold by Titchy Gren for 4,500 souls and found in Drangleic Castle
+- [ ] Great Combustion - Sold by Titchy Gren for 4,800 souls and found in Drangleic Castle
+- [ ] Fire Whip - Sold by Titchy Gren for 3,400
+- [ ] Toxic Mist - Trade Royal Rat Vanguard Soul and 1,500 souls with Straid of Olaphis
+- [ ] Lingering Flame - Sold by Straid of Olaphis for 6,700 souls
+- [ ] Flame Swathe - Sold by Straid of Olaphis for 9,500 souls
+- [ ] Fire Orb - Sold by Rosabeth of Melfia for 3,400 souls
+- [ ] Poison Mist - Sold by Rosabeth of Melfia for 3,400 souls
+- [ ] Flash Sweat - Sold by Rosabeth of Melfia for 3,500 souls
+- [ ] Iron Flesh - Sold by Rosabeth of Melfia for 3,500 souls
+- [ ] Immolation - Found in Iron Keep
+- [ ] Chaos Storm - Found in Iron Keep
+- [ ] Acid Surge - Trade Royal Rat Authority Soul and 1,500 souls with Straid of Olaphis
+- [ ] Great Fireball - Found in Brightstone Cove Tseldora
+- [ ] Fire Tempest - Found in Shrine of Amana
+- [ ] Warmth - Sold by Grave Warden Agdayne for 5,200 souls
+- [ ] Forbidden Sun - Reward from completing the Felkin the Outcast part of Royal Sorcerer Navlaan's quest
+- [ ] Flame Weapon - Trade Old Witch Soul (from The Lost Sinner in NG+) and 10,000 souls with Straid of Olaphis
+- [ ] Great Chaos Fireball - Sold by Chancellor Wellager for 17,400 souls in NG++ and Rank 3 reward from the Brotherhood of Blood covenant
+
+### Gesture Maestro (Learn all gestures)
+
+- [ ] Point - Available at start
+- [ ] I Won't Bite - Available at start
+- [ ] Bow - Available at start
+- [ ] Wave - Available at start
+- [ ] Pumped Up - Available at start
+- [ ] Warcry - Available at start
+- [ ] Righty-ho! - Available at start
+- [ ] No Way - Available at start
+- [ ] Welcome - Taught by Saulden The Crestfallen Warrior Duel Bow - Taught by Blue Sentinel Targray
+- [ ] Fist Pump - Taught by Creighton The Wanderer
+- [ ] Praise The Sun - Learned from the Heirs of the Sun covenant altar
+- [ ] Mock - Taught by Straid of Olaphis
+- [ ] Prostration - Taught by Laddersmith Gilligan
+- [ ] Joy - Taught by Benhart Of Jugo
+- [ ] Decapitate - Taught by Head Of Vengarl
+- [ ] Warmup - Taught by Manscorpion Tark
+- [ ] This One's On Me - Taught by Chancellor Wellager
+- [ ] Have mercy! - Taught by Grave Warden Agdayne
+- [ ] Hurrah! - Taught by Captain Drummond
