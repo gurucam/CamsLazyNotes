@@ -11,7 +11,6 @@
 ### LIMGRAVE
 
 | | |
-|---|---|
 | <input type="checkbox"> | Beast of Farum Azula |
 | <input type="checkbox"> | Bell Bearing Hunter |
 | <input type="checkbox"> | Black Knife Assassin |
