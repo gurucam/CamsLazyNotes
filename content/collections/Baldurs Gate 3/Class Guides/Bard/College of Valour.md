@@ -1,300 +1,342 @@
-# College of Valour Bard Build (Patch 8)
+<!-- Source: :contentReference[oaicite:0]{index=0} -->
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Bard 1 → 10, Fighter 1 → 2)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+# College of Valour Bard Build
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Fantasy / flavor
-- A **battle-hardened support Bard**: you stand near the front in medium armour and a shield, keeping allies steady while disrupting enemies.
-- Plays like a “**party captain**”: you spend bonus actions empowering teammates, then use your actions for control, emergency heals, or positioning.
-- In and out of combat, you’re the **social lead**—leaning on Charisma and dialogue skills to steer encounters.
+## Build Snapshot
 
-### Core playstyle in one sentence
-- **Use bonus actions to empower allies, then spend actions to control space and stabilize the team**, turning messy fights into clean wins through tempo.
+### Fantasy / Flavor
+- Bards are versatile characters skilled in a variety of areas, including music, magic, and combat.
+- Focuses on primarily healing, buffs, and crowd control.
+- Consider this class weak in raw battlefield potential but unique and fun for storytelling and dialogue options.
 
-### Party role
-- **Support engine:** constant buffs and recovery so damage dealers can stay aggressive.
-- **Crowd control / debuff:** shuts down dangerous targets or zones so your party takes fewer actions lost.
-- **Durable backline-anchor:** sturdier than most casters (shield + medium armour) so you can safely play closer to the action.
+### Core Playstyle
+- Buff allies with Combat Inspiration, use control effects to reduce incoming damage, and heal damage dealers so they don’t have to self-heal while allies provide most of the damage.
+
+### Party Role
+- Healing and support (healing, buffs).
+- Crowd control and debuffs (single target and area-based control spells).
+- Party leader for dialogue and role play (Charisma skills and outside-of-combat utility).
 
 ### Pros
-- Strong party **healing and buffs**
-- Excellent **crowd control** options that scale well later
-- Great as a **party face** for dialogue and roleplay
+- Great Healing Abilities
+- Buffs Party Damage
+- Crowd Control Enemies
 
 ### Cons
-- Lower raw damage compared to dedicated damage classes
-- Many best tools are **concentration-heavy**
-- Early game can feel slow until your kit fills out
+- Weak Damage
+- Concentration Heavy
+- Low Damage in Early Game
 
-### Power spikes to look forward to
-- Level 2: **more spell slots + early utility** (your “toolbox” starts expanding)
-- Level 3: **College of Valour** (medium armour, shields, martial weapons, upgraded inspiration)
-- Level 5: **stronger inspiration + short-rest recovery** (more uptime in long adventuring days)
-- Level 6: **Extra Attack** (more flexibility when you need to contribute with weapon turns)
-- Level 10: **expertise + major utility growth** (bigger impact in and out of combat)
-- Level 12: **Action Surge** (extra action for clutch turns)
+### Power Spikes
+- Level 1 – Bardic Inspiration
+- Level 2 – Faerie Fire
+- Level 3 – Combat Inspiration
+- Level 4 – Feat +2 Charisma
+- Level 5 – Glyph of Warding
+- Level 6 – Extra Attack
+- Level 7 – Confusion Spell
+- Level 8 – War Caster Feat
+- Level 9 – Mass Cure Wounds
+- Level 10 – Skill Expertise
+- Level 11 – Fighter Multi-Class
+- Level 12 – Action Surge
 
----
+## Character Creation
+- Race: Asmodeus Tiefling
+- Subrace: (Not specified in source)
+- Class: Bard
+- Subclass: College of Valour
+- Background: Entertainer
+- Ability Scores:
+  - STR: 8 / DEX: 14 / CON: 16 / INT: 10 / WIS: 10 / CHA: 16
+  - Strength 8 / Dexterity 16 / Constitution 14 / Intelligence 10 / Wisdom 10 / Charisma 16
+  - Strength 12 / Dexterity 14 / Constitution 16 / Intelligence 8 / Wisdom 10 / Charisma 16
+- Proficiencies:
+  - Skill Proficiencies: Deception, Intimidation, and Persuasion
+  - Saving Throws: Dexterity and Charisma
+  - Armor Proficiency: Light Armour
+  - Weapon Proficiency: Simple Weapons, Hand Crossbows, Rapiers, Longswords, Shortswords
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** Asmodeus Tiefling
-- **Class:** Bard
-- **Subclass:** College of Valour (at level 3)
-- **Background:** Entertainer
-- **Skills:** Deception, Intimidation, Persuasion
-- **Abilities (target):** STR 8 / DEX 14 / CON 16 / INT 10 / WIS 10 / CHA 16
+## Level Progression
 
-### Racial notes (why Asmodeus Tiefling)
-- **Fire resistance** for general survivability.
-- **A built-in retaliatory option** to punish enemies that hit you.
-- **Darkvision** for quality-of-life.
+### Level 1
+- Gain:
+  - Bardic Inspiration
+  - Cantrips: Vicious Mockery, Blade Ward
+  - Spells: Healing Word, Cure Wounds, Tasha’s Hideous Laughter, Thunderwave
+- Play Style:
+  - Notes:
+    - Gameplay revolves around buff allies with Bardic Inspiration, Blade Ward, crowd control with Hideous Laughter, and healing with Healing Word and Cure Wounds.
+    - Use Thunderwave to knock back enemies and Vicious Mockery for some damage and debuff.
+    - Bard doesn’t pick a subclass until level 3, so start off the game by wearing Light Armour and wielding miscellaneous weapons.
 
-*Secondary option mentioned in the guide:* **Drow** (extra magic utility and improved darkvision).
+### Level 2
+- Gain:
+  - Jack of All Trades
+  - Song of Rest
+  - Spell: Faerie Fire
+- Play Style:
+  - Notes:
+    - Song of Rest provides an out-of-combat heal, like a short rest.
+    - The gameplay remains unchanged here; use Song of Rest to help outside of combat recovery.
 
-### Starting setup
-- **Armor:** start in light armour, then switch to **medium armour + shield** once your subclass grants proficiency.
-- **Weapons:** use whatever early weapons you find; the build trends toward **one-handed + shield** for durability.
-- **Role focus:** set up as the **party leader** for dialogue checks (Charisma skills).
+### Level 3
+- Gain:
+  - Subclass: College of Valour
+  - Combat Inspiration
+  - Gain Proficiency: Medium Armour, Shield, Martial Weapon
+  - Spell: Heat Metal
+  - Pick two more skills you are proficient in (dialogue ability checks highly likely to succeed; “don’t expect any performance gain”)
+- Play Style:
+  - Rotation:
+    - Turn 1: When you find a difficult fighter, pop Heat Metal first turn.
+    - Turn 2+: Crowd control and deal with the most threatening target.
+  - Notes:
+    - Switch the build to Medium armor with a sword and shield for more Armour Class (AC).
 
-### Early-game priorities (from the guide)
-- Complete the prologue and **recruit companions**.
-- Unlock **Withers** (so you can respec companions to better match the party plan).
-- Collect the **Necromancy of Thay** (important later in Act 3).
-- Reach the Druid Grove area, sell/stock up, and keep progressing toward **Level 5**.
-- Reach the **Underdark / Grymforge** and check **Permanent Bonuses** + **best gear** options in Act 1.
+### Level 4
+- Gain:
+  - Feat: Ability Improvement (+2 Charisma), reaching 18 Charisma
+  - One new spell
+  - Another Cantrip
+  - Spell: Crown of Madness
+  - (Alternative route noted): Feat Magic Initiate: Warlock (unlocks Eldritch Blast and Hex)
+- Play Style:
+  - Notes:
+    - Ability Improvement is taken to increase the effectiveness of your spells.
 
----
+### Level 5
+- Gain:
+  - Bardic Inspiration enhanced (1d6 to 1d8 on attack rolls)
+  - Gain all Bardic Inspiration on a short rest
+  - Spell: Glyph of Warding
+- Play Style:
+  - Notes:
+    - Glyph of Warding is taken because up until this point the Bard has very little area damage.
+    - Depending on if you took a lot of control spells early, you can add more damage with Glyph.
 
-## Level-by-level progression (Bard 1 → 10, Fighter 1 → 2)
-> This build is “support tempo” driven. Treat each level’s **Play style** as your default combat loop.
+### Level 6
+- Gain:
+  - Countercharm
+  - Extra Attack
+  - Spell: Stinking Cloud
+- Play Style:
+  - Notes:
+    - Bard has a lot of crowd control at this level, some of which requires concentration.
+    - Pick the most important form of CC when needed.
 
-### Level 1 — Bard 1
-**Gain**
-- **Bardic Inspiration** (bonus action to empower an ally; limited uses until long rest early)
-- Cantrips and early spells for **healing, control, and knockback**
+### Level 7
+- Gain:
+  - Spell: Confusion
+- Play Style:
+  - Notes:
+    - Confusion is one of the strongest areas of crowd control in the game; massive radius affecting multiple enemies, which often attack each other.
+    - Confusion requires concentration; you can swap out previously used control spells using the replace spell function if you have too many.
 
-**Play style (Level 1)**
-- Spend your bonus action empowering allies before or during fights.
-- Use your action to **control a key target**, push enemies away, or stabilize an ally with healing.
-- Let teammates do most of the damage while you keep the fight manageable.
+### Level 8
+- Gain:
+  - Feat: War Caster
+  - Spell: Dimension Door
+- Play Style:
+  - Notes:
+    - War Caster: Advantage on Saving Throws to maintain Concentration on a spell; reaction to cast Shocking Grasp at a target moving out of melee range.
+    - Dimension Door: Teleport yourself and up to 1 adjacent ally to a place you can see (ally cannot be larger than medium); can be used out of combat as well to reach places jump normally wouldn’t work.
 
-### Level 2 — Bard 2
-**Gain**
-- **Jack of All Trades** (adds half proficiency to many checks you aren’t trained in)
-- **Song of Rest** (out-of-combat recovery support)
-- Access to more level 1 spell slots and the ability to replace spells on level-up
+### Level 9
+- Gain:
+  - Spell: Mass Cure Wounds
+- Play Style:
+  - Notes:
+    - Mass Cure Wounds: Up to 6 creatures regain 3d8 + Spell Ability modifier; acts as a massive group heal rather than single target.
+    - Can combine with bonus action Healing Word and double the heal potential within one turn.
 
-**Play style (Level 2)**
-- Loop stays the same: empower allies, control threats, and keep the team healthy.
-- Use Song of Rest to reduce the need to return to camp for recovery.
+### Level 10
+- Gain:
+  - Cantrip: Minor Illusion
+  - Spell: Seeming
+  - Skill Expertise: select Intimidation and Persuasion
+  - Improved Bardic Inspiration: bonus increases to +1d10
+  - Magical Secrets: take Conjure Elemental and Blight
+- Play Style:
+  - Notes:
+    - Conjure Elemental: Summon an elemental ally; does not require concentration; can pre-cast before combat after a long rest and keep the elemental the entire time.
+    - Blight: 9m range, dealing 8d8 necrotic damage; helps with single-target damage and a different elemental type.
 
-### Level 3 — Bard 3 (College of Valour)
-**Subclass**
-- **College of Valour**
+### Level 11
+- Gain:
+  - Multiclass: Fighter
+  - Fighting Style: Protection (must be wielding a shield; reaction to impose disadvantage on an attack roll against a nearby ally)
+- Play Style:
+  - Notes:
+    - At levels 11 and 12, the Bard’s power significantly drops; level 6 spells are described as minimal/very weak, so this build multiclasses into Fighter for Action Surge.
 
-**Gain**
-- **Combat Inspiration** (upgraded inspiration that can boost damage or AC for an attack)
-- Proficiency in **medium armour, shields, and martial weapons**
-- Access to level 2 spell slots
+### Level 12
+- Gain:
+  - Fighter: Action Surge
+  - (If not multiclassing as advised): At level 12 Bard, increase Charisma by +2 to 20 overall
+- Play Style:
+  - Notes:
+    - Action Surge gives an extra action and recharges on short rest; allows you to cast another spell, attack, dash, etc.
 
-**Play style (Level 3)**
-- Swap into **medium armour + shield** for a big survivability increase.
-- Your turn plan becomes: **inspire your best damage dealer**, then lock down or punish the most threatening enemy.
-- Use your control tools most when you identify a dangerous frontline enemy or a priority threat.
-
-### Level 4 — Bard 4
-**Feat**
-- **Ability Improvement: +2 Charisma** (pushes your spell effectiveness and social dominance)
-
-**Play style (Level 4)**
-- Your control and support become more reliable; no major loop change.
-- Start leaning harder into keeping concentration effects online, since a lot of your value is sustained.
-
-### Level 5 — Bard 5
-**Gain**
-- **Improved Bardic Inspiration** (bigger inspiration die)
-- **Bardic Inspiration refreshes on Short Rest**
-- Access to level 3 spell slots
-
-**Play style (Level 5)**
-- You have much better **uptime** now: use inspiration more freely.
-- Add a reliable **area effect option** for handling groups or setting traps.
-- In hard fights, consider using speed/initiative consumables to keep tempo.
-
-### Level 6 — Bard 6
-**Gain**
-- **Countercharm** (helps allies resist charm/fear effects)
-- **Extra Attack** (subclass feature)
-- Access to another spell
-
-**Play style (Level 6)**
-- You remain primarily support/control, but now you can contribute with weapon turns when spells aren’t ideal.
-- Pick **one key control plan** per fight—don’t overload on concentration effects unless necessary.
-
-### Level 7 — Bard 7
-**Gain**
-- Access to level 4 spell slots
-
-**Play style (Level 7)**
-- Your identity becomes “**fight director**”: shut down multiple enemies at once so the party can safely focus targets.
-- Maintain concentration and position well—your value scales with staying active.
-
-### Level 8 — Bard 8
-**Feat**
-- **War Caster** (advantage on concentration saves; helps keep your best effects running)
-
-**Play style (Level 8)**
-- Concentration stability is the priority: play near cover, avoid unnecessary hits, and protect your ongoing effects.
-- Use your mobility tools to rescue allies and reposition when the frontline collapses.
-
-### Level 9 — Bard 9
-**Gain**
-- Access to level 5 spell slots
-
-**Play style (Level 9)**
-- You become much better at **team stabilization**—big group healing turns can swing entire fights.
-- Combine emergency healing with inspiration to prevent teammates from losing their turns.
-
-### Level 10 — Bard 10
-**Gain**
-- New cantrip
-- **Skill Expertise** (the guide recommends **Intimidation** and **Persuasion**)
-- **Improved Bardic Inspiration**
-- **Magical Secrets** (learn spells from other lists)
-
-**Play style (Level 10)**
-- Out of combat, you’re extremely reliable at social checks and exploration utility.
-- In combat, you add flexible tools that give you a “second axis” beyond pure Bard control/healing.
-
-### Level 11 — Fighter 1
-**Multiclass**
-- **Fighter 1** (recommended to avoid a weak top-tier Bard spell selection)
-
-**Gain**
-- **Fighting Style: Protection** (shield-focused defensive reaction for nearby allies)
-
-**Play style (Level 11)**
-- Stay close enough to allies to protect them, but don’t take unnecessary risks—your value is in keeping the party’s turns online.
-- This level is a setup for your endgame “extra action” identity.
-
-### Level 12 — Fighter 2
-**Gain**
-- **Action Surge** (extra action once per fight; recharges on short rest)
-
-**Play style (Level 12)**
-- The build’s endgame clutch button: **extra action** for a second spell, emergency heal + control, or reposition + stabilize.
-- Treat Action Surge as your “solve this turn” resource for boss fights and crisis moments.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it’s good | Where to get**.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Wapira’s Crown | Additional healing value | Reward from Zevlor after defeating the Goblin camp leaders (accept gold) |
-| Cape | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Chest | Adamantine Scale Mail | High AC medium armour with strong defensive effect | Complete the Adamantine Forge quest in Grymforge (X: -593, Y: 309) |
-| Gloves | Hellrider’s Pride | Heals grant resistance | Bought, stolen, or earned from Zevlor |
-| Boots | Boots of Aid and Comfort | Extra temporary HP on healing | Sold by Grat the Trader at the Goblin Camp |
-| Neck | Amulet of Misty Step | Free mobility spell | Gilded chest in the Defiled Temple (X: 386, Y: 8) |
-| Ring | Ring of Absolute Force | Boosts your knockback tool | Dropped by Sergeant Thrinn in Grymforge |
-| Ring | The Whispering Promise | Healing can grant a strong buff | From Act 1 traders (Zhentarim Hideout / Goblin Camp / Druid Grove / Shattered Sanctum) |
-| Main Hand | Staff of Arcane Blessing | Strong support staff option | Obtained in the Arcane Tower |
-| Off-Hand | Adamantine Shield | +2 AC and shield utility | Complete the Adamantine Forge quest in Grymforge |
-| Ranged | Bow of Awareness | +1 initiative | Sold by Roah Moonglow in the Shattered Sanctum |
+| Head | Wapira’s Crown | Additional Healing | Reward from Zelvor for killing 3 leaders and the Goblin camp (accept gold) |
+| Chest | Adamantine Scale Mail | 16 AC Medium | Complete Adamantine Forge Quest (X: -593 Y: 309) |
+| Gloves | Hellrider’s Pride | Heals give resistance | Can be bought, stolen, or earned from Zevolr |
+| Boots | Boots of Aid and Comfort | Additional Temporary HP | Sold by Grat The Trader at the Goblin Camp |
+| Necklace | Amulet of Misty Step | Misty Step Spell | Found in a Gilded Chest (X386 Y8) in Defiled Temple |
+| Ring | Ring of Absolute Force | Thunderwave Spell | Dropped by Sergeant Thrinn in Grymforge |
+| Ring | The Whispering Promise | Healing gives Blessed | From traders Zhentarim Hideout, Goblin Camp, Druid Grove, or Shattered Sanctum |
+| Weapon (Main Hand) | Staff of Arcane Blessing | Free Blessed Spell | Obtained in Arcane Tower |
+| Weapon (Off-Hand) | Adamantine Shield | +2 AC, Shield Bash | Complete the Adamantine Forge Quest in Grymforge |
+| Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum |
 
-## Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Cape | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Chest | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Gloves | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Boots | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Neck | The Blood of Lathander | Healing utility and a strong beam effect | The Blood of Lathander quest (Act 2) |
-| Ring | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Ring | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Off-Hand | - (Not specified in source) | - (Not specified in source) | - (Not specified in source) |
-| Ranged | Darkfire Shortbow | Free Haste utility | Sold by Dammon at Last Light Inn (Act 2) |
+| Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 |
+| Weapon (Main Hand) | The Blood of Lathander | Sunbeam and Healing | The Blood of Lathander quest in Act 2 |
 
-## Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Birthright | +2 Charisma | Purchased at Sorcerous Sundries (Act 3) |
-| Cape | Mantle of the Holy Warrior | Free Crusader’s Mantle utility | Sold by Vicar Humbletoes in Stormshore Tabernacle (Act 3) |
-| Chest | Helldusk Armour | Very high AC and fire resistance | Looted from Raphael in the House of Hope (Act 3) |
-| Gloves | The Reviving Hands | Healed targets gain Blade Ward | Sold by Vicar Humbletoes in Stormshore Tabernacle (Act 3) |
-| Boots | Helldusk Boots | Strong mobility and control resistance | Chest on the top floor of Wyrm’s Rock Fortress (Act 3) |
-| Neck | Amulet of Greater Health | Sets CON to 23 | Archive in the House of Hope (Act 3) |
-| Ring | Crypt Lord Ring | Free undead summon utility | The Mystic Carrion’s Servant quest (Act 3) |
-| Ring | Till Death Do Us Part | Free Beacon of Hope utility | Looted from Lady Jannath (Act 3) |
-| Main Hand | The Blood of Lathander | Healing utility and a strong beam effect | The Blood of Lathander quest (Act 2) |
-| Off-Hand | Viconia’s Walking Fortress | +3 AC and spell reflection utility | Looted from Viconia DeVir during Shadowheart’s companion quest (Act 3) |
-| Ranged | Darkfire Shortbow | Free Haste utility | Sold by Dammon at Last Light Inn (Act 2) |
+| Head | Birthright | +2 Charisma | Purchased at Sorcerous Sundries in Act 3 |
+| Cape | Mantle of the Holy Warrior | Free Crusader’s Mantle Spell | Sold by Vicar Humbletoes in Stormshore Tabernacle |
+| Chest | Helldusk Armour | 21 AC, Fire Resistance | Looted from Raphael in the House of Hope in Act 3 |
+| Gloves | The Reviving Hands | Healed Gain Blade Ward | Sold by Vicar Humbletoes in Stormshore Tabernacle |
+| Boots | Helldusk Boots | Cannot be Moved | Chest on the top floor of Wyrm’s Rock Fortress |
+| Necklace | Amulet of Greater Health | 23 Constitution | Archive in the House of Hope |
+| Ring | Crypt Lord Ring | Free Create Undead | The Mystic Carrion’s Servant quest |
+| Ring | Till Death Do Us Part | Free Beacon of Hope | Looted from Lady Jannath in Act 3 |
+| Weapon (Main Hand) | The Blood of Lathander | Sunbeam and Healing | The Blood of Lathander quest in Act 2 |
+| Weapon (Off-Hand) | Viconia’s Walking Fortress | 3 AC, Reflect Spell | Looted from Viconia DeVir during Shadowheart’s companion quest in Act 3 |
+| Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 |
 
----
+## Features and Mechanics
+- Bard Class Guide:
+  - Bards are versatile characters who are skilled in a variety of areas, including music, magic, and combat.
+  - They are known for their ability to inspire their allies, debuff their enemies, and play musical instruments.
+  - Out of combat, the Bard class has unique features and a fun playstyle. Inside of combat, their ability diminishes significantly and is weak compared to other classes.
+  - This build focuses on primarily healing, buffs, and crowd control.
+- Bard Class Features and Mechanics:
+  - Primary Ability: Charisma
+  - Saving Throws: Dexterity and Charisma
+  - Subclass: College of Valour
+  - Armor Proficiency: Light Armour
+  - Weapon Proficiency: Simple Weapons, Hand Crossbows, Rapiers, Longswords, Shortswords
+  - Combat Inspiration: add a +1d6 bonus to their next Attack Roll, Ability Check, or Saving Throw.
+  - Song of Rest: essentially a Bard spell providing a short rest for your group.
+- Bard Spell Mechanics:
+  - Cantrips: cast infinitely; don’t take spell slots.
+  - Spell Slots: finite number of spells until a long rest.
+  - Learn Spells: at leveling up you get opportunities to unlearn and learn new spells.
+  - Concentration: requires you to maintain concentration otherwise the spell effect ends.
+- College of Valour unlocks (features and progression):
+  - Combat Inspiration: Bardic Inspiration upgrade, allowing inspired allies to add bonus damage to their next weapon attack or a bonus to their Armour Class for one attack.
+  - Gain Proficiency: Medium Armour, Shields, Martial Weapons.
+  - Extra Attack: additional free attack after making an unarmed or weapon attack; Extra Attack features from more than one class don’t add together.
 
-# Permanent bonuses (by Act)
+## Subclass Options
 
-## Act 1
-- - (Not specified in source)
+### Bard Subclasses
+- College of Valour: Martially focused, gaining proficiency in medium armor, shields, and martial weapons.
+- College of Lore: Masters of many skills; able to debuff enemies and use non-Bard Spells from the Magical Secrets list.
+- College of Swords: Combine Medium Armor Proficiency with Extra Attack and Bardic Inspiration to serve as versatile fighters.
+- College of Glamour: Use Fey magic to support allies and Command enemies.
 
-## Act 2
-- - (Not specified in source)
+### College of Valour Unlocks
+- Combat Inspiration: Inspire an ally to add a +ld6 bonus to their next Attack Roll, Ability Check, Saving Throw, weapon damage, or Armour Class. Uses a bonus action and lasts until a long rest.
+- Weapon and Armor Proficiency: Shield, Medium Armour, and Martial Weapon; allows medium armor and one hand and shield for more Armour Class (AC).
 
-## Act 3
-- - (Not specified in source)
+## Best Consumables
+- Potion of Greater Healing: 8d4 + 8 healing and removes burning.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Potion of Flying: 10 turns of flying.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Angelic Slumber: fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Peerless Focus: gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Viciousness: increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Elixir of Universal Resistance: gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
----
+## Permanent Bonuses
 
-# Best consumables / items (single-use)
-- **Potion of Greater Healing** — strong heal and removes burning
-- **Potion of Invisibility** — invisibility for 1 minute (ends on attack/cast)
-- **Potion of Flying** — short-duration flight
-- **Potion of Speed** — temporary extra action via Haste
-- **Potion of Angelic Slumber** — sleep briefly, then restore spell slots, hit points, and abilities
-- **Elixir of Peerless Focus** — advantage on concentration saves
-- **Elixir of Vigilance** — +5 initiative; can’t be surprised
-- **Superior Elixir of Arcane Cultivation** — gain an extra level 3 spell slot
-- **Elixir of Viciousness** — increased critical hit chance
-- **Elixir of Universal Resistance** — resistance to all damage
+### Act 1
+- You can increase your ability score via a quest in each of Acts 1, 2, and 3.
+- Check all Permanent Bonuses in Act 1 and the best Gear.
 
----
+### Act 2
+- You can increase your ability score via a quest in each of Acts 1, 2, and 3.
 
-## Optional: Illithid powers (if using tadpoles)
-- **Luck of the Far Realms** — turn a successful hit into a Critical Hit
-- **Cull of the Weak** — execute low-HP enemies; nearby creatures take Psychic damage
-- **Psionic Backlash** — reaction Psychic damage when an enemy casts a spell
-- **Blackhole** — area pull that slows targets
-- **Repulsor** — massive area knockback (can hit friendlies)
-- **Charm** — prevents an enemy from attacking you until their next turn
+### Act 3
+- You can increase your ability score via a quest in each of Acts 1, 2, and 3.
 
----
+## Illithid Powers
+- Illithid Powers are unlocked later in the game when you learn more about the Mind Flayers and tadpoles.
+- You can gain jars of Mind Flayer Parasite Specimens, and consume them to gain one point.
+- Illithid Powers listed for this build:
+  - Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+  - Cull of the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+  - Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+  - Blackhole: Area-based suck-in that slows targets.
+  - Repulsor: Massive area knockback that can hit friendlies.
+  - Charm: A power that prevents an enemy from attacking you until their next turn.
 
-## Optional: Alternative build route (from the guide)
-- **Warlock 1 → 2, Bard 3 → 8 (College of Swords), Fighter 9 → 12 (Eldritch Knight)**  
-  - Starts Warlock for strong at-will offense and early melee/ranged flexibility, then pivots into a melee-focused Bard subclass, and finishes as Fighter for durability and burst.  
-- **Level outline (from the guide):**  
-  - Level 1: Warlock (Hexblade)  
-  - Level 2: Warlock (invocations)  
-  - Level 3: Bard (multiclass)  
-  - Level 5: Bard subclass: College of Swords  
-  - Level 9: Fighter (multiclass)  
-  - Level 11: Fighter subclass: Eldritch Knight  
-  - Level 12: Fighter feat: Alert
+## Gameplay Tips and Tricks
+1. Inspire Allies: Constantly use Combat Inspiration during and before a fight to give them a massive advantage.
+2. Bonus Action: Always exhaust your bonus action with Combat Inspiration, potion, hide even shove can be beneficial.
+3. Environment Protection: Use line of sight, hide, and dash to avoid extra damage from melee aggressors as Bards are not equipped for frontline fighting.
+4. Knockback: Having a spell-like Thunderwave is essential to handling pressure from melee targets.
+5. Crowd Control: Bards should use single target and area-based control spells to reduce incoming damage.
+6. Rest Constantly: Constantly return to camp for a full rest so you enter with a full complement of spell slots.
+7. Use Consumables: Use the Potion of Speed in a tough fight to get an extra action per turn for a limited duration.
+8. Heal: The goal is to keep damage dealers from having to self-heal or use a bonus action potion, so constantly heal them to keep group damage high.
+9. Roleplay: Bards are god-tier RP characters and should mostly be doing dialogue options because of their huge built-in advantages.
+10. Use Skills: check your dice roll score by hovering over a dialogue check to see what gives you the best advantage.
+
+## Alternative Build Route
+- For this alternative Bard build, you’ll begin at Level 1 by choosing Warlock and the Hexblade subclass. This gives you access to Eldritch Blast and Booming Blade.
+- At Level 2, take another level in Warlock to gain Hellish Rebuke, as well as Eldritch Invocations.
+- At Level 3, multiclass into Bard, and at Level 5 (Bard Level 3), select your subclass: College of Swords.
+- To round off the build, take levels in Fighter, choosing the Eldritch Knight subclass.
+
+Alternative Build Level Progression (as listed):
+- Level 1 – Warlock: Subclass: Hexblade, Eldritch Blast, Booming Blade, Hex, Wrathful Smite
+- Level 2 – Warlock: Hellish Rebuke, Eldritch Invocations: Devil’s Sight and One with Shadows
+- Level 3 – Bard: Multiclass: Bard, Vicious Mockery, Friends, Longstrider, Speak with Animals, Tasha’s Hideous Laughter, Charm Person
+- Level 4 – Bard: Thunderwave Spell
+- Level 5 – Bard: College of Swords subclass, Duelling fight style, Invisibility spell
+- Level 6 – Bard: Mage Hand cantrip, Heat Metal spell, Feat: +2 Charisma
+- Level 7 – Bard: Glyph of Warding spell
+- Level 8 – Bard: Fear spell, replace Heat Metal with Hold Person
+- Level 9 – Fighter: Multiclass: Fighter, Defence Fighting Style
+- Level 10 – Fighter: Action Surge
+- Level 11 – Fighter: Subclass: Eldritch Knight, Chromatic Orb, Magic Missile spells, Bursting Sinew, Fire Bolt cantrips, Shield extended
+- Level 12 – Fighter: Feat: Alert, Protection from Good and Evil
+
+## Patch Changes
+
+### Patch 8
+- Patch 8 changes noted:
+  - Addition of the College of Glamour subclass.
+  - Addition of the Booming Blade cantrip.
+  - While Bards don’t naturally have access to Booming Blade, you can unlock it by multiclassing into Warlock.
+  - By adding Fighter levels later, you can create a hybrid playstyle blending spellcasting and martial prowess.
