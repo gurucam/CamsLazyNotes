@@ -1,241 +1,232 @@
-# Battle Master Fighter Build (Patch 8)
+# Battle Master Fighter Build
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Fighter 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-## Build snapshot
+## Build Snapshot
 
-### Fantasy / flavor
-- The Battle Master Fighter is the epitome of powerful melee combat. Unlike other builds, the Fighter doesn’t have to multiclass at higher levels to gain combat power.
-- You gain improved extra attacks, resulting in three attacks per one action. This gives the Fighter a unique advantage in combat, which, when fully optimized, can generate four actions in one turn.
-- With each action fueling 3 attacks, the Battle Master can dish out some of the highest damage in BG3.
-- The Fighter’s downside is a lack of spell casting, lower dexterity, and vulnerability to stuns. Moreover, you won’t have other classes’ dialogue or exploration bonuses, but can make up for it in pure raw damage.
-- This build uses the Battle Master subclass, which gains extra resources for maneuvers to be used in combat. These maneuvers give you on-demand crowd control, knockback, and extra damage.
-- Consider this the strongest Fighter subclass and build, and one of the best in the game due to damage and ease of play.
+### Fantasy / Flavor
+- The Battle Master Fighter is the epitome of powerful melee combat.
+- Battle Masters are paragons of tactical superiority, combining combat manoeuvres and experience in the field to dominate every fight.
+- These maneuvers give you on-demand crowd control, knockback, and extra damage.
 
-### Core playstyle in one sentence
-- **Play aggressively: open by closing distance (or using a ranged weapon if you can’t), then chain as many weapon attacks as possible each turn while spending maneuvers for control and saving your burst actions for critical moments.**
+### Core Playstyle
+- Generate heavy turn-to-turn pressure through multiple attacks per action, using maneuvers sparingly for control when the situation calls for it.
 
-### Party role
-- **Frontline damage dealer:** charges in melee range and deletes priority targets.
-- **On-demand control:** maneuvers give you crowd control, knockback, and extra damage.
-- **Action economy burst:** Action Surge (and later extra attacks per action) lets you swing the fight in a single turn.
+### Party Role
+- Melee damage dealer that can dish out some of the highest damage in BG3.
+- On-demand crowd control via maneuvers (stun/prone, disarm, knockback).
+- Durable front-liner with heavy armour, self-healing, and saving throw re-roll utility.
 
 ### Pros
-- One of the highest damage outputs in BG3 when fully optimized
-- Straightforward playstyle, very effective, and ultra simple to play
-- Excellent action economy: multiple actions, multiple attacks per action, and burst windows
+- Does not have to multiclass at higher levels to gain combat power.
+- Improved extra attacks resulting in three attacks per one action.
+- Ultra simple to play and very effective.
 
 ### Cons
-- Lack of spell casting
-- Lower dexterity (initiative weakness)
-- Vulnerability to stuns / control, especially if you go late in the round
+- Lack of spell casting.
+- Lower dexterity and weakness of going way later in the round without investment.
+- Vulnerability to stuns.
 
-### Power spikes to look forward to
-- Level 2: **Action Surge** (very early double-action burst)
-- Level 3: **Battle Master** (Superiority Dice + maneuvers = control + damage)
-- Level 4: **Great Weapon Master** (bonus-action follow-ups + big damage toggle)
-- Level 5: **Extra Attack** (turns start to explode)
-- Level 8: **Alert** (patches the “go late” weakness)
-- Level 11: **Improved Extra Attack** (3 attacks per action)
+### Power Spikes
+- Level 2: Action Surge (gain one additional action).
+- Level 5: Extra Attack (two attacks when you take the Attack action) + Action Surge + Great Weapon Master synergy.
+- Level 11: Improved Extra Attack (3 attacks per action).
 
----
+## Character Creation
+- Race: Half-Orc
+- Class: Fighter
+- Subclass: Battle Master
+- Background: Soldier
+- Ability Scores: STR 16, DEX 14, CON 16, INT 8, WIS 10, CHA 10
+- Proficiencies: 
+  - Armour Proficiency: Light, Medium, and Heavy
+  - Weapon Proficiency: Simple, Martial, and Shield
+  - Skill Proficiencies: Acrobatics and Perception
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** Half-Orc
-- **Class:** Fighter
-- **Subclass:** Battle Master
-- **Background:** Soldier
-- **Skills:** Acrobatics and Perception
-- **Abilities (target):** STR 16 / DEX 14 / CON 16 / INT 8 / WIS 10 / CHA 10
+## Level Progression
 
-### Racial notes (why Half-Orc)
-- The best race choice for a Battle Master Fighter build in BG3, is the Half-Orc or Duergar Dwarf.
-- The Half-Orc’s innate abilities, including Darkvision, Savage Attack, and Relentless Endurance, make it an ideal choice.
+### Level 1
+- Gain:
+  - Second Wind: You regain 1d10 + Fighter Level hit points.
+  - Great Weapon Fighting: When you roll a 1 or 2 on a damage die for an attack with a Two-Handed melee weapon, that die is rerolled once.
+- Play Style:
+  - Rotation:
+    - Turn 1: Use your action to attack (melee if possible, ranged if distance prevents melee).
+    - Turn 2+: Use Second Wind (bonus action) as needed; keep attacking.
+  - Notes:
+    - Second Wind uses a bonus action and replenishes on short rest.
+    - Best weapon for the Fighter is a Two-Handed Greatsword; keep a ranged weapon equipped for when melee isn’t an option.
 
-*Secondary option mentioned in the guide:* Duergar Dwarf (Enlarge Spell and Invisibility aids in damage and defensive capabilities).
+### Level 2
+- Gain:
+  - Action Surge: gain one additional action.
+- Play Style:
+  - Rotation:
+    - Turn 1: Play aggressively and charge in; use Action Surge to take multiple actions when needed.
+    - Turn 2+: Continue aggressive attacks; keep a bow equipped for range.
+  - Notes:
+    - Action Surge replenishes on a Short Rest.
+    - You now have a way to get two attacks in one turn along with a self-heal.
 
-### Starting setup
-- Primary Ability: Strength
-- Armour Proficiency: Light, Medium, and Heavy
-- Weapon Proficiency: Simple, Martial, and Shield
-- Preferred Armor: Heavy
-- Preferred Weapon: Greatsword
-- Health Points: 10 HP + their Constitution Modifier, and then gain 6 HP + their Constitution Modifier every level thereafter.
+### Level 3
+- Gain:
+  - Subclass: Battle Master
+  - Superiority Dice (d8): 4 (Level 3)
+  - Battle Manoeuvers (Level 3): choose three
+  - Maneuvers selected:
+    - Disarming Attack
+    - Trip Attack
+    - Riposte
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Disarming Attack or Trip Attack when you need control; otherwise attack normally.
+    - Turn 2+: Use Riposte on misses (reaction) when appropriate; use Action Surge when you need another attack.
+  - Notes:
+    - Superiority Dice are a resource that fuels Battle Master manoeuvers and is expended upon use; you regain expended Superiority Dice after a Short or Long Rest.
+    - With these maneuvers, you will have battlefield control early instead of mindlessly swinging your two-handed weapon.
+    - You can also use Pommel Strike on a Greatsword to proc Daze as well.
 
-### Early-game priorities (from the guide)
-- At the start of the game, you will feel weak until level 5 where you gain Extra Attack.
-- Your priority for the solo Fighter build is locating heavy armour, a two-handed Greatsword, and a Longbow or Heavy Crossbow.
-- Lae’zel, who you meet in the prologue has powerful medium armour with 15 AC along with a Heavy Crossbow. If you don’t plan on using this companion, take her gear immediately and equip it for a big boost in overall survivability and ranged damage.
-- From this point, you need to hoard potions, arrows, and consumables.
-- The advantage of the Fighter is not needing constant long rest.
-- Elixir of Bloodlust or Colossus lasts until a long rest and drastically increases your damage.
-- The Arrows of Ice and others are particularly helpful when you are unable to stun or knock enemies prone early on.
-- Your overall priority with this build is the following:
-  - Complete Prologue
-  - Recruit Other Companions
-  - Reached Emerald Grove
-  - Sell, Stock up, complete main quest
-  - Unlock Withers, respec companions if needed
-  - Progress to level 5
-  - Reach Underdark and Grymforge
+### Level 4
+- Gain:
+  - Feat: Great Weapon Master
+- Play Style:
+  - Rotation:
+    - Turn 1: Initiate combat using your action first, saving your bonus action for a Great Weapon Master attack (after a critical hit or kill).
+    - Turn 2+: Focus on kills and critical strikes to trigger bonus action extra attack.
+  - Notes:
+    - Great Weapon Master: When a melee attack scores a critical hit or kills a creature, you can make another melee attack as a bonus action.
+    - Great Weapon Master: When attacking with Heavy Weapons you are proficient with, attack rolls take a -5 penalty, but their damage increases by 10.
+    - You can turn the -5/+10 portion off in the Passive section on your toolbar for more consistent damage at lower hit chances.
 
----
+### Level 5
+- Gain:
+  - Extra Attack: Allows you to make two attacks when you take the Attack action on your turn.
+- Play Style:
+  - Rotation:
+    - Turn 1: Attack twice with Extra Attack; if you kill an enemy or critical strike, attack again with Great Weapon Master (bonus action).
+    - Turn 2+: Use Action Surge to attack another two times when needed; use superiority dice attacks sparingly when the situation calls for it.
+  - Notes:
+    - In one turn, you can attack twice with Extra Attack, kill an enemy or critical strike, and attack again with Great Weapon Master (three).
+    - You use Action Surge and attack another two times for a total of 5 in one turn.
+    - You can make it 7 by either using a Potion of Speed or having someone cast Haste on you (another action once per turn).
 
-## Level-by-level progression (Fighter 1 → 12)
-> Keep your turn simple: use your action to attack, use maneuvers when you need control or to secure a kill, and save burst resources for the moments that matter.
+### Level 6
+- Gain:
+  - Feat: Ability Improvement Strength (+2 Strength for a total of 18)
+- Play Style:
+  - Rotation:
+    - Turn 1: Keep Great Weapon Master on if your hit chance supports it; attack repeatedly.
+    - Turn 2+: Continue multiple attacks; use Action Surge for critical moments.
+  - Notes:
+    - This helps you hit harder and be more likely to land hits, which is especially handy with Great Weapon Master.
+    - If Great Weapon Master was toggled off due to low hit chances, turn it back on.
+    - Around Level 6, check merchants and stock up on camp and alchemy supplies; Grymforge has powerful armor and weapons (Adamantine) that can be used well into Act 3.
 
-### Level 1 — Fighter 1
-**Gain**
-- Great Weapon Fighting: When you roll a 1 or 2 on a damage die for an attack with a Two-Handed melee weapon, that die is rerolled once.
-- Second Wind: You regain 1d10 + Fighter Level hit points.
+### Level 7
+- Gain:
+  - Battle Manoeuvers (Level 7): choose two more
+  - Maneuvers selected:
+    - Precision Attack
+    - Pushing Attack
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Precision Attack as a big opener after long resting; use Pushing Attack for knockback kills or control.
+    - Turn 2+: Continue crowd control when needed; otherwise keep attacking.
+  - Notes:
+    - Precision Attack: Your next weapon attack gets an Attack Roll bonus equal to your Superiority Die; it doesn’t require an action, just a superiority die resource, and lasts until a long rest.
+    - Pushing Attack: Possibly push the target back 4.5m; can be used in melee or ranged.
 
-**Play style (Level 1)**
-- Use your action to make weapon attacks; save your bonus action for healing when needed (potion or Second Wind).
-- Keep a ranged weapon equipped so you can still attack when melee isn’t an option because of distance.
+### Level 8
+- Gain:
+  - Feat: Alert
+- Play Style:
+  - Rotation:
+    - Turn 1: Open early in the round to crowd control or kill high-damage dealers.
+    - Turn 2+: Keep pressure with attacks; capitalize on going first/sooner.
+  - Notes:
+    - Alert: You gain a +5 bonus to Initiative and can’t be Surprised.
+    - Being Surprised can skip a round for you; this feat prevents missing one turn in dialogue-based combat starts.
 
-### Level 2 — Fighter 2
-**Gain**
-- Action Surge: gain one additional action.
+### Level 9
+- Gain:
+  - Indomitable: Whenever you fail a Saving Throw, you can roll again, using the new result instead.
+- Play Style:
+  - Rotation:
+    - Turn 1: Continue standard attack pressure.
+    - Turn 2+: Use Indomitable when you fail a Saving Throw.
+  - Notes:
+    - Simple passive feature that helps increase survivability and requires zero action by the player.
 
-**Play style (Level 2)**
-- Play aggressively and charge in, using Action Surge when you need another full action to swing a fight.
-- Short Rest to replenish this resource.
+### Level 10
+- Gain:
+  - Battle Manoeuvers (Learned at 10): choose two more
+  - Maneuvers selected:
+    - Sweeping Attack
+    - Goading Attack
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Sweeping Attack when you need to hit multiple targets in one action.
+    - Turn 2+: Use Goading Attack when allies (like a Wizard or spellcaster) are being harassed by a damage dealer.
+  - Notes:
+    - Sweeping Attack provides area-based AOE damage (useful due to Fighter lack of area damage outside of Cleave skill from weapon).
+    - Goading Attack gives the target Disadvantage on attacking any other creature.
 
-### Level 3 — Fighter 3 (Battle Master)
-**Subclass**
-- Battle Master
+### Level 11
+- Gain:
+  - Improved Extra Attack: You can make two additional attacks after attacking with your main-hand weapon (3 attacks per action).
+- Play Style:
+  - Rotation:
+    - Turn 1: Spend actions on attacks to produce 3 attacks per action; use Action Surge to add another action of attacks.
+    - Turn 2+: Use Great Weapon Master bonus action attack after a critical hit or kill; maintain pressure.
+  - Notes:
+    - This makes the Fighter the most action-heavy class and build in Baldur’s Gate 3.
+    - The build can add more actions via Potion of Speed or Haste; Alert is highlighted as powerful alongside this level’s output.
 
-**Gain**
-- Battle Master Subclass Unlocked: access to Superiority Dice (d8s) and select three maneuvers.
-- Disarming Attack: Spend a superiority die to make an attack that deals an additional 1d8 damage and possibly forces the target to drop the weapons they are holding.
-- Trip Attack: Spend a superiority die to make an attack that deals an additional 1d8 damage and possibly knocks the target Prone. The target must be Large or smaller.
-- Riposte: When a hostile creature misses you with a melee attack, expend a superiority die to retaliate with a powerful strike that deals an additional 1d8 damage.
+### Level 12
+- Gain:
+  - Feat: Ability Improvement Strength (+2 Strength, improving Strength to 20)
+- Play Style:
+  - Rotation:
+    - Turn 1: Use your full attack suite early to remove threats.
+    - Turn 2+: Continue aggressive multi-attack pressure with maneuvers when needed.
+  - Notes:
+    - The guide’s alternative build route uses Level 12 as a Warlock dip instead (see Alternative Build Route).
 
-**Play style (Level 3)**
-- Use maneuvers early in combat when you need control (disarm, prone) or when a reaction hit is “free value” (riposte).
-- Short Rest after every battle if possible to replenish your resources.
-
-### Level 4 — Fighter 4
-**Gain**
-- Feat: Great Weapon Master
-
-**Play style (Level 4)**
-- Start turns by attacking with your action; aim to secure kills so Great Weapon Master fuels a bonus-action follow-up.
-- Toggle the high-risk damage mode off if your hit chance feels too low, and lean on consistent attacks until accuracy improves.
-
-### Level 5 — Fighter 5
-**Gain**
-- Extra Attack: Allows you to make two attacks when you take the Attack action on your turn.
-
-**Play style (Level 5)**
-- Default loop: attack twice with Extra Attack, then convert kills/critical hits into a bonus-action follow-up when available.
-- Save burst resources for priority targets: you can chain multiple attacks in one turn by stacking extra actions.
-
-### Level 6 — Fighter 6
-**Gain**
-- Feat: Ability Improvement Strength (+2 Strength for a total of 18).
-
-**Play style (Level 6)**
-- Keep the same attack loop, but lean harder into the damage toggle when your accuracy is higher.
-- Around Level 6, you should be close to transitioning out of Act 1: check merchants, stock up on camp and alchemy supplies, find the best Act 1 items, and consider the Grymforge (Adamantine) before moving on.
-
-### Level 7 — Fighter 7
-**Gain**
-- Precision Attack
-- Pushing Attack
-
-**Play style (Level 7)**
-- Use Precision Attack to secure key hits when you need reliability on an opener or a critical target.
-- Use Pushing Attack for simple knockback, including pushing enemies off ledges for kills.
-
-### Level 8 — Fighter 8
-**Gain**
-- Feat: Alert
-
-**Play style (Level 8)**
-- Prioritize going early: opening with control or multiple kills reduces incoming damage significantly.
-- You can’t be Surprised, which prevents catastrophic round-one nukes in dialogue-triggered fights.
-
-### Level 9 — Fighter 9
-**Gain**
-- Indomitable: Whenever you fail a Saving Throw, you can roll again, using the new result instead.
-
-**Play style (Level 9)**
-- Keep your same damage plan, but expect more survivability against effects that would otherwise shut you down.
-
-### Level 10 — Fighter 10
-**Gain**
-- Sweeping Attack
-- Goading Attack
-
-**Play style (Level 10)**
-- Use Sweeping Attack when you need to hit multiple enemies at once.
-- Use Goading Attack to pressure threats off fragile party members by imposing Disadvantage on attacks against anyone else.
-
-### Level 11 — Fighter 11
-**Gain**
-- Improved Extra Attack: You can make two additional attacks after attacking with your main-hand weapon. This means, every action you spend on attacks, produces 3 attacks.
-
-**Play style (Level 11)**
-- Your identity is action-heavy burst: spend actions attacking, and convert early initiative into fight-ending tempo.
-- Preserve key resources for turns where deleting priority targets prevents control effects or huge enemy damage.
-
-### Level 12 — Fighter 12
-**Gain**
-- Feat: Ability Improvement Strength (+2 Strength to reach 20).
-
-**Play style (Level 12)**
-- You should feel insanely powerful: keep turns centered on chaining attacks, and use extra actions to erase the biggest threat immediately.
-- Use consumables to push your action economy and movement when fights demand it.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: Slot | Item | Why it’s good | Where to get
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
 | Head | Haste Helm | Increase Movement | Chest in the Blighted Village X 32, Y 403 (Alternative Grymskull Helm). |
-| Cape | - | - | - |
 | Chest | Adamantine Splint Armour | 18 AC | Can be crafted at Grymforge (Alternative Chain Mail +1). |
 | Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room. (X295 Y69) (Alternative Gloves of Dexterity). |
 | Boots | Disintegrating Night Walkers | Free Misty Step | Obtained in Grymforge as part of Free True Soul Nere questline (Alternative Boots of Speed). |
 | Necklace | Moondrop Pendant | No Opportunity Attacks | Found in a Selûnite Glided Chest in the Owlbear Nest (Alternative Amulet of Restoration). |
 | Ring | Crusher’s Ring | Increase Movement | Can be looted or stolen from Crusher in the Goblin camp in Act 1. (Alternative Ring of Absolute Force). |
 | Ring | Caustic Band | Poison Damage | Obtained from merchant Derryth Bonecloak in the Myconid Colony. (Alternative The Sparkswall). |
-| Main Hand | Everburn Blade | 2d6 Slashing | Can be looted from Commander Zhalk during the prologue (Alternative Silver Sword of the Astral Plane or Sword of Justice). |
-| Ranged | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout Act 1 (Alternative Giantbreaker). |
+| Weapon 1 Main Hand | Everburn Blade | 2d6 Slashing | Can be looted from Commander Zhalk during the prologue (Alternative Silver Sword of the Astral Plane or Sword of Justice). |
+| Weapon 2 Ranged | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout Act 1 (Alternative Giantbreaker). |
 
-## Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | - | - | - |
-| Cape | - | - | - |
-| Chest | - | - | - |
-| Gloves | - | - | - |
-| Boots | - | - | - |
-| Necklace | - | - | - |
+| Cape | Fleshmelter | Return Damage | Found in Chest in House of Healing Morgue (Alternative Cindermoth Cloak). |
 | Ring | Killer’s Sweetheart | Auto Crit | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection). |
-| Ring | - | - | - |
-| Main Hand | - | - | - |
-| Ranged | - | - | - |
 
-## Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
 | Head | Helm of Balduran | Self-healing | Obtained in Dragon’s Sanctum on an altar X: 636 Y: -964 (Alternative Helldusk Helmet). |
 | Cape | Fleshmelter | Return Damage | Found in Chest in House of Healing Morgue (Alternative Cindermoth Cloak). |
@@ -245,36 +236,44 @@
 | Necklace | Amulet of Greater Health | 23 Constitution | Found in the House of Hope in Baldur’s Gate City (Alternative Surgeon’s Subjugation Amulet). |
 | Ring | Killer’s Sweetheart | Auto Crit | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection). |
 | Ring | Ring of Regeneration | Self-healing | Sold by Rolan at Sorcerous Sundries (Alternative Ring of Free Action). |
-| Main Hand | Balduran’s Giantslayer | Best Greatsword | Obtained as a reward for completing the Wyrmway trials (Alternative Sword of Chaos). |
-| Ranged | Gontr Mael | Best Longbow | Looted from the Steel Watcher Titan in Steel Watch Foundry (Alternative Fabricated Arbalest). |
+| Weapon 1 Main Hand | Balduran’s Giantslayer | Best Greatsword | Obtained as a reward for completing the Wyrmway trials (Alternative Sword of Chaos). |
+| Weapon 2 Ranged | Gontr Mael | Best Longbow | Looted from the Steel Watcher Titan in Steel Watch Foundry (Alternative Fabricated Arbalest). |
 
----
+## Features and Mechanics
+- Primary Ability: Strength
+- Armour Proficiency: Light, Medium, and Heavy
+- Weapon Proficiency: Simple, Martial, and Shield
+- Preferred Armor: Heavy
+- Preferred Weapon: Greatsword
+- Health Points: 10 HP + their Constitution Modifier, and then gain 6 HP + their Constitution Modifier every level thereafter.
+- Second Wind: Heal yourself with a bonus action (level 1).
+- Action Surge: Gain one additional action (level 2).
+- Extra Attack: At level 5, you unlock Extra Attack allowing you two attacks in one turn.
+- Improved Extra Attack: At level 11, every action you spend on attacks produces 3 attacks.
+- Fighter advantage described: can generate four actions in one turn when fully optimized, with each action fueling 3 attacks.
 
-# Permanent bonuses (by Act)
+## Subclass Options
 
-## Act 1
-- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
-- Awakened: Use illithid powers as a Bonus Action.
-- Scratch: Gain Find Familiar Scratch.
-- Sweet Stone Features: Blessed permanent.
-- Cheeky Quasit: Gain Summon Quasit Shovel.
-- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
-- Necromancy Of Thay: access to powerful spells in Act 3.
-- Volo’s Ersatz Eye: See Invisibility
+### Battle Manoeuvers
+- Manoeuvers are powerful attacks that use superiority dice.
+- Level 3 (choose three):
+  - Disarming Attack: Spend a superiority die to make an attack that deals an additional 1d8 damage and possibly forces the target to drop the weapons they are holding; can be used at melee or at range; you can disarm and even pick up the weapon immediately following.
+  - Trip Attack: Spend a superiority die to make an attack that deals an additional 1d8 damage and possibly knocks the target Prone; the target must be Large or smaller; can be used in melee or at range.
+  - Riposte: When a hostile creature misses you with a melee attack, expend a superiority die to retaliate with a powerful strike that deals an additional 1d8 damage (reaction).
+- Level 7 (choose two more):
+  - Precision Attack: Your next weapon attack gets an Attack Roll bonus equal to your Superiority Die; doesn’t require an action; lasts until a long rest.
+  - Pushing Attack: Spend a superiority die to deal damage type depending on the weapon used and possibly push the target back 4.5m; can be used in melee or ranged.
+- Level 10 (choose two more):
+  - Sweeping Attack: Attack multiple enemies at once; roll your superiority die for damage; acts as area-based AOE damage.
+  - Goading Attack: Deal an additional 1d8 and attempt to goad the target into attacking you; target receives Disadvantage on attacking any other creature.
 
-## Act 2
-- Potion of Everlasting Vigour: Gain +2 Strength.
-- Slayer Form: Ability to transform into the Slayer.
-- Summon Us: Allows you to summon Us.
+### Superiority Dice
+- Superiority Dice: 4 (Level 3): Your Superiority Dice are d8s. You have 4. They fuel your Battle Master manoeuvers and are expended upon use.
+- You regain expended Superiority Dice after a Short or Long Rest.
+- Superiority Dice: +1: Gain an additional Superiority Dice.
+- Improved Superiority Dice: The size of your Superiority Dice increases to 1d10.
 
-## Act 3
-- Mirror of Loss – +2 to an Ability Score of your choice.
-- Partial Ceremorphosis: Access to tier 3 illithid Powers.
-- Statue of the Gods: +2 to Saving Throws
-
----
-
-# Best consumables / items (single-use)
+## Best Consumables
 - Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
 - Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
 - Elixir of Hill Giant Strength: Increases Strength ability score to 21 until Long Rest.
@@ -286,33 +285,93 @@
 - Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
 - Elixir of Darkvision: (only non-Darkvision race): Drink to gain the ability to see in the dark up to 12m.
 
----
+## Permanent Bonuses
 
-## Optional: Illithid powers (if using tadpoles)
+### Act 1
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Awakened: Use illithid powers as a Bonus Action.
+- Scratch: Gain Find Familiar Scratch.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Volo’s Ersatz Eye: See Invisibility
+
+### Act 2
+- Potion of Everlasting Vigour: Gain +2 Strength.
+
+### Act 3
+- Mirror of Loss – +2 to an Ability Score of your choice.
+- Slayer Form: Ability to transform into the Slayer.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Statue of the Gods: +2 to Saving Throws
+- Necromancy Of Thay: access to powerful spells in Act 3.
+
+## Illithid Powers
 - Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
 - Cull of the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
 - Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
 - Blackhole: Area-based suck-in that slows targets.
 - Repulsor: Massive area knockback that can hit friendlies.
 
----
+## Gameplay Tips and Tricks
+- Battle Master Fighter Gameplay & Priorities:
+  - At the start of the game, you will feel weak until level 5 where you gain Extra Attack.
+  - Priority for the solo Fighter build: locating heavy armour, a two-handed Greatsword, and a Longbow or Heavy Crossbow.
+  - Lae’zel has powerful medium armour with 15 AC along with a Heavy Crossbow; if you don’t plan on using this companion, take her gear immediately and equip it for a big boost in overall survivability and ranged damage.
+  - Hoard potions, arrows, and consumables.
+  - The advantage of the Fighter is not needing constant long rest.
+  - Overall priority steps:
+    - Complete Prologue
+    - Recruit Other Companions
+    - Reached Emerald Grove
+    - Sell, Stock up, complete main quest
+    - Unlock Withers, respec companions if needed
+    - Progress to level 5
+    - Reach Underdark and Grymforge
+- 10 combat gameplay tips and tricks:
+  1. Initial Turn: Make sure your initial move either puts you in melee range so you can strike or attack with a range weapon.
+  2. Bonus Action: Make use of your bonus action with skills like Pommel or even shove to knock back enemies.
+  3. Potion of Speed: Use these potions to gain movement and more actions in challenging fights.
+  4. Rest: Make sure to rest when your superiority dies are low so you start with many available.
+  5. Equip Range: Find and equip a bow early because it will increase your kill potential and take advantage of Fighters weapon versatility.
+  6. Make use of Action Surge: Save Action Surge for critical moments in combat or to gain an advantage over tough opponents.
+  7. Action and Bonus Actions: Try to make use of both your action and bonus action every turn, especially with Great Weapon Master.
+  8. Maximize your Attacks: Consider using Action Surge for an additional set of attacks with Extra Attack after level 5.
+  9. Weapon Selection: Use a Greatsword due to their secondary ability and bonuses in BG3.
+  10. Utilize Maneuvers: Maneuvers are great for crowd control and should be used early in combat.
 
-## Optional: Alternative build route (from the guide)
-### Alternative Battle Master Fighter Build – Spellcaster Playstyle
-For Fighter builds seeking increased spellcasting versatility and damage output, consider switching to the Eldritch Knight subclass. Also, take a one-level dip into Warlock with the Hexblade subclass at Level 12. This dip provides valuable bonus action utility, access to two strong spells, and a potent ranged cantrip. While Warlock is a Charisma-based class, the benefits it offers significantly enhance a Fighter’s toolkit, at the cost of just one feat.
+## Alternative Build Route
+- Alternative Battle Master Fighter Build – Spellcaster Playstyle:
+  - Consider switching to the Eldritch Knight subclass.
+  - Take a one-level dip into Warlock with the Hexblade subclass at Level 12.
+  - This dip provides valuable bonus action utility, access to two strong spells, and a potent ranged cantrip.
+  - Benefits enhance a Fighter’s toolkit at the cost of just one feat.
+  - If you start with 17 Strength during character creation and plan to earn Auntie Ethel’s bonus in Act 1, you’ll have an optimal setup.
+- Alternative leveling table (as presented):
+  - Level 1 Fighter: Great Weapon Fighting
+  - Level 2 Fighter: –
+  - Level 3 Fighter: Subclass: Eldritch Knight, Booming Blade, Friends, Shield, Thunderwave, Longstrider
+  - Level 4 Fighter: Feat: +2 STR, Chromatic Orb
+  - Level 5 Fighter: –
+  - Level 6 Fighter: Feat: Great Weapon Master
+  - Level 7 Fighter: Darkness, Gust of Wind
+  - Level 8 Fighter: Feat: Savage Attacker, Misty Step
+  - Level 9 Fighter: –
+  - Level 10 Fighter: Firebolt, Protection from Good and Evil
+  - Level 11 Fighter: Scorching Ray
+  - Level 12 Warlock: Hexblade Subclass, Eldritch Blast, Toll of the Dead, Hexed, Hellish Rebuke
 
-You can still comfortably hit 20 Strength and take Great Weapon Master with your available feats. Furthermore, if you start with 17 Strength during character creation and plan to earn Auntie Ethel’s bonus in Act 1, you’ll have an optimal setup. This build gives you strong melee and ranged damage options along with added utility, making for a well-rounded and powerful Fighter.
+## Patch Changes
 
-Level Class Selection
-- 1 Fighter Great Weapon Fighting
-- 2 Fighter –
-- 3 Fighter Subclass: Eldritch Knight, Booming Blade, Friends, Shield, Thunderwave, Longstrider
-- 4 Fighter Feat: +2 STR, Chromatic Orb
-- 5 Fighter –
-- 6 Fighter Feat: Great Weapon Master
-- 7 Fighter Darkness, Gust of Wind
-- 8 Fighter Feat: Savage Attacker, Misty Step
-- 9 Fighter –
-- 10 Fighter Firebolt, Protection from Good and Evil
-- 11 Fighter Scorching Ray
-- 12 Warlock Hexblade Subclass, Eldritch Blast, Toll of the Dead, Hexed, Hellish Rebuke
+### Patch 8
+- Patch 8 introduces 12 new subclasses, each bringing distinct strengths and new synergies to character builds.
+- One standout change: significant boost to the Eldritch Knight Fighter, thanks to the effectiveness of the Booming Blade cantrip (bonus thunder damage and increased overall damage output).
+- Multiclassing Fighter with Warlock has now become a very viable combo.
+- The guide keeps the original pure Battle Master Fighter build for those who prefer that straightforward playstyle, and includes an alternative build below (11 Fighter / 1 Hexblade Warlock) for added versatility, especially effective for solo play.
+
+### Patch 7
+- The Battle Master Fighter didn’t get any updates in Patch 7 of BG3; everything about the class, like builds, combat, and how it plays, is basically the same.
+- Patch 7 focus: mods (added a modding toolkit and an in-game mod manager).
+
+<!-- :contentReference[oaicite:0]{index=0} -->
