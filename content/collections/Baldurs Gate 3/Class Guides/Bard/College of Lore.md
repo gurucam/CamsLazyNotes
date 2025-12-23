@@ -1,305 +1,470 @@
-# College of Lore Bard Build (Patch 8)
+Source: :contentReference[oaicite:0]{index=0}
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Bard 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+# College of Lore Bard Build
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Fantasy / flavor
-- A **knowledge-first spellcaster**: a Bard who wins through **wit, dialogue, exploration**, and **versatile magic** rather than raw weapon damage.
-- Plays like a **battlefield narrator**—you disrupt enemies, keep allies standing, and solve problems with skills and smart positioning.
-- The guide frames Lore Bards as **flamboyant researchers**: excellent out of combat, and a bit fragile when enemies get in your face.
+## Build Snapshot
 
-### Core playstyle in one sentence
-- **Stay at range, maintain a key concentration effect, spend Bardic Inspiration proactively, and use reaction debuffs to blunt big enemy turns.**
+### Fantasy / Flavor
+- A subclass that focuses on the collection of knowledge and magic.
+- Skilled in a variety of abilities that aid in exploration and dialogue.
+- Think of College of Lore Bards as flamboyant researchers with a unique approach to exploration.
 
-### Party role
-- **Controller / utility caster:** shuts down priority targets and reduces incoming damage with crowd control.
-- **Skill and dialogue specialist:** huge value in exploration, checks, and roleplay outcomes.
-- **Flexible support:** can patch-heal, buff, and stabilize without giving up your main actions every turn.
+### Core Playstyle
+- Buff allies, apply crowd control and debuffs, and use offensive and support spellcasting while leaning into skill proficiencies for roleplay, dialogue, and exploration.
+
+### Party Role
+- Utility and support
+- Crowd control enemies
+- Roleplay, dialogue, and exploration focus
 
 ### Pros
-- Strong **utility and support** toolkit (combat + exploration)
-- Excellent **crowd control** options and reaction-based disruption
-- Great **roleplay / dialogue** character with many skill advantages
+- Utility and Support
+- Multiple Attacks
+- Crowd Control Enemies
 
 ### Cons
-- **Low survivability** if pressured in melee
-- **Concentration-heavy** (you usually want one key effect running)
-- Limited armor options (light armor) and generally not a frontline class
+- Low Survivability
+- Concentration Heavy
+- Lacks Heavy Armour
 
-### Power spikes to look forward to
-- Level 3: **College of Lore** unlocks (Cutting Words + big skill upgrades)
-- Level 5: **Font of Inspiration** (Bardic Inspiration returns on Short Rest)
-- Level 6: **Magical Secrets** (adds major off-list spell access)
-- Level 10: **Magical Secrets** again (rounds out your endgame toolkit)
-- Level 12: Final feat / ASI to finish your Charisma plan (especially with Act 3 helm)
+### Power Spikes
+- Level 3: Subclass College of Lore (Cutting Words, skills boost)
+- Level 5: Font of Inspiration (Bardic Inspiration returns on Short Rest), Improved Bardic Inspiration
+- Level 6: Magical Secrets (extra spell selection)
+- Level 8: War Caster feat
+- Level 10: Magical Secrets (extra spell selection)
+- Level 12: Ability Improvement (+2 Charisma)
 
----
+## Character Creation
+- Race: Githyanki (Astral Knowledge, Misty Step, Mage Hand)
+- Class: Bard
+- Subclass: College of Lore
+- Background: Folk Hero
+- Ability Scores:
+  - STR: 8
+  - DEX: 16
+  - CON: 14
+  - INT: 10
+  - WIS: 10
+  - CHA: 16
+- Proficiencies:
+  - Skill Proficiencies: Acrobatics, Performance, Persuasion
+  - Saving Throw Proficiencies: Dexterity, Charisma
+  - Armor Proficiency: Light
+  - Weapon Proficiency: Simple Weapon, Hand Crossbow, Longsword, Rapier, Shortsword
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** Githyanki
-- **Class:** Bard
-- **Subclass:** College of Lore
-- **Cantrips:** Vicious Mockery, Blade Ward
-- **Spells:** Healing Word, Cure Wounds, Tasha’s Hideous Laughter, Thunderwave
-- **Background:** Folk Hero
-- **Skills:** Acrobatics, Performance, Persuasion
-- **Abilities (target):** STR 8 / DEX 16 / CON 14 / INT 10 / WIS 10 / CHA 16
+## Level Progression
 
-### Racial notes (why Githyanki)
-- **Astral Knowledge** (flexible “expertise-like” help for roleplay-heavy skill coverage)
-- **Misty Step** (mobility and safety tool)
-- **Mage Hand** (utility)
+### Level 1
+- Gain:
+  - Bardic Inspiration (class feature): 18m range; consuming a bonus action, an ally can add a +1d6 bonus to their next Attack Roll, Ability Check, or Saving Throw; recharges on Long Rest; you get 3 to start (also described as “used four times” in the Level 1 section).
+  - Astral Knowledge (Githyanki race feature): grants Proficiency in all Skills of a chosen Ability.
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Thunderwave
+- Play Style:
+  - Notes:
+    - Gameplay revolves around buff allies with Blade Ward, crowd control with Tasha’s Hideous Laughter, and healing with Healing Word and Cure Wounds.
+    - Use Thunderwave to knock back enemies and Vicious Mockery for damage and debuff.
 
-*Secondary option mentioned in the guide:* **Human** (carry capacity + extra skill proficiency via Civil Militia).
+### Level 2
+- Gain:
+  - Speak with Animals (spell selection)
+  - Jack of All Trades (class feature): add half of your Proficiency Bonus (rounded down) to Ability Checks you are not Proficient in.
+  - Song of Rest (class action)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
 
----
+### Level 3
+- Gain:
+  - Subclass: College of Lore
+  - Heat Metal (spell selection)
+  - Cutting Words (subclass feature): reaction-based; 1d6 penalty to Attack Rolls, Ability Checks, and Saving Throws until the start of your next turn; at Bard Level 5 the penalty increases to +1d8; at Bard Level 10 it increases to +1d10.
+  - Skills (conflicting notes in source):
+    - Level Progression table: “Skills: Sleight of Hand and Performance”
+    - Detailed Level 3 section: Select three skills with proficiency: Stealth, Deception, Intimidation; select two skills with Expertise: Sleight of Hand, Performance
+  - Githyanki Psionics: Jump (Githyanki feature)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+- Play Style:
+  - Notes:
+    - Cutting Words is reaction-based and consumes Bardic Inspiration; the guide suggests checking “ask” in reactions.
+    - Heat Metal is used as crowd-control early; it uses concentration; a tip given is to drop an enemy’s weapon and then pick it up.
 
-## Level-by-level progression (Bard 1 → 12)
+### Level 4
+- Gain:
+  - Friends (cantrip selection)
+  - Shatter (spell selection)
+  - Ability Improvement (feat selection): +2 Charisma
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
 
-### Level 1 — Bard 1
-**Gain**
-- **Bardic Inspiration** (bonus action; ally gains **+1d6** to next Attack Roll / Ability Check / Saving Throw; recharges on Long Rest)
-- **Astral Knowledge** (Githyanki feature: proficiency in all skills of a chosen ability)
-- **Cantrips:** Vicious Mockery, Blade Ward
-- **Spells:** Healing Word, Cure Wounds, Tasha’s Hideous Laughter, Thunderwave
+### Level 5
+- Gain:
+  - Font of Inspiration (class feature): regain all Bardic Inspiration after a Short or Long Rest
+  - Improved Bardic Inspiration (class feature): bonus gained from Bardic Inspiration increases to +1d8 and +1d10
+  - Glyph of Warding (spell selection)
+  - Misty Step (Githyanki race spell)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
+  - Glyph of Warding
+- Play Style:
+  - Notes:
+    - The guide notes this level helps when using Cutting Words frequently to debuff targets.
+    - If you want more utility and less combat focus, select Speak with Dead (the guide notes an amulet early in the game when speaking with Withers, which is why this spell isn’t advised here).
 
-**Play style (Level 1)**
-- Use **Blade Ward** when you expect weapon pressure and need a defensive turn without spending a spell slot.
-- Use **Tasha’s Hideous Laughter** as your early single-target “stop that enemy” button (watch your concentration).
-- Use **Healing Word** (bonus action, ranged) to pick allies up while still taking an action.
-- Use **Thunderwave** to create space (and for ledge knockbacks).
+### Level 6
+- Gain:
+  - Stinking Cloud (spell selection)
+  - Countercharm (class action)
+  - Magical Secrets (subclass feature): choose additional spells
+  - Magical Secrets (extra spells selected by the guide):
+    - Fireball
+    - Counterspell
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
+  - Glyph of Warding
+  - Stinking Cloud
+- Play Style:
+  - Notes:
+    - The guide’s general recommendation for Magical Secrets is Fireball and Counterspell.
+    - Stinking Cloud is selected because it can shut down actions in a massive area.
 
-### Level 2 — Bard 2
-**Gain**
-- **Spell selection:** Speak with Animals
-- **Jack of All Trades** (half proficiency to checks you’re not proficient in)
-- **Song of Rest** (party-wide “extra Short Rest” style recovery)
+### Level 7
+- Gain:
+  - Confusion (spell selection)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
+  - Glyph of Warding
+  - Stinking Cloud
+  - Confusion
+- Play Style:
+  - Notes:
+    - Confusion is described as game-changing in large fights with 6 or greater enemies; it requires concentration.
 
-**Play style (Level 2)**
-- Keep **Speak with Animals** up for questing and unexpected dialogue outcomes.
-- Combat loop stays similar: crowd control + safe positioning + smart bonus-action usage.
+### Level 8
+- Gain:
+  - Greater Invisibility (spell selection)
+  - War Caster (feat selection)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
+  - Glyph of Warding
+  - Stinking Cloud
+  - Confusion
+  - Greater Invisibility
+- Play Style:
+  - Notes:
+    - War Caster: gain Advantage on Saving Throws to maintain Concentration on a spell; can use a reaction to cast Shocking Grasp at a target moving out of melee range.
 
-### Level 3 — Bard 3
-**Subclass**
-- **College of Lore**
+### Level 9
+- Gain:
+  - Mass Cure Wounds (spell selection)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
+  - Glyph of Warding
+  - Stinking Cloud
+  - Confusion
+  - Greater Invisibility
+  - Mass Cure Wounds
+- Play Style:
+  - Notes:
+    - The guide notes Mass Cure Wounds provides a group high-level support spell, especially if a Cleric is not available or incapacitated.
 
-**Gain**
-- **Spell selection:** Heat Metal
-- **Skills Improvement:**  
-  - **Proficiency:** Stealth, Deception, Intimidation  
-  - **Expertise:** Sleight of Hand, Performance
-- **Cutting Words** (reaction; spend Bardic Inspiration to apply a penalty to enemy Attack Rolls / Ability Checks / Saving Throws)
+### Level 10
+- Gain:
+  - Improved Bardic Inspiration (class feature): bonus gained from Bardic Inspiration increases to +1d8 and +1d10
+  - Skill with Expertise: Persuasion and Stealth
+  - Light (cantrip selection)
+  - Planar Binding (spell selection)
+  - Magical Secrets (subclass feature): choose additional spells
+  - Magical Secrets (extra spells selected by the guide):
+    - Conjure Elemental
+    - Blight
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
+  - Glyph of Warding
+  - Stinking Cloud
+  - Confusion
+  - Greater Invisibility
+  - Mass Cure Wounds
+  - Planar Binding
+- Play Style:
+  - Notes:
+    - The guide notes Conjure Elemental can be used with a level 5 spell slot immediately following a long rest, and the ally lasts until death or long rest.
+    - Blight is described as helping with single-target damage which the build lacks.
 
-**Play style (Level 3)**
-- Turn on **“Ask”** for Cutting Words reactions so you don’t waste Bardic Inspiration in low-stakes moments.
-- **Heat Metal** is your early “weapon user shutdown” tool—disarm pressure targets and deny them value.
+### Level 11
+- Gain:
+  - Eyebite (spell selection)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
+  - Glyph of Warding
+  - Stinking Cloud
+  - Confusion
+  - Greater Invisibility
+  - Mass Cure Wounds
+  - Planar Binding
+  - Eyebite
+- Play Style:
+  - Notes:
+    - Eyebite offers three effects that last for 10 turns; one effect is sleep, allowing you to use an action to put creatures to sleep without casting another spell slot.
+    - The guide notes you can “upcast” spells using a level 6 spell slot.
 
-### Level 4 — Bard 4
-**Feat**
-- **Ability Improvement:** +2 Charisma
+### Level 12
+- Gain:
+  - Greater Restoration (spell selection)
+  - Ability Improvement (feat selection): +2 Charisma
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Thunderwave
+  - Cure Wounds
+  - Tasha’s Hideous Laughter
+  - Speak with Animals
+  - Heat Metal
+  - Shatter
+  - Glyph of Warding
+  - Stinking Cloud
+  - Confusion
+  - Greater Invisibility
+  - Mass Cure Wounds
+  - Planar Binding
+  - Eyebite
+  - Greater Restoration
 
-**Gain**
-- **Cantrip selection:** Friends
-- **Spell selection:** Shatter
-
-**Play style (Level 4)**
-- The guide’s plan is to build toward **20 Charisma** by level 12, then push higher with Act 3 gear.
-- **Friends** is strong for dialogue utility; **Shatter** gives you non-concentration burst AoE damage.
-
-### Level 5 — Bard 5
-**Gain**
-- **Font of Inspiration** (Bardic Inspiration recharges on Short Rest)
-- **Improved Bardic Inspiration** (die increases)
-- **Spell selection:** Glyph of Warding
-
-**Play style (Level 5)**
-- You can spend Bardic Inspiration more aggressively now because it returns on **Short Rest**.
-- **Glyph of Warding** becomes a flexible answer to clustered enemies and setup turns.
-
-### Level 6 — Bard 6
-**Gain**
-- **Countercharm**
-- **Magical Secrets:** Fireball, Counterspell
-- **Spell selection:** Stinking Cloud
-
-**Play style (Level 6)**
-- This is a major spike: you gain powerful off-list options and a strong reaction answer to enemy spellcasting.
-- Use **Stinking Cloud** as a durable area denial tool when fights get chaotic.
-
-### Level 7 — Bard 7
-**Gain**
-- **Spell selection:** Confusion
-
-**Play style (Level 7)**
-- Use **Confusion** when the enemy group is dense and you want their turns to fall apart without needing to out-damage them.
-
-### Level 8 — Bard 8
-**Feat**
-- **War Caster**
-
-**Gain**
-- **Spell selection:** Greater Invisibility
-
-**Play style (Level 8)**
-- **War Caster** supports the build’s concentration-heavy identity (your best turns often depend on one effect staying up).
-- **Greater Invisibility** enables safer positioning and stronger uptime in difficult fights.
-
-### Level 9 — Bard 9
-**Gain**
-- **Spell selection:** Mass Cure Wounds
-
-**Play style (Level 9)**
-- Adds a stronger “team reset” option when multiple allies are hurt at once.
-
-### Level 10 — Bard 10
-**Gain**
-- **Skills:** Persuasion, Stealth
-- **Cantrip selection:** Light
-- **Magical Secrets:** Conjure Elemental, Blight
-- **Spell selection:** Planar Binding
-
-**Play style (Level 10)**
-- Your toolkit rounds out: you can add summon pressure, single-target damage, and stronger control options based on encounter needs.
-- The guide’s emphasis remains: solve fights through **control + tempo**, not standing in melee.
-
-### Level 11 — Bard 11
-**Gain**
-- **Spell selection:** Eyebite
-
-**Play style (Level 11)**
-- **Eyebite** adds a flexible high-level control option—use it when you need a premium action each turn that also pressures priority targets.
-
-### Level 12 — Bard 12
-**Feat**
-- **Ability Improvement:** +2 Charisma
-
-**Gain**
-- **Spell selection:** Greater Restoration
-
-**Play style (Level 12)**
-- Finish your Charisma plan, then transition to optimizing gear per Act and encounter.
-- You now have a full endgame spell list for healing, control, and high-impact choices.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it’s good | Where to get**.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Cap of Curing | “Inspiration Heals” (healing synergy for early support) | Locked gilded chest behind Alfira in the Druid Grove |
-| Cape | - | - (Not specified in source) | - (Not specified in source) |
-| Chest | Blazer of Benevolence | Gain HP on Bardic Inspiration | Reward for rescuing Volo from the Goblin Camp |
+| Head | Cap of Curing Inspiration | Heals | The locked gilded chest behind Alfira is singing in the Druid Grove |
+| Chest | Blazer of Benevolence | HP on Bardic Inspiration | Reward for rescuing Volo from the Goblin Camp |
 | Gloves | Gloves of Hail of Thorns | Free Hail of Thorns | Sold by Brem in the Zhentarim Hideout |
-| Boots | Disintegrating Night Walkers | Mobility and Misty Step | Dropped by True Soul Nere at the Grymforge |
-| Necklace | Silver Pendant | Free Guidance | Skeleton in an abandoned Harper Outpost |
-| Ring | Sunwalker’s Gift | Darkvision | Buy from Blurg in the Myconid Colony (Underdark) |
-| Ring | The Whispering Promise | Heals grant Blessed | Sold by Volo (Druid Grove) or Grat the Trader (Goblin Camp) |
-| Main Hand | Melf’s First Staff | Free Melf’s Acid Arrow | Sold by Blurg in the Myconid Colony (Underdark) |
-| Ranged | Bow of Awareness | +1 Initiative | Sold by Roah Moonglow in the Shattered Sanctum |
-| Instrument | Violin | Starting instrument | Can be found as random loot |
+| Boots | Disintegrating Night Walkers | Mobility & Misty Step | Dropped by True Soul Nere at the Grymforge |
+| Necklace | Silver Pendant | Free Guidance | Found on a skeleton in an abandoned Harper Outpost |
+| Ring | Sunwalker’s Gift | Darkvision | Buy it from Blurg in Myconid Colony in the Underdark |
+| Ring | The Whispering Promise | Heals Grant Blessed | Sold by Volo in the Druid Grove or by Grat the Trader in the Goblin Camp |
+| Weapon 1 Main Hand | Melf’s First Staff | Free Melf’s Acid Arrow | Sold by Blurg in the Myconid Colony |
+| Weapon 2 Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum |
+| Musical Instrument | Violin | Starting instrument | Can be found as random loot |
 
-## Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Neck | Spellcrux Amulet | Restore a spell slot | Dropped by The Warden in Moonrise Towers Prison (X: 569, Y: -650) |
-| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Dropped by Fist Marcus at the Last Light Inn |
-| Ring | Killer’s Sweetheart | Auto Critical | Found inside the Self-Same Trial in the Gauntlet of Shar (X: -833, Y: -729) |
-| Ranged | Darkfire Shortbow | Fire and Cold resistance | Sold by trader Dammon (Last Light Inn, Act 2) (X: -35, Y: 169) |
+| Necklace | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 |
+| Ring | Shifting Corpus Ring | Free Invisibility & Blur | Drop by Fist Marcus at the Last Light Inn |
+| Ring | Killer’s Sweetheart | Auto Critical | Found inside the Gauntlet of Shar ( X: -833 Y: -729). (Conflicting notes in source: also listed as found inside the Self-Same Trial in the Gauntlet of Shar.) |
+| Weapon 2 Ranged | Darkfire Shortbow | Fire & Cold Resist | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 |
 
-## Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Birthright | +2 Charisma | Sorcerous Sundries (Lower City, Baldur’s Gate) |
-| Cloak | Cloak of the Weave | +1 Spell Save DC and Spell Attack Rolls | Sold by Helsik at the Devil’s Fee |
-| Chest | Elegant Studded Leather | +2 Initiative and Advantage on Stealth | Reward for Return Rakath’s Gold quest |
-| Gloves | Quickspell Gloves | Cantrips as a bonus action | Purchased at Lorroakan’s Projection at Sorcerous Sundries |
-| Boots | Helldusk Boots | Hellcrawler action; ignore Difficult Terrain | Gilded chest on the top floor of Wyrm’s Rock Fortress |
-| Neck | Spellcrux Amulet | Restore a spell slot | Dropped by The Warden in Moonrise Towers Prison (X: 569, Y: -650) |
-| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Dropped by Fist Marcus at the Last Light Inn |
-| Ring | Killer’s Sweetheart | Auto Critical | Found inside the Gauntlet of Shar (Self-Same Trial) |
-| Main Hand | Markoheshkir | Free spells and +1 Spell Attack Rolls | Ramazith’s Tower |
-| Ranged | Darkfire Shortbow | Fire and Cold resistance | Sold by trader Dammon (Last Light Inn, Act 2) (X: -35, Y: 169) |
-| Instrument | Glimmergad’s Selgaunt Fiddle | Unique instrument | Purchased at Chromatic Scale (Lower City) |
+| Head | Birthright | +2 Charisma | Sorcerer’s Sundries store in the Lower City of Baldur’s Gate |
+| Cape | Cloak of the Weave | +1 Spell Save & Roll | Sold by Helsik at the Devil’s Fee |
+| Chest | Elegant Studded Leather | +2 Initiative, Advantage on Stealth | Reward for Return Rakath’s Gold quest |
+| Gloves | Quickspell Gloves | Cantrips Bonus Action | Purchased at Lorroakan’s Projection at Sorcerous Sundries |
+| Boots | Helldusk Boots | Hellcrawler action, ignore Difficult Terrain | Gilded Chest on the top floor of Wyrm’s Rock Fortress |
+| Necklace | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 |
+| Ring | Shifting Corpus Ring | Free Invisibility & Blur | Drop by Fist Marcus at the Last Light Inn |
+| Ring | Killer’s Sweetheart | Auto Critical | Found inside the Gauntlet of Shar ( X: -833 Y: -729). (Conflicting notes in source: also listed as found inside the Self-Same Trial in the Gauntlet of Shar.) |
+| Weapon 1 Main Hand | Markoheshkir | Free Spells, +1 Roll | At Ramazith’s Tower |
+| Weapon 2 Ranged | Darkfire Shortbow | Fire & Cold Resist | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 |
+| Musical Instrument | Glimmergad’s Selgaunt Fiddle | Unique Instrument | Purchased at Chromatic Scale in the Lower City |
 
----
+## Features and Mechanics
+- Primary Ability: Charisma
+- Saving Throw Proficiencies: Dexterity and Charisma
+- Subclass: College of Lore
+- Armor Proficiency: Light
+- Weapon Proficiency: Simple Weapon, Hand Crossbow, Longsword, Rapier, Shortsword
+- Preferred Armor: Light
+- Preferred Weapon: Quarterstaff
+- Preferred Instrument: Violin
+- Bardic Inspiration: Add a +1d6 bonus to the allies next Attack Roll, Ability Check, or Saving Throw.
+- Song of Rest: A Bard spell essentially providing a Short Rest for your party.
+- Bard Spell Mechanics:
+  - Cantrips: Like spells, but you can cast them infinitely, and they don’t take your spell slots.
+  - Spell Slots: At each level, you gain access to more usage of spells and high-tier spells but only have a finite number of spells until a long rest.
+  - Learn Spells: Unlike Wizard, you get opportunities at leveling up to unlearn and learn new spells.
+  - Concentration: A spell mechanic that requires you to maintain concentration otherwise, the spell effect ends.
+- Bardic Inspiration Explained (summary from guide):
+  - Bonus action to choose one creature other than yourself within 60 feet who can hear you; the creature gains one Bardic Inspiration die (a d6) to add to an attack roll, ability check, or saving throw.
+  - Recharges on long rest; lasts until a long rest; does not require concentration.
+- Bard Spell Slots (chart from guide):
+  | Bard Level | 1st | 2nd | 3rd | 4th | 5th | 6th |
+  | --- | --- | --- | --- | --- | --- | --- |
+  | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
+  | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
+  | 3 | 4 | 2 | 0 | 0 | 0 | 0 |
+  | 4 | 4 | 3 | 0 | 0 | 0 | 0 |
+  | 5 | 4 | 3 | 2 | 0 | 0 | 0 |
+  | 6 | 4 | 3 | 3 | 0 | 0 | 0 |
+  | 7 | 4 | 3 | 3 | 1 | 0 | 0 |
+  | 8 | 4 | 3 | 3 | 2 | 0 | 0 |
+  | 9 | 4 | 3 | 3 | 3 | 1 | 0 |
+  | 10 | 4 | 3 | 3 | 3 | 2 | 0 |
+  | 11 | 4 | 3 | 3 | 3 | 2 | 1 |
+  | 12 | 4 | 3 | 3 | 3 | 2 | 1 |
 
-# Permanent bonuses (by Act)
+## Subclass Options
+### College of Lore Progression
+- Cutting Words (Level 3): It receives a 1d6 penalty to Attack Rolls, Ability Checks, and Saving Throws until the start of your next turn.
+- Bonus Proficiencies (Level 3): Choose 3 Proficiencies of your choice.
+- Magical Secrets (Levels 6 & 10): Choose 2 Spells from the Magical Secrets spell list of Level 3 or lower.
 
-## Act 1
-- **Auntie Ethel’s Hair** — *Gain +1 to an Ability Score.*  
-- **Awakened** — *Use illithid powers as a Bonus Action.*  
-- **Scratch** — *Gain Find Familiar: Scratch.*  
-- **Cheeky Quasit** — *Gain Summon Quasit: Shovel.*  
-- **Loviatar’s Love** — *At 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.*  
-- **Necromancy Of Thay** — *Access to powerful spells in Act 3.*  
-- **Volo’s Ersatz Eye** — *See Invisibility.*  
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Elixir of Viciousness: Increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Potion of Flying: 10 turns of flying.
+- Potion of Angelic Slumber: Fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Peerless Focus: Gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: Gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Universal Resistance: Gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
-## Act 2
-- **Potion of Everlasting Vigour** — *Gain +2 Strength.*  
-- **Slayer Form** — *Ability to transform into the Slayer.*  
-- **Summon Us** — *Allows you to summon Us.*  
+## Permanent Bonuses
 
-## Act 3
-- **Mirror of Loss** — *+2 to an Ability Score of your choice.*  
-- **Partial Ceremorphosis** — *Access to tier 3 illithid Powers.*  
-- **Sweet Stone Features** — *Blessed permanent.*  
-- **Statue of the Gods** — *+2 to Saving Throws*  
+### Act 1
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Awakened: Use illithid powers as a Bonus Action.
+- Scratch: Gain Find Familiar Scratch.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Volo’s Ersatz Eye: See Invisibility
 
----
+### Act 2
+- Potion of Everlasting Vigour: Gain +2 Strength.
 
-# Best consumables / items (single-use)
-- **Elixir of Bloodlust** — once per turn on kill: gain **5 temp HP** and an **additional action**
-- **Potion of Speed** — 3 turns of an increased action via the Haste condition
-- **Potion of Invisibility** — become invisible for 1 minute; attacking or casting spells ends the status
-- **Elixir of Viciousness** — increase your critical hit chance (ingredients: Vitriol of Shadowroot Sac, any Ashes)
-- **Potion of Flying** — 10 turns of flying
-- **Potion of Angelic Slumber** — fall asleep for two turns, then restore all spell slots, hit points, and abilities
-- **Elixir of Peerless Focus** — advantage on concentration saves (ingredients: Sublimate of Belladona, and any ashes)
-- **Elixir of Vigilance** — +5 initiative and you cannot be surprised (ingredients: Sublimate of bloodstained hook, any ashes)
-- **Superior Elixir of Arcane Cultivation** — gain a level 3 spell slot (ingredients: Solution of Night Orchid, any Vitriol)
-- **Elixir of Universal Resistance** — resistance to all damage (ingredients: Vitriol of Divine Miasma, any Sublimate)
+### Act 3
+- Mirror of Loss: +2 to an Ability Score of your choice.
+- Slayer Form: Ability to transform into the Slayer.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Statue of the Gods: +2 to Saving Throws
+- Necromancy Of Thay: access to powerful spells in Act 3.
 
----
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Black Hole: Area-based suck-in that slows targets.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: This is the priority power you want to obtain because you can force enemies to attack something else.
 
-## Optional: Illithid powers (if using tadpoles)
-- **Luck of the Far Realms** — when you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit
-- **Cull the Weak** — when you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1–4 Psychic damage
-- **Psionic Backlash** — reaction Psychic damage when an enemy within 9m casts a spell (scales with spell level)
-- **Black Hole** — area pull that slows targets
-- **Repulsor** — massive area knockback that can hit friendlies
-- **Charm** — force enemies to attack something else (priority power in the guide)
+## Gameplay Tips and Tricks
+1. Inspire Allies: Constantly use Combat Inspiration during and before a fight to give them a massive advantage.
+2. Bonus Action: Always exhaust your bonus action with Bardic Inspiration, potion, hide even shove can be beneficial.
+3. Environment Protection: Use line of sight, hide, and dash to avoid extra damage from melee aggressors as Bards are not equipped for frontline fighting.
+4. Knockback: Having a spell-like Thunderwave is essential to handling pressure from melee targets.
+5. Crowd Control: Bards should use single target and area-based control spells to reduce incoming damage.
+6. Rest Constantly: Constantly return to camp for a full rest so you enter with a full complement of spell slots.
+7. Use Consumables: Use the Potion of Speed in a tough fight to get an extra action per turn for a limited duration.
+8. Heal: The goal is to keep damage dealers from having to self-heal or use a bonus action potion, so constantly heal them to keep group damage high.
+9. Roleplay: Bards are god-tier RP characters and should mostly be doing dialogue options because of their huge built-in advantages.
+10. Use Skills: Check your dice roll score by hovering over a dialogue check to see what gives you the best advantage.
 
----
+## Alternative Build Route
+- Alternative College of Lore Bard Build (described as an alternative Solo Bard build):
+  - Start at Level 1 with Warlock, choosing the Hexblade subclass; gain Eldritch Blast and Booming Blade cantrips.
+  - Level 2: another level in Warlock to gain Hellish Rebuke and Eldritch Invocations (Devil’s Sight and One with Shadows).
+  - Level 3: multiclass into Bard; select subclass at Level 5; for this build, College of Swords is stated as the best option.
+  - Finish with Fighter and the Eldritch Knight subclass.
+- Alternative Build Level Outline (as listed in the guide):
+  - Level 1: Warlock (Subclass: Hexblade showed in the guide), Eldritch Blast, Booming Blade, Hex, Wrathful Smite
+  - Level 2: Warlock, Hellish Rebuke, Eldritch Invocations: Devil’s Sight and One with Shadows
+  - Level 3: Bard (Multiclass: Bard), Vicious Mockery, Friends, Longstrider, Speak with Animals, Tasha’s Hideous Laughter, Charm Person
+  - Level 4: Bard, Thunderwave spell
+  - Level 5: Bard, College of Swords subclass, Duelling fight style, Invisibility spell
+  - Level 6: Bard, Mage Hand cantrip, Heat Metal spell, Feat: +2 Charisma
+  - Level 7: Bard, Glyph of Warding spell
+  - Level 8: Bard, Fear spell, replace Heat Metal with Hold Person
+  - Level 9: Fighter (Multiclass: Fighter), Defence Fighting Style
+  - Level 10: Fighter, Action Surge
+  - Level 11: Fighter, Subclass: Eldritch Knight, Chromatic Orb, Magic Missile spells, Bursting Sinew, Fire Bolt cantrips, Shield extended
+  - Level 12: Fighter, Feat: Alert, Protection from Good and Evil
 
-## Optional: Alternative build route (from the guide)
-- The guide’s alternative is a **solo hybrid** route that starts **Warlock (Hexblade)** for aggressive cantrip access, then shifts into Bard, and finishes with Fighter for martial scaling:
-  - **Warlock 1 → 2, Bard 3 → 8, Fighter 9 → 12**
-- **Level-by-level (alternative):**
-  - **Level 1 — Warlock:** Subclass: Hexblade; Eldritch Blast, Booming Blade; Hex, Wrathful Smite
-  - **Level 2 — Warlock:** Hellish Rebuke; Eldritch Invocations: Devil’s Sight, One with Shadows
-  - **Level 3 — Bard:** Multiclass: Bard; Vicious Mockery, Friends; Longstrider, Speak with Animals, Tasha’s Hideous Laughter, Charm Person
-  - **Level 4 — Bard:** Thunderwave
-  - **Level 5 — Bard:** College of Swords; Duelling fight style; Invisibility
-  - **Level 6 — Bard:** Mage Hand; Heat Metal; Feat: +2 Charisma
-  - **Level 7 — Bard:** Glyph of Warding
-  - **Level 8 — Bard:** Fear; replace Heat Metal with Hold Person
-  - **Level 9 — Fighter:** Multiclass: Fighter; Defence Fighting Style
-  - **Level 10 — Fighter:** Action Surge
-  - **Level 11 — Fighter:** Subclass: Eldritch Knight; Chromatic Orb, Magic Missile; Bursting Sinew, Fire Bolt; Shield extended
-  - **Level 12 — Fighter:** Feat: Alert; Protection from Good and Evil
+## Patch Changes
+### Patch 8
+- Patch 8 changes described in the guide:
+  - Introduction of the College of Glamour subclass and access to the Booming Blade cantrip.
+  - Bards don’t natively learn Booming Blade; the guide states multiclassing into Warlock can provide access, and further adding Fighter can create a front-line hybrid style.
+
+### Patch 7
+- The guide states the College of Lore Bard class didn’t receive any balance changes with Patch 7.
+- Patch 7 focus noted by the guide: mods and new cinematic scenes focusing on evil endings; modding toolkit and an in-game mod manager.
+- The guide includes the statement: “This best College of Swords Bard Build Guide remained unchanged in Baldur’s Gate 3 Patch 7.” (Included as written in the source.)
