@@ -1,287 +1,138 @@
-# Wild Magic Barbarian Build (Patch 8)
+<!-- Source: :contentReference[oaicite:0]{index=0} -->
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Barbarian 1 → 10, Fighter 1 → 2)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+# Best Baldur’s Gate 3 Barbarian Wild Magic Build Guide
 
-## Build snapshot
-### Fantasy / flavor
-- Wild, chaotic Barbarian whose Rage triggers **random magical surges** (sometimes absurdly strong).
-- Gets real party utility at Level 6 with **Bolstering Magic** (boon + spell slot restores).
-- Plays like a melee burst DPS… with occasional magical “wildcard” turns.
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
 
-### Core playstyle in one sentence
-- Rage into a **Wild Magic surge**, smash with **Reckless Attack + GWM**, and pre-buff with **Bolstering Magic** so your burst turns never slow down.
+## Build Snapshot
 
-### Party role
-- Frontline burst DPS with occasional AoE/control from surges.
-- Support-adjacent bruiser that can **feed casters spell slots** and help vs spell-heavy fights.
+### Fantasy / Flavor
+- Ultimate melee warrior relying on raw strength and ferocity to tear through enemies.
+- Channels chaotic and unpredictable magical energy into rage, tapping into randomness and wild magic.
+- The randomness of encounters is what’s interesting, different, and fun about the build.
+
+### Core Playstyle
+- Use a two-handed weapon, stay aggressive in melee, activate your Wild Magic rage for a random extra effect, and lean on durability and simple high single-target damage (avoid heavy armour because it ruins Rage mechanics).
+
+### Party Role
+- Front-line melee damage dealer focused on high single-target damage, simplicity, and durability.
+- Durable bruiser with Rage-based physical damage resistance and strong Strength checks/saving throws while raging.
+- Unpredictable wildcard: rage can add a random magical effect that can help or hinder you.
 
 ### Pros
-- Explosive damage turns once GWM + Extra Attack + Action Surge are online.
-- Bolstering Magic adds real group value (attack boon + spell slot restores).
-- Unstable Backlash at 10 can turn incoming damage into extra surge value.
+- High single-target damage.
+- Durable and hard to bring down while raging (damage resistance).
+- Unique and fun due to Wild Magic randomness when you rage.
 
 ### Cons
-- Surges are unpredictable—some are awkward depending on positioning.
-- Still lives and dies by melee uptime; you need movement and good target selection.
+- Rage: Wild Magic can backfire (random effects can help or hinder you).
+- You can’t cast or concentrate on spells while raging.
+- Using clothing for gear sets can involve risk and reward due to lower AC (more vulnerable to hits).
 
-### Power spikes to look forward to
-- Level 3: **Rage: Wild Magic** + Magic Awareness (the subclass “turns on”).
-- Level 4: **Great Weapon Master** (bonus action attacks start).
-- Level 5: **Extra Attack** (big damage spike).
-- Level 6: **Bolstering Magic** (pre-buff boon + slot restores).
-- Level 10: **Unstable Backlash** (more surge cycling).
-- Level 12: **Action Surge** (double-turn burst).
+### Power Spikes
+- Level 3: Subclass Wild Magic (Rage: Wild Magic) and Magic Awareness.
+- Level 4: Great Weapon Master feat (bonus attack utility).
+- Level 5: Extra Attack (plus Fast Movement).
+- Level 6: Bolstering Magic (Boon + spell slot recovery options).
+- Level 7: Feral Instinct (+3 Initiative; can’t be surprised).
+- Level 12: Action Surge (via Fighter multiclass in this setup).
 
----
+## Character Creation
+- Race: Half-Orc
+- Class: Barbarian
+- Subclass: Wild Magic
+- Background: Soldier
+- Ability Scores: STR 16, DEX 14, CON 16, INT 8, WIS 10, CHA 10
+- Proficiencies: Survival, Perception
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** Half-Orc
-- **Class:** Barbarian
-- **Subclass:** Wild Magic
-- **Background:** Soldier
-- **Skills:** Survival, Perception
-- **Abilities (target):** STR 16 / DEX 14 / CON 16 / INT 8 / WIS 10 / CHA 10
+## Level Progression
 
-### Racial notes (why Half-Orc)
-- **Relentless Endurance** (survivability “fail-safe” when you’d drop)
-- **Savage Attacks** (extra damage on crits—perfect for kill/crit snowball turns)
-- **Darkvision** (quality-of-life)
+### Level 1
+- Gain: Unarmored Defense; Rage
+- Play Style: Use your bonus action to activate Rage on the first turn, then attack. Rage ends early if you don’t attack an enemy or take damage each turn; you can’t cast or concentrate on spells while raging. You want to either use medium armor or clothing, and a two-handed weapon preferred a Greatsword.
 
-*Secondary option mentioned in the guide:* **High Elf** (take **Booming Blade** as your free cantrip if you want to experiment).
+### Level 2
+- Gain: Reckless Attack; Dangerous Sense
+- Play Style: Use Rage as your bonus action first turn and charge into battle. If you are in melee range, hit with Reckless Attack as your main damage dealer; keep moving forward and use ranged attacks if necessary to keep Rage active.
 
-### Early-game priorities (from the guide)
-- Complete Prologue
-- Recruit Companions
-- Unlock Withers, respec companions to proper class/ability score
-- Collect the Necromancy of Thay (important in Act 3)
-- Reached Hollowed City/Druid Grove
-- Sell, stock up, complete quests
-- Unlock summons (Scratch, Shovel)
-- Progress to level 5
-- Reach Underdark and Grymforge
-- Check all Permanent Bonuses in Act 1 and the best Gear
+### Level 3
+- Gain: Subclass: Wild Magic; Extra Rage Charge; Magic Awareness; Rage: Wild Magic
+- Play Style: Continue activating Rage: Wild Magic at the start of your turn using a bonus action. Use Reckless Attack as your primary damage source. On your second turn, you now have an optional Magic Awareness to help with defense against spells.
 
----
+### Level 4
+- Gain: Feat: Great Weapon Master
+- Play Style: Look to kill lower health targets to take advantage of Great Weapon Master. Combat should be initiated using your action first, saving your bonus action for a Great Weapon Master attack after a critical hit or kill.
 
-## Level-by-level progression (Barbarian 1 → 10, Fighter 1 → 2)
-> This build is very “turn-plan” driven. Treat each level’s **Play style** as your default combat loop.
+### Level 5
+- Gain: Extra Attack; Fast Movement
+- Play Style: First turn is standard: bonus action to activate Rage and charge in with Reckless Attack. Extra Attack plus Great Weapon Master bonus action attack allows multiple attacks per turn; in hard fights, a Potion of Speed adds even more attacks.
 
-### Level 1 — Barbarian 1
-**Gain**
-- **Unarmoured Defence** (AC = 10 + DEX mod + CON mod while not wearing armour; shields still work)
-- **Rage** (bonus damage + physical resistances; keep it active by attacking or taking damage)
+### Level 6
+- Gain: Additional Rage Charge; Bolstering Magic: Boon; Bolstering Magic: Level 1 Spell Slot; Bolstering Magic: Level 2 Spell Slot
+- Play Style: Bolstering Magic: Boon can be used as a pre-buff outside combat (it lasts 10 turns). Spell slot recovery can be used inside or outside combat; gameplay otherwise remains unchanged.
 
-**Play style (Level 1)**
-- Start real fights by using **Rage** as your bonus action, then close distance and attack.
-- Keep a ranged weapon equipped so you can always attack once per turn to maintain Rage.
-- Plan your gear: **Bracers of Defence** only work with **no armour**, but medium armour can give higher AC—pick one approach and build around it.
-- Do **not** wear heavy armour (it breaks Rage mechanics).
+### Level 7
+- Gain: Feral Instinct
+- Play Style: You gain a +3 bonus to Initiative and can’t be surprised, helping you act early in the first round to eliminate the highest priority target and reduce damage for you and your team.
 
-### Level 2 — Barbarian 2
-**Gain**
-- **Reckless Attack** (Advantage on melee attacks; enemies get Advantage to hit you until your next turn)
-- **Danger Sense** (Advantage on Dexterity saves vs traps, spells, surfaces)
+### Level 8
+- Gain: Feat: Ability Improvement (+2 Strength to reach 18)
+- Play Style: The premise is to constantly critical strike or land killing blows to proc Great Weapon Master’s bonus action attack. Keep it simple and aggressive.
 
-**Play style (Level 2)**
-- Use **Reckless Attack** as your main damage button; it’s worth it when you can end threats quickly.
-- Turn 1 Rage → charge; if you can’t reach melee, fire a ranged shot to keep Rage active.
+### Level 9
+- Gain: Brutal Critical; Bolstering Magic: Level 3 Spell Slot
+- Play Style: Not much changes besides passive benefits like Brutal Critical. Level 3 Spell Slot recovery is a tool that can be helpful when every long rest is painful on resources.
 
-### Level 3 — Barbarian 3
-**Gain**
-- **Subclass: Wild Magic**
-- **Rage: Wild Magic** (your Rage triggers a random magical effect)
-- **Magic Awareness** (bonus action: allies in range add proficiency bonus to saves vs spells for 1 turn)
-- **Extra Rage charge**
+### Level 10
+- Gain: Unstable Backlash
+- Play Style: While enraged, when you take damage or fail a saving throw, you trigger another Wild Magic effect that replaces the current one—adding more chaos and uncertainty.
 
-**Play style (Level 3)**
-- Open with **Rage: Wild Magic** every fight; lean into whatever surge you roll (some are huge tempo swings).
-- Use **Reckless Attack** as your default action; **Magic Awareness** is your early bonus action utility when fighting casters.
+### Level 11
+- Gain: Fighter (Great Weapon Fighting Style; Second Wind)
+- Play Style: The reason given for multiclassing is Action Surge later (a once-per-short-rest extra action in combat). If you do not wish to multiclass, the guide notes you can continue Barbarian and take Ability Improvement +2 Strength at level 12 instead.
 
-### Level 4 — Barbarian 4
-**Gain**
-- **Feat: Great Weapon Master (GWM)** (crit/kill → bonus action attack; toggleable -5 to hit / +10 damage)
+### Level 12
+- Gain: Fighter (Action Surge)
+- Play Style: Action Surge gives an extra action in combat (recharges on short rest). With Great Weapon Master and Extra Attack, this adds significantly more attacks; the guide notes you can take this further with Haste effects. If you wanted a traditional Barbarian for all 12 levels, the guide suggests Ability Improvement +2 Strength or the Alert feat.
 
-**Play style (Level 4)**
-- Spend your **Action** first and save your **bonus action** for the GWM follow-up attack.
-- Toggle off the -5/+10 portion if accuracy is too low; toggle it back on when your hit chance improves.
-- Focus low-health targets to chain kills and create extra attacks.
-
-### Level 5 — Barbarian 5
-**Gain**
-- **Extra Attack** (2 attacks with the Attack action)
-- **Fast Movement** (+ movement while not wearing heavy armour)
-
-**Play style (Level 5)**
-- Core loop: turn 1 Rage → **two attacks** → try to proc **GWM bonus attack** via kill/crit.
-- Hard fights: stack **Potion of Speed/Haste** for more actions and a higher chance to proc GWM.
-- Use weapon skills (e.g., Lacerate) when they help set up later turns or lock down enemies.
-
-### Level 6 — Barbarian 6
-**Gain**
-- **Bolstering Magic: Boon** (action: +1d4 to Attack Rolls and Ability Checks for 10 turns)
-- **Bolstering Magic: Spell Slot restore** (Level 1/2 slots for an ally)
-- **Additional Rage charge**
-
-**Play style (Level 6)**
-- Best use: **pre-buff** with Bolstering Magic Boon right before a fight so you don’t spend an action mid-combat.
-- Spell slot restores are clutch on longer adventuring days—feed your party casters resources when long rests are tight.
-
-### Level 7 — Barbarian 7
-**Gain**
-- **Feral Instinct** (+3 Initiative; can’t be Surprised)
-
-**Play style (Level 7)**
-- High initiative means you start fights early—delete or disable priority targets before they act.
-
-### Level 8 — Barbarian 8
-**Gain**
-- **Feat: Ability Improvement** (+2 STR → target 18)
-
-**Play style (Level 8)**
-- More STR improves hit chance and damage, which increases your GWM consistency (kill/crit → bonus attack).
-- Anything that boosts hit chance (e.g., Bless) or advantage increases your “2 attacks + GWM” loop reliability.
-
-### Level 9 — Barbarian 9
-**Gain**
-- **Brutal Critical** (extra damage die on critical hits)
-- **Bolstering Magic: Level 3 Spell Slot restore** (for an ally)
-
-**Play style (Level 9)**
-- Mostly passive power—keep playing aggressive and let crits/kills fuel your GWM turns.
-- Use the Level 3 slot restore when your party needs to stretch resources between long rests.
-
-### Level 10 — Barbarian 10
-**Gain**
-- **Unstable Backlash** (while enraged, taking damage or failing a save triggers a new Wild Magic effect)
-
-**Play style (Level 10)**
-- Expect more surge cycling—sometimes it’s chaos, sometimes it’s a huge upgrade. Position so you can capitalize on the better surges.
-
-### Level 11 — Fighter 1
-**Gain**
-- **Fighting Style: Great Weapon Fighting** (reroll 1s/2s on damage dice with two-handed weapons)
-- **Second Wind** (bonus action self-heal)
-
-**Play style (Level 11)**
-- This is the setup turn for Level 12: you’re here for **Action Surge**.
-- Second Wind is fine in a pinch, but potions usually heal more—use whichever fits the moment.
-
-### Level 12 — Fighter 2
-**Gain**
-- **Action Surge** (extra action, recharges on short rest)
-
-**Play style (Level 12)**
-- Your burst turn math from the guide: **2 attacks** → **Action Surge (2 more)** → **Haste/Potion of Speed (2 more)** → (optional) **GWM bonus attack**.
-- If you stay Barbarian 12 instead, take **+2 STR** or **Alert**—but Action Surge is the multiclass payoff.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it’s good | Where to get**.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Haste Helm | Increase Movement | Chest in the Blighted Village (X: 32, Y: 403) |
-| Chest | Bloodguzzler Garb | Extra damage clothing | Loot it from Bulette’s body in the Underdark |
-| Gloves | Bracers of Defence | +2 AC (no armour) | Apothecary’s Cellar beneath the Blighted Village (X: -656, Y: -370) |
-| Boots | Linebreaker Boots | Wrath when Dash | Loot Beastmaster Zurk’s body in the Worg Pens |
-| Neck | Amulet of Misty Step | Free mobility spell | Chest behind Ogre Polma in the Defiled Temple (Goblin Camp) |
-| Ring | Crusher’s Ring | Increased Movement | Loot or steal from Crusher in the Goblin Camp (Act 1) |
-| Ring | Caustic Band | Poison damage on hits | Merchant Derryth Bonecloak (Myconid Colony, Underdark) |
-| Main Hand | Everburn Blade | Very strong early greatsword | Loot from Commander Zhalk during the prologue |
-| Ranged | Titanstring Bow | Adds STR modifier to damage | Brem (Zhentarim Hideout, Act 1) |
+| Head | Haste Helm | Increase Movement | Chest in the Blighted Village X: 32, Y: 403 (Alternative Cap of Wrath). |
+| Cape | – | – | – |
+| Chest | Bloodguzzler Garb | Extra Damage | Loot it from Bulette’s body in the Underdark (Alternatives Adamantine Scale Mail). |
+| Gloves | Bracers of Defence | +2 AC | In the Apothecary’s Cellar beneath the Blighted Village (X: -656 Y: -370) (Alternatives Gloves of Missile Snaring, Reason’s Grasp, Gloves of the Growling Underdog). |
+| Boots | Linebreaker Boots | Wrath when Dash | Loot it from Beastmaster Zurk’s body in the Worg Pens (Alternatives Boots of Genial Striding, Boots of Striding, or Disintegrating Night Walkers). |
+| Necklace | Amulet of Misty Step | Free Spell | Chest behind the ogre Polma in the Defiled Temple within the Goblin Camp (Alternatives Moondrop Pendant, Amulet of Branding, or Amulet of Restoration). |
+| Ring | Crusher’s Ring | Increased Movement | Can be looted or stolen from Crusher in the Goblin camp in Act 1 (Alternatives Ring of Flinging, or Fetish of Callarduran Smoothhands). |
+| Ring | Caustic Band | Poison Damage | Merchant Derryth Bonecloak in the Myconid Colony in the Underdark (Alternatives Ring of Absolute Force, or The Sparkswall). |
+| Weapon (Main Hand) | Everburn Blade | Starter Weapon | Can be looted from Commander Zhalk during the prologue (Alternative Silver Sword of the Astral Plane or Sword of Justice). |
+| Weapon (Ranged) | Titanstring Bow | Add STR Modifier | Brem in Zhentarim Hideout Act 1 (Alternatives Hunting Shortbow, or Giantbreaker). |
 
-## Act 2 — Best gear
-> If a piece is acquired in Act 2 but only shows up in an Act 3 “endgame” list, it still belongs here too.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Cape | Fleshmelter Cloak | Acid damage on hit / strong cloak | Chest in House of Healing Morgue (Act 2) |
-| Ring | Killer’s Sweetheart | Automatic Critical after killing | Self-Same Trial (Gauntlet of Shar, Act 2) |
-| Ranged | Darkfire Shortbow | Fire & Cold resistance utility | Sold by Dammon (Last Light Inn, Act 2) (X: -35, Y: 169) |
+| Cape | Fleshmelter Cloak | Acid Damage | Found in Chest in House of Healing Morgue (Alternative Cloak of Protection). |
+| Ring | Killer’s Sweetheart | Automatic Critical | Obtained from the Self-Same Trial in the Gauntlet of Shar in Act 2 (Alternative Ring of Protection). |
+| Weapon (Ranged) | Darkfire Shortbow | Fire & Cold Resist | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 (Alternative Fabricated Arbalest). |
 
-## Act 3 — Best gear
-> Endgame list (includes a few Act 2 pickups that are still best-in-slot later).
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Bonespike Helmet | Damage on Rage / strong helm | Voiceless Penitent Bareki (Merchant, Lower City Sewers) |
-| Chest | Bonespike Garb | Damage reduction / strong clothing | Purchased from Exxvikyap (Rivington General, Act 3) |
-| Gloves | Gauntlets of Hill Giant Strength | Sets STR to 23 | Archive of the House of Hope (Act 3) |
-| Boots | Helldusk Boots | Premium mobility | Locked chest, Wyrm’s Rock Fortress (X: -32, Y: 219) |
-| Neck | Amulet of Greater Health | Sets CON to 23 | Archive of the House of Hope (Act 3) |
-| Ring | Ring Of Regeneration | Self-healing | Sold by Rolan (Sorcerous Sundries, Act 3) |
-| Main Hand | Balduran’s Giantslayer | Best greatsword for this build | Reward for completing the Wyrmway trials (Act 3) |
-| Weapon (Alt) | Nyrulna | Top-tier throwable + utility | Stolen from Akabi (Circus of the Last Days, Rivington, Act 3) |
-| Cape | Fleshmelter Cloak | Acid damage on hit / strong cloak | Chest in House of Healing Morgue (Act 2) |
-| Ring | Killer’s Sweetheart | Automatic Critical after killing | Self-Same Trial (Gauntlet of Shar, Act 2) |
-| Ranged | Darkfire Shortbow | Fire & Cold resistance utility | Sold by Dammon (Last Light Inn, Act 2) (X: -35, Y: 169) |
-
----
-
-# Permanent bonuses (by Act)
-## Act 1
-- **Auntie Ethel’s Hair:** Gain **+1** to an Ability Score of your choice.
-- **Awakened:** Use illithid powers as a **Bonus Action**.
-- **Scratch:** Gain **Find Familiar: Scratch**.
-- **Cheeky Quasit:** Gain **Summon Quasit: Shovel**.
-- **Loviatar’s Love:** At **30% HP or less**: **+2** to Attack Rolls and Wisdom saving throws.
-- **Necromancy of Thay:** Unlocks additional power later (major payoff in Act 3).
-- **Volo’s Ersatz Eye:** Gain **See Invisibility**.
-
-## Act 2
-- **Potion of Everlasting Vigour:** Gain **+2 Strength**.
-- **Slayer Form:** Gain the ability to **transform into the Slayer**.
-- **Summon Us:** Gain the ability to **summon Us**.
-
-## Act 3
-- **Mirror of Loss:** Gain **+2** to an Ability Score of your choice.
-- **Partial Ceremorphosis:** Access to **tier 3 illithid powers**.
-- **Sweet Stone Features:** Gain **Blessed** permanently.
-- **Statue of the Gods:** Gain **+2** to Saving Throws.
-
----
-
-# Best consumables / items (single-use)
-- **Elixir of Hill Giant Strength:** Sets STR to 21 (early/mid burst STR).
-- **Elixir of Cloud Giant Strength:** Sets STR to 27 (late-game burst STR).
-- **Potion of Speed:** Haste-like extra actions + movement (big damage turns).
-- **Elixir of Bloodlust:** On kill: gain extra action (snowball turns).
-- **Oil of Accuracy:** Coat weapon: **+2** to Attack Rolls.
-- **Elixir of Vigilance:** **+5 Initiative** and can’t be Surprised.
-- **Drow Poison:** Weapon poison (CON save) → Poisoned + potential Sleep.
-- **Potion of Flying:** Gain flight for mobility/positioning.
-- **Elixir of Heroism:** 10 temp HP + Blessed until long rest.
-- **Potion of Greater Healing:** 4d4 + 4 healing.
-- **Elixir of Darkvision:** (If no Darkvision) gain Darkvision 12m.
-
----
-
-## Optional: Illithid powers (if using tadpoles)
-- **Luck of the Far Realms:** Turn a successful hit into a Critical Hit.
-- **Cull of the Weak:** When you reduce a creature below your evolved powers threshold, it dies and nearby creatures take psychic damage.
-- **Psionic Backlash:** Reaction: deal psychic damage to a nearby spellcaster when they cast.
-- **Blackhole:** Area pull that slows targets (strong setup/control).
-- **Repulsor:** Massive area knockback (can hit friendlies—position carefully).
-- **Charm:** Force enemies to attack something else (the guide calls this the priority pick).
-
----
-
-## Optional: Alternative build route (from the guide)
-- The guide calls out a **Throw build** using the **Giant** Barbarian subclass as a strong alternative if you want safer ranged pressure.
-- The core comes online at **Barbarian 6** with **Elemental Cleaver**, letting you throw nearly any weapon with elemental bonuses.
-- Pair that with **Tavern Brawler** for huge thrown damage and strong consistency across all three Acts.
+| Head | Bonespike Helmet | Damage on Rage | Obtained from Voiceless Penitent Bareki Merchant in Lower City Sewers Baldur’s Gate (Alternatives Helldusk Helmet, Mask of Soul Perception, or Helm of Balduran). |
+| Cape | Fleshmelter Cloak | Acid Damage | Found in Chest in House of Healing Morgue (Alternative Cloak of Protection). |
+| Chest | Bonespike Garb | Damage Reduction | Purchased from Exxvikyap at The Rivington General in Act 3 (Alternatives Enraging Heart Garb, The Mighty Cloth or Bhaalist Armour). |
+| Gloves | Gauntlets of Hill Giant Strength | 23 Strength | Obtained in Archive of the House of Hope (Alternatives Helldusk Gloves, Legacy of the Masters, or Gloves of Soul Catching). |
+| Boots | Helldusk Boots | Mobility Skill | Obtained in a locked chest, Wyrm’s Rock Fortress X: -32 Y: 219 (Alternatives Bonespike Boots, or Disintegrating Night Walkers). |
+| Necklace | Amulet of Greater Health | 23 Constitution | Obtained in Archive of the House of Hope (Alternative Surgeon’s Subjugation Amulet). |
+| Ring | Killer’s Sweetheart | Automatic Critical | Obtained from the Self-Same Trial in the Gauntlet of Shar in Act 2 (Alternative Ring of Protection). |
+| Ring | Ring Of Regeneration | Self-healing | Sold by Rolan at Sorcerous Sundries (Alternative Ring of Free Action). |
+| Weapon (Main Hand) | Balduran’s Giantslayer | Best Greatsword | Obtained as a reward for completing the Wyrmway trials (Alternatives Sword of Chaos, or Silver Sword of the Astral Plane). |
+| Weapon (Ranged) | Darkfire Shortbow | Fire & Cold Resist | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 (Alternative Fabricated Arbalest). |
+| Throwable | Nyrulna | Throwable Object | Stole from Akabi in Circus of the Last Days in Rivington Act 3. |
