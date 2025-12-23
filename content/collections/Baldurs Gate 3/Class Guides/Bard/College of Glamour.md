@@ -1,314 +1,342 @@
-# College of Glamour Bard Build (Patch 8)
+# College of Glamour Bard Build
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Bard 1 → 6, Sorcerer 1 → 6)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+Source: :contentReference[oaicite:0]{index=0}
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Fantasy / flavor
-- A **crowd-control “star” Bard** who buffs allies with Glamour and **turns attackers Charmed** when they hit your inspired friends.
-- Leans into **melee + magic synergy** in Patch 8 by pairing **Booming Blade** with **Shadow Blade** (Sorcerer multiclass) for big Psychic damage.
-- Plays like a **dialogue specialist** who can still step into melee, lock down enemies, and keep the party moving with utility spells.
+## Build Snapshot
 
-### Core playstyle in one sentence
-- **Control first (Charm/Fear/Command), then burst in melee with Booming Blade + Shadow Blade**, using Sorcerer metamagic and consumables to scale.
+### Fantasy / Flavor
+- Inflict enemies with the Charm status effect.
+- Inspire allies, granting extra HP and inflicting attackers with Charmed automatically.
+- A Bard that can play in melee while retaining the spellcaster identity (via new Patch 8 spell additions).
 
-### Party role
-- **Support / controller:** Bardic Inspiration + Mantle of Inspiration temp HP + Charm retaliation on melee hits.
-- **Debuffer:** Fear, Heat Metal, Stinking Cloud, Tasha’s Hideous Laughter.
-- **Hybrid striker:** Shadow Blade + Booming Blade for melee burst while still carrying strong utility.
+### Core Playstyle
+- Use a Sorcerer multiclass to blend crowd control and buffing through spellcasting with a melee-focused damage option that benefits from magical darkness and high Strength via elixirs.
+
+### Party Role
+- Crowd control support (stunning, charming, and area denial).
+- Dialogue and conversation specialist (Charisma-based).
+- Flexible melee or range contributor while supporting allies.
 
 ### Pros
-- Excellent **crowd control** tools and team support
-- Very strong in **dialogue** (Charisma focus)
-- Flexible: can play **melee or ranged** depending on gear/spells
+- Crowd Control
+- Strong in Dialogue
+- Melee or Range
 
 ### Cons
-- **Weak spell selection** early compared to dedicated casters (per the guide)
-- Subclass features are **limited** in number (per the guide)
-- Melee plan benefits heavily from **setup** (Shadow Blade + buffs/consumables)
+- Weak Spell Selection
+- Limited Subclass Features
+- Support Bonuses
 
-### Power spikes to look forward to
-- Level 3: **College of Glamour** (Mantle of Inspiration)
-- Level 5: **Font of Inspiration** (Bardic Inspiration on Short Rest) + stronger spell tier access
-- Level 6: **Mantle of Majesty: Command** + Fear added to the kit
-- Level 9: **Shadow Blade** online + metamagic depth (Quickened)
-- Level 12: **Haste** (more actions = more pressure)
+### Power Spikes
+- Level 6: Gain Mantle of Majesty: Command and Countercharm (and the guide notes to “Reach Level 6” where power “dramatically increases”).
+- Level 7: Multiclass to Sorcerer (Shadow Magic) for additional utility and survival.
+- Level 9: Gain access to the core Sorcerer combo pieces (magical darkness synergy + summoned melee weapon + metamagic options).
 
----
+## Character Creation
+- Race: High Half-Elf
+- Class: Bard
+- Subclass: College of Glamour
+- Background: Entertainer
+- Ability Scores: STR 8, DEX 16, CON 14, INT 8, WIS 10, CHA 17
+- Proficiencies: Athletics, Intimidation, Persuasion
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** High Half-Elf
-- **Class:** Bard
-- **Subclass:** College of Glamour
-- **Background:** Entertainer
-- **Skills:** Athletics, Intimidation, Persuasion
-- **Abilities (target):** STR 8 / DEX 16 / CON 14 / INT 8 / WIS 10 / CHA 17
+## Level Progression
 
-### Racial notes (why High Half-Elf)
-- **Free Cantrip** (the guide uses this to take **Booming Blade**)
-- **Fey Ancestry** (advantage vs being Charmed)
-- **Darkvision** + **Civil Militia** (from race features listed)
+### Level 1
+- Gain:
+  - Bardic Inspiration: 18m range consuming a bonus action ally can add a +1d6 bonus to their next Attack Roll, Ability Check, or Saving Throw. This can be used four times and recover charges by taking a long rest.
+  - Cantrips: Booming Blade (extra cantrip from High Half-Elf), Vicious Mockery, Friends
+  - Spells: Thunderwave, Longstrider, Dissonant Whispers, Charm Person
+- Play Style:
+  - Rotation:
+    - Turn 1: Pre-buff with Longstrider.
+    - Turn 2+: Use Booming Blade in melee range with a one-handed weapon and shield (race dependent); at range, use Fire Bolt (extra cantrip).
+  - Notes:
+    - Help allies with Bardic Inspiration.
+    - End game goal: Shadow Blade in main hand, Elixir of Strength, and Booming Blade attack in melee range with the resonance stone.
 
-*Secondary option mentioned in the guide:* **Wood Half-Elf** (Longbow proficiency, Darkvision, higher movement speed).
+### Level 2
+- Gain:
+  - Song of Rest: You and your allies are revitalized as though you had taken a Short Rest.
+  - Jack of All Trades: Add half of your Proficiency Bonus (rounded down) to Ability Checks that you are not Proficient in.
+  - Spell: Tasha’s Hideous Laughter (Leave a creature Prone with laughter, without the ability to get up.)
+- Play Style:
+  - Notes:
+    - Gain utility and an extra stun spell with Tasha’s.
 
-### Starting setup
-- **Cantrips:** Booming Blade (race bonus), Vicious Mockery, Friends
-- **Spells:** Thunderwave, Longstrider, Dissonant Whispers, Charm Person
-- **Gear direction:** light armour + DEX; keep a **one-handed weapon + shield** option for melee Booming Blade gameplay (race dependent).
+### Level 3
+- Gain:
+  - Subclass: College of Glamour
+  - Subclass Feature: Mantle of Inspiration (Imbue 2 allies with your vigour and grant them 5 temporary hit points. If they’re hit with a melee attack, the attacker becomes Charmed.)
+  - Spell: Heat Metal (Cause a metal weapon or armour to glow red-hot and force the wearer to let go or receive Disadvantage on Attack rolls and Ability Checks.)
+  - Swap: Thunderwave → Cloud of Daggers (Conjure a cloud of spinning daggers that attack anyone inside.)
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Heat Metal on targets carrying a weapon.
+    - Turn 2+: Use Cloud of Daggers for AOE damage.
+  - Notes:
+    - Use Heat Metal on targets carrying a weapon and Cloud of Dagger for AOE damage.
 
-### Early-game priorities (from the guide)
-- **Pre-buff** with Longstrider often.
-- Use Bardic Inspiration to support allies (and to fuel your subclass features later).
-- Plan to collect **Auntie Ethel’s Hair** in Act 1 to push Charisma to 18.
-- The endgame goal is **Shadow Blade in main hand + Elixir of Strength + Booming Blade**, ideally with **Resonance Stone** later for doubled Psychic damage.
+### Level 4
+- Gain:
+  - Feat: Ability Improvement (Charisma +2)
+  - Cantrip: Mage Hand (Create a spectral hand that can manipulate and interact with objects.)
+  - Spell: Invisibility (Touch a creature to turn it Invisible. Attacks against it have Disadvantage. It attacks with Advantage.)
+- Play Style:
+  - Notes:
+    - Use Invisibility prior to combat and attack while invisible with Booming Blade to trigger a surprise status effect.
 
----
+### Level 5
+- Gain:
+  - Bardic Inspiration: Enhanced from 1d6 to 1d8 on attack rolls.
+  - Font of Inspiration: Gain all Bardic Inspiration on a short rest.
+  - Spell: Glyph of Warding (Inscribe a circle of arcane glyphs on the ground. When stepped on by an enemy the selected magical effect will trigger.)
+  - Swap: Cloud of Daggers → Stinking Cloud (Create a cloud of gas so nauseating it prevents creatures from taking actions.)
+  - (Also listed in the level table): Feat: Ability Improvement, Charisma, Mage Hand, Invisibility
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Glyph of Warding (different elements) for AOE damage.
+    - Turn 2+: Drop Stinking Cloud on targets in a choke point where your party can range attack them.
+  - Notes:
+    - Use Glyph of Warding and different elements for AOE damage.
+    - Drop Stinking Cloud on targets in a choke point where your party can range attack them.
 
-## Level-by-level progression (Bard 1 → 6, Sorcerer 1 → 6)
-> This build is very “setup → control → burst” driven. Treat each level’s **Play style** as your default combat loop.
+### Level 6
+- Gain:
+  - Subclass Feature: Mantle of Majesty: Command (Command a creature to flee, move closer, freeze, drop to the ground or drop its weapon.)
+  - Class Feature: Countercharm (You and any allies within 9m have Advantage on Saving Throws against being Charmed or Frightened.)
+  - Spell: Fear (Targets drop everything and become Fearful: they must flee from you and have Disadvantage on Ability Checks and Attack Rolls.)
+- Play Style:
+  - Notes:
+    - Mantle of Majesty functions as a special Bard version of the Command spell.
 
-### Level 1 — Bard 1
-**Gain**
-- **Bardic Inspiration** (bonus action, 18m range): ally adds **+1d6** to next Attack Roll, Ability Check, or Saving Throw (4 uses; recovers on Long Rest)
-- **Cantrips:** Booming Blade (race bonus), Vicious Mockery, Friends
-- **Spells:** Thunderwave, Longstrider, Dissonant Whispers, Charm Person
+### Level 7
+- Gain:
+  - Multiclass: Sorcerer
+  - Subclass: Shadow Magic
+  - Shadow Magic: Eyes of the Dark (You can see in the dark up to 24 meters.)
+  - Shadow Magic: Strength of the Grave (After reaching 0 Hit Points, you regain 1 instead of becoming downed.)
+  - Cantrips: Light, Ray of Frost, Friends, Minor Illusion
+  - Spells: Shield, Chromatic Orb
+  - NOTE (guide): take Booming Blade here if you accidentally went with Fire Bolt or missed character creation!
+- Play Style:
+  - Notes:
+    - At this stage, you get more utility but the real benefits come with a couple more levels.
 
-**Play style (Level 1)**
-- In melee: **Booming Blade** with a one-handed weapon (and shield if available).
-- At range: use your extra cantrip option (the guide notes Fire Bolt as a ranged filler option).
-- Pre-buff **Longstrider**, and spend bonus actions on **Bardic Inspiration** to stabilize fights.
+### Level 8
+- Gain:
+  - Sorcery Points
+  - Metamagic: Twinned Spell, Extended Spell
+  - Spell: Magic Missile
+- Play Style:
+  - Notes:
+    - Twinned your Booming Blade or Extended Stinking Cloud or status effect spells.
+    - Extended and eyes of darkness will allow you to put a cloud, walk in it, and use Shadow Blade with Advantage starting at the next level!
 
-### Level 2 — Bard 2
-**Gain**
-- **Song of Rest** (revitalize party like a Short Rest)
-- **Jack of All Trades** (add half proficiency to non-proficient Ability Checks)
-- **Spell:** Tasha’s Hideous Laughter
+### Level 9
+- Gain:
+  - Subclass Feature: Darkness (Create a cloud of magical darkness that Heavily Obscures and inflicts Blind to creatures within. Creatures cannot make ranged attacks into or out of it.)
+  - Subclass Feature: Eye of the Darkness (Create a dark shroud that Heavily Obscures and Blinds creatures within. Creatures cannot make ranged attacks into or out of it.)
+  - Metamagic: Quickened Spell
+  - Spell: Shadow Blade (Weave a shadowy shortsword in your hand that deals 2d8 Psychic damage.)
+  - Swap: Magic Missile → Mirror Image (Create 3 illusory duplicates of yourself to distract attackers. Each duplicate increases your Armour Class by 3.)
+- Play Style:
+  - Rotation:
+    - Turn 1: Cast Darkness on top of yourself (you can still see through it).
+    - Turn 2+: Summon Shadow Blade with a bonus action; combine Shadow Blade attack with Booming Blade (twinned if possible) for huge damage.
+  - Notes:
+    - You can cast Darkness ontop of your self and still see through it.
 
-**Play style (Level 2)**
-- Add **Tasha’s** as a control tool to drop key targets Prone and deny turns.
-- Keep the Level 1 loop: Booming Blade in melee, Inspiration for team tempo.
+### Level 10
+- Gain:
+  - Feat: Alert (cannot be surprised and gain +4 initiative)
+  - Cantrip: Bone Chill (Prevent the target from healing until your next turn. An undead target receives Disadvantage on Attack rolls.)
+  - Spell: Misty Step (Surrounded by silver mist, you teleport to an unoccupied space you can see.)
+- Play Style:
+  - Notes:
+    - If using Shadow Blade, Great Weapon Master nor Savage Attacker will work with it.
+    - Spell Sniper is another alternative if you are using spells more often.
+    - Make sure to keep running Elixir of Strength to make this combo work.
 
-### Level 3 — Bard 3 (College of Glamour)
-**Subclass**
-- **College of Glamour**
+### Level 11
+- Gain:
+  - Spell: Fireball (Shoot a bright flame from your fingers that explodes upon contact, torching everything in the vicinity for 8d6 Fire damage.)
+  - Swap: Chromatic Orb → Counterspell (Try to stop a spell being cast.)
+- Play Style:
+  - Notes:
+    - You gain access to powerful level 3 spells at this stage.
 
-**Gain**
-- **Mantle of Inspiration**: imbue **2 allies** with vigour; grant **5 temp HP**; if they’re hit by a **melee** attack, the attacker becomes **Charmed**
-- **Spell:** Heat Metal
-- **Spell swap:** swap Thunderwave → Cloud of Daggers
+### Level 12
+- Gain:
+  - Subclass Feature: Hound of Ill Omen (Summon Nimbus, a shadow mastiff. Has actions Ominous Bite, Umbral Tangle, and Splinter Shadow.)
+  - Spell: Haste (Target yourself or an ally to become Hastened. They recieve a +2 bonus to Armour Class, Advantage on Dexterity Saving throws, its Movement Speed is doubled, and can take one additional Action per turn.)
+- Play Style:
+  - Notes:
+    - Final level is placed into Sorcerer in this build.
 
-**Play style (Level 3)**
-- Use **Mantle of Inspiration** early in fights to pad allies and punish melee attackers with Charm.
-- **Heat Metal** targets carrying weapons/armour; **Cloud of Daggers** for area damage and choke points.
-
-### Level 4 — Bard 4
-**Feat**
-- **Ability Improvement: +2 Charisma**
-
-**Gain**
-- **Cantrip:** Mage Hand
-- **Spell:** Invisibility
-
-**Play style (Level 4)**
-- Use **Invisibility** before combat to start from stealth and trigger Surprise, then open with Booming Blade.
-- Your game plan is still CC + support, but with stronger spell DCs from Charisma.
-
-### Level 5 — Bard 5
-**Gain**
-- **Bardic Inspiration** improves (die increases to **1d8**)
-- **Font of Inspiration** (recover Bardic Inspiration on **Short Rest**)
-- **Spell:** Glyph of Warding
-- **Spell swap:** swap Cloud of Daggers → Stinking Cloud
-
-**Play style (Level 5)**
-- Drop **Glyph of Warding** (choose elements as needed) for flexible AoE.
-- Use **Stinking Cloud** on choke points so enemies lose actions while your party attacks safely.
-
-### Level 6 — Bard 6
-**Gain**
-- **Mantle of Majesty: Command** (special Command as a subclass feature; targets that are Charmed automatically fail their Save; Recharge: Long Rest)
-- **Countercharm** (you and allies within 9m have Advantage vs Charmed/Frightened)
-- **Spell:** Fear
-
-**Play style (Level 6)**
-- **Fear** is your major control button: disarm and force enemies to flee.
-- Use **Command** through Mantle of Majesty to reposition/disable threats—especially strong against already-Charmed targets.
-
-### Level 7 — Sorcerer 1 (Shadow Magic)
-**Multiclass**
-- **Sorcerer 1** → **Shadow Magic**
-
-**Gain**
-- **Subclass:** Shadow Magic
-  - **Eyes of the Dark** (see in the dark up to 24m)
-  - **Strength of the Grave** (when you’d drop to 0 HP, you can remain at 1 instead of downed)
-- **Cantrips:** Light, Ray of Frost, Friends, Minor Illusion (the guide notes you can take Booming Blade here if you missed it)
-- **Spells:** Shield, Chromatic Orb
-
-**Play style (Level 7)**
-- Add **Shield** as a reaction defensive spike (+5 AC; also negates Magic Missile damage).
-- Chromatic Orb gives flexible damage types and surface creation when you need ranged pressure.
-
-### Level 8 — Sorcerer 2
-**Gain**
-- **Sorcery Points**
-- **Metamagic:** Twinned Spell, Extended Spell
-- **Spell:** Magic Missile
-
-**Play style (Level 8)**
-- Use **Twinned** for single-target pressure (the guide notes twinning Booming Blade when possible).
-- Use **Extended** to stretch durations of control/surface spells (e.g., Stinking Cloud) and to enable stronger “cloud + fight inside it” setups.
-
-### Level 9 — Sorcerer 3
-**Gain**
-- **Subclass feature:** Darkness (create magical darkness that heavily obscures/blinds; prevents ranged attacks into/out of it)
-- **Subclass feature:** Eye of the Darkness (similar function via sorcery points)
-- **Metamagic:** Quickened Spell (Action spells become Bonus Action)
-- **Spell:** Shadow Blade (2d8 Psychic shortsword)
-- **Spell swap:** swap Magic Missile → Mirror Image
-
-**Play style (Level 9)**
-- Cast **Darkness** on yourself and fight inside it (you can still see through it with Eyes of the Dark).
-- Summon **Shadow Blade** (bonus action) and pair it with **Booming Blade** (Twinned if possible) for huge melee damage.
-- Use **Mirror Image** for survivability when you’re committing to melee.
-
-### Level 10 — Sorcerer 4
-**Feat**
-- **Alert** (+4 initiative; can’t be Surprised)
-
-**Gain**
-- **Cantrip:** Bone Chill
-- **Spell:** Misty Step
-
-**Play style (Level 10)**
-- The guide emphasizes keeping **Elixir of Strength** running to make the melee combo work.
-- **Misty Step** fixes positioning problems—teleport to stay on target or to escape when threatened.
-
-### Level 11 — Sorcerer 5
-**Gain**
-- **Spell:** Fireball
-- **Spell swap:** swap Chromatic Orb → Counterspell
-
-**Play style (Level 11)**
-- Fireball gives you a clean answer to clustered enemies.
-- **Counterspell** protects your team and keeps your control plan from being disrupted by enemy casters.
-
-### Level 12 — Sorcerer 6
-**Gain**
-- **Subclass feature:** Hound of Ill Omen (summon Nimbus, a shadow mastiff)
-- **Spell:** Haste
-
-**Play style (Level 12)**
-- Use **Haste** to scale your action economy—more actions means more pressure (spells or melee turns).
-- When a fight is about deleting one threat: set up **Shadow Blade → Booming Blade**, then leverage Haste to keep tempo while your control spells hold the rest.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it’s good | Where to get**.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Cap of Curing | Inspiration heals | Locked gilded chest behind Alfira singing in the Druid Grove |
-| Cape | Deathstalker Mantle | Invisibility on kill (optional) | Automatically acquired as part of Dark Urge story |
+| Head | Cap of Curing | Inspiration Heals (listed as “Cap of Curing Inspiration” in the beginner table) | The locked gilded chest behind Alfira is singing in the Druid Grove |
+| Cape | Deathstalker Mantle | Invisibility on Kill (optional) | Automatically acquired as part of Dark Urge story |
 | Chest | Blazer of Benevolence | HP on Bardic Inspiration | Reward for rescuing Volo from the Goblin Camp |
-| Gloves | Gloves of the Growling Underdog | Advantage on melee | Chest behind Dror Ragzlin’s throne room |
-| Boots | Disintegrating Night Walkers | Free Misty Step | Obtained in Grymforge (Free True Soul Nere questline) |
+| Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room |
+| Boots | Disintegrating Night Walkers | Free Misty Step | Obtained in Gyrmforge as part of Free True Soul Nere questline |
 | Necklace | Broodmother’s Revenge | 1d6 when healed | Carried by Kagha’s body in the Emerald Grove |
-| Ring | Strange Conduit Ring | Concentration + damage | Crèche Y’llek (X: 1360, Y: -657) |
-| Ring | Caustic Band | Poison damage | Merchant Derryth Bonecloak (Myconid Colony) |
-| Main Hand | Shadow Blade | Summoned weapon (spell/item) | Created via spell or item (alternative: Phalar Aluve) |
+| Ring | Strange Conduit Ring | Concenreation + Damage | Crèche Y’llek X: 1360 Y: -657 |
+| Ring | Caustic Band | Poison Damage | Obtained from merchant Derryth Bonecloak in the Myconid Colony |
+| Weapon 1 Main Hand | Shadow Blade | Summoned with Spell | Created via a spell or item (Alternatively, use Phalar Aluve.) |
 | Off-Hand | Adamantine Shield | +2 AC | Crafted in Adamantine Forge |
-| Ranged | Bow of Awareness | +1 Initiative | Sold by Roah Moonglow in the Shattered Sanctum |
+| Weapon 2 Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum |
 
-## Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Ring | Killer’s Sweetheart | Auto critical setup | Obtained from the Gauntlet of Shar (Act 2) |
-| Misc | Resonance Stone | Double Psychic damage | End of Act 2 (Mind Flayer Colony puzzle area) |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 |
+| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony |
 
-## Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Birthright | +2 Charisma | Sorcerous Sundries (Lower City) |
-| Cape | Cloak of the Weave | +1 Spell Save DC & spell attack rolls | Sold by Helsik at the Devil’s Fee |
-| Chest | Elegant Studded Leather | +2 Initiative; Advantage on Stealth | Reward for Return Rakath’s Gold quest |
-| Gloves | Craterflesh Gloves | Crits + damage | Murder Tribunal vendor |
-| Boots | Helldusk Boots | Premium mobility | Locked chest, Wyrm’s Rock Fortress |
-| Necklace | Amulet of Greater Health | Sets CON to 23 | Archive of the House of Hope |
-| Ring | Killer’s Sweetheart | Auto critical setup | Gauntlet of Shar (Act 2) |
-| Ring | Ring Of Regeneration | Self-healing | Sold by Rolan at Sorcerous Sundries |
-| Main Hand | Nyrulna | + movement (listed as Shadow Blade option) | Obtained from Akabi in the Circus of the Last Days |
-| Off-Hand | Viconia’s Walking Fortress | +3 AC | (Not specified in source) |
-| Ranged | Hellriders | +3 initiative | Rivington (X: 43, Y: -101): sold by Ferg |
-| Misc | Resonance Stone | Double Psychic damage | End of Act 2 (Mind Flayer Colony puzzle area) |
+| Head | Birthright | +2 Charisma | Sorcerer’s Sundries store in the Lower City of Baldur’s Gate |
+| Cape | Cloak of the Weave | +1 Spell Save & Roll | Sold by Helsik at the Devil’s Fee |
+| Chest | Elegant Studded Leather | +2 Initiative, Advantage on Stealth | Reward for Return Rakath’s Gold quest |
+| Gloves | Craterflesh Gloves | Crits + Damage | Murder tribunal vendor |
+| Boots | Helldusk Boots | Mobility | In a locked chest, Wyrm’s Rock Fortress |
+| Necklace | Amulet of Greater Health | 23 Constitution | Obtained in Archive of the House of Hope |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 |
+| Ring | Strange Conduit Ring | Self-healing | Crèche Y’llek X: 1360 Y: -657 |
+| Ring | Ring Of Regeneration | (Listed in the Act 3 equipment notes) | Sold by Rolan at Sorcerous Sundries |
+| Weapon 1 Main Hand | Nyrulna | + Movement (listed as “Nyrulna (Shadow Blade)” in the advanced table) | Obtained from Akabi in the Circus of the Last Days |
+| Off-Hand | Viconia’s Walking Fortress | +3 AC | - |
+| Weapon 2 Ranged | Hellriders | +3 initiative | Rivington X: 43 Y: -101: Sold by Ferg |
+| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony |
 
----
+## Features and Mechanics
+- Bard class is charisma-based with limited weapon and armour prociecny; versatility with spells and weapons; powerful dialogue and conversation specialist due to spell and cantrip selections.
+- College of Glamour premise: inflicting enemies with Charm status effect; inspires allies granting extra HP and inflicting attackers with charmed automatically (limited to two allies at the base feature).
+- Build concept: Sorcerer multiclass for high damage and utility; Patch 8 introduces Shadow Blade (scales off strength or dexterity, dealing psychic damage), enabling melee while retaining spellcaster identity.
+- Class / build mechanics and features (as listed):
+  - Class: Bard
+  - Subclass: College of Glamour
+  - Background: Entertainer
+  - Skills: Athletics, Intimidation, Persuasion
+  - Ability Score: STR 8, DEX 16, CON 14, INT 8, WIS 10, CHA 17
+  - Saving Throw: Dexterity and Charisma
+  - Armour Proficiency: Light Armour
+  - Weapon Proficiency: Simple
+- Best companions (as listed):
+  - Shadowheart (Life Cleric) – Utilize Shadowheart to buff, heal, and stun enemies.
+  - Gale (Evocation Wizard) – for ranged area damage.
+  - Astarion (Thief Rogue) – for lock picking and stealth.
 
-# Permanent bonuses (by Act)
+## Subclass Options
+### College of Glamour Features
+- Mantle of Inspiration (Level 3): Imbue 2 allies with your vigour and grant them 5 temporary hit points. If they’re hit with a melee attack, the attacker becomes Charmed.
+- Mantle of Majesty: Command (Level 6): Command a creature to flee, move closer, freeze, drop to the ground or drop its weapon. Targets that are Charmed automatically fail their Saving Throw. (Recharge: Long rest.)
+- Mantle of Inspiration (Level 6): Bonus increases to HP 8 temporary hit points. Number of targets increases to 3.
+- Mantle of Inspiration (Level 10): Bonus increases to HP 11 temporary hit points. Number of targets increases to 4.
 
-## Act 1
-- **Auntie Ethel’s Hair** — *Gain +1 to an Ability Score*  
-- **Awakened** — *Use illithid powers as a Bonus Action*  
-- **Scratch** — *Gain Find Familiar: Scratch*  
-- **Cheeky Quasit** — *Gain Summon Quasit: Shovel*  
-- **Loviatar’s Love** — *At 30% HP or less: +2 to Attack Rolls and Wisdom saving throws*  
-- **Necromancy of Thay** — *Access to powerful spells in Act 3*  
-- **Volo’s Ersatz Eye** — *See Invisibility*  
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Elixir of Hill Giant Strength: Increases Strength ability score to 21 until Long Rest.
+- Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
+- Drow Poison: Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
+- Potion of Flying: Drink to gain a flying speed of 60ft for one hour.
+- Elixir of Heroism: Gain 10 temp HP and become Blessed until a long rest.
+- Potion of Greater Healing: 4d4 + 4 hit points restored.
+- Oil of Accuracy: Coat Weapon. Bonus of +2 in Attack Rolls.
+- Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
 
-## Act 2
-- **Potion of Everlasting Vigour** — *Gain +2 Strength*  
-- **Slayer Form** — *Ability to transform into the Slayer*  
-- **Summon Us** — *Allows you to summon Us*  
-- **Statue of the Gods** — *+2 to Saving Throws*  
+## Permanent Bonuses
 
-## Act 3
-- **Mirror of Loss** — *+2 to an Ability Score of your choice*  
-- **Partial Ceremorphosis** — *Access to tier 3 illithid powers*  
-- **Sweet Stone Features** — *Blessed permanent*  
+### Act 1
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Awakened: Use illithid powers as a Bonus Action.
+- Scratch: Gain Find Familiar Scratch.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Necromancy Of Thay: access to powerful spells in Act 3.
+- Volo’s Ersatz Eye: See Invisibility
 
----
+### Act 2
+- Potion of Everlasting Vigour: Gain +2 Strength.
+- Slayer Form: Ability to transform into the Slayer.
+- Summon Us: Allows you to summon Us.
 
-# Best consumables / items (single-use)
-- **Elixir of Bloodlust** — once per turn on kill: **5 temp HP** + **additional action**
-- **Elixir of Hill Giant Strength** — sets STR to **21** (until Long Rest)
-- **Potion of Speed** — extra action, +2 AC, advantage on DEX saves, double movement speed
-- **Drow Poison** — weapon poison (CON save or becomes Poisoned/Asleep)
-- **Potion of Flying** — flying speed for 1 hour
-- **Elixir of Heroism** — 10 temp HP + Blessed (until Long Rest)
-- **Potion of Greater Healing** — 4d4 + 4 healing
-- **Oil of Accuracy** — weapon coating: **+2 Attack Rolls**
-- **Elixir of Vigilance** — **+5 initiative**; can’t be Surprised
+### Act 3
+- Mirror of Loss – +2 to an Ability Score of your choice.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Sweet Stone Features: Blessed permanent.
+- Statue of the Gods: +2 to Saving Throws
 
----
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull of the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Favourable Beginnings: The first Attack roll or Ability check you make against any target gains a bonus equal to your Proficiency Bonus. Helpful passive that boosts damage based on your level.
+- Blackhole: Area-based suck-in that slows targets. (Guide note: requires you to take the Astral Tadpole in Act 2; sucks in 5 enemies, slows them, and can be recast for free.)
+- Mind Blast: Spew forth a conical wave of psychic energy and possibly Stun targets within. Deals 4d8+Spellcasting Ability Modifier Psychic damage.
+- Freecast: Spell slots, charges, and similar resource costs for your next action or spell are removed. Requires Shield of Thralls or Mind Sanctuary and used once per long rest.
 
-## Optional: Illithid powers (if using tadpoles)
-- **Luck of the Far Realms** — turn a successful hit into a Critical Hit
-- **Cull of the Weak** — execute low-HP enemies; nearby creatures take Psychic damage
-- **Favourable Beginnings** — first Attack roll/Ability check against a target gains a bonus equal to Proficiency Bonus
-- **Black Hole** — area pull that slows targets (requires Astral Tadpole in Act 2; can be recast for free)
-- **Mind Blast** — conical Psychic damage that can Stun
-- **Freecast** — next action/spell costs no spell slot/charge (once per Long Rest; requires Shield of Thralls or Mind Sanctuary)
+## Gameplay Tips and Tricks
+- How to Play (general tips listed):
+  - Loot Everything: You will need a lot of gold to buy consumables, potions, and ammunition so loot and sell constantly.
+  - Crafting: Elixirs and potions are vital, and you need to purchase materials when trading for crafting.
+  - Reach Level 6: Spend the early part of the game completing every quest to reach level 6 where your power dramatically increases.
+  - Sell Often: Your carrying capacity will be limited so sell often, and store excessive items in your traveler’s chest.
+  - Stealth: Start combat in stealth if at all possible to trigger the Surprise status effect.
+  - Consider Illithid Powers: While it can come with an altered appearance, the powers are powerful and can help you.
+  - Oils + Elixiris: Combine both oils/coatings and Elixir during combat for a dual benefit.
+  - Persuasion: Try to avoid combat through dialogue if possible.
+- Best Tips and Tricks (as stated):
+  - The best tip to playing the College of Valour Bard is using the Resonance Stone with the Shadow Blade spell from Sorcerer or Magic Initative Feat. This doubles Psychic damage and allows for you to upcast the Sword, giving you massive damage.
 
----
+## Alternative Build Route
+- Alternative Bard build (melee and magic synergy) overview (as stated):
+  - Start Warlock at Level 1, specifically the Hexblade subclass (grants Eldritch Blast and Booming Blade).
+  - Level 2 remains Warlock (pick up Hellish Rebuke and Eldritch Invocations).
+  - Level 3 multiclass into Bard.
+  - At Bard Level 3 (character Level 5), select the College of Swords subclass (stated as a better fit for this melee-oriented build than College of Glamour).
+  - Round out with Fighter levels, opting for the Eldritch Knight subclass.
 
-## Optional: Alternative build route (from the guide)
-- **Warlock 1 → 2 (Hexblade) → Bard (College of Swords) → Fighter (Eldritch Knight)**
-  - Start **Warlock (Hexblade)** at Level 1 for **Eldritch Blast** + **Booming Blade**, plus early melee/magic foundation.
-  - Stay Warlock at Level 2 for **Hellish Rebuke** and Invocations (**Devil’s Sight**, **One with Shadows**).
-  - Multiclass into **Bard** at Level 3 and reach Bard Level 3 at Character Level 5 to take **College of Swords** for melee-oriented synergy.
-  - Finish by multiclassing into **Fighter** and taking **Eldritch Knight**, adding martial power plus extra spell utility and **Action Surge**.
+- Alternative level progression (as listed):
+  - Level 1: Warlock — Subclass: Hexblade, Eldritch Blast, Booming Blade, Hex, Wrathful Smite
+  - Level 2: Warlock — Hellish Rebuke, Eldritch Invocations: Devil’s Sight and One with Shadows
+  - Level 3: Bard — Multiclass: Bard, Vicious Mockery, Friends, Longstrider, Speak with Animals, Tasha’s Hideous Laughter, Charm Person
+  - Level 4: Bard — Thunderwave Spell
+  - Level 5: Bard — College of Swords subclass, Duelling fight style, Invisibility spell
+  - Level 6: Bard — Mage Hand cantrip, Heat Metal spell, Feat: +2 Charisma
+  - Level 7: Bard — Glyph of Warding spell
+  - Level 8: Bard — Fear spell, replace Heat Metal with Hold Person
+  - Level 9: Fighter — Multiclass: Fighter, Defence Fighting Style
+  - Level 10: Fighter — Action Surge
+  - Level 11: Fighter — Subclass: Eldritch Knight, Chromatic Orb, Magic Missile spells, Bursting Sinew, Fire Bolt cantrips, Shield extended
+  - Level 12: Fighter — Feat: Alert, Protection from Good and Evil
+
+## Patch Changes
+### Patch 8
+- This build page has been updated for the Patch 8 version of Baldur’s Gate 3.
+- Patch 8 changes to Bard (as stated):
+  - Addition of the College of Glamour subclass and the Booming Blade cantrip.
+  - College of Glamour emphasizes crowd control and buffing through spellcasting.
+  - Shadow Blade spell is introduced (noted as a Patch 8 addition in the guide’s build explanation).
+- College of Glamour Bard changes in Patch 8 (as stated):
+  - BG3 released 12 new subclass in patch 8 including the College of Glamour Bard.
+  - This new subclass focused on Charmed and group utility.
+  - Can be combined with a Sorcerer multiclass to take advantage of two new spells: Shadow Blade and Booming Blade.
