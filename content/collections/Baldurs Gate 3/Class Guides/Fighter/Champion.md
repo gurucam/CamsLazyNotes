@@ -1,307 +1,346 @@
-# Champion Fighter Build (Patch 8)
+# Champion Fighter Build
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Fighter 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-## Build snapshot
+## Build Snapshot
 
-### Fantasy / flavor
-- The Fighter class is a great choice for players who want to focus on dealing damage and being a hard-hitting tank in Baldur’s Gate 3.
-- Fighters have a high hit point pool and access to a variety of armor and weapons, making them very durable in combat.
-- They also have a few abilities that can help them deal more damage, such as Action Surge and Second Wind.
-- This build is focused on using a two-handed weapon style and an ultra-aggressive playstyle to deal massive damage.
-- The Champion subclass prioritizes burst damage, and we will aim for dealing maximum damage with a feat that feeds into a critical strike build.
-- With their high damage output and survivability, Fighters are an asset to any party.
-- If you’re looking for a build that can dish out a lot of punishment and take a lot of hits in BG3 Patch 8, then the Fighter Champion is a great choice for you.
+### Fantasy / Flavor
+- Hard-hitting tank that focuses on dealing damage and being durable in combat.
+- Two-handed weapon style with an ultra-aggressive playstyle to deal massive damage.
+- Champion emphasizes critical strikes and burst damage with Improved Critical (19–20 crit range).
 
-### Core playstyle in one sentence
-- **Close distance fast, swing a two-hander as many times as possible each turn, and stack extra actions/attacks to burst down priority targets before they can act.**
+### Core Playstyle
+- Charge into melee with a Greatsword, use Extra Attack + Action Surge for multiple attacks, and lean into critical strikes (and advantage) to fuel Great Weapon Master bonus-action attacks.
 
-### Party role
-- **Frontline bruiser/tank:** high AC + high HP + heavy armour lets you stand in melee.
-- **Burst damage dealer:** critical strike focus + bonus-action follow-up pressure.
-- **Action economy carry:** extra actions convert directly into multiple heavy weapon hits.
+### Party Role
+- Front-line damage dealer with burst potential.
+- Durable melee presence with high hit points and heavy armor.
+- Creates pressure by getting into melee range while companions provide support, ranged damage, or crowd control.
 
 ### Pros
-- Ultra simple to play and very effective
-- High durability: high HP pool + all armour proficiencies
-- Strong burst turns through extra actions and extra attacks
-- Champion critical bonus is straightforward and stacks well with crit gear
+- Very durable: high hit points and access to all armor and weapon types.
+- Action economy powerhouse (Extra Attack, Action Surge, and later Improved Extra Attack).
+- Improved Critical supports a critical strike build and burst damage.
 
 ### Cons
-- Limited built-in crowd control compared to other Fighter subclasses
-- Relies heavily on weapon actions, consumables, terrain, and companions for utility
-- Can feel weak early until level 5 (Extra Attack)
+- Lacks spellcasting or superiority dice utility compared to other Fighter subclasses.
+- Can feel weak early until level 5 when you gain Extra Attack.
+- Initiative is a weakness because you don’t stack much Dexterity due to heavy armor and Strength-based damage.
 
-### Power spikes to look forward to
-- Level 2: **Action Surge** (extra action)
-- Level 3: **Champion — Improved Critical** (crits on 19–20)
-- Level 4: **Great Weapon Master** (kill/crit → bonus-action attack; optional -5/+10 toggle)
-- Level 5: **Extra Attack**
-- Level 8: **Alert** (+5 initiative; can’t be Surprised)
-- Level 11: **Improved Extra Attack** (3 attacks per action)
+### Power Spikes
+- Level 2: Action Surge (one additional action).
+- Level 3: Champion subclass (Improved Critical Hit; reduced crit roll requirement).
+- Level 4: Great Weapon Master (bonus action attack on crit/kill; high risk/high reward -5 attack roll for +10 damage).
+- Level 5: Extra Attack (two attacks on Attack action).
+- Level 8: Alert (+5 Initiative and can’t be Surprised).
+- Level 11: Improved Extra Attack (two additional attacks after attacking with main-hand weapon).
 
----
+## Character Creation
+- Race: Half-Orc
+- Class: Fighter
+- Subclass: Champion
+- Background: Soldier
+- Ability Scores:
+  - Strength 16
+  - Dexterity 14
+  - Constitution 16
+  - Intelligence 8
+  - Wisdom 10
+  - Charisma 10
+- Proficiencies:
+  - Saving Throws: Strength, Constitution
+  - Armour Proficiency: Light Armour, Medium Armour, Heavy Armor, Shields
+  - Weapon Proficiency: Simple Weapon, Martial Weapons
+  - Skill Proficiencies: Acrobatics and Athletics
+  - Background (Soldier): Proficiency in Athletics and Intimidation
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** Half-Orc
-- **Class:** Fighter
-- **Subclass:** Champion
-- **Background:** Soldier
-- **Skills:** Acrobatics and Athletics
-- **Abilities (target):** STR 16 / DEX 14 / CON 16 / INT 8 / WIS 10 / CHA 10
+## Level Progression
 
-### Recommended backgrounds (from the guide)
-- Soldier: Proficiency in Athletics (strength) and Intimidation (Wisdom). You are trained in battlefield tactics and combat, having served in a militia, mercenary company, or officer corps.
-- Outlander: Proficiency in Athletics (strength) and Survival (Wisdom). You grew up in the wilds, learning to survive far from the comforts of civilization.
-- Urchin: Proficiency in Sleight of Hand (dexterity) and Stealth (dexterity). After surviving a poor and bleak childhood, you know how to make the most out of very little.
+### Level 1
+- Gain:
+  - Great Weapon Fighting
+  - Second Wind
+- Play Style:
+  - Notes:
+    - “Don’t expect much gameplay-wise outside of attacking with a melee weapon.”
+    - “Aim to pick up a Greatsword right away.”
+    - “Use the medium armor you have until you find better heavy armor and get a crossbow.”
+    - Prologue note: ideally obtain the Everburn Blade and give it to Lae’zel.
+    - Second Wind is a bonus action self-heal, so you can heal and attack in one turn.
+    - Great Weapon Fighting rerolls damage die results of 1 or 2 once for two-handed melee attacks.
 
-### Best race choice notes (from the guide)
-- For a Champion Fighter build in Baldur’s Gate 3, the Half-Orc and Duergar Dwarf races stand out as the best choices.
-- The Half-Orc’s innate abilities include enhanced critical damage, resilience, and intimidation.
-- The Duergar Dwarf boasts the Enlarge Spell and Invisibility, aiding in damage and improving defensive capabilities.
-- The Fighter’s racial choice will not influence ability score, as everyone should get a +2 and +1 to spend regardless.
+### Level 2
+- Gain:
+  - Action Surge
+- Play Style:
+  - Notes:
+    - Action Surge: gain one additional action (replenished on Short Rest).
+    - “Play aggressively and charge in.”
+    - “Don’t forget to equip a bow because you want some type of range weapon when melee isn’t an option because of distance.”
 
-### Recommended skills (from the guide)
-- Acrobatics: Dexterity skill that helps resist being shoved.
-- Perception: Wisdom skill that spots hidden containers, mechanisms, traps, and creatures.
+### Level 3
+- Gain:
+  - Subclass: Champion
+  - Improved Critical Hit
+- Play Style:
+  - Notes:
+    - Improved Critical Hit reduces the number needed to roll a Critical Hit by 1 and this effect can stack.
+    - You can reduce the critical hit dice roll further with feat and gear (stacking).
+    - Using Champion means you lack spellcasting or superiority dice; rely on weapon skills or companion spells for stuns, buffs, and crowd control.
+    - “Your goal is to reach enemies and do damage with an advantage at every turn.”
+    - Advantage mechanic rolls two D20 and selects the higher of the two.
+    - Stockpile weapon poisons and elemental arrows (example uses: ice to proc prone; put an enemy asleep if you need a stun).
 
-### Early-game priorities (from the guide)
-- At the start of the game, you will feel weak until level 5 where you gain Extra Attack.
-- Your priority for a Fighter build is locating heavy armour, a two-handed Greatsword, and a Longbow or Heavy Crossbow.
-- Lae’zel, who you meet in the prologue has powerful medium armour with 15 AC along with a Heavy Crossbow. If you don’t plan on using this companion, take her gear immediately and equip her for a big boost in overall survivability and ranged damage.
-- From this point, you need to hoard potions, arrows, and consumable potions.
-- Look to acquire Elixir of Hill Giant Strength, Potion of Speed, and Oil of Accuracy consumables. These three consumables “stack” allowing for massive damage.
-- Your overall priority with this build is the following:
-  - Complete Prologue
-  - Recruit Companions
-  - Unlock Withers, respec companions to proper class/ability score
-  - Collect the Necromancy of Thay (important in Act 3)
-  - Reach Druid Grove
-  - Sell, Stock up, complete quests
-  - Unlock summons, Scratch, Shovel
-  - Progress to level 5
-  - Reach Underdark and Grymforge
-  - Check all Permanent Bonuses in Act 1 and the best Gear
-  - Act 1 Checklist for step-by-step completion
+### Level 4
+- Gain:
+  - Feat: Great Weapon Master
+- Play Style:
+  - Notes:
+    - Great Weapon Master:
+      - When a melee attack scores a critical hit or kills a creature, you can make another melee attack as a bonus action.
+      - When attacking with Heavy Weapons you are proficient with, attack rolls take a -5 penalty, but their damage increases by 10.
+    - You can toggle the -5/+10 effect off in Passives for more consistent hit chance early.
+    - “Combat should therefore be initiated using your action first, saving your bonus action for a Great Weapons Master attack.”
 
----
+### Level 5
+- Gain:
+  - Extra Attack
+- Play Style:
+  - Notes:
+    - Extra Attack allows two attacks when you take the Attack action.
+    - Example burst sequence described:
+      - Two attacks (Extra Attack)
+      - Bonus action attack via Great Weapon Master (on kill or crit)
+      - Action Surge for another two attacks (total 5)
+      - Can be 7 with Potion of Speed or Haste (another action once per turn).
 
-## Level-by-level progression (Fighter 1 → 12)
+### Level 6
+- Gain:
+  - Feat: Ability Improvement (+2 Strength; total 18)
+- Play Style:
+  - Notes:
+    - +2 Strength helps hit harder and land attacks (especially with Great Weapon Master).
+    - If you previously toggled Great Weapon Master off due to low hit chance, turn it back on as Strength increases.
+    - “Use the spell Bless or have someone cast it on you for much higher percentages and big damage!”
+    - “Gameplay remains unchanged, get aggressive and try to land critical strikes with advantage dice rolls.”
 
-### Level 1 — Fighter 1
-**Gain**
-- Great Weapon Fighting
-- Second Wind
+### Level 7
+- Gain:
+  - Remarkable Athlete: Proficiency
+  - Remarkable Athlete: Jump
+- Play Style:
+  - Notes:
+    - In combat, “the only benefit is the jump distance.”
+    - Remarkable Athlete (Proficiency): add half Proficiency Bonus to Strength, Dexterity, and Constitution Checks you are not Proficient in.
+    - Remarkable Athlete (Jump): Jump distance increased by 3m.
+    - “Combat remains the same.”
 
-**Play style (Level 1)**
-- Get into melee range and attack with a two-handed weapon; if you can’t reach, attack with a ranged weapon.
-- Use Second Wind as a bonus action when you need to heal without giving up your action.
+### Level 8
+- Gain:
+  - Feat: Alert
+- Play Style:
+  - Notes:
+    - Alert: +5 Initiative and can’t be Surprised.
+    - Initiative is described as a Fighter weakness (low Dexterity due to heavy armor and Strength-based damage).
+    - Alert helps you open fights earlier to crowd control or kill multiple targets, reducing incoming damage.
+    - Surprised condition can skip a round; this matters in dialogue-based combat starts in Acts 2 and 3.
 
-### Level 2 — Fighter 2
-**Gain**
-- Action Surge
+### Level 9
+- Gain:
+  - Indomitable
+- Play Style:
+  - Notes:
+    - Indomitable: when you fail a Saving Throw, you can roll again using the new result instead.
+    - Described as a simple passive survivability feature that requires zero actions.
 
-**Play style (Level 2)**
-- Use Action Surge for critical moments in combat or to gain an advantage over tough opponents.
-- Short Rest to replenish Action Surge and keep momentum through multiple fights.
+### Level 10
+- Gain:
+  - Additional Fighting Style: Defence
+- Play Style:
+  - Notes:
+    - Defence increases Armour Class (AC) by +1 while wearing armor.
+    - Can swap to Archery if you find yourself using range (not expected).
+    - “Combat remains unchanged, just slightly more durable.”
 
-### Level 3 — Fighter 3 (Champion)
-**Subclass**
-- Champion
+### Level 11
+- Gain:
+  - Improved Extra Attack
+- Play Style:
+  - Notes:
+    - Improved Extra Attack: “You can make two additional attacks after attacking with your main-hand weapon.”
+    - Described as making Fighter the most action-heavy class/build (multiple actions, plus Action Surge, plus Great Weapon Master bonus action attack, plus Potion of Speed / Haste options).
+    - Alert is described as especially powerful here if the Fighter goes early and avoids being crowd controlled.
 
-**Gain**
-- Champion Subclass Unlocked: Improved Critical Hit (your weapon attacks score a critical hit on a roll of 19 or 20; this effect can stack)
+### Level 12
+- Gain:
+  - Feat: Ability Improvement (+2 Strength; total 20)
+- Play Style:
+  - Notes:
+    - “Improving our Strength to 20 is the play with this feat.”
 
-**Play style (Level 3)**
-- Play aggressively and aim to reach enemies and do damage with advantage as often as possible.
-- Keep weapon poisons and elemental arrows stocked for utility when you need it.
-
-### Level 4 — Fighter 4
-**Gain**
-- Feat: Great Weapon Master
-
-**Play style (Level 4)**
-- Start combat using your action first, saving your bonus action for a Great Weapon Master follow-up (on kill/crit).
-- Toggle the -5/+10 mode off if hit chance is too low; toggle it on as your Strength and buffs improve.
-
-### Level 5 — Fighter 5
-**Gain**
-- Extra Attack (two attacks when you take the Attack action)
-
-**Play style (Level 5)**
-- Default turn: Attack twice, then convert a kill/crit into a bonus-action attack when available.
-- Use Action Surge (and later Speed/Haste effects) to stack more full actions for massive burst turns.
-
-### Level 6 — Fighter 6
-**Gain**
-- Feat: Ability Improvement Strength (+2 Strength; total 18)
-
-**Play style (Level 6)**
-- With better accuracy, lean more on the big damage toggle when your hit chance is respectable.
-- Stay aggressive: get into melee range early and keep swinging rather than holding actions.
-
-### Level 7 — Fighter 7
-**Gain**
-- Remarkable Athlete: Proficiency (add half of your Proficiency Bonus to any Strength, Dexterity, and Constitution Checks you are not Proficient in)
-- Remarkable Athlete: Jump (Jump distance increased by 3m)
-
-**Play style (Level 7)**
-- Combat remains the same: maximize attacks each turn and use terrain/mobility to stay on targets.
-- Use improved jump distance to reach ledges and keep pressure on ranged/caster enemies.
-
-### Level 8 — Fighter 8
-**Gain**
-- Feat: Alert (+5 initiative; can’t be Surprised)
-
-**Play style (Level 8)**
-- Use early initiative to kill or disable high-damage dealers before they act to prevent catastrophic round one nukes.
-- When dialogue triggers combat, Alert helps you avoid losing a full turn to being Surprised.
-
-### Level 9 — Fighter 9
-**Gain**
-- Indomitable (reroll a failed saving throw)
-
-**Play style (Level 9)**
-- Keep your turn plan simple: melee attacks first, and rely on Indomitable to avoid being shut down.
-- Stay in melee range and keep pressure on priority targets.
-
-### Level 10 — Fighter 10
-**Gain**
-- Defence Fighting Style (+1 AC while wearing armour) (guide notes you can swap to Archery if you find yourself using range)
-
-**Play style (Level 10)**
-- Combat remains unchanged; you are simply slightly more durable.
-- Keep pushing into melee to make full use of your heavy armour and two-hander plan.
-
-### Level 11 — Fighter 11
-**Gain**
-- Improved Extra Attack (three attacks per action)
-
-**Play style (Level 11)**
-- Your identity is action-heavy burst: spend actions attacking and chain multiple actions to delete threats early in the round.
-- Save your extra-action resources for turns where going first can decide the fight.
-
-### Level 12 — Fighter 12
-**Gain**
-- Feat: Ability Improvement Strength (+2 Strength; total 20)
-
-**Play style (Level 12)**
-- You should feel insanely powerful: keep turns centered on stacking attacks and using extra actions for burst.
-- Use consumables (Speed, Bloodlust, Accuracy) when fights demand maximum output.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Grymskull Helm | Critical Hit Protection | Defeat Grym, a construct boss in The Adamantine Forge (Alternatives Haste Helm, or Cap of Wrath). |
+| Head | Grymskull Helm | Critical Hit Protection | Defeat Grym, a construct boss in The Adamantine Forge |
 | Cape | - | - | - |
-| Chest | Adamantine Splint Armour | 18 AC | Crafted at Grymforge (Alternatives Chain Mail +1, or Githyanki Half Plate). |
-| Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room (X:295 Y:69) (Alternatives Gloves of Dexterity, or Gloves of Missile Snaring). |
-| Boots | Disintegrating Night Walkers | Mobility | Obtained in Gyrmforge as part of Free True Soul Nere questline (Alternatives Boots of Striding, Boots of Genial Striding, or Boots of Speed). |
-| Necklace | Moondrop Pendant | No Opportunity Attacks | Sealed chest inside the Owlbear Nest (Alternatives Amulet of Branding, Amulet of Misty Step, or Amulet of Restoration). |
-| Ring | Crusher’s Ring | Increase Movement | Can be looted or stolen from Crusher in the Goblin camp (Alternatives Strange Conduit Ring, or Ring of Absolute Force). |
-| Ring | Caustic Band | Poison Damage | Obtained from merchant Derryth Bonecloak in the Myconid Colony (Alternatives Fetish of Callarduran Smoothhands, or The Sparkswall). |
-| Main Hand | Sword of Justice | 2d6 Slashing | Looted from Anders near Karlach (Alternatives Silver Sword of the Astral Plane, or Everburn Blade). |
-| Ranged | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout Act 1 (Alternatives Bow of Awareness, Hunter’s Shortbow, or Giantbreaker). |
+| Chest | Adamantine Splint Armour | 18 AC | Crafted at Grymforge |
+| Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room (X:295 Y:69) |
+| Boots | Disintegrating Night Walkers | Mobility | Obtained in Gyrmforge as part of Free True Soul Nere questline |
+| Necklace | Moondrop Pendant | No Opportunity Attacks | Sealed chest inside the Owlbear Nest |
+| Ring | Crusher’s Ring | Increase Movement | Can be looted or stolen from Crusher in the Goblin camp |
+| Ring | Caustic Band | Poison Damage | Obtained from merchant Derryth Bonecloak in the Myconid Colony |
+| Weapon (Main Hand) | Sword of Justice | 2d6 Slashing | Looted from Anders near Karlach |
+| Weapon (Ranged) | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout Act 1 |
 
-## Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | - | - | - |
-| Cape | Fleshmelter | Return Damage | Found in Chest in House of Healing Morgue (Alternative Cloak of Protection). |
-| Chest | - | - | - |
-| Gloves | - | - | - |
-| Boots | - | - | - |
-| Necklace | - | - | - |
-| Ring | Killer’s Sweetheart | Auto Crit | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
-| Ring | - | - | - |
-| Main Hand | - | - | - |
-| Ranged | Darkfire Shortbow | Best Longbow | Sold by trader Damon Act 2 Last Light Inn (X: -35 Y: 169) (Alternatives Gontr Mael, or Fabricated Arbalest). |
+| Cape | Fleshmelter | Return Damage | Found in Chest in House of Healing Morgue |
+| Ring | Killer’s Sweetheart | Auto Crit | Obtained from the Gauntlet of Shar in Act 2 |
+| Weapon (Ranged) | Darkfire Shortbow | Best Longbow | Sold by trader Damon Act 2 Last Light Inn (X: -35 Y: 169) |
 
-## Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Helm of Balduran | Self-healing | Obtained in Dragon’s Sanctum on an altar (X: 636 Y: -964) (Alternatives Helldusk Helmet, Sarevok’s Horned Helmet, or Mask of Soul Perception). |
-| Cape | Fleshmelter | Return Damage | Found in Chest in House of Healing Morgue (Alternative Cloak of Protection). |
-| Chest | Helldusk Armour | 21 Armour Class | Dropped by Raphael in the House of Hope (Alternatives Armour of Devotion, Armour of Persistence, Bhaalist Armour). |
-| Gloves | Gauntlets of Hill Giant Strength | 23 Strength | Obtained in Archive of the House of Hope (Alternatives Helldusk Gloves, Legacy of the Masters, or Gloves of Soul Catching). |
-| Boots | Helldusk Boots | Mobility | In a locked chest, Wyrm’s Rock Fortress (X: -32 Y: 219) (Alternative Disintegrating Night Walkers). |
-| Necklace | Amulet of Greater Health | 23 Constitution | Found in the House of Hope in Baldur’s Gate City (Alternative Surgeon’s Subjugation Amulet, or Periapt of Wound Closure). |
-| Ring | Killer’s Sweetheart | Auto Crit | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
-| Ring | Ring Of Regeneration | Self-healing | Sold by Rolan at Sorcerous Sundries (Alternative Ring of Free Action, Shifting Corpus Ring). |
-| Main Hand | Balduran’s Giantslayer | Best Greatsword | Obtained as a reward for completing the Wyrmway trials (Alternatives Sword of Chaos, or Silver Sword of the Astral Plane). |
-| Ranged | Darkfire Shortbow | Best Longbow | Sold by trader Damon Act 2 Last Light Inn (X: -35 Y: 169) (Alternatives Gontr Mael, or Fabricated Arbalest). |
+| Head | Helm of Balduran | Self-healing | Obtained in Dragon’s Sanctum on an altar (X: 636 Y: -964) |
+| Cape | Fleshmelter | Return Damage | Found in Chest in House of Healing Morgue |
+| Chest | Helldusk Armour | 21 Armour Class | Dropped by Raphael in the House of Hope |
+| Gloves | Gauntlets of Hill Giant Strength | 23 Strength | Obtained in Archive of the House of Hope |
+| Boots | Helldusk Boots | Mobility | In a locked chest, Wyrm’s Rock Fortress (X: -32 Y: 219) |
+| Necklace | Amulet of Greater Health | 23 Constitution | Found in the House of Hope in Baldur’s Gate City |
+| Ring | Killer’s Sweetheart | Auto Crit | Obtained from the Gauntlet of Shar in Act 2 |
+| Ring | Ring Of Regeneration | Self-healing | Sold by Rolan at Sorcerous Sundries |
+| Weapon (Main Hand) | Balduran’s Giantslayer | Best Greatsword | Obtained as a reward for completing the Wyrmway trials |
+| Weapon (Ranged) | Darkfire Shortbow | Best Longbow | Sold by trader Damon Act 2 Last Light Inn (X: -35 Y: 169) |
 
----
+## Features and Mechanics
+- Primary Ability: Strength
+- Saving Throws: Strength, Constitution
+- Armour Proficiency: Light Armour, Medium Armour, Heavy Armor, Shields
+- Weapon Proficiency: Simple Weapon, Martial Weapons
+- Health Points: 10 HP + Constitution Modifier, then gain 6 HP + Constitution Modifier every level thereafter
+- Second Wind: heal yourself with a bonus action (level 1)
+- Action Surge: gain one additional action (level 2)
+- Champion Subclass: Improved Critical (weapon attacks score a critical hit on a roll of 19 or 20)
+- Extra Attack: make an additional free attack after making an unarmed or weapon attack
+- Build focus:
+  - Two-handed weapon style and an ultra-aggressive playstyle to deal massive damage.
+  - Champion prioritizes burst damage and aims for maximum damage with a feat that feeds into a critical strike build.
+- Early priorities called out:
+  - Locate heavy armour, a two-handed Greatsword, and a Longbow or Heavy Crossbow.
+  - Hoard potions, arrows, and consumables; called-out stack: Elixir of Hill Giant Strength + Potion of Speed + Oil of Accuracy.
 
-# Permanent bonuses (by Act)
+## Subclass Options
 
-## Act 1
+### Fighter Subclasses
+- Battle Master: a more versatile subclass giving you Superiority Dice and extra control over attacks.
+- Champion: emphasizes critical strikes and the simplest and most straightforward playstyle.
+- Eldritch Knight: combines martial prowess with spellcasting.
+- Arcane Archer: uses Arcane Shots for ranged magical attacks, with options to deal a variety of elemental damage types.
+
+### Champion Subclass Features
+- Improved Critical Hit: the number you need to roll a Critical Hit while attacking is reduced by 1 (can stack).
+- Remarkable Athlete: Proficiency (add half Proficiency Bonus to Strength, Dexterity, and Constitution Checks you are not Proficient in).
+- Remarkable Athlete: Jump (Jump distance increased by 3m).
+
+## Best Consumables
+- Elixir of Bloodlust: once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Elixir of Hill Giant Strength: increases Strength ability score to 21 until Long Rest.
+- Potion of Speed: gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
+- Drow Poison: weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
+- Potion of Flying: drink to gain a flying speed of 60ft for one hour.
+- Elixir of Heroism: gain 10 temp HP and become Blessed until long rest.
+- Potion of Greater Healing: 4d4 + 4 hit points restored.
+- Oil of Accuracy: coat weapon; bonus of +2 in Attack Rolls.
+- Elixir of Vigilance: drink to gain a +5 bonus to Initiative and you can’t be Surprised.
+- Elixir of Darkvision: (only non-Darkvision race): drink to gain the ability to see in the dark up to 12m.
+
+## Permanent Bonuses
+
+### Act 1
 - Auntie Ethel’s Hair: Gain +1 to an Ability Score.
 - Awakened: Use illithid powers as a Bonus Action.
 - Scratch: Gain Find Familiar Scratch.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
 - Cheeky Quasit: Gain Summon Quasit Shovel.
 - Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
 - Necromancy Of Thay: access to powerful spells in Act 3.
 - Volo’s Ersatz Eye: See Invisibility
 
-## Act 2
+### Act 2
 - Potion of Everlasting Vigour: Gain +2 Strength.
-- Slayer Form: Ability to transform into the Slayer.
-- Summon Us: Allows you to summon Us.
 
-## Act 3
+### Act 3
 - Mirror of Loss – +2 to an Ability Score of your choice.
+- Slayer Form: Ability to transform into the Slayer.
 - Partial Ceremorphosis: Access to tier 3 illithid Powers.
-- Sweet Stone Features: Blessed permanent.
 - Statue of the Gods: +2 to Saving Throws
 
----
-
-# Best consumables / items (single-use)
-- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
-- Elixir of Hill Giant Strength: Increases Strength ability score to 21 until Long Rest.
-- Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
-- Drow Poison: Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
-- Potion of Flying: Drink to gain a flying speed of 60ft for one hour.
-- Elixir of Heroism: Gain 10 temp HP and become Blessed until long rest.
-- Potion of Greater Healing: 4d4 + 4 hit points restored.
-- Oil of Accuracy: Coat Weapon. Bonus of +2 in Attack Rolls.
-- Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
-- Elixir of Darkvision: (only non-Darkvision race): Drink to gain the ability to see in the dark up to 12m.
-
----
-
-## Optional: Illithid powers (if using tadpoles)
+## Illithid Powers
 - Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
 - Cull the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
-- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict ld4 Psychic damage to the caster per the spell’s level.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
 - Black Hole: Area-based suck-in that slows targets.
 - Repulsor: Massive area knockback that can hit friendlies.
-- Charm: This is the priority power you want to obtain because you can force enemies to attack something else.
+- Charm: Priority power described to force enemies to attack something else.
 
----
+## Gameplay Tips and Tricks
+- Initial Turn: Make sure your initial move either puts you in melee range so you can strike or attack with a range weapon.
+- Bonus Action: Make use of your bonus action with skills like Pommel or even shove to knock back enemies.
+- Potion of Speed: Use these potions to gain movement and more actions in challenging fights.
+- Rest: Make sure to rest when your superiority dies are low so you start with many available.
+- Equip Range: Find and equip a bow early because it will increase your kill potential and take advantage of Fighters weapon versatility.
+- Make use of Action Surge: Save Action Surge for critical moments in combat or to gain an advantage over tough opponents.
+- Action and Bonus Actions: Try to make use of both your action and bonus action every turn, especially with Great Weapon Master.
+- Maximize your Attacks: Consider using Action Surge for an additional set of attacks with Extra Attack after level 5.
+- Weapon Selection: Use a Greatsword due to their secondary ability and bonuses in BG3.
+- Utilize Maneuvers: Maneuvers are great for crowd control and should be used early in combat.
 
-## Optional: Alternative build route (from the guide)
-### Alternative Champion Fighter Build – Spellcaster Playstyle
-- For Fighter builds that want more spellcasting and damage potential, you should take 1 level of the Warlock and select the Hexblade subclass at Level 12.
-- The Warlock Hexblade gives you extra bonus action utility, two good spells, and a powerful range cantrip.
-- Even though it’s a Charisma class, the Warlock one level dip adds a lot of utility for the Fighter at the expense of a feat.
-- Moreover, your feats should be enough to reach 20 Strength and Great Weapon Master.
-- Additionally, you can take 17 in character creation if you plan to get Auntie Ethel’s bonus in Act 1.
-- This combination gives you great range, melee damage, and utility playing the Fighter class.
+## Alternative Build Route
+- Alternative Champion Fighter Build – Spellcaster Playstyle:
+  - “For Fighter builds that want more spellcasting and damage potential, you should take 1 level of the Warlock and select the Hexblade subclass at Level 12.”
+  - Described benefits: extra bonus action utility, two good spells, and a powerful range cantrip; adds utility for solo play while sacrificing one feat.
+  - Notes included:
+    - “Your feats should be enough to reach 20 Strength and Great Weapon Master.”
+    - “Additionally, you can take 17 in character creation if you plan to get Auntie Ethel’s bonus in Act 1.”
+- Alternative leveling table shown in the guide (as written):
+  - Level 1: Fighter — Great Weapon Fighting
+  - Level 2: Fighter — –
+  - Level 3: Fighter — Subclass: Eldritch Knight, Booming Blade, Friends, Shield, Thunderwave, Longstrider
+  - Level 4: Fighter — Feat: +2 STR, Chromatic Orb
+  - Level 5: Fighter — –
+  - Level 6: Fighter — Feat: Great Weapon Master
+  - Level 7: Fighter — Darkness, Gust of Wind
+  - Level 8: Fighter — Feat: Savage Attacker, Misty Step
+  - Level 9: Fighter — –
+  - Level 10: Fighter — Firebolt, Protection from Good and Evil
+  - Level 11: Fighter — Scorching Ray
+  - Level 12: Warlock — Hexblade Subclass, Eldritch Blast, Toll of the Dead, Hexed, Hellish Rebuke
+
+## Patch Changes
+
+### Patch 8
+- The guide states: “This build page has been updated for the Patch 8 version of Baldur’s Gate 3.”
+- The most obvious change influencing builds in Patch 8 is the addition of 12 new subclasses and their abilities and synergies.
+- Specifically called out: Eldritch Knight becomes much stronger with the addition of Booming Blade Cantrip, allowing extra thunder damage each action.
+- Guidance included:
+  - “If you’re looking for a hard-hitting tank playstyle then the previous build is still very effective.”
+  - “However, consider the Eldritch Knight if you want extra spellcasting utility.”
+  - Notes about multiclass options mentioned: 11 levels of Fighter and 1 Warlock for more spellcasting potential; 1 level of Hexblade Warlock adds utility with the downside of losing one feat.
+
+Source PDF: :contentReference[oaicite:0]{index=0}
