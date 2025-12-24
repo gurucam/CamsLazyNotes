@@ -1,345 +1,520 @@
-# Archfey Warlock Build (Patch 8)
+# Archfey Warlock Build
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Warlock 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-## Build snapshot
+## Build Snapshot
 
-### Fantasy / flavor
-- A **ranged control caster**: you command the battlefield with Eldritch Blast, Hex, and crowd control while maintaining distance and summoning allies to fight alongside you.
-- Plays like "**stay at range, debuff priority targets, and let your summons handle pressure**"—your damage is consistent and safe, with strong utility spells for versatility.
-- You have defensive tools: **Misty Step** for mobility, **Mirror Image** for survivability, and **Misty Escape** to turn invisible when hit.
+### Fantasy / Flavor
+- Warlocks are mysterious and powerful spellcasters who have made a pact with a powerful being, such as a demon, devil, or archfey.
+- In exchange for their power, warlocks must serve their patron’s bidding, often in dark and nefarious ways.
+- The Archfey subclass features abilities that reflect the power and cunning of the fey.
 
-### Core playstyle in one sentence
-- **Hex priority target → Eldritch Blast repeatedly → summon allies → use crowd control and area damage when needed** while staying safe at range with defensive buffs active.
+### Core Playstyle
+- Use Eldritch Blast paired with Hex to debuff enemies and deal consistent damage from a distance.
+- Leave spell slots for reactions and key utility/area spells, and use short rests to recover spell slots.
 
-### Party role
-- **Ranged damage dealer:** consistent single-target damage with Eldritch Blast + Hex combo.
-- **Controller:** crowd control via Sleep, Banishment, Dominate Person, and area denial with Hunger of Hadar.
-- **Summoner:** deploy multiple allies (Imp, Elemental, Planar Ally) to absorb pressure and add damage.
+### Party Role
+- Range DPS
+- Crowd Control / Utility
+- Summons support (Pact of the Chain, Conjure Elemental)
 
 ### Pros
-- Extremely consistent **ranged DPR** with infinite Eldritch Blast
-- Strong utility and control options for various encounter types
-- Spell slots recharge on **Short Rest** (much more flexible than other casters)
-- Can use shield + light armor for excellent survivability
+- Eldritch Blast is the most powerful Cantrip in the game and the focus of Warlock Builds.
+- Spell slots recharge on short rest.
+- Strong survivability tools (Mirror Image, Misty Step, Misty Escape).
 
 ### Cons
-- Limited spell slots compared to full casters (compensated by Short Rest recharge)
-- Less burst damage than pure damage builds
-- Requires positioning awareness to maintain range advantage
-- Dependent on Eldritch Invocations for full potential
+- Very limited spell slots and aren’t meant to use them like Wizards or Sorcerers.
+- Hunger of Hadar requires concentration, so if you’re using Hex, you will not be able to use this ability in conjunction.
 
-### Power spikes to look forward to
-- Level 2: **Agonizing Blast + Repelling Blast** (Eldritch Blast becomes a powerhouse)
-- Level 3: **Pact of the Chain** (summon Imp for additional combatant)
-- Level 6: **Misty Escape + Hunger of Hadar** (survivability and area damage)
-- Level 9: **Minions of Chaos** (summon Elemental for major battlefield presence)
-- Level 11: **Circle of Death** (huge area damage once per Long Rest)
+### Power Spikes
+- Level 2: Agonizing Blast + Repelling Blast
+- Level 3: Pact of the Chain (Imp)
+- Level 6: Misty Escape + Hunger of Hadar
+- Level 7: Book of Ancient Secrets (free spells)
+- Level 9: Minions of Chaos (Conjure Elemental)
+- Level 11: Mystic Arcanum (Circle of Death)
 
----
+## Character Creation
+- Race: High Half-Elf
+- Subrace: High Half-Elf
+- Class: Warlock
+- Subclass: The Archfey
+- Background: Charlatan
+- Ability Scores: Strength 8, Dexterity 16, Constitution 14, Intelligence 10, Wisdom 10, Charisma 16
+- Proficiencies: Intimidation and Arcana
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** High Half-Elf
-- **Class:** Warlock
-- **Subclass:** The Archfey
-- **Background:** Charlatan
-- **Skills:** Intimidation, Arcana
-- **Abilities (target):** STR 8 / DEX 16 / CON 14 / INT 10 / WIS 10 / CHA 16
+## Level Progression
 
-### Racial notes (why High Half-Elf)
-- **Civil Militia** (shield proficiency—critical for survivability with light armor)
-- **Fire Bolt cantrip** (extra ranged damage option)
-- **Fey Ancestry** (advantage vs charm, immune to sleep)
-- **Darkvision** (quality-of-life, especially in Underdark)
+### Level 1
+- Gain:
+  - Subclass: The Archfey
+  - Fey Presence (subclass feature): Charms or Frightens nearby enemies
+  - Eldritch Blast (class cantrip)
+  - Blade Ward (class cantrip)
+  - Hellish Rebuke (spell selection)
+  - Hex (spell selection)
+  - Fire Bolt (High Half-Elf Race Cantrip)
+  - Civil Militia (High Half-Elf Race): weapon proficiency with Spears, Pikes, Halberds, and Glaives; Armour Proficiency with Light Armour and Shield
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast repeatedly; save spell slots for Hellish Rebuke (reaction)
+  - Notes:
+    - “The premise of the Archfey Warlock is simple, Hex and Eldritch Blast repeatedly.”
+    - “Make sure to hit the passives tab on your character’s menu and request ‘ask’” for Hellish Rebuke.
+    - Early on, focus on staying alive with Blade Ward and potions while doing Hex and Eldritch Blast for your damage combo.
 
-*Secondary option mentioned in the guide:* **Human** (also has Civil Militia for shield proficiency, plus extra skill proficiency and increased carrying capacity).
+### Level 2
+- Gain:
+  - Sleep (spell selection)
+  - Agonizing Blast (Eldritch Invocation)
+  - Repelling Blast (Eldritch Invocation)
+  - Replace Spell (class feature)
+  - Another Warlock Spell Slot
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Sleep
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Use Sleep on area-based enemies with lower health; Eldritch Blast as primary damage
+  - Notes:
+    - “Make sure you toggle [Repelling Blast] on as well and do not knock back out of range.”
+    - “This spell becomes ineffective beyond level 4, but early it’s a powerhouse.”
 
-### Starting setup
-- **Weapon:** Quarterstaff (one-handed) + Shield for maximum AC with light armor.
-- **Armor:** Light armor throughout (leverages Dexterity for AC).
-- **Ranged backup:** Keep a bow equipped even without proficiency—it still grants +1 initiative from certain gear.
-- **Core loop:** Hex as bonus action, then Eldritch Blast repeatedly. Save spell slots for Hellish Rebuke (reaction) and defensive/utility spells.
+### Level 3
+- Gain:
+  - Replace Spell: Remove Sleep and select Mirror Image
+  - Misty Step (spell selection)
+  - Mirror Image (spell selection) (via replace spell)
+  - Pact of the Chain (Pact Boon): familiar (animal, imp, or quasit)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Mirror Image
+  - Misty Step
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Use Misty Step (bonus action) for mobility when needed; use Mirror Image for survivability
+  - Notes:
+    - “With the addition of Misty Step for mobility and Mirror Image for +9 AC, you will be very hard to kill.”
+    - “Summon the Imp following a long rest.”
 
-### Early-game priorities (from the guide)
-- Complete prologue and recruit companions.
-- Unlock Withers to respec companions properly.
-- Collect **Necromancy of Thay** in Act 1 (important for Act 3 payoff).
-- Progress to level 5 for stronger Eldritch Invocations.
-- Reach Underdark/Grymforge to access strong Act 1 gear and check all permanent bonuses.
-- Short rest after every fight to maintain spell slot availability.
+### Level 4
+- Gain:
+  - Shatter (spell selection)
+  - Feat: Ability Improvement (+2 Charisma to 18)
+  - Replace Spell (available)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Use Shatter infrequently; “Stick to the basics for now.”
+  - Notes:
+    - “We will get another feat at level 8 and one more at max level 12.”
+    - “The reason why is the hat Birthright in Act 3… increase your Charisma another +2 to 22.”
 
----
+### Level 5
+- Gain:
+  - Deepened Pact (class feature)
+  - Counterspell (spell selection)
+  - One with Shadows (Eldritch Invocation): can become Invisible in semi-obscured or heavily obscured location
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+  - Counterspell
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Use Counterspell as a reaction; use One with Shadows for invisibility when needed
+  - Notes:
+    - “Save spell slots for Hellish Rebuke… without costing an action.”
+    - “The Counterspell spell isn’t an offensive one but a hard counter as a reaction.”
 
-## Level-by-level progression (Warlock 1 → 12)
-> This build is resource-efficient. Treat each level's **Play style** as your combat approach.
+### Level 6
+- Gain:
+  - Misty Escape (subclass feature): Upon taking damage, become Invisible; next turn can cast Misty Step (breaks invisibility)
+  - Hunger of Hadar (spell selection)
+  - Replace Spell (available)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+  - Counterspell
+  - Hunger of Hadar
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast **or** Hunger of Hadar (when 2–3 targets)
+    - Turn 2+: Eldritch Blast repeatedly; reposition with Misty Step / Misty Escape
+  - Notes:
+    - “Hunger of Hadar also requires concentration, so if you’re using Hex, you will not be able to use this ability in conjunction.”
+    - “Misty Escape subclass feature is vital to our survivability.”
 
-### Level 1 — Warlock 1 (The Archfey)
-**Gain**
-- **Subclass: The Archfey**
-- **Fey Presence** (charm or frighten nearby enemies)
-- **Cantrips:** Eldritch Blast, Blade Ward
-- **Spells:** Hex, Hellish Rebuke
-- **Racial cantrip (High Half-Elf):** Fire Bolt
-- **Civil Militia** (shield proficiency)
+### Level 7
+- Gain:
+  - Blight (spell selection)
+  - Book of Ancient Secrets (Eldritch Invocation): learn Ray of Sickness, Chromatic Orb, and Silence; cast once per long rest without expending spell slots
+    - Ray of Sickness (free spell): Possibly Poisons the target
+    - Chromatic Orb (free spell): damage type choice and creates a surface
+    - Silence (free spell): sound-proof sphere; all within are Silenced and Immune to Thunder damage
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+  - Counterspell
+  - Hunger of Hadar
+  - Blight
+  - Ray of Sickness (free)
+  - Chromatic Orb (free)
+  - Silence (free)
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast **or** Blight (burst single target)
+    - Turn 2+: Use Chromatic Orb (free) “depending on the enemy”; use Silence for utility; Eldritch Blast as primary
+  - Notes:
+    - “Level seven gives us a massive amount of spells.”
+    - “You can examine enemies… to see resistance and vulnerabilities.”
 
-**Play style (Level 1)**
-- Standard Warlock opening: Hex on priority target (bonus action), then Eldritch Blast repeatedly.
-- Use Hellish Rebuke as reaction when hit—set it to "ask" in passives menu to avoid wasting spell slots on low-HP targets.
-- Blade Ward for damage reduction when expecting heavy melee pressure.
-- You have very few spell slots, so cantrips are your primary damage source.
+### Level 8
+- Gain:
+  - Banishment (spell selection)
+  - Feat: Ability Improvement (+2 Charisma to 20)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+  - Counterspell
+  - Hunger of Hadar
+  - Blight
+  - Ray of Sickness (free)
+  - Chromatic Orb (free)
+  - Silence (free)
+  - Banishment
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast **or** Banishment (single-target crowd control)
+    - Turn 2+: Maintain ranged damage; use utility/CC spells as needed
+  - Notes:
+    - “Banishment… removes it from the battlefield and is a great single-target cc.”
+    - “When we reach Act 3, getting the Birthright helm will be a priority.”
 
-### Level 2 — Warlock 2
-**Gain**
-- **Eldritch Invocations:** Agonizing Blast, Repelling Blast
-- **Spell:** Sleep
-- **Replace Spell** (can swap spells on level-up)
-- Extra Warlock spell slot
+### Level 9
+- Gain:
+  - Minions of Chaos (Eldritch Invocation): Learn Conjure Elemental with Warlock Spell slot
+  - Conjure Elemental (Invocation spell)
+  - Dominate Person (spell selection)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+  - Counterspell
+  - Hunger of Hadar
+  - Blight
+  - Ray of Sickness (free)
+  - Chromatic Orb (free)
+  - Silence (free)
+  - Banishment
+  - Conjure Elemental
+  - Dominate Person
+- Play Style:
+  - Rotation:
+    - Turn 1: Summon allies outside of combat (as able) before fights; open with Hex + Eldritch Blast
+    - Turn 2+: Use Conjure Elemental and Dominate Person to increase allied pressure; continue Eldritch Blast
+  - Notes:
+    - “The best part is, that these can all be summoned outside of combat and last until long rest.”
+    - “The Cambion can be summoned per long rest via the Infernal Rapier weapon… in Act 2.”
 
-**Play style (Level 2)**
-- **Major damage spike:** Agonizing Blast adds your Charisma modifier to each Eldritch Blast beam.
-- Repelling Blast pushes targets 4.5m away—use to control positioning, knock enemies off ledges, or create distance.
-- Sleep is powerful early for crowd control (targets up to 24 combined HP)—becomes less useful after level 4.
-- Combat loop: Hex → Eldritch Blast with knockback and bonus damage.
-- Short rest after fights to maintain spell slots.
+### Level 10
+- Gain:
+  - Poison Spray (cantrip selection)
+  - Dimension Door (spell selection)
+  - Beguiling Defenses (subclass feature): immune to being charmed; can use reaction to turn charm back
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+  - Counterspell
+  - Hunger of Hadar
+  - Blight
+  - Ray of Sickness (free)
+  - Chromatic Orb (free)
+  - Silence (free)
+  - Banishment
+  - Conjure Elemental
+  - Dominate Person
+  - Dimension Door
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: “Your primary gameplay is still Hex and Eldritch Blast.” Use Dimension Door as utility
+  - Notes:
+    - “The summons does a lot of work for you every round and takes the pressure off your teammates.”
 
-### Level 3 — Warlock 3
-**Gain**
-- **Pact Boon:** Pact of the Chain
-- **Spells:** Misty Step, Mirror Image (replace Sleep)
-- **Improved Warlock Spells** (higher level spell slots)
+### Level 11
+- Gain:
+  - Mystic Arcanum (class feature): select one Level 6 spell; once per long rest without expending a spell slot
+  - Circle of Death (free spell) (Mystic Arcanum selection)
+  - Greater Invisibility (spell selection)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+  - Counterspell
+  - Hunger of Hadar
+  - Blight
+  - Ray of Sickness (free)
+  - Chromatic Orb (free)
+  - Silence (free)
+  - Banishment
+  - Conjure Elemental
+  - Dominate Person
+  - Dimension Door
+  - Greater Invisibility
+  - Circle of Death (free, once per Long Rest)
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Circle of Death (free) when needed for “massive area damage”; otherwise Hex + Eldritch Blast
+    - Turn 2+: Continue ranged loop; use Greater Invisibility as utility
+  - Notes:
+    - “With Circle of Death, you need to select a specific target first… but it can be a lot.”
 
-**Play style (Level 3)**
-- **Summon Imp via Pact of the Chain**—additional combatant that can deal decent damage and absorb pressure.
-- Mirror Image is your defensive priority: +9 AC total (3 images × +3 AC each). Cast before taking pressure.
-- Misty Step provides emergency mobility—only costs bonus action, so you can still cast spells on the same turn.
-- With shield + light armor + Mirror Image, you're very hard to kill.
-- Imp summon lasts until Long Rest, so deploy it after resting.
+### Level 12
+- Gain:
+  - Seeming (spell selection)
+  - Devil’s Sight (Eldritch Invocation): see normally in darkness (magical and nonmagical) to 24m
+  - Feat: Shield Master
+    - NOTE only possible if you took High-Elf or Human race for Civil Militia passive.
+    - If not, Moderately Armoured feat (medium armor and shield proficiency) is recommended in the guide.
+    - If you don’t like either choice, Elemental Affinity is mentioned as good if you consistently use one source of damage.
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Shatter
+  - Counterspell
+  - Hunger of Hadar
+  - Blight
+  - Ray of Sickness (free)
+  - Chromatic Orb (free)
+  - Silence (free)
+  - Banishment
+  - Conjure Elemental
+  - Dominate Person
+  - Dimension Door
+  - Greater Invisibility
+  - Circle of Death (free, once per Long Rest)
+  - Seeming
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Use shield + Shield Master reactions defensively; fill with CC/utility spells as needed
+  - Notes:
+    - “Since we are using the Infernal Rapier and the shield adds free AC, we can select this feat as a bonus to the Dexterity Saving throw.”
+    - “This feat along with our recommended Legendary Shield makes you extraordinary survival-able at max level.”
 
-### Level 4 — Warlock 4
-**Gain**
-- **Feat:** Ability Improvement (+2 Charisma, raising it to 18)
-- **Spell:** Shatter
-
-**Play style (Level 4)**
-- Higher Charisma improves Eldritch Blast damage and spell save DC.
-- Shatter provides area damage with disadvantage against inorganic creatures—use sparingly.
-- Continue focusing on Hex + Eldritch Blast as primary damage pattern.
-- Working toward Birthright helm in Act 3 (requires 20 Charisma for maximum benefit).
-
-### Level 5 — Warlock 5
-**Gain**
-- **Deepened Pact** (class feature improves pact effectiveness)
-- **Eldritch Invocation:** One with Shadows
-- **Spell:** Counterspell
-
-**Play style (Level 5)**
-- **One with Shadows:** become invisible in obscured areas (combat and exploration utility).
-- Counterspell is crucial defensive tool—nullifies enemy spells level 3 or lower as reaction.
-- Save reactions for Counterspell against dangerous enemy casters or Hellish Rebuke for damage.
-- Eldritch Blast remains your primary damage source; higher spell slots improve Hex and other utility.
-
-### Level 6 — Warlock 6 (Misty Escape)
-**Gain**
-- **Subclass feature:** Misty Escape (become invisible when hit; can cast Misty Step next turn)
-- **Spell:** Hunger of Hadar
-
-**Play style (Level 6)**
-- **Major survivability spike:** Misty Escape gives automatic invisibility + free repositioning when damaged.
-- Hunger of Hadar is your first real area damage spell: 2d6 Cold (start of turn) + 2d6 Acid (end of turn), plus difficult terrain and Blind.
-- Hunger of Hadar requires concentration, so you can't use it with Hex—choose based on encounter (single target = Hex, grouped enemies = Hunger of Hadar).
-- Preparing to leave Act 1: check traders, stock supplies, complete permanent bonuses, and consider Grymforge/Adamantine gear.
-
-### Level 7 — Warlock 7
-**Gain**
-- **Eldritch Invocation:** Book of Ancient Secrets
-- **Spell:** Blight
-- **Free spells from Book of Ancient Secrets:** Ray of Sickness, Chromatic Orb, Silence (once per Long Rest each)
-
-**Play style (Level 7)**
-- **Massive spell expansion:** Three free spells that don't consume precious Warlock spell slots.
-- Chromatic Orb is excellent damage—choose element type based on enemy vulnerabilities (examine enemies in combat).
-- Silence shuts down enemy casters in an area (very strong utility).
-- Blight provides strong single-target burst damage with disadvantage against plants.
-- You now have multiple damage types and utility options without spending spell slots.
-
-### Level 8 — Warlock 8
-**Gain**
-- **Feat:** Ability Improvement (+2 Charisma, raising it to 20)
-- **Spell:** Banishment
-
-**Play style (Level 8)**
-- Charisma at 20 maximizes Eldritch Blast damage and spell effectiveness.
-- Banishment is powerful single-target crowd control—removes enemy from battlefield for two turns.
-- Prioritize acquiring Birthright helm in Act 3 (will push Charisma to 22 with this foundation).
-- Continue Hex + Eldritch Blast pattern, using expanded spell list for versatility.
-
-### Level 9 — Warlock 9
-**Gain**
-- **Eldritch Invocation:** Minions of Chaos (unlocks Conjure Elemental)
-- **Spells:** Conjure Elemental, Dominate Person
-
-**Play style (Level 9)**
-- **Major power spike:** Summon Elemental (Earth recommended) alongside your Imp and potentially Planar Ally (from gear).
-- With three summons active, you have massive battlefield presence—enemies must deal with multiple threats.
-- Dominate Person controls humanoid enemies, turning them into temporary allies.
-- All summons can be deployed before combat and last until Long Rest.
-- Combat becomes: summons engage → Hex priority target → Eldritch Blast safely from range.
-
-### Level 10 — Warlock 10 (Beguiling Defenses)
-**Gain**
-- **Subclass feature:** Beguiling Defenses (immune to charm; can reflect charm attempts back)
-- **Cantrip:** Poison Spray
-- **Spell:** Dimension Door
-
-**Play style (Level 10)**
-- Charm immunity improves survivability against certain enemies.
-- Dimension Door provides teleportation for yourself + one ally—excellent utility for positioning.
-- Continue using summons + Hex + Eldritch Blast core loop.
-- Poison Spray is situational—Eldritch Blast remains superior damage option.
-
-### Level 11 — Warlock 11
-**Gain**
-- **Mystic Arcanum** (one level 6 spell free per Long Rest)
-- **Free spell:** Circle of Death
-- **Spell:** Greater Invisibility
-
-**Play style (Level 11)**
-- **Major area damage spike:** Circle of Death devastates grouped enemies (8d6 in massive area, once per Long Rest).
-- Circle of Death requires targeting a creature first, then hits area around them—position carefully.
-- Greater Invisibility on yourself or ally for extended combat advantage (attacks with advantage, enemies have disadvantage).
-- Use Circle of Death on tough multi-enemy fights; save for impactful moments.
-
-### Level 12 — Warlock 12
-**Gain**
-- **Feat:** Shield Master (requires shield proficiency from race)
-- **Eldritch Invocation:** Devil's Sight (see in magical darkness up to 24m)
-- **Spell:** Seeming
-
-**Play style (Level 12)**
-- Shield Master provides +2 to Dexterity saves and reaction to halve spell damage (no damage on successful save).
-- Combined with recommended legendary shield (Viconia's Walking Fortress), survivability is extremely high.
-- Devil's Sight synergizes with Darkness/Hunger of Hadar—you can see through it, enemies can't.
-- Full endgame combat loop: summons deployed → Mirror Image → Hex → Eldritch Blast from safety → Counterspell/Hellish Rebuke as reactions → area damage/control as needed.
-- **Alternative feat if not using shield:** Moderately Armoured (grants medium armor + shield proficiency) or Elemental Affinity (bonus damage for consistent element use).
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it's good | Where to get**.
-
+## Act 1 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Circlet of Blasting | Free Scorching Ray spell | Sold by Blurg in Myconid Colony |
-| Cape | — | — | — |
-| Chest | Drow Studded Leather Armour | +1 to Spell Save DC | Heavy Chest near entrance to The Festering Cove |
-| Gloves | Gloves of Cinder and Sizzle | Free Scorching Ray spell | Sold by Lady Esther at Rosymorn Monastery Trail |
-| Boots | Disintegrating Night Walkers | Mobility + free Misty Step | Underdark, from Nere NPC during Free True Soul Nere quest |
-| Neck | Amulet of Misty Step | Free Misty Step spell | Gilded Chest in Defiled Temple (X: 386, Y: 8) |
-| Ring | Ring of Absolute Force | Free Thunderwave spell | Dropped by Sergeant Thrinn in Grymforge |
-| Ring | The Sparkswall | Lightning resistance | Arcane Tower, Underdark |
-| Main Hand | Melf's First Staff | Free Acid Arrow spell | Sold by Blurg in Myconid Colony |
-| Off-Hand | Adamantine Shield | +2 AC | Crafted in Grymforge, Adamantine Forge |
-| Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in Shattered Sanctum |
+| Head | Circlet of Blasting | Free Scorching Ray | Sold by Blurg in the Myconid Colony (Alternative Haste Helm). |
+| Chest | Drow Studded Leather Armour | +1 Spell Saves | Inside a Heavy Chest near the entrance to The Festering Cove (alternative Light Armour with 12 AC). |
+| Gloves | Gloves of Cinder and Sizzle | Free Scorching Ray | Sold by Lady Esther at Rosymorn Monastery Trail (Alternative Gloves of Missile Snaring, or Bracers of Defence if cloth and no shield). |
+| Boots | Disintegrating Night Walkers | Mobility & Misty Step | Found in Underdark from Ne’re NPC (Alternative Cinder Shoes). |
+| Necklace | Amulet of Misty Step | Free Misty Step | Found in a Gilded Chest (X386 Y8) in Defiled Temple (Alternative Moondrop Pendant). |
+| Ring | Ring of Absolute Force | Free Thunderwave | Dropped by Sergeant Thrinn in Grymforge (Alternative Ring of Colour Spray, or Fetish of Callarduran Smoothhands). |
+| Ring | The Sparkswall | Lighting Resistance | Found in the Arcane Tower, Act 1, Underdark (Alternative Sunwalker’s Gift if human race). |
+| Weapon 1 Main Hand | Melf’s First Staff | Free Acid Arrow | Sold by Blurg in the Myconid Colony (Alternative Spellsparkler, or Staff of Crones). |
+| Weapon 1 Off-Hand | Adamantine Shield | +2 AC (Half-Elf or Human) | Crafted in Gyrmforge. |
+| Weapon 2 Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum. “You can use it even without proficiency for extra initiative!” |
 
-## Act 2 — Best gear
+## Act 2 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Ring | Killer's Sweetheart | Auto-critical setup | Self-Same Trial, Gauntlet of Shar (X: -833, Y: -729) |
-| Ranged | Darkfire Shortbow | Free Haste spell | Sold by Dammon at Last Light Inn, Act 2 |
+| Weapon 2 Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2. |
+| Weapon 1 Main Hand | Infernal Rapier | (Not specified in source) | “The Cambion can be summoned per long rest via the Infernal Rapier weapon. This is part of Wyll’s side quest conclusion in Act 2.” |
 
-## Act 3 — Best gear
+## Act 3 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Birthright | +2 Charisma | Sorcerer's Sundries store in Lower City of Baldur's Gate |
-| Cape | Cloak of the Weave | +1 Spell Save & Attack Roll | Sold by Helsik at Devil's Fee |
-| Chest | Elegant Studded Leather | +2 Initiative, free Shield | Reward for completing Return Rakath's Gold quest |
-| Gloves | Quickspell Gloves | Cast cantrips as bonus action | Purchased at Sorcerous Sundries |
-| Boots | Disintegrating Night Walkers | Mobility + free Misty Step | Underdark, from Nere (Act 1 carryover) |
-| Neck | Amulet of Greater Health | Sets CON to 23 | Archive in the House of Hope |
-| Ring | Killer's Sweetheart | Auto-critical setup | Self-Same Trial, Gauntlet of Shar (Act 2 carryover) |
-| Ring | Crypt Lord Ring | Free Create Undead spell | The Mystic Carrion's Servant quest |
-| Main Hand | Markoheshkir | Free spells, +1 Spell Attack | Ramazith's Tower |
-| Off-Hand | Viconia's Walking Fortress | +3 AC, reflect spells | Looted from Viconia DeVir during Shadowheart's Act 3 quest |
-| Ranged | Darkfire Shortbow | Free Haste spell | Sold by Dammon at Last Light Inn (Act 2 carryover) |
+| Head | Birthright | +2 Charisma | Sorcerer’s Sundries store in the Lower City of Baldur’s Gate (Alternatives Helldusk Helmet, or Hood of the Weave). |
+| Cape | Cloak of the Weave | +1 Spell Save & Roll | Sold by Helsik at the Devil’s Fee (Alternative Cloak of Protection). |
+| Chest | Elegant Studded Leather | +2 Initiative, Free Shield | Reward for completing Return Rakath’s Gold quest. (Alternative Helldusk Armour). |
+| Gloves | Quickspell Gloves | Cantrips Bonus Action | Purchased at Sorcerors’s Sundries (Alternatives Helldusk Gloves, or Gemini Gloves). |
+| Boots | Disintegrating Night Walkers | Mobility and Misty Step | (Also listed as best advanced boots in the gear table.) |
+| Boots | Helldusk Boots | (Not specified in source) | Chest on the top floor of Wyrm’s Rock Fortress (Alternative Disintegrating Night Walkers). |
+| Necklace | Amulet of Greater Health | 23 Constitution | Archive in the House of Hope (Alternative Spellcrux Amulet). |
+| Ring | Killer’s Sweetheart | Auto Critical | Found inside the Self-Same Trial in Gauntlet of Shar ( X: -833 Y: -729)(Alternative Ring of Free Action). |
+| Ring | Crypt Lord Ring | Free Create Undead | The Mystic Carrion’s Servant quest (Alternative Shifting Corpus Ring). |
+| Weapon 1 Main Hand | Markoheshkir | Free Spells, +1 Roll | At Ramazith’s Tower (Alternative Staff of Cherished Necromancy, Staff of Spellpower, or Incandescent Staff). |
+| Weapon 1 Off-Hand | Viconia’s Walking Fortress | 3 AC, Reflect Spell | Looted from Viconia DeVir during Shadowheart’s companion quest in Act 3 (Alternative Shield of Devotion). |
+| Weapon 2 Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2. |
 
----
+## Features and Mechanics
+- Primary Ability: Charisma
+- Saving Throw: Charisma and Wisdom
+- Subclass: Archfey
+- Armor Proficiency: Light Armour
+- Weapon Proficiency: Simple Weapons
+- Preferred Armor: Light Armour
+- Preferred Weapon: One-Handed with Shield
+- Spell Slots: Recharge spell slots on short rest.
+- Fey Presence: Charms or Frightens nearby enemies
+- Eldritch Invocations: Adds effect to Eldritch Blast.
+- Eldritch Blast: The most powerful Cantrip in the game and the focus of Warlock Builds.
+- Warlock Spell Mechanics:
+  - Cantrips: are like spells, but you can cast them infinitely, and they don’t take your spell slots.
+  - Eldritch Invocations: You will enhance and change your Eldritch Blast cantrip at various levels.
+  - Spell Slots: a limited resource to cast spells replenished by long rest.
+  - Replacement Spells: Upon leveling up, you can learn and unlearn spells if you make a mistake in spell selection.
+  - Concentration: is a spell mechanic that requires you to maintain concentration otherwise, the spell effect ends.
 
-# Permanent bonuses (by Act)
+## Subclass Options
+### Archfey Subclass Progression
+- Fey Presence (Level 1): Charms or Frightens nearby enemies
+- Misty Escape (Level 6): Upon taking damage, become Invisible. On your next turn, you can cast Misty Step, though this will break your invisibility.
+- Beguiling Defences (Level 10): You are immune to being Charmed
 
-## Act 1
-- **Auntie Ethel's Hair** — *+1 to an Ability Score (your choice)*
-- **Awakened** — *Use illithid powers as a Bonus Action*
-- **Scratch** — *Gain Find Familiar: Scratch*
-- **Cheeky Quasit** — *Gain Summon Quasit: Shovel*
-- **Loviatar's Love** — *At 30% HP or less: +2 to Attack Rolls and Wisdom saving throws*
-- **Volo's Ersatz Eye** — *See Invisibility*
+### Eldritch Invocations / Pact Boons Mentioned
+- Agonizing Blast (Level 2)
+- Repelling Blast (Level 2)
+- One with Shadows (Level 5)
+- Book of Ancient Secrets (Level 7): Ray of Sickness, Chromatic Orb, Silence (once per long rest, no spell slots)
+- Minions of Chaos (Level 9): Conjure Elemental with Warlock Spell slot
+- Devil’s Sight (Level 12)
+- Pact Boon: Pact of the Chain (Level 3)
 
-## Act 2
-- **Potion of Everlasting Vigour** — *Gain +2 Strength*
-- **Slayer Form** — *Ability to transform into the Slayer*
-- **Summon Us** — *Allows you to summon Us*
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Potion of Greater Healing: 8d4 + 8 healing and removes burning.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Potion of Flying: 10 turns of flying.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Angelic Slumber: fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Peerless Focus: gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Viciousness: increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Elixir of Universal Resistance: gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
-## Act 3
-- **Mirror of Loss** — *+2 to an Ability Score of your choice*
-- **Partial Ceremorphosis** — *Access to tier 3 illithid powers*
-- **Sweet Stone Features** — *Blessed permanent*
-- **Statue of the Gods** — *+2 to Saving Throws*
-- **Necromancy of Thay** — *Access to powerful spells in Act 3*
+## Permanent Bonuses
+### Act 1
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Awakened: Use illithid powers as a Bonus Action.
+- Scratch: Gain Find Familiar Scratch.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Necromancy Of Thay: access to powerful spells in Act 3.
+- Volo’s Ersatz Eye: See Invisibility
 
----
+### Act 2
+- Potion of Everlasting Vigour: Gain +2 Strength.
 
-# Best consumables / items (single-use)
-- **Elixir of Bloodlust** — once per turn on kill: **5 temp HP** + **additional action**. Excellent when you can secure kills with Eldritch Blast or your summons can proc it. Chain kills turn into extra actions for more spells or repositioning.
-- **Potion of Speed** — extra action, +2 AC, advantage on DEX saves, double movement (3 turns). Allows you to cast two spells in one turn or Eldritch Blast twice. Massive damage spike when combined with Hex. Use for boss fights or tough encounters.
-- **Potion of Greater Healing** — 8d4 + 8 healing, removes burning. Keep multiple stocked for emergency recovery when defensive buffs fail. Warlock has limited healing options.
-- **Potion of Invisibility** — become invisible for 1 minute (ends on attack/cast). Strong for repositioning, escaping danger, or setting up surprise attacks. Complements Misty Escape for layered defensive options.
-- **Potion of Flying** — flying speed for 10 turns. Excellent positioning tool for staying out of melee range while maintaining line of sight for Eldritch Blast. Combine with ranged advantage positioning.
-- **Potion of Angelic Slumber** — fall asleep for 2 turns, then restore all spell slots, HP, and abilities. Essentially a Long Rest in combat. Risky but powerful when protected by summons or party. Lets you reuse Mystic Arcanum and refresh everything.
-- **Elixir of Peerless Focus** — gain advantage on concentration saves. Critical for maintaining Hex or Hunger of Hadar when under pressure. Craft with Sublimate of Belladonna + any ashes.
-- **Elixir of Vigilance** — **+5 initiative**, can't be surprised. Stack with gear bonuses for extremely high initiative. Going first lets you Hex priority targets and establish control before enemies act. Craft with Sublimate of Bloodstained Hook + any ashes.
-- **Superior Elixir of Arcane Cultivation** — gain extra level 3 spell slot. Gives you more Counterspells, Hunger of Hadars, or other key spells per rest. Craft with Solution of Night Orchid + any Vitriol.
-- **Elixir of Viciousness** — increase critical hit chance. Synergizes with Eldritch Blast volume—more beams = more crit opportunities. Craft with Vitriol of Shadowroot Sac + any ashes.
-- **Elixir of Universal Resistance** — gain resistance to all damage. Powerful defensive buff when facing unknown threats or mixed damage types. Craft with Vitriol of Divine Miasma + any Sublimate.
+### Act 3
+- Mirror of Loss – +2 to an Ability Score of your choice.
+- Slayer Form: Ability to transform into the Slayer.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Statue of the Gods: +2 to Saving Throws
 
----
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull of the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Blackhole: Area-based suck-in that slows targets.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: “This is the priority power you want to obtain because you can force enemies to attack something else.”
 
-## Optional: Illithid powers (if using tadpoles)
-- **Luck of the Far Realms** — turn a successful hit into a Critical Hit. Excellent with Eldritch Blast—crit a priority target for massive damage. No resource cost once unlocked, just a decision point. Combine with Hex for devastating single-target burst. Best used against high-HP enemies or when you need a guaranteed kill.
-- **Cull of the Weak** — when you bring creature below your evolved power count HP, it dies and nearby creatures take 1-4 Psychic damage. Helps clean up weakened enemies and spread chip damage passively. Works well with Eldritch Blast's multi-beam nature—finish targets and proc area damage automatically.
-- **Psionic Backlash** — reaction: when enemy within 9m casts spell, inflict 1d4 Psychic damage per spell level. Strong against caster-heavy encounters. Doesn't cost spell slots and works alongside Hellish Rebuke and Counterspell. Passive punishment for enemy casting without requiring your action.
-- **Blackhole** — area pull that slows all affected targets. Requires Astral Tadpole in Act 2. Groups scattered enemies for Hunger of Hadar or Circle of Death. Excellent setup tool for area damage. Can be recast for free in some scenarios. Extremely strong for controlling battlefield positioning.
-- **Repulsor** — massive area knockback (can hit friendlies). Environmental kill tool—use near ledges, chasms, or hazards for instant kills. Coordinate with party positioning to avoid friendly fire. Combines well with Repelling Blast for layered knockback control.
-- **Charm** — force enemy to attack something else. Priority control power for redirecting dangerous enemies away from vulnerable targets. Can break enemy formations or turn their damage against them. No action cost if set as reaction option, but requires tactical awareness.
+## Gameplay Tips and Tricks
+- Eldritch Blast: Eldritch Blast is your bread-and-butter cantrip and should be cast in conjunction with Hex which is a bonus action for optimal damage.
+- Short Rests: Utilize short rests to recover spell slots and replenish your resources, as Warlocks regain their spell slots on short rest.
+- Ranged Advantage: As a ranged spellcaster, maintain distance from enemies to reduce the likelihood of taking damage.
+- High Ground: When you attack from above, you gain a +2 bonus to the Attack Roll so always look to go up!
+- Crowd Control: Use spells like “Hold Person” and “Hypnotic Pattern” to control groups of enemies and turn the tide of battles or have companions cast similar spells.
+- Avoiding Friendly Fire: Be cautious with area-of-effect spells to avoid hitting your own party members.
+- Use Consumables: Potion of Speed gives you an additional action and can be found during the tutorial.
+- Misty Step: save a level spell in case you need to retreat via Misty Step.
+- Mirror Image: Cast this immediately when taking melee pressure for survivability.
+- Spell Slots: Save spell slots for Hellish Rebuke which reacts when taking damage without costing an action.
+- Archfey Warlock Gameplay and Priorities:
+  - Complete Prologue
+  - Recruit Companions
+  - Unlock Withers, respec companions to proper class/ability score
+  - Collect the Necromancy of Thay (important in Act 3)
+  - Reached Hollowed City/Druid Grove
+  - Sell, Stock up, complete quests
+  - Unlock summons, Scratch, Shovel
+  - Progress to level 5
+  - Reach Underdark and Grymforge
+  - Check all Permanent Bonuses in Act 1 and the best Gear
+  - Act 1 Checklist for step-by-step completion
 
----
+## Alternative Build Route
+- For the alternative Warlock build:
+  - Choose the Hexblade subclass to access a stronger range of weapon and armor proficiencies.
+  - All Warlocks can pick up Booming Blade at Level 1 and Shadow Blade at Level 3.
+  - If you want to stick with the Archfey subclass, that is a possibility, but “you simply won’t be able to use certain weapons or wear heavier armour until you multiclass.”
+  - At Level 7 multiclass into an Oath of Vengeance Paladin to gain better weapon and armour proficiencies and begin wearing Heavy Armour.
+  - “As always, remember to only equip weapons you are proficient in, otherwise you will not deal the additional Thunder damage.”
 
-## Optional: Alternative build route (from the guide)
-- **Hexblade Warlock 6 → Paladin 6 (Oath of Vengeance)**
-  - Alternative playstyle: melee-focused hybrid instead of pure ranged caster.
-  - Start with Hexblade subclass for martial weapon and medium armor proficiency.
-  - Take Booming Blade cantrip at level 1 and Shadow Blade spell at level 3.
-  - At level 7, multiclass into Oath of Vengeance Paladin for heavy armor and Divine Smite.
-  - Combines Shadow Blade psychic damage with Divine Smite burst and Booming Blade's Thunder damage.
-  - More complex resource management but creates versatile melee/caster hybrid.
-  - Final split: **Hexblade 6 / Paladin 6** for balanced melee and casting.
-  - Uses Charisma for both Warlock spells and Paladin features—no ability score conflicts.
-  - Trades ranged safety and summon focus for close-range burst damage and heavy armor survivability.
+Alternative Level Progression (as listed):
+- Level 1: Warlock — Subclass: Hexblade; Eldritch Blast, Booming Blade; Hex; Wrathful Smite
+- Level 2: Warlock — Hellish Rebuke; Eldritch Invocations: Devil’s Sight and One with Shadows
+- Level 3: Warlock — Shadow Blade; Pact Boon: Pact of the Chain
+- Level 4: Warlock — Mage Hand; Darkness; Feat: Ability Improvement Charisma +2
+- Level 5: Warlock — Counterspell; Eldritch Invocations: Repelling Blast
+- Level 6: Warlock — Misty Step
+- Level 7: Paladin — Subclass: Oath of Vengeance; Armor/Weapon Proficiencies
+- Level 8: Paladin — Defence Fighting Style; Command; Thunderous Smite; Divine Favour; Searing Smite; Shield; Cure Wounds
+- Level 9: Paladin — Protection from Good and Evil
+- Level 10: Paladin — Compelled Duel; Feat: Alert
+- Level 11: Paladin — Magic Weapon
+- Level 12: Paladin — Protection from Poison
 
-- **Pure Archfey Warlock (1 → 12)**
-  - The guide's recommended path for players who want ranged control and summon gameplay.
-  - Maximizes Eldritch Invocations, spell slots recharge efficiency, and Archfey subclass features.
-  - Stronger late-game with more invocations and higher-level Mystic Arcanum access.
+## Patch Changes
+### Patch 8
+- “This build page has been updated for the Patch 8 version of Baldur’s Gate 3.”
+- With Patch 8, the Warlock class received a major boost thanks to the introduction of the Hexblade subclass and the Booming Blade cantrip.
+- “These changes mean that you have tantalizing new options for an alternative Archfey Warlock Build in BG3,” including a multiclass option combining Hexblade with Paladin (Oath of Vengeance) for a more melee-focused style.
+
+Source: :contentReference[oaicite:0]{index=0}
