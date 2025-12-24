@@ -1,312 +1,366 @@
-# Oath of the Crown Paladin Build (Patch 8)
+# Oath of the Crown Paladin Build
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Paladin 1 → 6, Sorcerer 1 → 6)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-## Build snapshot
+## Build Snapshot
 
-### Fantasy / flavor
-- A **frontline tank-paladin** that **taunts in an AoE**, protects allies with auras/reactions, and still delivers big melee bursts with **Divine Smite**.
-- The “signature” plan is to **force enemies to focus you**, then make yourself extremely hard to hit using **magical darkness** you can see through (via Shadow Magic).
-- Your turns alternate between **locking enemies to you** (taunt/duel) and **staying alive while your party cleans up**.
+### Fantasy / Flavor
+- A “true tank” Paladin playstyle built around drawing aggro with an AoE taunt in a 9-meter radius.
+- A novel Paladin setup that can dish out damage and avoid it by forcing enemies to attack you while they constantly miss.
+- A hybrid Paladin + Shadow Sorcerer multiclass that leans into survivability, group support, and utility.
 
-### Core playstyle in one sentence
-- **Taunt a cluster of enemies → stand inside an obscuring cloud you can see through → smite priority targets while they whiff into your defenses.**
+### Core Playstyle
+- Taunt enemies to attack only you, then fight from inside a cloud of magical darkness/blindness you can see through so enemies struggle to hit you while you keep dealing damage.
 
-### Party role
-- **Primary tank:** pulls aggro with Champion Challenge / Compelled Duel and keeps the party stable.
-- **Bodyguard:** Aura of Protection + Divine Allegiance to reduce the chance allies get blown up.
-- **Melee burst:** converts spare spell slots into damage after hits (Divine Smite).
+### Party Role
+- Tank: draw attacks away from allies with taunts and “attack only you” effects.
+- Group support: healing and buffs early (especially Act 1) while still retaining Paladin damage.
+- Control/utility: use defensive reactions and spell utility to shut down threats and protect allies.
 
 ### Pros
-- Real **group tanking** tools (AoE taunt + defensive aura + damage redirection)
-- Strong Act 1 support package (bonus-action party heal into multiple buffs via key items)
-- Scales into Act 2/3 with “near untouchable” positioning tech in darkness
+- High Survivability
+- Group Utility
+- Decent Damage
 
 ### Cons
-- **Low mobility** and low Dexterity (often later in initiative without help)
-- **Vulnerable to stuns** and other “no-actions” effects if you can’t maintain your plan
-- Can feel slow early if you don’t lean on gear, potions, and the taunt kit
+- Slow start
+- Low Mobility
+- Vulnerable to Stuns
 
-### Power spikes to look forward to
-- Level 3: **Champion Challenge** (AoE taunt) + **Turn the Tide** (AoE healing)
-- Level 5: **Extra Attack** + Level 2 spell slots (more uptime and more smites)
-- Level 6: **Aura of Protection** (party-wide saving throw spike)
-- Level 7–9: Shadow Sorcerer multiclass → **Eyes of the Dark: Darkness** + **metamagic**
-- Level 12: **Twinned Haste** + Shadow Sorcerer feature for endgame control/tempo
+### Power Spikes
+- Level 5: Extra Attack; unlocks level 2 spell slots and Always Prepared subclass spells.
+- Level 6: Aura of Protection; “your power dramatically increases.”
+- Level 7: Multiclass into Shadow Magic Sorcerer for more damage and utility.
+- Level 9: Core combo comes online (move inside magical darkness you can see through, taunt enemies, and avoid almost all damage).
 
----
+## Character Creation
+- Race: Gold Dwarf
+- Subrace: -
+- Class: Paladin
+- Subclass: Oath of the Crown
+- Background: Soldier
+- Ability Scores: STR 14, DEX 10, CON 17, INT 8, WIS 8, CHA 16
+- Proficiencies: Persuasion and Insight
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** Gold Dwarf
-- **Class:** Paladin
-- **Subclass:** Oath of the Crown
-- **Background:** Soldier
-- **Skills:** Persuasion, Insight
-- **Abilities (target):** STR 14 / DEX 10 / CON 17 / INT 8 / WIS 8 / CHA 16
-- **Saving throws:** Wisdom, Charisma
-- **Armour proficiency:** Light, Medium, Heavy Armour, Shields
-- **Weapon proficiency:** Simple and Martial Weapons
+## Level Progression
 
-### Race notes (why Gold Dwarf)
-- The build leans into “true tank” value: **+1 HP per level** keeps your floor high for the entire campaign.
-- **Secondary options mentioned in the guide:**
-  - **Half-Orc** (Relentless Endurance + Savage Attacks) if you want a more damage-oriented angle.
-  - **High Half-Elf** for a free cantrip pick-up (Booming Blade is highlighted as valuable in Patch 8).
+### Level 1
+- Gain:
+  - Channeled Oath Charges
+  - Lay on Hands
+  - Divine Sense
+  - Righteous Clarity
+  - Oath of the Crown Tenets: Law; Loyalty; Responsibility
+- Play Style:
+  - Notes:
+    - Gameplay at this level is using limited spells and class features.
+    - At Level 2 you get the bulk of your gameplay choices.
 
-### Early-game priorities (from the guide’s framing)
-- Play like a tank from the start: heavy armour + shield, and spend resources to keep the team alive.
-- Prioritize reaching **Level 6** (Aura of Protection is a major breakpoint).
-- In Act 1, assemble the “healing-buff” package (listed in gear) so you can turn a bonus action into multiple party-wide buffs.
+### Level 2
+- Gain:
+  - Protection Fighting Style
+  - Command (spell selection)
+  - Compelled Duel (spell selection)
+  - Shield (subclass feature)
+  - Cure Wounds (subclass feature)
+  - Thunderous Smite (spell selection)
+  - Divine Smite (class feature)
+- Play Style:
+  - Notes:
+    - Use Command to stun targets, Shield when you get hit, and Thunderous Smite to start combat from stealth.
+    - If you start combat from stealth, you get the Surprise status effect and the target will be knocked prone.
+    - Save extra spell slots for Divine Smite which adds damage after a melee hit.
 
----
+### Level 3
+- Gain:
+  - Divine Health (class feature)
+  - Protection From Good and Evil (spell selection)
+  - Champion Challenge (subclass feature)
+  - Turn the Tide (subclass feature)
+  - Command (subclass spell; Always Prepared)
+  - Compelled Duel (subclass spell; Always Prepared)
+- Play Style:
+  - Notes:
+    - You gain access to taunt via Champion Challenge and Compelled Duel.
+    - Use these two to target the highest damage-dealing target, and force them to attack you.
 
-## Level-by-level progression (Paladin 1 → 6, Sorcerer 1 → 6)
-> This build’s identity is “taunt + survive,” then “taunt + survive inside darkness,” while spending spare slots on smites.
+### Level 4
+- Gain:
+  - Divine Favour (spell selection)
+  - Tough (feat selection)
+  - Additional Lay on Hands Charge
+- Play Style:
+  - Notes:
+    - Take increased health at this point.
+    - Also, you want to collect the Whispering Promise Ring, Amulet of Restoration, and Hellrider Gloves.
+    - You can use a bonus action to trigger a massive amount of buffs to yourself and your party (dependent on the Amulet of Restoration).
 
-### Level 1 — Paladin 1 (Oath of the Crown)
-**Gain**
-- **Channeled Oath Charges**
-- **Lay on Hands**
-- **Divine Sense**
-- **Inquisitor’s Might**
-- **Righteous Clarity**
-- **Oath of the Crown Tenets** (Law, Loyalty, Responsibility)
+### Level 5
+- Gain:
+  - Extra Attack (class feature)
+  - Aid (spell selection)
+  - Magic Weapon (swap with Divine Favour)
+  - Warding Bond (subclass spell; Always Prepared)
+  - Spiritual Weapon (subclass spell; Always Prepared)
+- Play Style:
+  - Notes:
+    - Use Spiritual Weapons to create a distraction.
+    - If you have extra spell slots, use Aid to increase your party’s overall health.
 
-**Play style (Level 1)**
-- Start fights in front: pull melee threats toward you and use Lay on Hands as needed to keep tempo.
-- Save resources; your “real” combat loop opens up once you have taunt tools and more spell access.
+### Level 6
+- Gain:
+  - Aura of Protection (class feature)
+  - Protection from Poison (spell selection)
+- Play Style:
+  - Notes:
+    - Make sure to activate the Aura of Protection after unlocked.
 
-### Level 2 — Paladin 2
-**Gain**
-- **Fighting Style: Protection**
-- **Divine Smite**
-- **Spells (prepared/selected):** Command, Compelled Duel, Thunderous Smite, Shield, Cure Wounds
+### Level 7
+- Gain:
+  - Multiclass: Sorcerer
+  - Subclass: Shadow Magic
+  - Eyes of the Dark
+  - Strength of the Grave
+  - Cantrips: Booming Blade, Fire Bolt, Friends, Light
+  - Spells: Shield, Chromatic Orb
+- Play Style:
+  - Notes:
+    - Multiclassing allows us to have much more damage and utility with the Sorc spells.
+    - Alternatively, you can select Warlock as well which also has similar features, that are more offensive.
 
-**Play style (Level 2)**
-- Use taunt-like pressure early with **Compelled Duel**, and use **Shield** reactively when you’re about to take a hit.
-- Spend spell slots on **Divine Smite** primarily after you connect in melee (burst down the most dangerous target).
+### Level 8
+- Gain:
+  - Sorcery Points
+  - Metamagic: Twinned Spell, Extended Spell
+  - Fog Cloud (spell)
+- Play Style:
+  - Notes:
+    - At the next level, you gain Eyes of the Dark: Darkness subclass spell (this allows you to see through darkness, and you want to extend the effect).
+    - Moreover, you can now Twinned spell Booming Blade cantrip.
 
-### Level 3 — Paladin 3 (Crown features come online)
-**Gain**
-- **Divine Health**
-- **Spell selection:** Protection From Good and Evil
-- **Subclass features:** Champion Challenge, Turn the Tide
-- **Oath spells (Always Prepared):** Command, Compelled Duel
+### Level 9
+- Gain:
+  - Metamagic: Quickened Spell
+  - Shadow Blade (spell)
+  - Darkness (subclass spell; cast as a level 2 spell at will)
+  - Eyes of the Dark: Darkness (subclass spell; cast as a level 2 spell at will)
+- Play Style:
+  - Notes:
+    - Use Quickened to cast eyes of darkness or extend its duration.
+    - Move inside the darkness which you can see and avoid almost all damage.
+    - Then taunt all the enemies you can forcing them to attack you. This is the combo.
+    - If you’re facing a super hard fight, pre-buff with Mirror Image to gain extra AC.
 
-**Play style (Level 3)**
-- This is the “tank switch”: **Champion Challenge** to pull a pack onto you, and **Compelled Duel** to lock a single high-DPS threat.
-- Use **Turn the Tide** when your team needs a reset (stabilize multiple allies at once).
+### Level 10
+- Gain:
+  - Alert (feat)
+  - Mirror Image (spell selection)
+  - Mage Hand (cantrip)
+- Play Style:
+  - Notes:
+    - Use Shadow Blade as your main weapon which deals Psychic damage.
+    - You can upcast this for more damage, and make sure to get the Resonance Stone in Act 2 (doubles damage).
+    - This attack stacks with divine smite and scales off of your strength.
+    - You can increase strength with feats, or permanent bonuses, or even elixirs.
 
-### Level 4 — Paladin 4
-**Gain**
-- **Feat: Tough**
-- **Spell selection:** Divine Favour
+### Level 11
+- Gain:
+  - Fireball (spell selection)
+  - Replace Fog Cloud with Counterspell
+- Play Style:
+  - Notes:
+    - Now you have good AOE damage and with counterspell, can shut down range spellcasters.
 
-**Play style (Level 4)**
-- Tough is pure durability; it makes your taunt plan safer and increases the value of any healing you receive.
-- Start hunting the Act 1 support items (Whispering Promise, Amulet of Restoration, Hellrider’s Pride) to power your “bonus-action heal → buffs” loop.
+### Level 12
+- Gain:
+  - Haste (spell selection)
+  - Hound of Ill Omen (subclass feature)
+- Play Style:
+  - Notes:
+    - Haste gives two actions per turn, can be Twinned for two characters.
+    - Hound of Ill Omen summons Nimbus (shadow mastiff) with actions: Ominous Bite, Umbral Tangle, Splinter Shadow.
 
-### Level 5 — Paladin 5
-**Gain**
-- **Extra Attack**
-- **Level 2 spell slots**
-- **Spell selection:** Aid
-- **Spell swap noted in the guide:** take **Magic Weapon** and **drop Divine Favour**
-- **Oath spells (Always Prepared):** Warding Bond, Spiritual Weapon
-
-**Play style (Level 5)**
-- You now have real threat: **taunt → attack twice**, and smite when you need to delete something quickly.
-- Use **Spiritual Weapon** as a distraction body and **Aid** before hard fights for more team HP.
-
-### Level 6 — Paladin 6
-**Gain**
-- **Aura of Protection**
-- **Spell selection:** Protection from Poison
-
-**Play style (Level 6)**
-- Keep **Aura of Protection** active whenever you expect saves (this is the “party suddenly stops failing saves” breakpoint).
-- Your job is to stay close enough to allies to share the aura, but still be the first point of contact for enemies.
-
-### Level 7 — Sorcerer 1 (Shadow Magic)
-**Gain**
-- **Subclass: Shadow Magic**
-- **Eyes of the Dark**
-- **Strength of the Grave**
-- **Cantrips:** Booming Blade, Fire Bolt, Friends, Light
-- **Spells:** Shield, Chromatic Orb
-
-**Play style (Level 7)**
-- You now have “tank utility” options from Sorcerer while keeping the Paladin core: position to protect, then spend slots to smite when needed.
-- Use your new spells to cover gaps (ranged pressure, defensive reactions, and flexible damage types).
-
-### Level 8 — Sorcerer 2
-**Gain**
-- **Sorcery Points**
-- **Metamagic:** Twinned Spell, Extended Spell
-- **Spell:** Fog Cloud
-
-**Play style (Level 8)**
-- Start thinking in “turn shaping”: extend key effects and use Twinned Spell to multiply value on single-target casting.
-- Fog Cloud is the early “obscure the field” tool while you set up the later darkness package.
-
-### Level 9 — Sorcerer 3
-**Gain**
-- **Metamagic:** Quickened Spell
-- **Spell:** Shadow Blade
-- **Subclass spells/notes:** Darkness (at will as a level 2 spell), Eyes of the Dark: Darkness (you can see through it)
-
-**Play style (Level 9)**
-- The core combo appears: **Quickened** your darkness effect, move inside it, then **taunt** so enemies are forced to attack you while blinded.
-- Use Shadow Blade as a main-hand option when you want Psychic damage scaling with your overall melee plan.
-
-### Level 10 — Sorcerer 4
-**Gain**
-- **Feat: Alert**
-- **Spell:** Mirror Image
-- **Cantrip:** Mage Hand
-
-**Play style (Level 10)**
-- Alert solves your “late turn” problem; act earlier and establish the taunt/darkness plan before enemies spread out.
-- Pre-buff **Mirror Image** for extremely hard fights, then stand inside your obscuring cloud and hold aggro.
-
-### Level 11 — Sorcerer 5
-**Gain**
-- **Spell:** Fireball
-- **Spell swap noted in the guide:** replace **Fog Cloud** with **Counterspell**
-
-**Play style (Level 11)**
-- Fireball gives you a real AoE answer when fights aren’t solved by single-target taunt.
-- Counterspell is your “stop the thing that breaks the plan” tool (enemy casters and ranged control).
-
-### Level 12 — Sorcerer 6
-**Gain**
-- **Spell:** Haste (noted as Twinnable)
-- **Subclass feature:** Hound of Ill Omen (summons Nimbus)
-
-**Play style (Level 12)**
-- Haste is a major tempo tool: more actions, more pressure, and more ability to maintain control of enemy attention.
-- Drop the hound into fights where you need extra bodies and disruption while you keep enemies locked to you.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it’s good | Where to get**.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Haste Helm | Movement | Found in Blighted Village at coordinates X: 29 Y: 405 (Alternatives Cap of Wrath, Grymskull Helm). |
-| Cape | Deathstalker Mantle | Kills give Invis | Dark Urge origin (optional), only cape in Act 1. |
-| Chest | Adamantine Splint Armour | 18 AC | Complete Adamantine Forge Quest (alternative Luminous Armour, or Githyanki Half Plate). |
-| Gloves | Hellrider’s Pride | Heals give resistance | Can be bought, stolen, or earned from Zelvor (alternative Gloves of Missile Snaring, Gloves of the Growling Underdog). |
-| Boots | Boots of Aid and Comfort | Additional Temporary HP | Sold by Grat The Trader at the Goblin Camp (alternative Disintegrating Night Walkers, Boots of Striding). |
-| Necklace | Amulet of Restoration | Healing Spells | Sold by Derryth Bonecloak Underdark Ebonlake Grotto (Alternatives Amulet of Branding, Amulet of Misty Step). |
-| Ring | Crusher’s Ring | Increase Movement | Can be looted or stolen from Crusher in the Goblin camp (Alternatives Strange Conduit Ring, or Ring of Absolute Force). |
-| Ring | The Whispering Promise | Healing gives Bless | Volo in Druid’s Grove or from traders (alternative Ring of Colour Spray). |
-| Weapon 1 Main Hand | Phalar Aluve | Special Attack | Found at Underdark coordinates X: 116 Y: -192. |
-| Weapon 1 Off-Hand | Adamantine Shield | +2 AC | Complete the Adamantine Forge Quest in Grymforge (Alternative Glowing Shield, or Wood Woad Shield). |
-| Weapon 2 Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum (Alternatives Hunting Shortbow, Bow of Banshee, Titanstring Bow). |
+| Head | Haste Helm | Movement | Blighted Village at coordinates X: 29 Y: 405 |
+| Cape | Deathstalker Mantle (optional) | Kills give Invis | Dark Urge origin (optional), only cape in Act 1 |
+| Chest | Adamantine Splint Armour | 18 AC | Complete Adamantine Forge Quest |
+| Gloves | Hellrider’s Pride | Heals give resistance | Can be bought, stolen, or earned from Zelvor |
+| Boots | Boots of Aid and Comfort | Additional Temporary HP | Sold by Grat The Trader at the Goblin Camp |
+| Necklace | Amulet of Restoration | Healing Spells | Sold by Derryth Bonecloak Underdark Ebonlake Grotto |
+| Ring | Crusher’s Ring | Increase Movement | Can be looted or stolen from Crusher in the Goblin camp |
+| Ring | The Whispering Promise | Healing gives Bless | Volo in Druid’s Grove or from traders |
+| Weapon (Main Hand) | Phalar Aluve | Special Attack | Underdark coordinates X: 116 Y: -192 |
+| Weapon (Off-Hand) | Adamantine Shield | +2 AC | Complete the Adamantine Forge Quest in Grymforge |
+| Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum |
+| Ring | Ring of Protection | Auto Critical | Reward from Mol in Act 1 |
 
-## Act 2 — Best gear
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Cape | Cloak of Protection | +1 AC | Sold in Act 2 Last Light Inn (Mantle of the Holy Warrior). |
-| Gloves | Luminous Gloves | Debuff on Radiant DMG | Act 2 open field coordinates X: -52 Y: 11 (Gauntlets of Hill Giant Strength, Legacy of the Masters). |
-| Ring | Ring of Free Action | Self-healing | Act 2 Moonrise sold by Araj Oblodra (Alternative Ring Of Regeneration). |
-| Ring | Eversight Ring | See through blinding clouds | Act 2 Eversight Ring found in House of Healing Morgue X: 9 Y: -981. |
-| Weapon 2 Ranged | Darkfire Shortbow | Gives Haste | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 (Hellrider’s Longbow). |
-| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony. |
+| Cape | Cloak of Protection | +1 AC | Sold in Act 2 Last Light Inn |
+| Gloves | Luminous Gloves | Debuff on Radiant DMG | Act 2 open field coordinates X: -52 Y: 11 |
+| Ring | Ring of Free Action | Self-healing | Act 2 Moonrise sold by Araj Oblodra |
+| Ranged | Darkfire Shortbow | Gives Haste | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 |
+| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony |
+| Ring | Eversight Ring | Prevent almost all incoming damage towards you (alternative to the magical darkness setup) | House of Healing Morgue X: 9 Y: -981 |
 
-## Act 3 — Best gear
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Helm of Balduran | Self-healing | Obtained in Dragon’s Sanctum (Alternatives Birthright, Mask of Soul Perception). |
-| Chest | Helldusk Armour | 21 AC | Dropped by Raphael in the House of Hope (Alternatives Armour of Devotion, Armour of Persistence). |
-| Boots | Helldusk Boots | Cannot be Moved | In a locked chest, Wyrm’s Rock Fortress X: -32 Y: 219 (Alternative Disintegrating Night Walkers). |
-| Necklace | Amulet of Greater Health | 23 Constitution | Found in the House of Hope in Baldur’s Gate City (Alternative Surgeon’s Subjugation Amulet). |
-| Ring | Ring of Protection | Auto Critical | Reward from Mol in Act 1 (Alternative Killer’s Sweetheart). |
-| Weapon 1 Main Hand | The Sacred Star | Radiant Damage | Sold by Vicar Humbletoes in Stormshore Tabernacle (Alternative Phalar Aluve). |
-| Off-Hand | Viconia’s Walking Fortress | +3 AC | Complete Shadowheart’s Quest Daughter of Darkness. |
+| Head | Helm of Balduran | Self-healing | Obtained in Dragon’s Sanctum |
+| Cape | Cloak of Protection | +1 AC | Sold in Act 2 Last Light Inn |
+| Chest | Helldusk Armour | 21 AC | Dropped by Raphael in the House of Hope |
+| Gloves | Luminous Gloves | Debuff on Radiant DMG | Act 2 open field coordinates X: -52 Y: 11 |
+| Boots | Helldusk Boots | Cannot be Moved | In a locked chest, Wyrm’s Rock Fortress X: -32 Y: 219 |
+| Necklace | Amulet of Greater Health | 23 Constitution | Found in the House of Hope in Baldur’s Gate City |
+| Ring | Ring of Protection | Auto Critical | Reward from Mol in Act 1 |
+| Ring | Ring of Free Action | Self-healing | Act 2 Moonrise sold by Araj Oblodra |
+| Weapon (Main Hand) | The Sacred Star | Radiant Damage | Sold by Vicar Humbletoes in Stormshore Tabernacle |
+| Weapon (Off-Hand) | Viconia’s Walking Fortress | +3 AC | Complete Shadowheart’s Quest Daughter of Darkness |
+| Ranged | Darkfire Shortbow | Gives Haste | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 |
+| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony |
 
----
+## Features and Mechanics
+- Class: Paladin
+- Subclass: Oath of the Crown
+- Background: Soldier
+- Skills: Persuasion and Insight
+- Ability Score:
+  - Strength: 14
+  - Dexterity: 10
+  - Constitution: 17
+  - Intelligence: 8
+  - Wisdom: 8
+  - Charisma: 16
+- Saving Throw: Wisdom and Charisma
+- Armour Proficiency: Light, Medium, Heavy Armour and Shields
+- Weapon Proficiency: Simple and Martial Weapons
+- Paladins are a hybrid spellcaster that can dish out huge amounts of damage with Divine Smite.
+- This build uses a Multiclass setup with the Sorcerer’s Shadow subclass to take advantage of the Darkness spell where targets are blind and cannot hit you.
+- Downsides mentioned: slow start, low mobility, low dexterity, and usually having the last turn in combat.
 
-# Permanent bonuses (by Act)
+## Subclass Options
 
-## Act 1
-- **Auntie Ethel’s Hair** — *Gain +1 to an Ability Score.*
-- **Awakened** — *Use illithid powers as a Bonus Action.*
-- **Scratch** — *Gain Find Familiar Scratch.*
-- **Cheeky Quasit** — *Gain Summon Quasit Shovel.*
-- **Loviatar’s Love** — *30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.*
-- **Volo’s Ersatz Eye** — *See Invisibility.*
+### Tenets and Core Subclass Features
+- Oath of the Crown Tenets (Level 1):
+  - Law. Uphold civilisation and order.
+  - Loyalty. Your word is your bond; without loyalty, oaths and laws are meaningless.
+  - Responsibility. Deal with the consequences of your actions, and fulfil your duties and obligations.
+- Righteous Clarity (Level 1): Target yourself or an ally to additionally grant the target’s proficiency bonus to their Attack rolls.
+- Champion Challenge (Level 3): Challenge the enemies around you, compelling them to attack only you. Any attacks they might make against other targets have Disadvantage.
+- Turn the Tide (Level 3): Shout out and heal all nearby non-enemy creatures.
+- Divine Allegiance (Level 7): When an ally within 1.5 meters of you takes damage, you can use your Reaction to magically substitute your own health for your ally’s, taking the damage instead of them.
 
-## Act 2
-- **Potion of Everlasting Vigour** — *Gain +2 Strength.*
-- **Slayer Form** — *Ability to transform into the Slayer.*
-- **Summon Us** — *Allows you to summon Us.*
+### Oath Spells
+- Oath Spells (Level 3) (Always Prepared):
+  - Command
+  - Compelled Duel
+- Oath Spells (Level 5) (Always Prepared):
+  - Warding Bond
+  - Spiritual Weapon
+- Oath Spells (Level 9) (Always Prepared):
+  - Spirit Guardians
 
-## Act 3
-- **Mirror of Loss** — *+2 to an Ability Score of your choice.*
-- **Partial Ceremorphosis** — *Access to tier 3 illithid Powers.*
-- **Sweet Stone Features** — *Blessed permanent.*
-- **Statue of the Gods** — *+2 to Saving Throws*
-- **Necromancy Of Thay** — *Access to powerful spells in Act 3.*
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Elixir of Hill Giant Strength: Increases Strength ability score to 21 until Long Rest.
+- Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
+- Drow Poison: Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
+- Potion of Flying: Drink to gain a flying speed of 60ft for one hour.
+- Elixir of Heroism: Gain 10 temp HP and become Blessed until a long rest.
+- Potion of Greater Healing: 4d4 + 4 hit points restored.
+- Oil of Accuracy: Coat Weapon. Bonus of +2 in Attack Rolls.
+- Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
 
----
+## Permanent Bonuses
 
-# Best consumables / items (single-use)
-- **Elixir of Bloodlust** — Once per turn when you kill a foe, you gain 5 temporary hit points and an additional action.
-- **Elixir of Hill Giant Strength** — Increases Strength ability score to 21 until Long Rest.
-- **Potion of Speed** — Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
-- **Drow Poison** — Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
-- **Potion of Flying** — Drink to gain a flying speed of 60ft for one hour.
-- **Elixir of Heroism** — Gain 10 temp HP and become Blessed until a long rest.
-- **Potion of Greater Healing** — 4d4 + 4 hit points restored.
-- **Oil of Accuracy** — Coat Weapon. Bonus of +2 in Attack Rolls.
-- **Elixir of Vigilance** — Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
+### Act 1
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Awakened: Use illithid powers as a Bonus Action.
+- Scratch: Gain Find Familiar Scratch.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Volo’s Ersatz Eye: See Invisibility
 
----
+### Act 2
+- Potion of Everlasting Vigour: Gain +2 Strength.
+- Slayer Form: Ability to transform into the Slayer.
+- Summon Us: Allows you to summon Us.
 
-## Optional: Illithid powers (if using tadpoles)
-- **Luck of the Far Realms** — When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
-- **Cull the Weak** — When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
-- **Psionic Backlash** — When an enemy within 9m casts a spell, you can use your reaction to inflict ld4 Psychic damage to the caster per the spell’s level.
-- **Black Hole** — Area-based suck-in that slows targets.
-- **Repulsor** — Massive area knockback that can hit friendlies.
-- **Charm** — Priority power: you can force enemies to attack something else.
+### Act 3
+- Mirror of Loss: +2 to an Ability Score of your choice.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Sweet Stone Features: Blessed permanent.
+- Statue of the Gods: +2 to Saving Throws
+- Necromancy Of Thay: access to powerful spells in Act 3.
+- Slayer Form: Ability to transform into the Slayer.
 
----
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Black Hole: Area-based suck-in that slows targets.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: This is the priority power you want to obtain because you can force enemies to attack something else.
+- Black Hole requires you to take the Astral Tadpole in Act 2; it sucks in 5 enemies, slows them, and can be recast for free.
 
-## Optional: Alternative build route (from the guide)
-- **Warlock (Hexblade) → Paladin (Vengeance) → Fighter (Eldritch Knight)**  
-  - The guide’s alternative path for players who prefer stronger DPS and a more offensive early game.
-  - Key idea: Hexblade “starts incredibly strong” with a small investment, then you pivot into Paladin for melee, then finish Fighter for Action Surge and additional spell utility.
+## Gameplay Tips and Tricks
+- Use the Eyes of Darkness spell from the Sorcerer to create a cloud of blindness, then taunt enemies for them to attack you.
+- Alternatively, use the Act 2 Eversight Ring found in House of Healing Morgue X: 9 Y: -981 to prevent almost all incoming damage towards you, while protecting and allowing you to tank for your allies.
+- Loot Everything: You will need a lot of gold to buy consumables, potions, and ammunition so loot and sell constantly.
+- Crafting: Elixirs and potions are vital, and you need to purchase materials when trading for crafting.
+- Reach Level 6: Spend the early part of the game completing every quest to reach level 6 where your power dramatically increases.
+- Sell Often: Your carrying capacity will be limited so sell often, and store excessive items in your traveler’s chest.
+- Stealth: Start combat in stealth if at all possible to trigger the Surprise status effect.
+- Consider Illithid Powers: While it can come with an altered appearance, the powers are powerful and can help you.
+- Oils + Elixiris: Combine both oils/coatings and Elixir during combat for a dual benefit.
+- Persuasion: Try to avoid combat through dialogue if possible.
+- Best tip: obtain the Act 1 tank gear combination: Amulet of Restoration, the Whispering Promise, Hellrider’s Pride, and Boots of Aid and Comfort.
+  - Amulet of Restoration grants the use of the Mass healing word, a bonus action spell that heals everyone within 18 meters.
+  - When healed each character will gain Bless Spell, Resistance Cantrip, and extra health.
 
-**Level outline (as presented in the guide)**
-- Level 1 — Warlock: Hexblade, Shield, Hellish Rebuke, Booming Blade, Eldritch Blast
-- Level 2 — Warlock: Wrathful Smite, Hex spells, One with Shadows, Devil’s Sight invocations
-- Level 3 — Paladin: Multiclass Paladin, Vengeance Subclass
-- Level 4 — Paladin: Great Weapon Fighting, Command, Thunderous Smite, Divine Favour, Shield of Faith, Cure Wounds
-- Level 5 — Paladin: Protection from Good and Evil
-- Level 6 — Paladin: Great Weapon Master feat, Compelled Duel
-- Level 7 — Paladin: Drop Compelled, select Magic Weapon, Lesser Restoration
-- Level 8 — Paladin: Aid spell
-- Level 9 — Fighter: Multiclass Fighter, Defense Fighting Style
-- Level 10 — Fighter: Action Surge
-- Level 11 — Fighter: Eldritch Knight subclass, Chromatic Orb, Magic Missile, Bursting Sinew, Fire Bolt, Longstrider (extended)
-- Level 12 — Fighter: Savage Attacker feat, Shield spell
+## Alternative Build Route
+- For players preferring a stronger DPS alternative, use the Warlock and Paladin multiclass combo.
+- This helps because the Hexblade Warlock starts incredibly strong with just two levels of investment.
+- Once you reach level 3, swap to the Paladin and pick up the Vengeance subclass.
+- With five levels of investment, you will have much more movement speed and melee potential.
+- Finish off with the Fighter and Eldritch Knight subclass for even more spellcasting and melee damage potential.
+
+Level plan (Alternative):
+- Level 1: Warlock — Hexblade, Shield, Hellish Rebuke, Booming Blade, Eldritch Blast
+- Level 2: Warlock — Wrathful Smite, Hex spells, One with Shadows, Devil’s Sight Invocations
+- Level 3: Paladin — Multiclass Paladin, Vengeance Subclass
+- Level 4: Paladin — Great Weapon Fighting, Command, Thunderous Smite, Divine Favour, Shield of Faith, Cure Wounds
+- Level 5: Paladin — Protection from Good and Evil
+- Level 6: Paladin — Great Weapon Master Feat, Compelled Duel
+- Level 7: Paladin — Drop Compelled, select Magic Weapon, Lesser Restoration
+- Level 8: Paladin — Aid spell
+- Level 9: Fighter — Multiclass Fighter, Defense Fighting Style
+- Level 10: Fighter — Action Surge
+- Level 11: Fighter — Eldritch Knight subclass, Chromatic Orb, Magic Missile spells, Bursting Sinew, Fire Bolt cantrips, Longstrider extended
+- Level 12: Fighter — Savage Attacker feat, Shield spell
+
+## Patch Changes
+
+### Patch 8
+- Larian Studios released 12 new subclasses for Baldur’s Gate 3 Patch 8, one for each class; Paladin’s latest subclass is Oath of the Crown.
+- Oath of the Crown is hailed as the first true tank in the game, with an AoE taunt spell to draw aggro.
+- Booming Blade now offers a notable advantage by adding thunder damage to each attack, making it a strong option (especially when multiclassing into Hexblade Warlock, Sorcerer, or Wizard, or by selecting it with the High Elf’s bonus cantrip).
+- Gold Dwarf is described as the top pick for a pure tank build; Half-Orc is recommended if you want to use the alternative build for a more damage-focused playstyle.
+- This build page has been updated for the Patch 8 version of Baldur’s Gate 3.
