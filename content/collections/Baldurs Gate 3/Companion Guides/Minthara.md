@@ -1,32 +1,39 @@
-# Minthara Companion Build (Patch 8)
+# Minthara Companion Build (Paladin – Oath of Vengeance)
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Paladin 1 → 10, Fighter 11 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+Source: :contentReference[oaicite:0]{index=0}
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Core playstyle in one sentence
-- **Deploy Minthara as a heavy-armored frontline enforcer: close distance, control priority targets, and convert limited resources into burst melee pressure.**
+## Build Snapshot
 
-### About companion
-- Minthara is a **Paladin (Oath of Vengeance)** companion built to **initiate fights in melee**, wear **heavy armour**, and deliver **high single-target burst** while staying durable.
-- She plays best with a **two-handed Greatsword** and a “pick one target, delete it” approach, using utility and control only when it matters.
-- Treat her as a **tool you deploy to start and stabilize fights**: step into danger first, force trades on your terms, and keep enemies pinned so the party can execute.
+### Fantasy / Flavor
+- Minthara is a Drow Paladin planning to take down the Druid Grove in the name of the Absolute.
+- You encounter her during Act 1 in the Goblin Camp, where she serves as one of its three leaders.
+- If she lives, she can eventually join the party in Act 2 as a powerful Paladin companion.
 
-### Party role
-- **Frontline initiator:** takes first contact and forces melee engagement in heavy armour.
-- **Single-target burst:** spends limited resources to remove hard targets when needed.
-- **Support utility:** carries situational recovery/cleanse tools for emergencies.
+### Core Playstyle
+- Use spells and abilities to deal high single-target damage.
+- Build for single-target burst damage with a lot of debuff utility.
+- Save spell slots for Divine Smite unless you need a buff, heal, or crowd control.
+
+### Party Role
+- High single-target damage dealer.
+- Debuff utility and crowd control.
+- Off-healing (Lay on Hands / Cure Wounds) as needed.
 
 ### Pros
 - Crowd Control
@@ -36,274 +43,431 @@
 ### Cons
 - Spell Slot Starved
 - Limited Spells
-- Heavy Armour Complex
+- Complex
 
-### Power spikes to look forward to
-- Level 3: **Vow of Enmity** (advantage pressure tool) + subclass spell access (as presented in source)
-- Level 5: **Extra Attack** (two attacks per action; more chances to convert resources into burst)
-- Level 6: **Aura of Protection** (saving throw support aura)
-- Level 8: **Great Weapon Master** (bonus attack on kill/crit + high-risk damage toggle)
-- Level 9: big “nuke” upgrade via higher-tier options (as presented in source)
-- Level 12: **Action Surge** (extra action once per fight)
+### Power Spikes
+- Level 2: Divine Smite
+- Level 5: Extra Attack, Misty Step, Hold Person
+- Level 8: Great Weapon Master
+- Level 12: Action Surge
 
----
+## Character Creation
+- Race: Lolth-sworn Drow
+- Class: Paladin
+- Subclass: Oath of Vengeance
+- Background: Noble
+- Ability Scores: STR 16 / DEX 10 / CON 14 / INT 8 / WIS 10 / CHA 16
+- Proficiencies: Athletics, Insight, Intimidation, Medicine, Persuasion, Religion
+- Cantrips: Dancing Lights
+- Spells: Searing Smite, Thunderous Smite, Shield of Faith, Divine Favour, Cure Wounds
+- Skill Proficiencies: Athletics and Insight
 
-## Character creation
-- **Character Origin:** Minthara (companion)
-- **Race:** Drow
-- **Class:** Paladin
-- **Subclass:** Reroll to Oath of Vengeance
-- **Background:** Noble
-- **Proficiencies:** Athletics, Insight, Intimidation, Medicine, Persuasion, Religion
-- **Location (recruitment):** Goblin Camp in the Shattered Sanctum (Act 1); Moonrise Towers (Act 2)
+## Level Progression
 
-### About companion creation fields
-- **Ability score rolls:** (Not specified in source — companion character)
-- **Starting proficiencies (by selection):** (Not specified in source — companion character)
+### Level 1
+- Gain:
+  - Channeled Oath Charges
+  - Lay on Hands
+  - Divine Sense
+  - Inquisitor’s Might
+  - Oath of Vengeance Tenets
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Inquisitor’s Might for extra damage and swing your sword.
+    - Turn 2+: Use Lay on Hands for healing if needed; continue melee attacks.
+  - Notes:
+    - Move along quickly to level 2 for spell unlocks.
+    - Look to replace her starting armor with Heavy Armor after unlocking the Paladin class; look to obtain a two-handed Greatsword.
+    - In early levels, the Vengeance Paladin will have dreadful mobility; find and equip a back-bar ranged weapon like a Heavy Crossbow.
 
-### Ability Score (as presented in source)
-STR 16 / DEX 10 / CON 14 / INT 8 / WIS 10 / CHA 16
+### Level 2
+- Gain:
+  - Divine Smite
+  - Fighting Style: Great Weapon Fighting
+  - Prepared Spells: Searing Smite, Thunderous Smite, Shield of Faith, Divine Favor, Cure Wounds
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favor
+  - Cure Wounds
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Shield of Faith or Divine Favor prior to a fight (bonus action) when helpful.
+    - Turn 2+: Attack in melee; use Divine Smite carefully to avoid burning spell slots too quickly.
+  - Notes:
+    - Be cautious about using Divine Smite too often at this low level; you will burn through spell slots quickly.
+    - Don’t waste spell slots on a target with low health; just melee attack them.
+    - Divine Smite can proc in combination with Searing Smite (and can consume two spell slots on a critical strike).
 
-### Skill Proficiencies (as presented in source)
-Athletics, Insight (recommended focus as presented in source)
+### Level 3
+- Gain:
+  - Divine Health
+  - Abjure Enemy
+  - Vow of Enmity
+  - Receives Bane (subclass)
+  - Receives Hunter’s Mark (subclass)
+  - Prepared Spell: Command
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+- Play Style:
+  - Rotation:
+    - Turn 1: Buff with Divine Favour or Shield of Faith, then attack in melee.
+    - Turn 2+: Use Command if you need a stun; use Searing Smite for burst damage; use Thunderous Smite if you need high damage and a single target stun; use Hunter’s Mark as a bonus action if your concentration spell falls off.
+  - Notes:
+    - At this level, Searing/Thunderous Smite consume both action and bonus action and can be very costly.
+    - Keep it simple: buff turn one, burst damage turn two, then evaluate what your group needs (crowd control, burst, healing, etc.).
 
-### Reroll / respec note (as presented in source)
-- (Not specified in source)
+### Level 4
+- Gain:
+  - Feat: Ability Improvement (+2 Strength)
+  - Prepared Spell: Protection from Evil and Good
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+- Play Style:
+  - Rotation:
+    - Turn 1: Buff with Divine Favour or Shield of Faith as needed, then engage in melee.
+    - Turn 2+: Continue melee attacks; use Smite and spell slots when needed for burst.
+  - Notes:
+    - Simply increasing Strength to 18 is the simplest and easiest way to advance your character.
+    - Protection from Evil and Good is a niche spell and is not used often; consider it a flex.
 
-### Starting setup
-- **Weapon plan:** Prefer a **two-handed Greatsword**.
-- **Armor plan:** Replace early gear with **Heavy Armor** as soon as you can.
-- **Recruitment note:** (Not specified in source — companion character)
+### Level 5
+- Gain:
+  - Extra Attack
+  - Subclass Spells: Hold Person, Misty Step
+  - Extra Prepared Spell: Branding Smite
+  - Additional spell slots (Level 1 and Level 2)
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+  - Branding Smite
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Misty Step (bonus action) for mobility if needed; otherwise buff/debuff with a bonus action.
+    - Turn 2+: Use Extra Attack (two attacks) and Divine Smite reactions as appropriate; use Branding Smite for hard-hitting radiant damage and to prevent targets from turning Invisible.
+  - Notes:
+    - Misty Step dramatically improves power and mobility because it uses a bonus action.
+    - At this point, the issue is spell slots and using Divine Smite reaction appropriately; take Long Rests frequently.
 
----
+### Level 6
+- Gain:
+  - Aura of Protection (must be activated)
+  - Prepared Spell: Magic Weapon
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+  - Branding Smite
+  - Magic Weapon
+- Play Style:
+  - Rotation:
+    - Turn 1: Buff/debuff as needed.
+    - Turn 2+: Continue melee pressure with Extra Attack; use Smite as needed.
+  - Notes:
+    - Magic Weapon is a decent buff but comes at the cost of a high-level spell slot and concentration.
+    - Around level 6, you should be nearly finished with Act 1 content; check merchants and stock up on camp and alchemy supplies.
 
-## Level-by-level progression (Paladin 1 → 10, Fighter 11 → 12)
-> Treat each level’s **Play style** as your default combat loop for deploying Minthara effectively.
+### Level 7
+- Gain:
+  - Relentless Avenger (subclass feature)
+  - Prepared Spell: Lesser Restoration
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+  - Branding Smite
+  - Magic Weapon
+  - Lesser Restoration
+- Play Style:
+  - Rotation:
+    - Turn 1: Buff/debuff as needed; engage with melee.
+    - Turn 2+: Continue melee pressure; use utility spells in rare circumstances.
+  - Notes:
+    - Lesser Restoration is used in rare circumstances, but can be critical when an ally is paralyzed.
 
-### Level 1 — Paladin 1
-**Gain**
-- **Lay on Hands**
-- **Divine Sense**
-- **Inquisitor’s Might**
-- **Channeled Oath Charges** (resource as presented in source)
+### Level 8
+- Gain:
+  - Feat: Great Weapon Master
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+  - Branding Smite
+  - Magic Weapon
+  - Lesser Restoration
+- Play Style:
+  - Rotation:
+    - Turn 1: Initiate combat using your action first (after you are buffed), saving your bonus action for a Great Weapon Master attack.
+    - Turn 2+: Action One Attack (proc Divine Smite) goal kill target or critical strike; Action Two Attack (proc Divine Smite) goal kill target or critical strike; then proc Great Weapon Master from kill or critical hit and use bonus action for another attack (proc Divine Smite).
+  - Notes:
+    - Great Weapon Master’s -5 attack roll penalty / +10 damage can be turned off in the Passive section on your toolbar.
+    - Buff with bonus action on the first turn, and use primary melee attacks on the second with the goal of proc Great Weapon Master.
+    - Potion of Speed or Haste can add an additional action for even more attacks.
 
-**Play style (Level 1)**
-- Use Minthara as a **melee opener**: get her into contact early, and rely on **heavy armour upgrades** and a **two-handed Greatsword** plan as soon as possible.
-- Treat **Lay on Hands** as your “keep the frontline standing” button: stabilize Minthara or a teammate when the turn matters.
+### Level 9
+- Gain:
+  - Subclass Spells: Haste, Protection from Energy
+  - Prepared Spells: Blinding Smite, Elemental Weapon
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+  - Branding Smite
+  - Magic Weapon
+  - Lesser Restoration
+  - Blinding Smite
+  - Elemental Weapon
+- Play Style:
+  - Rotation:
+    - Turn 1: Keep things simple with Smite damage; use utility only when needed.
+    - Turn 2+: Use Blinding Smite as a “big nuke” for +3d8 radiant damage and a possible Blind; use Elemental Weapon if you can pre-buff before a fight.
+  - Notes:
+    - Haste is one of the best spells in the game because it increases actions; the downside is it takes an action and a level 3 spell slot (the guide prefers Potion of Speed for the same effect for fewer turns).
+    - Note on prepared spells: drop Compelled Duel so you can pick up two level 3 spells.
 
-### Level 2 — Paladin 2
-**Gain**
-- **Searing Smite**
-- **Thunderous Smite**
-- **Shield of Faith**
-- **Divine Favor**
-- **Cure Wounds**
+### Level 10
+- Gain:
+  - Aura of Courage
+  - Lay on Hands Charge
+  - Prepared Spell: Revivify
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+  - Branding Smite
+  - Magic Weapon
+  - Lesser Restoration
+  - Blinding Smite
+  - Elemental Weapon
+  - Revivify
+- Play Style:
+  - Rotation:
+    - Turn 1: Continue the established buff/debuff and melee engage pattern.
+    - Turn 2+: Use burst damage and utility as needed.
+  - Notes:
+    - Aura of Courage prevents you and nearby allies from being Frightened (aura disappears if you fall Unconscious).
+    - Revivify can be useful for long range to bring someone back.
 
-**Play style (Level 2)**
-- You’re now resource-limited: use spell slots **wisely** and don’t burn them all early unless the fight demands it.
-- Lean on the kit for **damage + control** when needed, but keep the main plan simple: **stay in melee and trade efficiently**.
+### Level 11
+- Gain:
+  - Multiclass: Fighter
+  - Defence Fighting Style (+1 bonus to AC while wearing armor)
+  - Second Wind
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+  - Branding Smite
+  - Magic Weapon
+  - Lesser Restoration
+  - Blinding Smite
+  - Elemental Weapon
+  - Revivify
+- Play Style:
+  - Rotation:
+    - Turn 1: Continue Paladin setup; rely on melee pressure.
+    - Turn 2+: Use Second Wind as a mediocre heal when useful.
+  - Notes:
+    - The guide suggests taking two levels into Fighter to increase your action potential, which increases your damage significantly.
+    - Prepared Spells remain unchanged from here on out.
 
-### Level 3 — Paladin 3 (Oath of Vengeance)
-**Gain**
-- **Vow of Enmity**
-- **Receives Bane** (as presented in source)
-- **Receives Hunter’s Mark** (as presented in source)
-- **Command**
+### Level 12
+- Gain:
+  - Fighter: Action Surge
+- Prepared Spells (if applicable):
+  - Searing Smite
+  - Thunderous Smite
+  - Shield of Faith
+  - Divine Favour
+  - Cure Wounds
+  - Command
+  - Protection from Evil and Good
+  - Branding Smite
+  - Magic Weapon
+  - Lesser Restoration
+  - Blinding Smite
+  - Elemental Weapon
+  - Revivify
+- Play Style:
+  - Rotation:
+    - Turn 1: Use your Attack action (with Extra Attack) and apply Divine Smite reactions as appropriate.
+    - Turn 2+: Use Action Surge for an extra action (once per fight) to attack, cast another spell, dash, etc.; combine with Potion of Haste or Haste for even more actions.
+  - Notes:
+    - The guide’s example math with Extra Attack, Action Surge, Haste, and Great Weapon Master results in a very high number of attacks in one turn.
 
-**Play style (Level 3)**
-- Use **Vow of Enmity** to create consistent pressure on the highest-value target when you need reliability.
-- Keep your loop focused: **pick one enemy, commit, and don’t spread your limited resources too thin**.
-
-### Level 4 — Paladin 4
-**Feat**
-- **Ability Improvement: Strength**
-
-**Gain**
-- **Protection from Evil and Good**
-
-**Play style (Level 4)**
-- This is mostly a numbers bump: stronger melee presence and more consistent frontline performance.
-- Use protection utility when the situation calls for it, but keep Minthara doing her job: **frontline contact and target removal**.
-
-### Level 5 — Paladin 5
-**Gain**
-- **Extra Attack**
-- **Hold Person**
-- **Misty Step**
-- **Branding Smite**
-
-**Play style (Level 5)**
-- Extra Attack is a major jump: you now get **two attacks per action**, increasing both damage and the number of chances to spend resources effectively.
-- Use **Misty Step** for **mobility** (bonus action) to close gaps and stay on priority targets; combine mobility + pressure to keep fights under control.
-- Manage the build’s biggest pain point here: **spell slots**. Take **Long Rests frequently** and don’t wander into new encounters with empty resources.
-
-### Level 6 — Paladin 6
-**Gain**
-- **Aura of Protection**
-- **Magic Weapon**
-
-**Play style (Level 6)**
-- Once you unlock **Aura of Protection**, **activate it** so you and nearby allies gain the saving throw bonus (as presented in source).
-- Gameplay otherwise stays steady: **frontline contact + selective resource spend**, with Aura providing passive value.
-- Around this point you may be wrapping Act 1: check merchants, stock supplies, and consider key craftables (as presented in source).
-
-### Level 7 — Paladin 7
-**Gain**
-- **Relentless Avenger** (subclass feature as presented in source)
-- Additional higher-tier slot access (as presented in source)
-- **Lesser Restoration**
-
-**Play style (Level 7)**
-- Not much changes; this level is largely a bridge to the next power jump.
-- Keep the plan disciplined: **stay in melee, stabilize when needed, and conserve resources for the fights that matter**.
-
-### Level 8 — Paladin 8
-**Feat**
-- **Great Weapon Master**
-
-**Play style (Level 8)**
-- Great Weapon Master has two parts: a **high-risk damage toggle** (more damage but reduced accuracy), and the key payoff: a **bonus action attack on kill/critical**.
-- Initiate combat with your **action first**, saving your **bonus action** for the Great Weapon Master follow-up attack when you score a kill/crit (as presented in source).
-- If your hit chance drops too low, **turn the toggle off** in the Passive section and focus on reliable hits (as presented in source).
-
-### Level 9 — Paladin 9
-**Gain**
-- **Haste**
-- **Protection from Energy**
-- **Blinding Smite**
-- **Elemental Weapon**
-
-**Play style (Level 9)**
-- You have more options, but most are **niche**: your bread-and-butter remains **melee burst** (as presented in source).
-- **Blinding Smite** is positioned as your big “nuke” tool at this level; keep the overall plan simple and only spend utility when needed (as presented in source).
-- Note on prepared spells (as presented in source): **drop Compelled Duel** so you can pick up two level 3 spells.
-
-### Level 10 — Paladin 10
-**Gain**
-- **Aura of Courage**
-- **Revivify**
-- Additional Lay on Hands charge (as presented in source)
-
-**Play style (Level 10)**
-- Gameplay remains largely unchanged: you gain more utility, with **Aura of Courage** preventing fear on you and nearby allies (as presented in source).
-- **Revivify** is situational but can matter when you need a long-range recovery option (as presented in source).
-
-### Level 11 — Fighter 1
-**Gain**
-- **Defence Fighting Style**
-- **Second Wind**
-
-**Play style (Level 11)**
-- This level can feel uneventful, but it sets up the endgame spike (as presented in source).
-- Defence Fighting Style is passive survivability; Second Wind is a bonus-action heal but many potions outperform it (as presented in source).
-
-### Level 12 — Fighter 2
-**Gain**
-- **Action Surge**
-
-**Play style (Level 12)**
-- Action Surge gives you an **extra action once per fight** without requiring a resource pool (as presented in source).
-- The core payoff is stacking actions with Extra Attack: you can convert one turn into a large burst sequence, and extend it further with additional speed/extra-action effects (as presented in source).
-- If you want a traditional Paladin route instead of this multiclass end, the source notes other feat options (as presented in source).
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it’s good | Where to get**.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Helmet of Smiting | Smite gives HP | Underdark Selûnite Outpost (X: 163, Y: -248) |
-| Cloak | - | - | - |
-| Chest | Adamantine Splint Armour | 18 AC | Crafted at Grymforge |
-| Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room (X: 295, Y: 69) |
+| Head | Helmet of Smiting | Smite gives HP | Located in Underdark Selûnite Outpost X: 163 Y: -248 |
+| Chest | Adamantine Splint Armour | 18 AC | Can be crafted at Grymforge |
+| Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room (X295 Y69) |
 | Boots | Disintegrating Night Walkers | Free Misty Step | Looted or stolen from Nere in Grymforge |
-| Neck | Moondrop Pendant | No Opportunity Attacks | Selûnite Gilded Chest in the Owlbear Nest |
-| Ring | Crusher’s Ring | Increase Movement | Looted or stolen from Crusher in the Goblin Camp |
+| Necklace | Moondrop Pendant | No Opportunity Attacks | Not specified |
+| Ring | Crusher’s Ring | Increase Movement | Looted or stolen from Crusher in the Goblin camp |
 | Ring | Caustic Band | Poison Damage | Sold by Derryth Bonecloak at Myconid Colony, Underdark |
-| Weapon (Ranged) | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout (Act 1) |
-| Weapon (Main Hand) | Sword of Justice | 2d6 Slashing | Looted from Anders in the Risen Road Toll House |
-| Weapon (Off-Hand) | - | - | - |
+| Weapon (Melee) | Sword of Justice | 2d6 Slashing | Looted from Anders in the Risen Road Toll House |
+| Weapon (Ranged) | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout Act 1 |
 
-## Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | - | - | - |
-| Cloak | - | - | - |
-| Chest | - | - | - |
-| Gloves | - | - | - |
-| Boots | - | - | - |
-| Neck | - | - | - |
-| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Self-Same Trial in the Gauntlet of Shar (Act 2) |
-| Ring | - | - | - |
-| Weapon (Ranged) | Darkfire Shortbow | Gives Haste | Sold by trader Dammon at Last Light Inn (Act 2) |
-| Weapon (Main Hand) | - | - | - |
-| Weapon (Off-Hand) | - | - | - |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Self-Same Trial in the Gauntlet of Shar in Act 2 |
+| Weapon (Ranged) | Darkfire Shortbow | Gives Haste | Sold by trader Dammon Act 2 Last Light Inn, Act 2 |
 
-## Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Helm of Balduran | Self-healing | Found in Dragon’s Sanctum (X: 636, Y: -964) |
-| Cloak | Fleshmelter Cloak | Return Damage | Looted from Aelis Siryasius in the Lower City Sewers (Act 3) |
-| Chest | Helldusk Armour | 21 AC | Dropped by Raphael in the House of Hope (Act 3) |
-| Gloves | Gauntlets of Hill Giant Strength | 23 Strength | Obtained in the Archive of the House of Hope |
-| Boots | Helldusk Boots | Mobility | Wyrm’s Rock Fortress (X: -32, Y: 219) (Act 3) |
-| Neck | Amulet of Greater Health | 23 Constitution | Looted from the Archive in the House of Hope |
-| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Self-Same Trial in the Gauntlet of Shar (Act 2) |
+| Head | Helm of Balduran | Self-healing | Found in Dragon’s Sanctum X: 636 Y: -964 |
+| Cape | Fleshmelter Cloak | Return Damage | Looted from Aelis Siryasius in the Lower City Sewers in Act 3 |
+| Chest | Helldusk Armour | 21 AC | Dropped by Raphael in the House of Hope |
+| Gloves | Gauntlets of Hill Giant Strength | 23 Strength | Obtained in Archive of the House of Hope |
+| Boots | Helldusk Boots | Mobility | Wyrm’s Rock Fortress X: -32 Y: 219 Act 3 |
+| Necklace | Amulet of Greater Health | 23 Constitution | Looted from the Archive in the House of Hope |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Self-Same Trial in the Gauntlet of Shar in Act 2 |
 | Ring | Ring Of Regeneration | Self-healing | Found in Lorroakan’s Projection store |
-| Weapon (Ranged) | Darkfire Shortbow | Gives Haste | Sold by trader Dammon at Last Light Inn (Act 2) |
-| Weapon (Main Hand) | Balduran’s Giantslayer | Best Greatsword | Reward for completing the Wyrmway trials (Act 3) |
-| Weapon (Off-Hand) | - | - | - |
+| Weapon (Melee) | Balduran’s Giantslayer | Best Greatsword | Obtained as a reward for completing the Wyrmway trials, Act 3 |
+| Weapon (Ranged) | Darkfire Shortbow | Gives Haste | Sold by trader Dammon Act 2 Last Light Inn, Act 2 |
 
----
+## Features and Mechanics
+- Class: Paladin
+- Race: Drow
+- Background: Noble
+- Subclass: Reroll to Oath of Vengeance
+- Base Proficiencies: Athletics, Insight, Intimidation, Medicine, Persuasion, Religion
+- Preferred Gear: Two-handed Greatsword with Full Plate Armor
+- Location: Goblin Camp in the Shattered Sanctum, Act 1; Moonrise Towers, Act 2
+- Primary Ability: Charisma
+- Armor Proficiency: Heavy Armour
+- Weapon Proficiency: Martial and Simple
+- Preferred Weapon: Two-hand Greatsword
+- Preferred Armor: Full Heavy Platemail
+- Channeled Oath Charges: Paladin-specific resource that allows the casting of spells and abilities.
+- Divine Smite: Spend spell slots to deal additional radiant damage on a successful melee attack.
+- Divine Health: The divine magic flowing within you prevents the disease from affecting you.
+- Abjure Enemy: Frighten an enemy; Fiends and undead have a Disadvantage on this Saving Throw.
+- Vow of Enmity: Gain Advantage on Attack Rolls against an enemy.
+- Paladin spell mechanics:
+  - Cantrips: cast infinitely and don’t take spell slots.
+  - Spell Slots: limited resource; require a long rest to refill.
+  - Prepared Spells: swap in and out spells before combat.
+  - Concentration: some spells require concentration to maintain.
 
-# Permanent bonuses (by Act)
+## Subclass Options
+### Paladin Subclasses (BG3)
+- Oathbreaker: Damage-focused, crowd control, and control undead.
+- Oath of the Ancients: Nature-based spell-focused, natural world Paladin.
+- Oath of Devotion: Healing focused, radiant damage, “good” Paladin.
+- Oath of Vengeance: Seeks revenge and deals extra damage when marking enemies.
+- Oath of the Crown: Upholds the tenets of civilization. Buffs party members and taunts enemies.
 
-## Act 1
-- (Not specified in source)
+### Oath of Vengeance Features & Spells
+- Oath of Vengeance Tenets (Level 1): Fight the Greater Evil; No Mercy for the Wicked.
+- Inquisitor’s Might (Level 1): You or an ally’s weapon attacks deal additional Radiant damage equal to your charisma modifier (minimum of 1) and can Daze enemies for 2 turns.
+- Abjure Enemy (Level 3): Frighten an enemy; they’ll be easier to hit and cannot move; Fiends and undead have Disadvantages on this Saving Throw.
+- Vow of Enmity (Level 3): Gain Advantage on Attack Rolls against an enemy.
+- Oath Spells (Level 3): Bane and Hunter’s Mark
+- Oath Spells (Level 5): Misty Step and Hold Person
+- Relentless Avenger (Level 7): If you hit an enemy with an Opportunity Attack, gain 4.5m movement next turn.
+- Oath Spells (Level 9): Haste and Protection from Energy
 
-## Act 2
-- (Not specified in source)
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Elixir of Hill Giant Strength: Increases Strength ability score to 21 until Long Rest.
+- Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
+- Drow Poison: Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
+- Potion of Flying: Drink to gain a flying speed of 60ft for one hour.
+- Elixir of Heroism: Gain 10 temp HP and become Blessed until a long rest.
+- Potion of Greater Healing: 4d4 + 4 hit points restored.
+- Oil of Accuracy: Coat Weapon. Bonus of +2 in Attack Rolls.
+- Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
+- Elixir of Darkvision: (only non-Darkvision race): Drink to gain the ability to see in the dark up to 12m.
 
-## Act 3
-- (Not specified in source)
+## Permanent Bonuses
+### Act 1
+- Additionally, try to get all of the permanent bonuses available in Act 1.
 
----
+### Act 2
+- Not specified.
 
-# Best consumables / items (single-use)
-- **Elixir of Bloodlust** — Once per turn when you kill a foe, you gain 5 temporary hit points and an additional action.
-- **Elixir of Hill Giant Strength** — Increases Strength ability score to 21 until Long Rest.
-- **Potion of Speed** — Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
-- **Drow Poison** — Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
-- **Potion of Flying** — Drink to gain a flying speed of 60ft for one hour.
-- **Elixir of Heroism** — Gain 10 temp HP and become Blessed until a long rest.
-- **Potion of Greater Healing** — 4d4 + 4 hit points restored.
-- **Oil of Accuracy** — Coat Weapon. Bonus of +2 in Attack Rolls.
-- **Elixir of Vigilance** — Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
-- **Elixir of Darkvision** — (only non-Darkvision race): Drink to gain the ability to see in the dark up to 12m.
+### Act 3
+- Not specified.
 
----
+## Illithid Powers
+- Not specified.
 
-## Optional: Illithid powers (if using tadpoles)
-- (Not specified in source)
+## Gameplay Tips and Tricks
+- Spell Slots: use your spell slots wisely, especially for Divine Smite and Healing.
+- Divine Smite: use this extra damage source on the hardest to defeat enemies and save your spell slots for when you really need it.
+- Healing: use potions that consume bonus actions or Lay on Hands for yourself or an ally.
+- Heavy Armor: find and equip this early for needed AC.
+- Crowd Control: make sure to CC enemies with Thunderous Smite or a Companion ability to limit damage.
+- Pre-Buff: have a companion cast blessed prior to combat to get a roll Advantage.
+- Range: don’t forget to equip a ranged weapon to ensure you can do damage on nearly every turn.
+- Long Rest: use the rest at camp function to regain spell slots and don’t go into a fight with zero.
+- Great Weapon Master: focus on low-health targets with your first action to strike a kill and another attack with Great Weapon Master.
+- Toggle Reactions: make sure both Divine Smite and Great Weapon Master are toggled on or off when you need them.
 
----
+## Alternative Build Route
+Investing a couple of levels into the Warlock class first will give Minthara access to the powerful Booming Blade cantrip. Then, once you reach level 3, swap back to her usual Paladin class and pick up the Vengeance subclass. With five levels of investment, you will have much more movement speed and melee potential. Finally, at Level 9, you’ll switch to the Fighter and Eldritch Knight subclass for even more spellcasting and melee damage potential.
 
-## Optional: Alternative build route (from the guide)
-- The source presents an alternative path where Minthara **starts as Warlock** for early cantrip power, then switches back into **Paladin (Vengeance)**, and later pivots into **Fighter (Eldritch Knight)** for additional spellcasting and melee pressure (as presented in source).
+Level | Class | Selection
+--- | --- | ---
+1 | Warlock | Hexblade, Shield, Hellish Rebuke, Booming Blade, Eldritch Blast
+2 | Warlock | Wrathful Smite, Hex spells, One with Shadows, Devil’s Sight Invocations
+3 | Paladin | Multiclass Paladin, Vengeance Subclass
+4 | Paladin | Great Weapon Fighting, Command, Thunderous Smite, Divine Favour, Shield of Faith, Cure Wounds
+5 | Paladin | Protection from Good and Evil
+6 | Paladin | Great Weapon Master Feat, Compelled Duel
+7 | Paladin | Drop Compelled, select Magic Weapon, Lesser Restoration
+8 | Paladin | Aid spell
+9 | Fighter | Multiclass Fighter, Defense Fighting Style
+10 | Fighter | Action Surge
+11 | Fighter | Eldritch Knight subclass, Chromatic Orb, Magic Missile spells, Bursting Sinew, Fire Bolt cantrips, Longstrider extended
+12 | Fighter | Savage Attacker feat, Shield spell
 
-### Alternative leveling outline (as presented in source)
-- Level 1: Warlock — Hexblade, Shield, Hellish Rebuke, Booming Blade, Eldritch Blast
-- Level 2: Warlock — Wrathful Smite, Hex spells, One with Shadows, Devil’s Sight Invocations
-- Level 3: Paladin — Multiclass Paladin, Vengeance Subclass
-- Level 4: Paladin — Great Weapon Fighting, Command, Thunderous Smite, Divine Favour, Shield of Faith, Cure Wounds
-- Level 5: Paladin — Protection from Good and Evil
-- Level 6: Paladin — Great Weapon Master Feat, Compelled Duel
-- Level 7: Paladin — Drop Compelled, select Magic Weapon, Lesser Restoration
-- Level 8: Paladin — Aid spell
-- Level 9: Fighter — Multiclass Fighter, Defense Fighting Style
-- Level 10: Fighter — Action Surge
-- Level 11: Fighter — Eldritch Knight subclass, Chromatic Orb, Magic Missile spells, Bursting Sinew, Fire Bolt cantrips, Longstrider extended
-- Level 12: Fighter — Savage Attacker feat, Shield spell
+## Patch Changes
+### Patch 8
+- The most significant updates to the Minthara Paladin build in Patch 8 stem from the introduction of new subclasses, spells, and cantrips.
+- While the core combat strategy remains largely unchanged, these additions open the door to powerful new multiclassing options that enhance both versatility and damage potential.
+- The Booming Blade cantrip now offers a better advantage by adding thunder damage to each attack, making it a strong option (especially true when multiclassing into Hexblade Warlock, Sorcerer, or Wizard).
