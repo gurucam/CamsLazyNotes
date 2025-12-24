@@ -1,271 +1,398 @@
-# Hexblade Warlock Build (Patch 8)
+# Hexblade Warlock Build (Warlock / Paladin)
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Warlock 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+Source: :contentReference[oaicite:0]{index=0}
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Fantasy / flavor
-- A powerful **hybrid spellcaster** who excels in melee combat using Charisma for both attacks and spellcasting.
-- Focuses on the **Pact Weapon** feature to turn any weapon into a Charisma-scaling implement of destruction, refreshing short-rest spell slots frequently.
-- Plays like a **frontline duelist** capable of high single-target burst and powerful area control spells.
+## Build Snapshot
 
-### Core playstyle in one sentence
-- Apply the **Hexblade’s Curse** to a primary target, then use your Charisma-driven melee attacks (Pact Weapon) combined with powerful, short-rest spell slots for immediate, heavy single-target damage and quick takedowns.
+### Fantasy / Flavor
+- A melee-focused Warlock build that excels at burst damage.
+- A hybrid spellcaster that can play in melee range while retaining spellcasting versatility.
+- A Charisma-based melee spellcaster that binds a weapon and fights with medium armor and a shield.
 
-### Party role
-- **Frontline striker** and **Short Rest focused blaster:** Excels at deleting a single high-priority target while maintaining strong damage output with cantrips and high-impact control spells.
+### Core Playstyle
+- Summon Shadow Blade with your bonus action and use your action for melee attacks, pairing psychic-damage boosts (Strange Conduit Ring + Resonance Stone) and Hexblade’s Curse for extra damage.
 
-### Key stats
-- **Charisma (CHA)**: Primary ability score for Attack Rolls, Damage Rolls (with Pact Weapon), and Spell Save DC.
-- **Constitution (CON)**: Important for hit points and maintaining Concentration on key spells like *Hex*.
-- **Dexterity (DEX)**: Secondary stat for Armour Class (AC) and Initiative.
+### Party Role
+- Melee burst damage dealer.
+- Hybrid spellcaster (melee + spells).
+- Charisma-based presence in dialogue and persuasion.
 
-### Best Race
-- **Half-Elf**: Provides Shield Proficiency, which is crucial for early survivability.
-- **Githyanki**: Excellent option for immediate Greatsword Proficiency and access to powerful racial spells.
+### Pros
+- High Damage
+- Versatile
+- Simple
 
-### Recommended Background
-- **Guild Artisan** (Insight, Persuasion) or **Soldier** (Athletics, Intimidation).
+### Cons
+- Limited Spell Slots
+- Gear Dependent
+- Melee Centric
 
-## Character creation
+### Power Spikes
+- Level 3: Shadow Blade becomes the main source of damage.
+- Level 6: Power dramatically increases (reach Level 6 early).
+- End of Act 2: Resonance Stone doubles psychic damage (noted as “SUPER IMPORTANT”).
+- Paladin multiclass: Divine Smite stacked with Shadow Blade for massive burst damage.
+- Paladin level 5 (character level 11): Extra attack for Shadow Blade with this level.
 
-### Starting class and proficiencies
-- **Starting Class:** Warlock.
-- **Subclass:** Hexblade (Patch 8).
-- **Proficiencies:** Simple weapons, Light armour, and Shields (if Half-Elf/Githyanki/Multiclass).
+## Character Creation
+- Race: Half-Orc
+- Class: Warlock
+- Subclass: Hexblade
+- Background: Entertainer
+- Ability Scores: STR 8 / DEX 16 / CON 14 / INT 8 / WIS 10 / CHA 17
+- Proficiencies: Deception, Investigation
 
-### Starting ability scores
-- **CHA:** 17
-- **CON:** 16
-- **DEX:** 14
-- **STR:** 8
-- **INT:** 8
-- **WIS:** 10
+## Level Progression
 
-## Level-by-level progression (Warlock 1 → 12)
+### Level 1
+- Gain:
+  - Subclass: Hexblade
+  - Cantrips: Eldritch Blast, Booming Blade
+  - Spells: Hex, Wrathful Smite
+  - Hex Warrior: Proficiency with Medium armour, Shields, and Martial weapons; gain Bind Hexed Weapon (use Charisma modifier instead of Strength or Dexterity when attacking with proficient weapons).
+  - Bind Hexed Weapon: Bind to your main hand weapon (damage becomes magical; cannot drop or throw; become Proficient if you weren’t; chance to apply Hexblade’s Curse on attack).
+  - Hexblade’s Curse: Curse a target (damage rolls gain bonus equal to target’s Proficiency bonus; Critical Hit number reduced by 1; if target dies, regain hit points equal to Warlock level + Charisma modifier).
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Hex / Eldritch Blast for ranged damage, or Booming Blade for melee.
+    - Turn 2+: Continue Hex + Eldritch Blast at range; Booming Blade is the go-to melee attack.
+  - Notes:
+    - Booming Blade: Strike with your weapon, afflicting your foe with a resonance that hurts them for 1d8 Thunder when they move.
+    - Use Wrathful Smite for all-out burst damage; at level 3 you gain access to Shadow Blade (main weapon).
 
-#### Level 1
-##### GAIN
-- Class features, Subclass: Hexblade.
-- Hex Warrior (use CHA for attack/damage rolls on one weapon).
-- Spell Slots, Spells (e.g., *Hex*, *Eldritch Blast*).
+### Level 2
+- Gain:
+  - Spell: Hellish Rebuke (recommended)
+  - Spell: Shield (recommended to keep a slot in reserve)
+  - Eldritch Invocations: Devil’s Sight, One with Shadows
+- Play Style:
+  - Rotation:
+    - Turn 1: Maintain a spell slot in reserve for Shield; short rest after every fight if you can.
+    - Turn 2+: Use Devil’s Sight + Darkness combo when available (see notes).
+  - Notes:
+    - Hellish Rebuke: React to your next attacker with flames that deal 2d10 Fire damage.
+    - Devil’s Sight: See normally in darkness (magical and non-magical) to 24 meters.
+    - One with Shadows: Vanish into the darkness and become Invisible, as long as you stand still.
+    - Devil’s Sight trick: cast the Darkness spell on top of yourself and still see through it; enemies will almost always miss you but you can attack while inside (use a Wizard or select the spell to use this combo).
 
-##### PLAY STYLE (LEVEL 1)
-- You are primarily a ranged caster at this level, relying on **Eldritch Blast** as your go-to damage source.
-- Use **Hex** on the toughest enemy in major fights to gain extra damage on every hit from your *Eldritch Blast*.
-- Your resources are very limited, so use your two short-rest spell slots strategically for the most threatening encounters.
+### Level 3
+- Gain:
+  - Spell: Shadow Blade (recommended)
+  - Pact Boon: Pact of the Chain
+  - Hexblade always-prepared spells (noted in subclass list): Blur, Branding Smite (Expanded Spell List Level 3)
+- Play Style:
+  - Rotation:
+    - Turn 1: Summon Shadow Blade (bonus action) and attack in melee.
+    - Turn 2+: Continue melee attacks with Shadow Blade as main damage source.
+  - Notes:
+    - Shadow Blade: Creates a shadowy shortsword in your hand that deals 2d8 Psychic damage; becomes the main source of damage.
+    - If using a physical weapon, bind it so it scales off Charisma (use this approach rather than Shadow Blade if using a two handed weapon).
+    - Advantage of Shadow Blade: summon in main hand, not worry about any weapon the rest of the game, and use a shield.
+    - SUPER IMPORTANT: Act 2 has the Resonance Stone which doubles psychic damage (it “literally doubles Shadow Blade”). Do not miss this at the end of Act 2.
+    - Pact of the Chain usage: better because you already have Bind Hexed Weapon; Pact of the Tome is helpful if you take Warlock high levels to gain more spells.
 
-#### Level 2
-##### GAIN
-- 2 Eldritch Invocations (Agonizing Blast, Devil's Sight).
-- Spell Slots.
+### Level 4
+- Gain:
+  - Cantrip: Mage Hand
+  - Spell: Darkness
+  - Feat: Ability Improvement (Charisma +2)
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Darkness to heavily obscure/blind and restrict ranged attacks into/out of it; leverage Devil’s Sight synergy when applicable.
+    - Turn 2+: Continue melee with Shadow Blade or bound weapon while using Darkness as a protective bubble.
+  - Notes:
+    - Make sure to get another +1 Charisma with Auntie Ethel Hair permanent bonus in southwest part of map.
 
-##### PLAY STYLE (LEVEL 2)
-- **Agonizing Blast** is a massive boost, adding your CHA modifier to the damage of *Eldritch Blast*, making it one of the best cantrips in the game.
-- Use **Devil's Sight** to gain Advantage on attack rolls if you or an ally can create a cloud of *Darkness*.
-- The core loop is still *Eldritch Blast*, but now it hits significantly harder.
+### Level 5
+- Gain:
+  - Spell: Counterspell
+  - Eldritch Invocation: Repelling Blast
+  - Subclass: Extra Attack (Deepened Pact noted as “Gain an Extra Attack with your pact weapon.”)
+  - Hexblade always-prepared spells (noted in subclass list): Blink, Elemental Weapon (Expanded Spell List Level 5)
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Counterspell to stop a spell from being cast when needed.
+    - Turn 2+: Repelling Blast can push targets up to 4.5 meters when hit by Eldritch Blast.
+  - Notes:
+    - Extra Attack will work on your bound pact weapon; it may not work on Shadow Blade, but when you multiclass to Paladin extra attack will work.
 
-#### Level 3
-##### GAIN
-- Pact Boon (Pact of the Blade).
-- Level 2 Spell Slots.
-- Spell (e.g., *Misty Step*, *Darkness*).
+### Level 6
+- Gain:
+  - Subclass feature: Accursed Spectre
+  - Spell: Misty Step
+  - Spell change: Drop Hellish Rebuke and pick up Hunger of Hadar
+- Play Style:
+  - Rotation:
+    - Turn 1: Place Darkness-type spells (e.g., Hunger of Hadar) and move into them to gain advantage with Shadow Blade while obscured.
+    - Turn 2+: Use Misty Step for repositioning; continue melee attacks.
+  - Notes:
+    - Accursed Spectre: Raise an Accursed Spectre from the soul of a fallen cursed target; size determines Feeble / Mundane / Primordial Spectre.
+    - Hunger of Hadar: Conceals you and works with Devil’s Sight; while in Darkness or Obscured, Shadow Blade will have advantage.
 
-##### PLAY STYLE (LEVEL 3)
-- You are now a true Hexblade melee warrior. Use your Action to make your chosen two-handed weapon a **Pact Weapon**, which now scales its attack and damage rolls with your Charisma.
-- Your combat rotation is simple: Open with your **Hexblade’s Curse** on the primary target, then move into melee and strike with your Pact Weapon.
-- Save *Misty Step* for emergencies to reposition or escape dangerous areas.
+### Level 7
+- Gain:
+  - Multiclass into Paladin
+  - Subclass: Oath of Vengeance
+  - Paladin features: Channeled Oath Charges, Lay on Hands, Divine Sense, Inquisitor’s Might
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Inquisitor’s Might (bonus action) when you want bonus action utility.
+    - Turn 2+: Stack the damage of Divine Smite with Shadow Blade (reason for Paladin multiclass is stated as stacking Divine Smite with Shadow Blade).
+  - Notes:
+    - Oath of the Vengeance Tenets: Fight the Greater Evil. No Mercy for the Wicked.
 
-#### Level 4
-##### GAIN
-- Feat (Great Weapon Master).
-- Spell.
+### Level 8
+- Gain:
+  - Divine Smite (unlocked with 2 levels into Paladin)
+  - Defence Fighting Style: +1 AC while wearing Armour
+  - Spells listed as suggestions:
+    - Wrathful Smite
+    - Thunderous Smite
+    - Command
+    - Divine Favor
+    - Shield of Faith
+    - Protection from Good and Evil
+- Play Style:
+  - Rotation:
+    - Turn 1: Save spell slots for Divine Smite and use on melee attacks.
+    - Turn 2+: Use Shield of Faith prior to fights where you expect to take the majority of the damage.
+  - Notes:
+    - Shield of Faith: bonus action; requires concentration; increases Armour Class by 2.
+    - Protection from Good and Evil: protect an ally against the attacks and powers of Aberrations, Celestials, Elementals, Fey, Fiends, and Undead.
 
-##### PLAY STYLE (LEVEL 4)
-- This is your first major damage spike. Toggle on the **Great Weapon Master** passive for -5 to Attack Rolls but +10 to Damage.
-- You must find ways to gain Advantage (e.g., from *Darkness* or other build effects) to offset the attack penalty.
-- Prioritize killing low-health enemies to gain the **Great Weapon Master** bonus action attack, significantly boosting your damage rotation.
+### Level 9
+- Gain:
+  - Paladin level 3: choose another spell (Select Searing Smite for spell; “not critical”)
+  - Oath of Vengeance features: Abjure Enemy, Vow of Enmity
+  - Oath spells: Bane, Hunter’s Mark
+- Play Style:
+  - Rotation:
+    - Turn 1: Use your bonus action for Hunter’s Mark at this point.
+    - Turn 2+: Use Vow of Enmity to gain Advantage on Attack Rolls against an enemy.
+  - Notes:
+    - Abjure Enemy: Frighten an enemy; they have Disadvantage on ability checks and Attack rolls; they cannot move.
+    - Bane: Up to 3 creatures receive a -1d4 penalty to Attack rolls and Saving throws.
+    - Hunter’s Mark: Mark a creature as your quarry to deal an additional 1d6 Weapon damage whenever you hit it with a weapon attack.
 
-#### Level 5
-##### GAIN
-- 3rd Level Spell Slots.
-- Eldritch Invocation (Thirsting Blade).
-- Spell (e.g., *Hunger of Hadar*).
+### Level 10
+- Gain:
+  - Choose a single spell (not specified by name)
+  - Feat: Alert (take Alert if using Shadow Blade; recommended)
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Alert to attack earlier (noted as “highly effective to get you to attack earlier”).
+    - Turn 2+: Continue Shadow Blade melee plan.
+  - Notes:
+    - If not using Shadow Blade and using 2H, use Savage Attacker; Savage Attacker and Great Weapon Master will not work on Shadow Magic.
 
-##### PLAY STYLE (LEVEL 5)
-- **Thirsting Blade** grants you **Extra Attack** with your Pact Weapon, doubling your base melee damage and making you a true martial threat.
-- Your rotation stabilizes: Curse → two melee attacks. Use your spell slots for powerful 3rd level control spells like **Hunger of Hadar** for area denial.
-- Remember to short rest after every encounter to replenish your two 3rd level slots.
+### Level 11
+- Gain:
+  - Extra attack for Shadow Blade with this level (stated)
+  - Spell guidance: drop Searing and Bless; get Aid, Lesser Restoration, and Magic Weapon
+- Play Style:
+  - Rotation:
+    - Turn 1: Maintain Shadow Blade melee pressure with extra attack available at this level.
+    - Turn 2+: Use Magic Weapon as part of your spell setup as needed.
+  - Notes:
+    - With five levels into Paladin, you get to choose another spell, as well as two additional always prepared spells.
 
-#### Level 6
-##### GAIN
-- Hexblade feature (Accursed Specter).
-- Spell.
+### Level 12
+- Gain:
+  - Class action: Aura of Protection
+  - Spell: Protection from Poison
+- Play Style:
+  - Rotation:
+    - Turn 1: Activate Aura of Protection once it’s unlocked.
+    - Turn 2+: Continue standard melee and spell usage.
+  - Notes:
+    - Aura of Protection: You and nearby allies gain a bonus to Saving throws equal to your Charisma modifier.
+    - Protection from Poison: Grants Advantage on Saving throws against being Poisoned, and Resistance to Poison damage.
 
-##### PLAY STYLE (LEVEL 6)
-- The **Accursed Specter** feature allows you to summon a temporary ally after defeating a humanoid. Use this to your advantage in fights against multiple humanoids for extra actions.
-- Continue the core melee rotation. Your power is now consistent and potent due to the two Charisma-based attacks.
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Haste Helm | Extra Movement | Found in Blighted Village at coordinates X: 29 Y: 405 (Alternatives Cap of Wrath). |
+| Cape | Deathstalker Mantle (optional) | Invisibility on Kill | Automatically acquired as part of Dark Urge story. Optional don’t have to use. |
+| Chest | Adamantine Scale Mail | 16 AC | Crafted in the Underdark, Grymforge. |
+| Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room (Alternatives Gloves of Dexterity, or Gloves of Missile Snaring). |
+| Boots | Disintegrating Night Walkers | Free Misty Step | Obtained in Gyrmforge as part of Free True Soul Nere questline (Alternatives Boots of Striding, Boots of Genial Striding, or Boots of Speed). |
+| Necklace | Broodmother’s Revenge | 1d6 when healed | Looted from by Kagha’s body in the Emerald Grove. |
+| Ring | Strange Conduit Ring | Concentration + Damage | Crèche Y’llek X: 1360 Y: -657. |
+| Ring | Caustic Band | Poison Damage | Obtained from merchant Derryth Bonecloak in the Myconid Colony (Alternatives Fetish of Callarduran Smoothhands, or The Sparkswall). |
+| Weapon (Main Hand) | Phalar Aluve (Shadow Blade) | Special Attack | Found at Underdark coordinates X: 116 Y: -192. |
+| Off-Hand | Adamantine Shield | +2 AC | Crafted in Adamantine Forge. |
+| Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum (Alternatives Hunting Shortbow, Bow of Banshee, Titanstring Bow). |
 
-#### Level 7
-##### GAIN
-- 4th Level Spell Slots.
-- Eldritch Invocation (e.g., Tome of Ancient Secrets or similar utility).
-- Spell.
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
+| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony. |
 
-##### PLAY STYLE (LEVEL 7)
-- Access to 4th Level spells means powerful control options like **Banishment** are available to neutralize the most dangerous enemy on the field.
-- When faced with two major threats, use **Banishment** on one and focus your full melee power on the other.
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Birthright | Cannot be Stunned | Purchased at Sorcerous Sundries (Alternatives Helm of Balduran, Sarevok’s Horned Helmet, Mask of Soul Perception). |
+| Cape | Deathstalker Mantle | Invisibility on Kill | Automatically acquired as part of Dark Urge story (Alternatives Cloak of Protection, Fleshmelter). |
+| Chest | Armour of Agility | +Damage Obscured | Sold by Gloomy Fentonson Gloomy Fentonson at Stormshore Armoury (Alternative Helldusk Armour). |
+| Gloves | Craterflesh Gloves | Crits + Damage | Murder tribunal vendor (Alternatives Gauntlets of Hill Giant Strength, Helldusk Gloves, Legacy of the Masters). |
+| Boots | Helldusk Boots | Mobility | In a locked chest, Wyrm’s Rock Fortress (Alternative Disintegrating Night Walkers). |
+| Necklace | Amulet of Greater Health | 23 Constitution | Obtained in Archive of the House of Hope (Alternative Surgeon’s Subjugation Amulet). |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
+| Ring | Strange Conduit Ring | Self-healing | Crèche Y’llek X: 1360 Y: -657 (Alternative Ring of Free Action, Shifting Corpus Ring). |
+| Weapon (Main Hand) | Phalar Aluve (Shadow Blade) | + Movement | Found in Underdark at coordinates X: 116 Y: -192. |
+| Off-Hand | Viconia’s Walking Fortress | +3 AC | Complete Shadowheart’s Quest Daughter of Darkness. |
+| Ranged | Hellriders | +3 initiative | Rivington X: 43 Y: -101: Sold by Ferg (Alternative darkfire shortbow). |
+| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony. |
 
-#### Level 8
-##### GAIN
-- Feat (Ability Score Improvement: +2 CHA).
-- Spell.
+## Features and Mechanics
+- Class: Warlock and Paladin
+- Subclass: Hexblade and Oath of Vengeance
+- Background: Entertainer
+- Skills: Deception, Investigation
+- Ability Score:
+  - Strength: 8
+  - Dexterity: 16
+  - Constitution: 14
+  - Intelligence: 8
+  - Wisdom: 10
+  - Charisma: 17
+- Saving Throw: Charisma and Wisdom
+- Armour Proficiency: Light Armour
+- Weapon Proficiency: Simple Weapons
+- Build Summary:
+  - Armor: Medium
+  - Weapons: One Hand and Shield
+- What makes the build unique:
+  - Bind a weapon, gain extra proficiencies like medium armor, and play entirely as a melee spellcaster.
+  - Benefit from Extra Attack and combo Hexblade Curse and additional psychic damage to rival other melee builds.
+- Core damage plan:
+  - Summon Shadow Blade (bonus action) and use melee attacks.
+  - Increase psychic damage with Strange Conduit Ring and Resonance Stone.
+  - Use Hexblade’s Curse after Shadow Blade is summoned for extra damage.
+  - Boost overall Charisma to increase damage of spells and melee attacks.
 
-##### PLAY STYLE (LEVEL 8)
-- Use the **Ability Score Improvement** to cap your **Charisma at 20**.
-- This improves your chance to hit, your spell DC, and the damage bonus from *Agonizing Blast* and your Pact Weapon. Your attacks should now rarely miss.
+## Subclass Options
 
-#### Level 9
-##### GAIN
-- 5th Level Spell Slots.
-- Spell (e.g., *Synaptic Static*).
+### Hexblade Features and Expanded Spell List
+- Hex Warrior (Level 1): Gain proficiency with Medium armour, Shields, and Martial weapons; gain Bind Hexed Weapon (use Charisma modifier instead of Strength or Dexterity when attacking with proficient weapons).
+- Bind Hexed Weapon (Level 1): Bind to your main hand weapon; damage becomes magical; cannot drop or throw; become Proficient if you weren’t; chance that Hexblade’s Curse will be applied to the target when you attack.
+- Hexblade’s Curse (Level 1): Curse a target; your damage rolls against the target gain a bonus equal to their Proficiency bonus; Critical Hit number reduced by 1.
+- Expanded Spell List (Level 1): Shield and Wrathful Smite
+- Expanded Spell List (Level 3): Blur and Branding Smite
+- Extra Attack (Level 5): You can make an additional free attack after making an unarmed or weapon attack.
+- Expanded Spell List (Level 5): Blink and Elemental Weapon
+- Accursed Spectre (Level 6): Raise an Accursed Spectre from the soul of a fallen.
+- Expanded Spell List (Level 7): Phantasmal Killer, Staggering Smite, Dominate Beast, and Greater Invisibility
+- Expanded Spell List (Level 9): Banishing Smite and Cone of Cold
+- Armour of Hexes (Level 10): When a creature you cursed with Hexblade’s Curse attacks you, potentially nullify the attack as a reaction.
 
-##### PLAY STYLE (LEVEL 9)
-- **Synaptic Static** is a game-changing 5th-level spell. It deals massive Psychic damage in an area and applies a concentration-free debuff that gives enemies Disadvantage on attack rolls.
-- Use this spell at the start of difficult encounters to both deal burst damage and significantly reduce enemy threat.
+### Eldritch Invocations and Pact Boon
+- Eldritch Invocation (Level 2): Devil’s Sight
+  - Cast Darkness on top of yourself and still see in the dark.
+- Eldritch Invocation (Level 2): One with Shadows
+  - Vanish into the darkness and become Invisible, as long as you stand still.
+- Eldritch Invocation (Level 5): Repelling Blast
+  - When you hit a creature with Eldritch Blast, you can push the creature up to 4.5 meters away.
+- Pact Boon (Level 3): Pact of the Chain
+  - Gain the service of a familiar (animal, imp, or quasit).
+  - Reason given: you already have Bind Hexed Weapon; Pact of the Tome is helpful if you take Warlock high levels to gain more spells.
 
-#### Level 10
-##### GAIN
-- Eldritch Invocation (Ghostly Gaze/Repelling Blast or similar utility).
-- Hexblade feature (Armor of Hexes).
-- Spell.
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain 5 temporary hit points and an additional action.
+- Elixir of Hill Giant Strength: Increases Strength ability score to 21 until Long Rest.
+- Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
+- Drow Poison: Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
+- Potion of Flying: Drink to gain a flying speed of 60ft for one hour.
+- Elixir of Heroism: Gain 10 temp HP and become Blessed until a long rest.
+- Potion of Greater Healing: 4d4 + 4 hit points restored.
+- Oil of Accuracy: Coat Weapon. Bonus of +2 in Attack Rolls.
+- Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
 
-##### PLAY STYLE (LEVEL 10)
-- The **Armor of Hexes** feature is a strong defensive boost: the target of your Hexblade’s Curse now has Disadvantage on Attack Rolls against you.
-- You can now confidently focus on the highest damage dealer in melee, knowing you are extremely difficult for them to hit.
+## Permanent Bonuses
 
-#### Level 11
-##### GAIN
-- Mystic Arcanum (6th Level Spell: e.g., *Circle of Death*).
-- Eldritch Master.
+### Act 1
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Scratch: Gain Find Familiar Scratch.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Volo’s Ersatz Eye: See Invisibility
 
-##### PLAY STYLE (LEVEL 11)
-- **Mystic Arcanum** provides a powerful, once-per-Long Rest 6th level spell (like **Circle of Death**) for use in boss fights.
-- **Eldritch Master** allows you to fully restore your spell slots once per Long Rest, greatly increasing your sustainability in a dungeon crawl.
+### Act 2
+- Potion of Everlasting Vigour: Gain +2 Strength.
+- Awakened: Use illithid powers as a Bonus Action.
+- Slayer Form: Ability to transform into the Slayer.
 
-#### Level 12
-##### GAIN
-- Feat (Eldritch Invocation: Lifedrinker, or Ability Score Improvement: +2 CON or Resilient: CON).
-- Eldritch Invocation (Lifedrinker).
+### Act 3
+- Mirror of Loss: +2 to an Ability Score of your choice.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Statue of the Gods: +2 to Saving Throws
+- Necromancy Of Thay: access to powerful spells in Act 3.
 
-##### PLAY STYLE (LEVEL 12)
-- The final damage spike is **Lifedrinker**, which adds your CHA modifier as Necrotic damage to your melee attacks.
-- Your final melee attack damage is now exceptionally high, scaling with the Great Weapon Master toggle, *Hex*, and your tripled CHA modifier (Pact Weapon damage, GWM, Lifedrinker).
-- If you took the Feat, use it to boost your CON to 22 or 24 (with Amulet) for massive health and concentration stability.
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull of the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Blackhole: Area-based suck-in that slows targets. Requires you to take the Astral Tadpole in Act 2; it sucks in 5 enemies, slows them, and can be recast for free.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: Priority power noted; you can force enemies to attack something else.
 
-## Act-by-Act Add-ons
+## Gameplay Tips and Tricks
+- How to play:
+  - Summon Shadow Blade with your bonus action and use your action for melee attacks.
+  - Increase psychic damage with Strange Conduit Ring and Resonance Stone (greatly impacts Shadow Blade attack damage).
+  - Hexblade’s Curse targets after Shadow Blade is summoned for extra damage.
+  - Boost overall Charisma to increase damage of spells and melee attacks.
+- General tips listed:
+  - Loot Everything: You will need a lot of gold to buy consumables, potions, and ammunition so loot and sell constantly.
+  - Crafting: Elixirs and potions are vital, and you need to purchase materials when trading for crafting.
+  - Reach Level 6: Spend the early part of the game completing every quest to reach level 6 where your power dramatically increases.
+  - Sell Often: Your carrying capacity will be limited so sell often, and store excessive items in your traveler’s chest.
+  - Stealth: Start combat in stealth if at all possible to trigger the Surprise status effect.
+  - Consider Illithid Powers: While it can come with an altered appearance, the powers are powerful and can help you.
+  - Oils + Elixiris: Combine both oils/coatings and elixirs during combat for a dual benefit.
+  - Persuasion: Try to avoid combat through dialogue if possible.
+- Best tip called out:
+  - Take Devil’s Sight and combo it with Darkness for a protective bubble that will allow you to attack inside.
+  - Pair Shadow Blade with the Resonance Stone to double your melee damage.
 
-### Act 1 — Best gear
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| Head | Haste Helm | Gain Momentum (+3m movement) for the first three turns of combat. | Chest near the Myconid Colony entrance in the Underdark. |
-| Cloak | Cloak of Protection | Grants +1 AC and +1 to all Saving Throws. | Sold by Quartermaster Talli at Last Light Inn (Act 2 location listed in source's Act 1 table). |
-| Gloves | Gloves of the Duellist | Unarmed attacks deal extra Force damage and increase Attack/Damage rolls. | Sold by Quartermaster Talli at Last Light Inn (Act 2 location listed in source's Act 1 table). |
-| Boots | Boots of Genial Striding | Allows you to ignore difficult terrain. | Can be purchased from the Thayan Trader in the Blighted Village. |
-| Amulet | Amulet of Misty Step | Grants the *Misty Step* spell for easy repositioning. | Chest in the Defiled Temple (Goblin Camp). |
-| Rings | Ring of Protection | Grants +1 AC and +1 to all Saving Throws. | Reward for completing the Teahouse Quest. |
-| Weapon | Sword of Chaos | Heals the wielder on a critical hit. | Sold by Dammon in the Druid Grove or acquired from the Blighted Village area. |
-| Two-Hander | Soulbreaker Greatsword | Grants Advantage on Intelligence saving throws. | Looted from Commander Zhalk in the Nautiloid ship. |
-| Ranged | Titanstring Bow | Adds your Strength modifier to the weapon's damage. | Sold by Brem in the Zhentarim Hideout. |
+## Alternative Build Route
+- Hexblade Level 1 dip:
+  - Shields, Medium Armour, Martial Weapons, Bind Hexed Weapon, Hexblade Curse.
+  - Lets you bind your weapon (two-handed typically) and use Charisma as your damage dealing stat rather than Strength or Dexterity.
+  - Noted as a level 1 dip for every Charisma build (Bard, Paladin, Sorcerer).
+- Hexblade Level 2 dip:
+  - Eldritch Invocations: Devil’s Sight and One With Shadows.
+  - Devil’s Sight: cast Darkness on top of yourself and still see through it; helpful with Shadow Blade giving you advantage while obscured.
+  - One with Shadows: stealth while not moving in dark areas.
+- Hexblade + Sorcerer:
+  - Advantage of a 1 Hexblade dip is bonus action utility (Hexblade Curse) and Bind Hexed Weapon; you can use the Sorc as a melee and medium armour user.
+- Hexblade + Paladin:
+  - Pick up Paladin if you want Divine Smites; massive burst damage with Paladin’s spell slots.
+- Hexblade + Bard:
+  - Useful for more utility with Bardic Inspiration.
 
-### Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| Head | Helm of Balduran | Heals 2 HP per turn and grants +1 to Spell Save DC and Attack Rolls. | Found in the Dragon's Sanctum (Act 3 location listed in source's Act 2 table). |
-| Chest | Adamantine Scale Mail | Reduces all incoming damage by 1 and sends enemies back upon a critical hit. | Crafted in the Adamantine Forge (Underdark). |
-| Gloves | Gloves of the Automaton | Grants Advantage on Attack Rolls if you are taking lightning damage. | Found in the basement of the Iron Throne (Act 3 location listed in source's Act 2 table). |
-| Boots | Boots of Speed | Grants the *Click Heels* bonus action for massive movement. | Purchased from Thulla in the Myconid Colony (Underdark). |
-| Amulet | Amulet of Greater Health | Sets your Constitution score to 23. | Found in the House of Hope (Act 3 location listed in source's Act 2 table). |
-| Rings | Killer's Sweetheart | Once per Long Rest, after killing an enemy, your next Attack Roll is a guaranteed Critical Hit. | Reward for the Gauntlet of Shar. |
-| Weapon | Flail of the Mighty | Grants Advantage on Attack Rolls if you are taking lightning damage. | Found in the basement of the Iron Throne (Act 3 location listed in source's Act 2 table). |
-| Cloak | Cloak of Protection | Grants +1 AC and +1 to all Saving Throws. | Sold by Quartermaster Talli at Last Light Inn. |
+## Patch Changes
 
-### Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| Head | Helldusk Helmet | Cannot be critically hit, grants immunity to Burning, and an Infernal Touch bonus. | Dropped by a specific enemy. |
-| Cloak | Mantle of the Blade | Grants Advantage on Attack Rolls if you are taking lightning damage. | Found in the basement of the Iron Throne. |
-| Boots | Helldusk Boots | Grants immunity to forced movement and a free action to jump. | Found in a specific area. |
-| Rings | Ring of the Duellist | Increases your Spell Save DC by 1. | Sold by vendors. |
-| Weapon | Soul-Catching Blade | Heals and grants Advantage on Attack Rolls if you are taking lightning damage. | Found in the basement of the Iron Throne. |
-| Amulet | Amulet of Greater Health | Sets your Constitution score to 23 (Greatly improves health and Concentration saves). | Found in the House of Hope. |
-| Head | Helm of Balduran | Heals 2 HP per turn and grants +1 to Spell Save DC and Attack Rolls. | Found in the Dragon's Sanctum. |
-
-## Permanent bonuses (by Act)
-- **Act 1**
-  - **Auntie Ethel's Hair** — Grants +1 to any ability score (use on CHA).
-  - **Volo's Ersatz Eye** — Grants permanent +1 to Perception checks.
-- **Act 2**
-  - **Potion of Everlasting Vigor** — Grants a permanent +2 to Strength.
-  - **Mirror of Loss** — Grants a permanent +2 to an ability score (use on CHA to reach 22).
-- **Act 3**
-  - (Not specified in source)
-
-## Best consumables / items (single-use)
-Consumables are essential for difficult encounters, allowing you to maximize your limited high-level resources.
-
-- **Elixir of Bloodlust** — *Grants a powerful resource refresh on enemy kill.*
-  - **What it does:** Once per turn on a kill, gain 5 temporary HP and an additional action.
-  - **Why it's strong:** The Hexblade focuses on maximizing attacks and generating burst turns; this grants an extra action, allowing you to attack three times, reposition, or cast a control spell.
-  - **When to use:** Use in any combat where you anticipate multiple kills, especially against groups of weaker enemies preceding a boss.
-
-- **Potion of Speed** — *The single best consumable for burst damage.*
-  - **What it does:** Grants an extra action, +2 AC, advantage on Dexterity saves, and doubles movement for the turn.
-  - **Why it's strong:** Combining this with the Pact Weapon's Extra Attack gives you four main weapon attacks (or two attacks + a high-level spell) in a single turn.
-  - **When to use:** Reserve for boss fights, major area clearing, or when you absolutely must defeat a target in a single turn.
-
-- **Elixir of Hill Giant Strength** — *A strong option if you are a Githyanki or want maximum Titanstring Bow damage.*
-  - **What it does:** Sets your Strength score to **21** (until Long Rest).
-  - **Why it's strong:** While your melee attack rolls use CHA, this allows you to benefit fully from the *Titanstring Bow* (if used) and helps with Athletics checks/jumps.
-  - **When to use:** Useful if you need to carry heavy gear, or if your build is using a weapon that still relies on Strength for its attack roll (before Pact Weapon is active or for utility).
-
-- **Oil of Accuracy** — *Increases your chance to hit when you need it most.*
-  - **What it does:** Weapon coating that grants a permanent **+2 Attack Rolls** until your next Long Rest.
-  - **Why it's strong:** Stacks with Advantage and helps offset the -5 Attack Roll penalty from **Great Weapon Master** (GWM).
-  - **When to use:** Apply at the start of a difficult area or before entering a high-stakes fight where every attack needs to land.
-
-## Optional: Illithid powers (if using tadpoles)
-The Hexblade benefits significantly from tadpole powers that offer critical hit boosts, resource-free crowd control, or immediate defensive reactions.
-
-- **Luck of the Far Realms** — *Transforms damage into assured critical hits.*
-  - **What it does:** Allows you to use a reaction to turn any successful attack roll into a Critical Hit.
-  - **Why it synergizes:** As a GWM Hexblade, your entire build focuses on landing high-damage critical hits and attacks. Using this on a crucial final attack roll for a GWM kill ensures the enemy is deleted, often triggering a GWM bonus action attack.
-
-- **Cull of the Weak** — *A free source of reliable area damage.*
-  - **What it does:** Executes low-HP enemies upon a successful attack; nearby creatures take Psychic damage.
-  - **Why it synergizes:** You deal massive single-target damage with your Pact Weapon. This ensures that you don't waste damage on targets near death, and the resulting chain damage helps clear clustered enemies.
-
-- **Psionic Backlash** — *Resource-free reaction defense.*
-  - **What it does:** Deals Psychic damage to an enemy when they cast a spell against you.
-  - **Why it synergizes:** Provides a powerful, reliable reaction option that Warlocks generally lack, punishing enemy spellcasters for targeting you.
-
-- **Blackhole** — *Massive, concentration-free area control.*
-  - **What it does:** Pulls all creatures into a central point and slows them.
-  - **Why it synergizes:** Allows you to set up devastating area-of-effect spells (*Hunger of Hadar*, *Synaptic Static*) or simply gather enemies for a massive cleave attack.
-
-## Optional: Alternative build route (from the guide)
-- **Warlock (10) / Fighter (2)**
-  - This route sacrifices the final Feat and the *Lifedrinker* Invocation (Level 12 Warlock features).
-  - **GAIN:** Action Surge (an extra full action once per Short Rest) and the Great Weapon Fighting Style.
-  - **Why it's good:** The burst potential is higher due to Action Surge, which can be used alongside a Potion of Speed for an unprecedented number of attacks in a single turn. The **Great Weapon Fighting** style also slightly increases damage consistency.
+### Patch 8
+- Introduced the long-awaited Hexblade subclass and the Booming Blade cantrip.
+- The guide notes a “major evolution” for Warlock with a seamless fusion of spellcasting and melee combat, enabling Warlocks to dominate in close-quarters fights while keeping Charisma as the core stat.
+- Patch 8 impact highlighted: Hexblade sub-class, Booming Blade cantrip, and Shadow Blade spell combine to form a powerful pure melee build that also has wide spell applications.
