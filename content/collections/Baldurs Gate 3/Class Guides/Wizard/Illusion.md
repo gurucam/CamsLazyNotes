@@ -1,288 +1,502 @@
-# Illusion Wizard Build (Patch 8)
+# Illusion Wizard Build (Wizard: Illusion School)
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Wizard 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+Source: :contentReference[oaicite:0]{index=0}
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Fantasy / flavor
-- A **master of deception**, using the largest spell list in the game to manipulate the battlefield, confuse enemies, and deliver massive area-of-effect (AoE) damage from a safe distance.
-- Plays like an **omnipotent control specialist**: You dictate the pace of every fight by taking the first turn and shutting down or repositioning priority targets before they can act.
-- Your power comes from spell slot management and excellent positioning. You trade frontline durability for unmatched versatility in utility, control, and blast power.
+## Build Snapshot
 
-### Core playstyle in one sentence
-- Master the largest spell list in the game to control encounters, manipulate enemies with deception, and drop powerful area-of-effect damage from a safe distance.
+### Fantasy / Flavor
+- A master of deception, using magic to create illusions that confuse, distract, and control foes.
+- Specializes in illusion magic that manipulates perceptions and senses.
+- Uses misdirection and subterfuge to confound and confuse enemies.
 
-### Party role
-- **Backline Controller/Blaster:** Unmatched utility and AoE damage potential, prioritizing locking down the majority of enemies to allow allies to clean up threats.
+### Core Playstyle
+- Area-of-effect spells, utility, and control with illusion-style gameplay.
 
-## Character creation
+### Party Role
+- Ranged-focused build that applies pressure, snaring, and debuffing the opposition.
+- Area damage, utility, and control.
+- Stays at distance while melee companions engage.
 
-### Race
-- **High Elf**
-  - **Why:** The single best choice for a Wizard, granting you a free, extra **Cantrip** which you can use to supplement your existing list. They also gain **Proficiency in Longswords**, which is useful for utility if you plan to use armor via multiclassing or feats.
+### Pros
+- Spellcasting prowess and unmatched versatility.
+- Access to the largest spell list in the game.
+- Excels in area-of-effect spells, utility, and control.
 
-### Background
-- **Sage**
-  - **Why:** Adds Proficiency in **Arcana** and **History**. These are both Intelligence-based skills, ensuring you leverage your primary stat for the most important knowledge checks in the game.
+### Cons
+- May require careful planning and preparation.
+- Expect a slow start until you reach level 5.
+- Friendly fire with area spells (aim appropriately or companions will die).
 
-### Skills
-- **Arcana** (From Sage)
-- **Investigation**
-- **Why:** These skills maximize the benefit of your high Intelligence score, ensuring you succeed at critical checks and find hidden objects.
+### Power Spikes
+- Level 5: Fireball & Counterspell; Wizards become much more powerful at level 5.
+- Level 8: Magic Initiate Warlock (Eldritch Blast) for a lot of power.
+- Level 10: Illusory Self (defensive subclass feature).
+- Level 11: Level 6 spells (Disintegrate / Chain Lighting) and staff consideration for free casts.
 
-### Level 1 Ability Scores (Start)
-| Stat | Value | Rationale |
-| :--- | :---: | :--- |
-| **STR** | 8 | Dump stat, not needed for spellcasting. |
-| **DEX** | 14 | Improves Initiative, AC, and Dexterity Saves. |
-| **CON** | 15 | Vital for HP and maintaining **Concentration** on spells. |
-| **INT** | 17 | **Primary Stat.** Sets your Spell Save DC and Spell Attack rolls. |
-| **WIS** | 10 | Neutral; avoids penalties on common Perception/Insight checks. |
-| **CHA** | 8 | Dump stat. |
+## Character Creation
+- Race: High Half-Elf
+- Class: Wizard
+- Subclass: Illusion
+- Background: Sage
+- Ability Scores: STR 8, DEX 16, CON 14, INT 16, WIS 10, CHA 10
+- Proficiencies: Investigation and Religion
 
-## Level-by-level progression (Wizard 1 → 12)
+## Level Progression
 
 ### Level 1
-#### GAIN
-- Wizard Class (Learning Spells, Spell Slots, Arcane Recovery)
-- Spell Slots: 2x Lvl 1
-- Spells: **Magic Missile**, **Shield**, **Longstrider**, **Fog Cloud**, **Minor Illusion** (Cantrip), **Ray of Frost** (Cantrip)
-
-#### PLAY STYLE (LEVEL 1)
-- **Prioritize:** Utility and control cantrips, especially **Minor Illusion**, to manipulate enemy positioning or distract guards.
-- **Typical Turn:** Use **Magic Missile** to guarantee damage against high-AC targets, or apply **Longstrider** to your party before combat.
-- **Spend Resources:** Conserve your two Lvl 1 slots for **Shield** (reaction) when you are about to be hit, or **Sleep** if you need to shut down a group of enemies immediately.
+- Gain:
+  - Cantrips: Fire Bolt, Light, Minor Illusion, Mage Hand
+  - Spells learned: Mage Armour, Magic Missile, Grease, Thunderwave, Chromatic Orb, Shield
+  - Arcane Recovery (class feature): recover two spell slots (either two level 1 spells or one level 2 spell)
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+- Play Style:
+  - Notes:
+    - Always use Mage Armour immediately following every long rest (boosts Armour Class to 16; with a shield you’ll reach 18 AC if your race can equip a shield).
+    - Gameplay revolves around Magic Missile for single-target damage, Grease with Fire Bolt for area damage, and Thunderwave for knockback.
+    - Focus on crowd control (Sleep, Grease, and Fire Bolt combination), Thunderwave as a knockout, and Chromatic Orb for stuns (Ice can knock enemies prone).
 
 ### Level 2
-#### GAIN
-- Subclass Unlocked: **School of Illusion**
-- Subclass Feature: **Improved Minor Illusion** (You can cast a second illusion without using an action)
-- New Spells: **Grease**, **Mirror Image** (if desired)
-
-#### PLAY STYLE (LEVEL 2)
-- **Prioritize:** Leveraging **Improved Minor Illusion** to effectively draw targets into a specific area, setting up control spells or AoE damage from allies.
-- **Typical Turn:** Cast **Grease** to create a difficult and hazardous surface, then use your enhanced cantrip to lure enemies into it.
-- **Spend Resources:** Use **Grease** or **Sleep** to immediately neutralize crowds of low-HP targets. This is your primary control tool until Lvl 5.
+- Gain:
+  - Subclass: Illusion
+  - Illusion Savant (subclass feature): Learning Illusion spells from scrolls costs half as much, becoming 25 gold pieces per spell level.
+  - Improved Minor Illusion (subclass feature): Cast Minor Illusion as a bonus action; remain hidden while casting; can be cast while Silenced.
+  - Spells learned: Disguise Self, Find Familiar
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Chromatic Orb
+- Play Style:
+  - Notes:
+    - Improved Minor Illusion can be used as a bonus action (18m range) and cast while silent; a distraction tool inside/outside combat to manipulate NPCs.
+    - Stay hidden when exploring dangerous areas and cast Improved Minor Illusion from stealth to avoid detection.
+    - Utility spells (Disguise Self, Find Familiar) are useful to prepare outside combat; before battle, change prepared spells to a combat-focused loadout (prepare Chromatic Orb).
 
 ### Level 3
-#### GAIN
-- Level 2 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 2x Lvl 2
-- New Spells: **Web**, **Misty Step** (if desired, or through gear)
-
-#### PLAY STYLE (LEVEL 3)
-- **Prioritize:** Setting up **Web** as your main concentration spell, which can lock down multiple enemies and creates a dangerous surface.
-- **Typical Turn:** Cast **Web** to control a large area. If enemies close the distance, use the **Misty Step** from your class or gear to reposition to safety.
-- **Spend Resources:** Use Lvl 2 slots for **Web** in every major encounter. If you are taking too much damage, **Mirror Image** is critical for survivability.
+- Gain:
+  - Spells learned: Invisibility, Scorching Ray
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+- Play Style:
+  - Notes:
+    - Scorching Ray is long ranged damage that allows you to pick up to three targets (a higher-powered Magic Missile with fire elemental damage).
+    - Invisibility is useful inside and outside of combat; can be used defensively to escape, reposition, and heal.
 
 ### Level 4
-#### GAIN
-- **Feat** (Take **War Caster**)
-- New Cantrip
-- Spell Slots: 4x Lvl 1, 3x Lvl 2
-- New Spells: **Scorching Ray**, **Blur**
-
-#### PLAY STYLE (LEVEL 4)
-- **Prioritize:** Maintaining concentration on **Web** or **Blur**. **War Caster** makes this much easier by granting advantage on Concentration Saves.
-- **Typical Turn:** Focus on keeping a powerful concentration spell active. Use your action for low-cost, high-impact blasts like **Scorching Ray** when control is established.
-- **Spend Resources:** Now that concentration is more secure, you can use your Lvl 2 slots aggressively on control, knowing that War Caster will protect you.
+- Gain:
+  - Cantrip learned: Blade Ward
+  - Spells learned: Misty Step, Mirror Image
+  - Feat: Ability Improvement (+2 Intelligence)
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+- Play Style:
+  - Notes:
+    - Misty Step is a mobility tool (bonus action) that can be combined with an action per turn; offensively and defensively.
+    - Mirror Image and Blade Ward are defensive; Mirror Image can carry survivability when pressured by weapon-based users.
+    - Consider Hold Person over Sleep at this level for a powerful single target crowd control.
 
 ### Level 5
-#### GAIN
-- Level 3 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 2x Lvl 3
-- New Spells: **Hypnotic Pattern**, **Fireball**, **Counterspell**
-
-#### PLAY STYLE (LEVEL 5)
-- **Prioritize:** This is a massive power spike. Your first turn should be spent casting **Hypnotic Pattern** to shut down entire encounters with a single spell.
-- **Typical Turn:** Cast **Hypnotic Pattern** or **Fireball** to completely shift the fight's momentum. Use **Counterspell** as a reaction to stop enemy casters from disrupting your plan.
-- **Spend Resources:** Lvl 3 slots are reserved for **Hypnotic Pattern** (control) or **Fireball** (AoE damage). Do not conserve these slots in difficult fights.
+- Gain:
+  - Spells learned: Fireball, Counterspell
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+  - Fireball
+  - Counterspell
+- Play Style:
+  - Notes:
+    - Drop Chromatic Orb from prepared spells and pick up Fireball as the major area-based damage spell.
+    - Fireball has friendly fire (aim appropriately or your companions will die).
+    - Counterspell helps shut down enemy spell casters; counter incoming crowd control spells like Command or Hold Person.
+    - If you struggle with survival, drop a spell for Mirror Image.
 
 ### Level 6
-#### GAIN
-- Subclass Feature: **Malleable Illusion** (Change the nature of an existing illusion)
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3
-- New Spells: **Haste** (Scrolls/Gears recommended), **Remove Curse**
-
-#### PLAY STYLE (LEVEL 6)
-- **Prioritize:** Using **Malleable Illusion** for strategic flexibility. You can move your **Minor Illusion** to maintain enemy confusion without having to recast.
-- **Typical Turn:** Maintain concentration on a control spell like **Web** or **Hypnotic Pattern**. Use your action to fire off a cantrip or support with a Lvl 1/2 spell.
-- **Spend Resources:** Use your added Lvl 3 slot for an extra **Fireball** or to prepare two major control spells in one long rest.
+- Gain:
+  - Subclass feature: See Invisibility (Become able to see Invisible creatures, and possibly reveal them to others.)
+  - Spells learned: Fear, Hold Person
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+  - Fireball
+  - Counterspell
+  - Fear
+- Play Style:
+  - Notes:
+    - Fear is a very powerful crowd control ability due to enemies dropping their weapons (useful for various Githyanki Warrior fights).
+    - Hold Person is better for single-target spell casters that need to be shut down.
+    - Ending Act 1 note: visit merchants and stock up on camp and alchemy supplies; look over the best Act 1 items; get the available permanent bonuses in Act 1; craft Grymforge items (Adamantine) before transitioning to Act 2 because you won’t be able to come back to this map.
 
 ### Level 7
-#### GAIN
-- Level 4 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 1x Lvl 4
-- New Spells: **Confusion**, **Banishment**
-
-#### PLAY STYLE (LEVEL 7)
-- **Prioritize:** **Confusion** is your main control upgrade against targets that may resist **Hypnotic Pattern** (such as high-Wisdom enemies). **Banishment** is excellent for removing a single priority target.
-- **Typical Turn:** If facing a strong boss, use **Banishment** to remove them temporarily. Clean up the smaller threats, then prepare for the boss's return.
-- **Spend Resources:** Lvl 4 slots are for either mass control (**Confusion**) or single-target removal (**Banishment**).
+- Gain:
+  - Spells learned: Greater Invisibility, Blight
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+  - Fireball
+  - Counterspell
+  - Fear
+  - Greater Invisibility
+  - Blight
+- Play Style:
+  - Notes:
+    - Greater Invisibility allows you to drop Invisibility.
+    - Blight is a medium-range powerful single-target damage ability.
+    - Examine potential targets to see if they are resistance or weak to a certain element.
 
 ### Level 8
-#### GAIN
-- **Feat** (Take **Ability Improvement** to reach **INT 19**)
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 2x Lvl 4
-- New Spells: **Evard's Black Tentacles**, **Ice Storm**
-
-#### PLAY STYLE (LEVEL 8)
-- **Prioritize:** The INT boost dramatically improves your Spell Save DC, making your Illusion spells much harder to resist. Always focus on landing a strong control spell on your first turn.
-- **Typical Turn:** If enemies are clustered, **Evard's Black Tentacles** is a great follow-up control tool after an initial **Hypnotic Pattern** wears off.
-- **Spend Resources:** Use your two Lvl 4 slots to maintain battlefield dominance and ensure control is always active, either via **Banishment** or **Black Tentacles**.
+- Gain:
+  - Feat: Magic Initiate Warlock
+    - Cantrip: Eldritch Blast
+    - Spell: Friends
+    - Spell: Hellish Rebuke
+  - Spells learned: Ice Storm, Haste
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+  - Fireball
+  - Counterspell
+  - Fear
+  - Greater Invisibility
+  - Blight
+  - Haste
+- Play Style:
+  - Notes:
+    - Magic Initiate Warlock unlocks Eldritch Blast (force damage; becomes stronger the higher your level) and Hellish Rebuke (returns fire damage when being attacked).
+    - Ice Storm is a mega area-based ice spell to pair well with Fireball.
+    - Haste is a powerful buff spell giving an additional action; requires concentration; target becomes lethargic when the condition ends after 10 turns.
+    - Prepare Ice Storm and flex in Haste when necessary.
 
 ### Level 9
-#### GAIN
-- Level 5 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 2x Lvl 4, 1x Lvl 5
-- New Spells: **Wall of Stone**, **Cone of Cold**, **Cloudkill**
-
-#### PLAY STYLE (LEVEL 9)
-- **Prioritize:** **Wall of Stone** is an incredible utility spell for splitting the battlefield and creating cover for your party. It can turn difficult encounters into two manageable small fights.
-- **Typical Turn:** Start with a control spell, then use **Wall of Stone** to cordon off one group. If facing crowds, use **Cone of Cold** or **Cloudkill** as your new, high-damage AoE options.
-- **Spend Resources:** The Lvl 5 slot should be reserved for either **Wall of Stone** for its utility or a powerful AoE damage spell like **Cone of Cold**.
+- Gain:
+  - Spells learned: Seeming, Cone of Cold
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+  - Fireball
+  - Counterspell
+  - Fear
+  - Greater Invisibility
+  - Blight
+  - Haste
+  - Cone of Cold
+- Play Style:
+  - Notes:
+    - Seeming is typically used outside of combat; flex it in when you need it.
+    - Cone of Cold is a powerful area base spell that can be aimed and easier to avoid friendly damage yet still hit many targets.
 
 ### Level 10
-#### GAIN
-- Subclass Feature: **Illusory Self** (Reaction to negate an attack)
-- New Cantrip
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 3x Lvl 4, 2x Lvl 5
-- New Spells: **Telekinesis**, **Hold Monster**
-
-#### PLAY STYLE (LEVEL 10)
-- **Prioritize:** **Illusory Self** makes you incredibly survivable. Use it only on critical hits or attacks that would break your concentration on a vital spell.
-- **Typical Turn:** With this new safety net, you can position slightly more aggressively for better AoE spell placement. Your main goal remains: land the first control spell.
-- **Spend Resources:** Use your additional Lvl 5 slot for high-value spells like **Hold Monster** on a single difficult boss or to set up a field-splitting **Wall of Stone**.
+- Gain:
+  - Cantrip learned: Dancing Lights
+  - Spells learned: Cloudkill, Grant Flight
+  - Subclass feature: Illusory Self (When attacked, magically fashion an illusory duplicate so your foe automatically misses that attack.)
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+  - Fireball
+  - Counterspell
+  - Fear
+  - Greater Invisibility
+  - Blight
+  - Haste
+  - Cone of Cold
+  - Cloudkill
+- Play Style:
+  - Notes:
+    - Illusory Self uses a reaction when you are attacked; helpful for survival.
+    - Cloudkill is a powerful area-based spell that can do damage to your own party; you can reposition the cloud every turn.
+    - Grant Flight is helpful inside and outside of combat for traversing terrain effortlessly.
 
 ### Level 11
-#### GAIN
-- Level 6 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 3x Lvl 4, 2x Lvl 5, 1x Lvl 6
-- New Spells: **Disintegrate**, **Globe of Invulnerability**
-
-#### PLAY STYLE (LEVEL 11)
-- **Prioritize:** **Disintegrate** is the go-to single-target nuke for finishing high-HP enemies or bosses. **Globe of Invulnerability** is a fantastic defensive tool.
-- **Typical Turn:** Cast **Globe of Invulnerability** on the party when facing enemy casters who rely on AoE. This allows your party to focus purely on offense while immune to damage.
-- **Spend Resources:** The single Lvl 6 slot is either for a defensive countermeasure (**Globe**) or a fight-ending blast (**Disintegrate**).
+- Gain:
+  - Spells learned: Disintegrate, Chain Lighting
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+  - Fireball
+  - Counterspell
+  - Fear
+  - Greater Invisibility
+  - Blight
+  - Haste
+  - Cone of Cold
+  - Cloudkill
+  - Disintegrate
+- Play Style:
+  - Notes:
+    - You will only get one level 6 spell slot unless you pick one of two Quarterstaffs: Staff of Spellpower or Markoheshkir (each has a passive that forgoes one spell slot and gives a free cast).
+    - Disintegrate is the go-to powerful single target spell; Chain Lighting works better on multiple enemies (3+).
 
 ### Level 12
-#### GAIN
-- **Feat** (Take **Ability Improvement** to reach **INT 20**)
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 3x Lvl 4, 2x Lvl 5, 1x Lvl 6
-- New Spells: **Mass Suggestion**, **Otiluke's Resilient Sphere**
+- Gain:
+  - Spells learned: Conjure Elemental, Conjure Minor Elemental
+  - Feat: Ability Improvement (+2 Intelligence)
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Grease
+  - Thunderwave
+  - Scorching Ray
+  - Misty Step
+  - Invisibility
+  - Fireball
+  - Counterspell
+  - Fear
+  - Greater Invisibility
+  - Blight
+  - Haste
+  - Cone of Cold
+  - Cloudkill
+  - Disintegration
+  - Chain Lighting
+  - Conjure Elemental
+  - Conjure Minor Elemental
+- Play Style:
+  - Notes:
+    - Conjure Elemental and Conjure Minor Elemental “stack”: drop Haste, prepare both spells, cast them outside of combat, and have two powerful summons aiding you in combat.
+    - These summons last until a long rest.
 
-#### PLAY STYLE (LEVEL 12)
-- **Prioritize:** With INT 20, you have maximized your Spell Save DC, making your control spells almost impossible to resist.
-- **Typical Turn:** Maintain control spells and use your remaining spell slots for high-level damage or reaction spells like **Counterspell**.
-- **Spend Resources:** **Mass Suggestion** is a powerful utility option that can end entire encounters before they begin.
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Circlet of Blasting | Free Scorching Ray | Sold by Blurg in the Myconid Colony (Alternative Haste Helm). |
+| Chest | The Protecty Sparkswall | +1 Spell Saves | Looted in Gilded Chest in Grymforge X: -645 Y: 360 (Alternative Poisoner’s Robe). |
+| Gloves | Gloves of Cinder and Sizzle | Free Scorching Ray | Sold by Lady Esther at Rosymorn Monastery Trail (Alternative Gloves of Missile Snaring, or Gloves of Hail of Thorns). |
+| Boots | Disintegrating Night Walkers | Mobility & Misty Step | Found in Underdark from Ne’re NPC (Alternative Cinder Shoes or Boots of Speed). |
+| Necklace | Amulet of Misty Step | Free Misty Step | Found in a Gilded Chest (X386 Y8) in Defiled Temple (Alternative Moondrop Pendant). |
+| Ring | Ring of Absolute Force | Free Thunderwave | Dropped by Sergeant Thrinn in Grymforge (Alternative Ring of Colour Spray). |
+| Ring | Fetish of Callarduran Smoothhands | Free Invisibility | Found in Grymforge Abandoned Refuge (Alternatives The Sparkswall, or Sunwalker’s Gift if Human). |
+| Weapon 1 Main Hand | Melf’s First Staff | Free Acid Arrow | Sold by Blurg in the Myconid Colony (Alternatives The Spellsparkler, or Staff of Crones). |
+| Weapon 1 Off-Hand | Adamantine Shield | +2 AC (Half-Elf or Human) | Complete the Adamantine Forge Quest in Grymforge (Alternatives Glowing Shield, or Wood Woad Shield). |
+| Weapon 2 Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum (use it even without proficiency for extra initiative). |
 
-## Act-by-Act Add-ons
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Necklace | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 (Alternative Amulet of Greater Health). |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
+| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Drop by Fist Marcus at the Last Light Inn (Alternative Ring Of Regeneration, or Crypt Lord Ring). |
+| Weapon 2 Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 (Alternative Gontr legendary bow). |
 
-### Act 1 — Best gear
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Hood of the Weave | +2 Spell Save & Roll | Sold by Mystic Carrion in Philgrave’s Mansion during Act 3 (Alternative Helldusk Helmet, or Mask of Soul Perception). |
+| Cape | Cloak of the Weave | +1 Spell Save & Roll | Sold by Helsik at the Devil’s Fee (Alternative Cloak of Protection). |
+| Chest | Robe of the Weave | +2 AC, Saving Throw | At Ramazith’s Tower (Alternative Helldusk Armour, or Robe of Supreme Defences). |
+| Gloves | Quickspell Gloves | Cantrips Bonus Action | Purchased at Lorroakan’s Projection at Sorcerors’s Sundries (Alternative Helldusk Gloves, or Gemini Gloves). |
+| Boots | Helldusk Boots | Mobility & Hellcrawler | Gilded Chest on the top floor of Wyrm’s Rock Fortress (Alternative Disintegrating Night Walkers). |
+| Necklace | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 (Alternative Amulet of Greater Health). |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
+| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Drop by Fist Marcus at the Last Light Inn (Alternative Ring Of Regeneration, or Crypt Lord Ring). |
+| Weapon 1 Main Hand | Markoheshkir | Free Spells, +1 Roll | At Ramazith’s Tower (Alternatives Staff of Spellpower, or Incandescent Staff). |
+| Weapon 1 Off-Hand | Viconia’s Walking Fortress | If Human/Half-Elf | Looted from Viconia DeVir during Shadowheart’s companion quest (Alternative Shield of Devotion). |
+| Weapon 2 Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 (Alternative Gontr legendary bow). |
 
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | **Warped Headband of Intellect** | Sets INT to 17, allowing you to prioritize CON/DEX at character creation. | Found on **Lump the Enlightened** (Goblin Camp). |
-| **Weapon** | **Spellsparkler** | A staff that generates Lightning Charges upon casting spells, adding extra damage to your next attack/spell. | Reward from saving **Nere** in the Underdark (Quest: **Deliver Nere's Head**). |
-| **Ring** | **The Whispering Promise** | Grants **Bless** (1d4 to Attack Rolls/Saves) when you heal an ally. | Vendor: **Vollo** (Goblin Camp) or **Grat** (Goblin Camp). |
-| **Gloves** | **Gloves of Cinder and Sizzle** | Adds 1d4 Fire damage to your spell attacks. | Vendor: **Grizzly** (Goblin Camp). |
-| **Boots** | **Boots of Striding** | Prevents forced movement and grants **Momentum** after casting a spell. | Found in **Grymforge** on the **Nere** side quest. |
+## Features and Mechanics
+- Primary Ability: Intelligence
+- Saving Throws: Intelligence and Wisdom
+- Subclass: Illusion School
+- Armour Proficiency: None
+- Weapon Proficiency: Quarterstaves, Light Crossbows, Dagger
+- Preferred Armor: Clothing
+- Preferred Weapon: Quarterstaff
+- Illusion Savant: Learning Illusion spells from scrolls costs half as much, becoming 25 gold pieces per spell level.
+- Improved Minor Illusion: Cast Minor Illusion as a bonus action; remain hidden while casting; can be cast while Silenced.
+- Arcane Recovery: Replenish spell slots while out of combat.
+- Prepared Spells: allows you to swap in and out spells that you’ve learned in your spell book.
+- Concentration: spells that require you to focus which can be interrupted; you can only have one active at a time.
 
-### Act 2 — Best gear
+## Subclass Options
+### Illusion School Features
+- Illusion Savant (Level 2) – Learning Illusion spells from scrolls costs half as much, becoming 25 gold pieces per spell level.
+- Improved Minor Illusion (Level 2) – You can cast Minor Illusion as a bonus action. You can remain hidden while casting this spell. This spell can be cast while you are Silenced.
+- See Invisibility (Level 6) – Become able to see Invisible creatures, and possibly reveal them to others.
+- Illusory Self (Level 10) – You can magically fashion an illusory duplicate of yourself when attacked, causing your foe to automatically miss that attack.
 
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | **Circlet of Blasting** | Allows you to cast the Lvl 3 AoE spell **Scorching Ray** once per Long Rest. | Vendor: **Blurg** (Myconid Colony, Act 1, but still great in Act 2). |
-| **Cloak** | **Cloak of Protection** | +1 AC and +1 to all Saving Throws, improving overall durability. | Vendor: **Quartermaster Talli** (Last Light Inn). |
-| **Weapon** | **Staff of Arcane Blessing** | Allows you to cast **Bless** and adds 2d4 to Saving Throws and Attack Rolls. | Vendor: **Quartermaster Talli** (Last Light Inn). |
-| **Ring** | **Shadow-Cloaked Ring** | Grants +1 AC and +1 to all Saving Throws, stacking with Cloak of Protection. | Found on **Yurgir** (Gauntlet of Shar). |
-| **Amulet** | **Amulet of Greater Health** | Sets your CON to 23, dramatically improving your HP and Concentration Saves. | Found in the **House of Hope** (Act 3, but available through early access methods). |
+## Best Consumables
+- Potion of Greater Healing: 8d4 + 8 healing and removes burning.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Potion of Flying: 10 turns of flying.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Angelic Slumber: fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Elixir of Peerless Focus: gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Viciousness: increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Elixir of Universal Resistance: gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
-### Act 3 — Best gear
-
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | **Hood of the Weave** | **+2 to Spell Save DC** and **Spell Attack Rolls**, essential for maximizing control spells. | Found in **Mystic Carrion's** chest (Lower City Sewers). |
-| **Chest** | **Robe of the Weave** | +1 AC and **+1 to Spell Save DC** and **Spell Attack Rolls**, an excellent boost to your power. | Found in **Ramzith's Tower** (beneath Sorcerous Sundries). |
-| **Weapon** | **Markoheshkir** | Legendary Quarterstaff. **+1 Spell Save DC** and allows you to cast various utility spells, including **Kereska's Favour** for element damage. | Found in **Ramzith's Tower** (beneath Sorcerous Sundries). |
-| **Amulet** | **Amulet of Greater Health** | Sets your CON to 23, dramatically improving your HP and Concentration Saves. | Found in the **House of Hope** (Act 3, but available through early access methods). |
-| **Boots** | **Disintegrating Night Walkers** | Immunity to difficult terrain and the ability to cast **Misty Step** once per Short Rest. | Looted from **Grym** in the Gauntlet of Shar (Act 2). |
-
----
-
-## Permanent bonuses (by Act)
+## Permanent Bonuses
 
 ### Act 1
-- **Auntie Ethel's Hair**
-  - **Why:** +1 Ability Score to permanently increase your **Intelligence** to 18 (if you didn't take the headband) or **Constitution** for better Concentration Saves.
-- **Volos' Eye**
-  - **Why:** Allows you to see invisible creatures, a significant utility bonus that directly helps a caster avoid being surprised by stealth.
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Awakened: Use illithid powers as a Bonus Action.
+- Scratch: Gain Find Familiar Scratch.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Necromancy Of Thay: access to powerful spells in Act 3.
+- Volo’s Ersatz Eye: See Invisibility
 
 ### Act 2
-- **Wake Up (Necromancy of Thay)**
-  - **Why:** Grants +1 to Wisdom Saving Throws and Advantage on Death Saving Throws, providing a small but useful defensive boost to your caster.
+- Potion of Everlasting Vigour: Gain +2 Strength.
+- Summon Us: Allows you to summon Us.
 
 ### Act 3
-- **Mirror of Loss**
-  - **Why:** Allows for a +2 to an Ability Score of your choice (use on **Intelligence** for a potential score of 22) and permanently increases the saving throw of a skill.
+- Mirror of Loss – +2 to an Ability Score of your choice.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Sweet Stone Features: Blessed permanent.
+- Slayer Form: Ability to transform into the Slayer.
+- Statue of the Gods: +2 to Saving Throws
 
----
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull of the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Blackhole: Area-based suck-in that slows targets.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: This is the priority power you want to obtain because you can force enemies to attack something else.
+- Keep in mind: you make an important decision in Act 3 of the game to advance these powers or not; there will be consequences when taking these powers.
 
-# Best consumables / items (single-use)
+## Gameplay Tips and Tricks
+- Pre-Buff: Always cast Mage Armour following a long rest to maintain 16 or higher AC.
+- Bonus Action: Don’t forget your bonus action for a potion or Misty Step.
+- Use Environment: Combine a fire spell with Grease and coat the area with fire damage or water and electrical.
+- Knockback: Combine a big knockback with Misty Step and create distance whenever you can to survive.
+- Area Damage: Don’t hit allies with friendly fire and point or aim your spells to avoid allies.
+- Rest Constantly: Your spell slots will quickly run out after one or more fights, especially if challenging.
+- Positioning: Look to move back in distance and even use Hide to prevent damage from coming in.
+- Crowd Control: Make sure you focus on taking out the primary target with Sleep, Hold Person, or any other CC to limit potential damage.
+- Big Nuke: Typically, you want to fire off your big spells early to finish off targets before they can attack you.
+- Use Consumables: One of the best early consumables is the Potion of Speed for two actions per turn.
 
-- **Elixir of Vigilance**
-  - **What it does:** Grants **+5 Initiative** and prevents you from being **Surprised**.
-  - **Why it is strong for this build:** Going first is critical for a control caster. Landing the opening **Hypnotic Pattern** or **Web** before the enemy can act often ends the fight immediately.
-  - **When to use it:** Before every major fight, particularly in difficult encounters where the enemy threat is high (e.g., boss fights or ambushes).
+## Alternative Build Route
+For the alternative build, begin at Level 1 by selecting the Warlock class with the Hexblade subclass. This grants you Eldritch Blast and Booming Blade along with weapon and armor proficiencies, allowing you to equip more durable gear instead of relying solely on robes. If you continue wearing clothing, pick up Mage Armour at Level 3 for added protection. For this alternate build, use the Evocation subclass. The major sacrifice is that you will loose out on an additional feat at Level 12.
 
-- **Potion of Speed**
-  - **What it does:** Grants the status **Haste** for 1 turn, giving you an **extra action**, +2 AC, and advantage on Dexterity Saves.
-  - **Why it is strong for this build:** Allows for an incredible burst turn where you can drop a major control spell (like **Hypnotic Pattern**) AND follow it up with a high-damage AoE (like **Fireball**).
-  - **When to use it:** Essential for burst turns against bosses or when you absolutely must clear the field in a single round.
+Level Class Selection
+- 1 Warlock
+  - Subclass: Hexblade
+  - Eldritch Blast
+  - Booming Blade
+  - Hex
+  - Shield
+- 2 Wizard
+  - Firebolt
+  - Mage Hand
+  - Friends
+  - Chromatic Orb
+  - Magic Missile
+  - Longstrider
+  - Shield
+  - Thunderwave
+  - Find Familiar
+- 3 Wizard
+  - Subclass: Evocation
+  - Mage Armour
+  - Protection from Good and Evil
+- 4 Wizard
+  - Misty Step
+  - Scorching Ray
+- 5 Wizard
+  - Bursting Sinew
+  - Mirror Image
+  - Blur
+  - Feat: +2 Intelligence
+- 6 Wizard
+  - Fireball
+  - Counterspell
+- 7 Wizard
+  - Haste
+  - Glyph of Warding
+- 8 Wizard
+  - Conjure Minor Elemental
+  - Ice Storm
+- 9 Wizard
+  - Banishment
+  - Blight
+  - Shocking Grasp
+  - Feat: Spell Sniper
+- 10 Wizard
+  - Conjure Elemental
+  - Cone of Cold
+- 11 Wizard
+  - Toll of the Dead
+  - Hold Monster
+  - Confusion
+- 12 Wizard
+  - Disintegration
+  - Globe of Invulnerability
 
-- **Scroll of Protection from Evil and Good**
-  - **What it does:** Grants the target protection from Fiends, Undead, and Aberrations, giving these enemies disadvantage on attack rolls against the protected creature.
-  - **Why it is strong for this build:** You are the concentration caster. Applying this to yourself grants significant protection against attacks from affected creatures, helping you maintain a critical concentration spell.
-  - **When to use it:** Use immediately before or during fights against fiends, undead, or aberrations (common in Act 2 and 3).
+## Patch Changes
 
-- **Elixir of Battlemage’s Power**
-  - **What it does:** Grants advantage on Concentration checks (similar to War Caster) until the next Long Rest.
-  - **Why it is strong for this build:** Stacks with War Caster to make breaking your concentration nearly impossible, allowing you to secure the battlefield with powerful ongoing effects.
-  - **When to use it:** Before major dungeons or complex boss fights where you need to maintain a single, powerful concentration spell for the entire duration.
-
----
-
-## Optional: Illithid powers (if using tadpoles)
-
-- **Black Hole**
-  - **What the power does:** Creates a massive vacuum that pulls all nearby creatures together and slows them (Slowed).
-  - **Why it synergizes with the build:** This is the ultimate setup tool for an AoE caster. It clumps enemies into one tight group, guaranteeing that your **Fireball**, **Hypnotic Pattern**, or **Cone of Cold** hits the maximum number of targets.
-
-- **Luck of the Far Realms**
-  - **What the power does:** Allows you to turn a successful hit into a Critical Hit (once per Short Rest).
-  - **Why it synergizes with the build:** While primarily a martial power, it can be used to guarantee a critical hit on a powerful single-target spell like **Disintegrate** or an important **Scorching Ray** against a priority target, ensuring they are deleted immediately.
-
-- **Displacer Beast**
-  - **What the power does:** Allows you to transform into a Displacer Beast with a high temporary hit point buffer.
-  - **Why it synergizes with the build:** Provides a massive temporary hit point buffer, damage resistance, and mobility for a typically squishy caster. It serves as an excellent emergency "panic button" when you are overwhelmed or need to survive a sudden burst of damage.
-
----
-
-## Optional: Alternative build route (from the guide)
-
-- **Illusion Wizard (10) / Fighter (2)**
-  - If you want the ultimate burst damage and control potential, the guide suggests taking two levels of **Fighter** at the end. This grants you **Action Surge**, allowing you to cast two full-action spells in a single turn (e.g., **Hypnotic Pattern** followed by **Fireball**), which can completely end an encounter before the enemy acts. You sacrifice the final Feat/ASI and a handful of utility spells but gain unparalleled burst utility.
-
-- **Illusion Wizard (11) / Cleric (1)**
-  - Taking one level of **Life Cleric** (or a similar domain) grants you proficiency in **Heavy Armor** and **Shields** (depending on the domain), dramatically increasing your AC and durability, allowing you to focus on Constitution for better Concentration Saves. You sacrifice the final Feat/ASI but gain immense survivability without the need for the **Mage Armour** spell.
+### Patch 8
+- The most significant update to the Wizard class in Patch 8 is the introduction of the Bladesinging subclass and the Booming Blade cantrip.
+- These additions enable Wizards to perform effectively in melee combat, offering a more versatile and aggressive playstyle, at the cost of enhanced spellcasting capabilities supported by many of the more traditional Wizard subclasses.
+- A one-level dip into the Warlock’s Hexblade subclass provides valuable proficiencies and combat bonuses (outlined in the alternative build route).
