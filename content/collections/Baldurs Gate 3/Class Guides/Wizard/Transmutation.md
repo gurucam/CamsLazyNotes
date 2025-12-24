@@ -1,289 +1,512 @@
-# Transmutation Wizard Build (Patch 8)
+# Transmutation Wizard Build
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Wizard 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+Source: :contentReference[oaicite:0]{index=0}
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Fantasy / flavor
-- A **master of matter and energy**, specializing in powerful alteration magic to buff allies, debuff enemies, and control the flow of battle.
-- Plays like an **omniscient supporter/controller**: You focus on amplifying your party's strengths with key buffs like **Haste** and nullifying enemy threats with spells like **Polymorph**.
-- Your power comes from unparalleled utility and defensive capabilities, ensuring your team has every possible advantage in any encounter.
+## Build Snapshot
 
-### Core playstyle in one sentence
-- **Alter enemy and ally forms** to gain tactical advantages, specializing in powerful buffs like Haste and hard control like Polymorph to neutralize key threats.
+### Fantasy / Flavor
+- “The Transmutation subclass emphasizes the power to change matter and energy.”
+- “This build will use the utility of the subclass, with Wizard raw area-based damage.”
+- Transmutation Wizards are “masters of elemental magic,” using spells to “buff their allies, debuff their enemies, and create powerful effects on the battlefield.”
 
-### Party role
-- **Support/Controller:** Your primary role is to buff allies, debuff enemies, and control the flow of battle using concentration spells, while having high-level damage options in reserve.
+### Core Playstyle
+- Use Wizard spellcasting to damage enemies, control the battlefield, and buff allies, with Transmutation utility.
 
-## Character creation
+### Party Role
+- Ranged-focused spellcaster (damage and battlefield control).
+- Supportive spellcasting role (buff/debuff utility).
+- Provides summons and utility as spell slots expand.
 
-### Race
-- **High Elf**
-  - **Why:** The High Elf's ability to choose a free Cantrip (like **Fire Bolt**) provides valuable supplemental damage or utility early on. They also gain **Longsword Proficiency**.
+### Pros
+- Wide variety of spells for “damage enemies, control the battlefield, and buff their allies.”
+- Subclass utility features (Experimental Alchemy, Transmuter’s Stone, Shapechanger).
+- Strong power spike at level 5 with powerful spells.
 
-### Background
-- **Sage**
-  - **Why:** Grants Proficiency in **Arcana** and **History**, which utilize your primary Intelligence score for crucial knowledge checks.
+### Cons
+- “Wizards become much more powerful at level 5 but expect a slow start until you reach there.”
+- Friendly fire risk: “The downside of your subclass is that it has ‘friendly fire’” on area spells.
+- Experimental Alchemy “isn’t that helpful, due to the high 15 DC to craft another potion.”
 
-### Skills
-- **Arcana** (From Sage)
-- **Investigation**
-- **Why:** These are Intelligence-based skills that maximize the benefit of your primary stat, helping you discover secrets and information.
+### Power Spikes
+- Level 5: “Expect a big power spike at level 5.” (Fireball and Counterspell)
 
-### Level 1 Ability Scores (Start)
-| Stat | Value | Rationale |
-| :--- | :---: | :--- |
-| **STR** | 8 | Dump stat, not needed for spellcasting. |
-| **DEX** | 14 | Improves Initiative, AC, and Dexterity Saves. |
-| **CON** | 15 | Vital for maintaining **Concentration** on powerful buff and control spells, and for HP. |
-| **INT** | 17 | **Primary Stat.** Sets your Spell Save DC and Spell Attack rolls. |
-| **WIS** | 10 | Neutral; avoids penalties on common checks. |
-| **CHA** | 8 | Dump stat, not required for this build. |
+## Character Creation
+- Race: High Half-Elf
+- Class: Wizard
+- Subclass: Transmutation
+- Background: Sage
+- Ability Scores: STR 8, DEX 16, CON 14, INT 16, WIS 10, CHA 10
+- Proficiencies: Investigation and Religion
 
-## Level-by-level progression (Wizard 1 → 12)
+## Level Progression
 
 ### Level 1
-#### GAIN
-- Wizard Class (Learning Spells, Spell Slots, Arcane Recovery)
-- Spell Slots: 2x Lvl 1
-- Spells: **Magic Missile**, **Shield**, **Longstrider**, **Fog Cloud**
-- Cantrips: **Minor Illusion**, **Ray of Frost**
-
-#### PLAY STYLE (LEVEL 1)
-- **Prioritize:** Utility outside of combat, especially using **Longstrider** to permanently increase your party's movement.
-- **Typical Turn:** Use **Magic Missile** to guarantee damage against high-AC targets. Use **Fog Cloud** defensively for early cover.
-- **Spend Resources:** Conserve slots for **Shield** as a reaction to survive incoming damage.
+- Gain:
+  - Cantrips: Fire Bolt, Light, Blade Ward, Mage Hand
+  - Spells: Mage Armour, Magic Missile, Sleep, Thunderwave, Chromatic Orb, Shield
+  - Arcane Recovery: “you can recover two spell slots… either restore two level 1 spells or one level 2 spell.”
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Sleep
+  - Thunderwave
+- Play Style:
+  - Rotation:
+    - Turn 1: Use big spells early (the guide notes you “want to fire off your big spells early to finish off targets before they can attack you”).
+    - Turn 2+: Use single-target damage and crowd control as needed (single-target damage, stuns, knockback, area damage).
+  - Notes:
+    - “Use Mage Armour immediately following every long rest” to reach 16 AC; “if you can also equip a shield, you’ll reach 18 AC.”
+    - Gameplay revolves around “Magic Missile for single-target damage, Chromatic Orb for some area damage, Sleep and Thunderwave for crowd control.”
+    - Early priorities listed: “If human or Half-Elf, find and equip a shield”; “Quarterstaff with a free spell like Crones or Melf’s”; “Supplies for camps, alchemy material, and scrolls”; “Consume scrolls that have useful spells to learn them”; “Exchange spells and experiment…”
 
 ### Level 2
-#### GAIN
-- Subclass Unlocked: **School of Transmutation**
-- Subclass Feature: **Transmutation Savant** (Halves the cost to scribe Transmutation spells)
-- New Spells: **Grease**, **Chromatic Orb** (optional)
-
-#### PLAY STYLE (LEVEL 2)
-- **Prioritize:** Leveraging **Transmutation Savant** to cheaply add vital spells to your spellbook.
-- **Typical Turn:** Cast **Grease** to control enemy movement and create hazardous ground.
-- **Spend Resources:** Use **Chromatic Orb** for elemental damage early on or **Grease** to immediately halt a group of enemies.
+- Gain:
+  - Subclass: Transmutation School
+  - Spells: Grease, Find Familiar
+  - Subclass Feature: Experimental Alchemy
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Sleep
+  - Thunderwave
+  - Chromatic Orb
+- Play Style:
+  - Rotation:
+    - Turn 1: Use crowd control and area setup (Grease can combine with Fire Bolt to ignite a large area and “knock prone enemies”).
+    - Turn 2+: Use existing single-target and crowd control toolkit as needed.
+  - Notes:
+    - Grease + Fire Bolt interaction is called out as helpful for area fire and prone.
+    - Find Familiar is described as utility where “a small critter can enter areas your main character cannot.”
+    - Experimental Alchemy: “isn’t that helpful, due to the high 15 DC to craft another potion.”
 
 ### Level 3
-#### GAIN
-- Level 2 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 2x Lvl 2
-- New Spells: **Blindness**, **Enlarge/Reduce**
-
-#### PLAY STYLE (LEVEL 3)
-- **Prioritize:** Using **Enlarge/Reduce** as your first major buff/debuff. **Enlarge** on a martial ally, or **Reduce** on a powerful enemy.
-- **Typical Turn:** Cast **Blindness** to shut down a single threat and give allies advantage. Maintain concentration on **Enlarge/Reduce**.
-- **Spend Resources:** Use Lvl 2 slots for **Enlarge/Reduce** in important fights for its combat-altering effects.
+- Gain:
+  - Spells: Flaming Sphere, Hold Person
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Flaming Sphere
+  - Hold Person
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Flaming Sphere (summon) for damage and soaking hits (it “acts as a decoy and damage dealer”).
+    - Turn 2+: Use Hold Person for crowd control; adjust prepared spells as Sleep becomes less effective.
+  - Notes:
+    - Hold Person is described as powerful CC; “Sleep becomes less and less effective due to increased hit points.”
+    - The guide suggests “dropping Sleep and preparing both Hold Person and Flaming Sphere.”
 
 ### Level 4
-#### GAIN
-- **Feat** (Take **War Caster**)
-- New Cantrip
-- Spell Slots: 4x Lvl 1, 3x Lvl 2
-- New Spells: **Scorching Ray**, **Blur**
-
-#### PLAY STYLE (LEVEL 4)
-- **Prioritize:** Maintaining concentration on your key buff/debuff spells, which **War Caster** makes much easier.
-- **Typical Turn:** If concentration is secured, use **Scorching Ray** for a burst of direct damage.
-- **Spend Resources:** Use the extra Lvl 2 slot on a defensive spell like **Blur** if you are taking too much incoming damage.
+- Gain:
+  - Cantrip: Minor Illusion
+  - Feat: Ability Improvement (Intelligence +2)
+  - Spells: Misty Step, Scorching Ray
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Flaming Sphere
+  - Hold Person
+  - Misty Step
+  - Scorching Ray
+- Play Style:
+  - Rotation:
+    - Turn 1: Use mobility if needed (Misty Step is a “bonus action mobility tool”).
+    - Turn 2+: Use ranged damage (Scorching Ray) and your established CC/damage options.
+  - Notes:
+    - “Always keep a level 2 spell slot ready” for Misty Step.
+    - +2 Intelligence “will help with your spells power, chance to land and expand your spell book by one.”
 
 ### Level 5
-#### GAIN
-- Level 3 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 2x Lvl 3
-- New Spells: **Haste**, **Fireball**, **Counterspell**
-
-#### PLAY STYLE (LEVEL 5)
-- **Prioritize:** This is your power spike. Your first turn should be spent casting **Haste** on your primary martial damage dealer.
-- **Typical Turn:** Cast **Haste** for the massive action economy boost, or use **Fireball** to clear groups of enemies. Use **Counterspell** as a reaction to silence enemy casters.
-- **Spend Resources:** Lvl 3 slots are reserved for **Haste** (buff) or **Fireball** (AoE damage). Do not conserve these slots in difficult fights.
+- Gain:
+  - Spells: Fireball, Counterspell
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Flaming Sphere
+  - Hold Person
+  - Misty Step
+  - Scorching Ray
+  - Counterspell
+  - Fireball
+- Play Style:
+  - Rotation:
+    - Turn 1: “Pick up Fireball and use it early in fights,” especially when enemies are “often clumped together at the start.”
+    - Turn 2+: “Once you’ve cast Fireball, you can move on to single-target spells.”
+  - Notes:
+    - Counterspell: “incredibly helpful in avoiding crowd control spells like Hold Person.”
+    - Friendly fire warning: area spells can hit allies; “be careful targeting friendlies.”
 
 ### Level 6
-#### GAIN
-- Subclass Feature: **Transmuter's Stone** (Choose a permanent buff: Movement, Darkvision, CON Save proficiency, or Physical Resistance)
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3
-- New Spells: **Glyph of Warding**, **Protection from Energy**
-
-#### PLAY STYLE (LEVEL 6)
-- **Prioritize:** Creating and distributing the **Transmuter's Stone**. Granting the **CON Save Proficiency** to a concentration-heavy character is often the best choice.
-- **Typical Turn:** Maintain **Haste** on an ally. Use **Glyph of Warding** for large-scale AoE damage or control.
-- **Spend Resources:** Use the additional Lvl 3 slot for an extra **Haste** or **Fireball**. Use **Protection from Energy** defensively against enemies with predictable damage types.
+- Gain:
+  - Subclass Feature: Transmuter’s Stone
+  - Spells: Haste, Enlarge/Reduce
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Counterspell
+  - Fireball
+  - Hold Person
+  - Haste
+  - Enlarge
+- Play Style:
+  - Rotation:
+    - Turn 1: Use post-long-rest buffs (use Transmuter’s Stone “post long-rest like Mage Armour”).
+    - Turn 2+: Use Haste and Enlarge/Reduce as utility buffs depending on fight needs.
+  - Notes:
+    - Transmuter’s Stone is a “long-term buff you can use per long rest”; you can “recharge… by casting a level 1 or higher Transmutation spell.”
+    - Haste requires concentration; if it breaks, it causes “lethargic… which will skip one turn.”
+    - “Ending Act 1 with a Transmutation Wizard” notes: check traders; stock up on camp and alchemy supplies; look over Act 1 items; don’t miss Act 1 permanent bonuses; Grymforge has “powerful armor and weapons (Adamantine)” and “you won’t be able to come back to this map.”
 
 ### Level 7
-#### GAIN
-- Level 4 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 1x Lvl 4
-- New Spells: **Polymorph**, **Confusion**
-
-#### PLAY STYLE (LEVEL 7)
-- **Prioritize:** **Polymorph** is your ultimate single-target transformation. Use it to remove the most dangerous enemy from combat for multiple turns.
-- **Typical Turn:** Cast **Polymorph** on a boss to nullify their threat while the party cleans up smaller enemies. **Confusion** is also an excellent mass control option.
-- **Spend Resources:** The Lvl 4 slot is reserved for **Polymorph** in major encounters.
+- Gain:
+  - Spells: Banishment, Ice Storm
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Counterspell
+  - Fireball
+  - Haste
+  - Enlarge
+  - Ice Storm
+  - Banishment
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Banishment to remove a key enemy (“remove one creature from the battlefield for two turns”).
+    - Turn 2+: Use Ice Storm for area damage, while avoiding allies.
+  - Notes:
+    - The guide says to “Drop Hold Person” for Banishment (described as “a better stun and crowd controls spell in general”).
+    - Ice Storm: “be careful targeting friendlies.”
 
 ### Level 8
-#### GAIN
-- **Feat** (Take **Ability Improvement** to reach **INT 19**)
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 2x Lvl 4
-- New Spells: **Dimension Door**, **Ice Storm**
-
-#### PLAY STYLE (LEVEL 8)
-- **Prioritize:** The INT boost increases your Spell Save DC, making your control spells like **Polymorph** much harder to resist.
-- **Typical Turn:** Use **Dimension Door** to strategically reposition a vulnerable ally or escape danger without provoking opportunity attacks.
-- **Spend Resources:** Use the second Lvl 4 slot for **Ice Storm** when wide-area damage and difficult terrain creation are needed.
+- Gain:
+  - Feat: Magic Initiate: Warlock
+  - Cantrips/Spells from feat: Eldritch Blast, Friends, Hellish Rebuke
+  - Spells: Blight, Animate Dead
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Counterspell
+  - Fireball
+  - Haste
+  - Enlarge
+  - Ice Storm
+  - Banishment
+  - Blight
+- Play Style:
+  - Rotation:
+    - Turn 1: Use your big spells early as needed; incorporate Blight for single-target damage.
+    - Turn 2+: Use Eldritch Blast (doesn’t consume a spell slot) and reactions like Hellish Rebuke when attacked.
+  - Notes:
+    - Magic Initiate: Warlock details: “You learn two cantrips and a Level 1 spell… You can cast the Level 1 spell once per Long Rest… Spellcasting Ability… is Charisma.”
+    - Animate Dead: can summon a corpse “until a long rest”; the guide notes you can cast outside combat and “bring the corpse with you the entire time!”
 
 ### Level 9
-#### GAIN
-- Level 5 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 2x Lvl 4, 1x Lvl 5
-- New Spells: **Animate Objects**, **Cone of Cold**
-
-#### PLAY STYLE (LEVEL 9)
-- **Prioritize:** **Animate Objects** is a unique Transmutation utility spell that creates multiple small, hard-to-hit threats for consistent damage.
-- **Typical Turn:** Cast **Animate Objects** for reliable, turn-by-turn damage output alongside your concentration buff.
-- **Spend Resources:** Lvl 5 slots should be used for **Animate Objects** (utility/damage) or a massive blast like **Cone of Cold**.
+- Gain:
+  - Spells: Conjure Elemental, Conjure Minor Elemental
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Counterspell
+  - Fireball
+  - Haste
+  - Enlarge
+  - Ice Storm
+  - Banishment
+  - Blight
+  - Conjure Elemental
+  - Conjure Minor Elemental
+- Play Style:
+  - Rotation:
+    - Turn 1: Set up summons and support spells as needed.
+    - Turn 2+: Use summons alongside your spellcasting toolkit.
+  - Notes:
+    - The guide states Conjure Elemental + Conjure Minor Elemental “stack” alongside Animate Dead so you can have “three summons at one time until long rest.”
+    - These summons “do not require concentration” and “frees you up to cast support spells.”
+    - If not using Enlarge, the guide suggests dropping it to prepare both Conjuration spells.
 
 ### Level 10
-#### GAIN
-- Subclass Feature: **Experimental Alchemy** (Creates two Transmuter's Stones instead of one)
-- New Cantrip
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 3x Lvl 4, 2x Lvl 5
-- New Spells: **Telekinesis**, **Hold Monster**
-
-#### PLAY STYLE (LEVEL 10)
-- **Prioritize:** Using **Experimental Alchemy** to double up on party buffs, such as giving two allies **CON Save Proficiency** for better concentration.
-- **Typical Turn:** Use **Telekinesis** to throw enemies off ledges, reposition, or move dangerous objects. **Hold Monster** is your ultimate single-target lockdown.
-- **Spend Resources:** Use your two Lvl 5 slots for high-value spells like **Hold Monster** on a single difficult boss.
+- Gain:
+  - Subclass Feature: Shapechanger (listed as a Transmutation feature unlocked at level 10 in the guide’s subclass section)
+  - Cantrip: Dancing Lights
+  - Spells: Cone of Cold, Greater Invisibility
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Counterspell
+  - Fireball
+  - Haste
+  - Enlarge
+  - Ice Storm
+  - Banishment
+  - Blight
+  - Conjure Elemental
+  - Conjure Minor Elemental
+  - Cone of Cold
+- Play Style:
+  - Rotation:
+    - Turn 1: Use area damage that can be aimed (Cone of Cold is called out as useful to avoid friendly fire).
+    - Turn 2+: Use Greater Invisibility as a flex utility option based on needs.
+  - Notes:
+    - Cone of Cold: “great medium ranged area damage because you can aim it and it’s not in a radius like Fireball.”
+    - Greater Invisibility: “a flex spell… pick something that fits your character to aid outside of combat primarily.”
+    - Shapechanger: “Transform into a blue jay, able to Fly.”
 
 ### Level 11
-#### GAIN
-- Level 6 Spells Unlocked
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 3x Lvl 4, 2x Lvl 5, 1x Lvl 6
-- New Spells: **Disintegrate**, **Chain Lightning**
-
-#### PLAY STYLE (LEVEL 11)
-- **Prioritize:** Leveraging the raw power of Lvl 6 spells. **Disintegrate** is a single-target nuke.
-- **Typical Turn:** Use **Chain Lightning** for massive, chain-hitting damage against clustered enemies, or **Disintegrate** to instantly remove a high-HP threat.
-- **Spend Resources:** The single Lvl 6 slot is reserved for a fight-ending blast like **Disintegrate** or **Chain Lightning**.
+- Gain:
+  - Spells: Disintegrate, Chain Lighting
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Counterspell
+  - Fireball
+  - Haste
+  - Enlarge
+  - Ice Storm
+  - Banishment
+  - Blight
+  - Conjure Elemental
+  - Conjure Minor Elemental
+  - Cone of Cold
+  - Disintegrate
+- Play Style:
+  - Rotation:
+    - Turn 1: Use high-tier spells early when appropriate (the guide emphasizes big spells early).
+    - Turn 2+: Maintain elemental variety and adapt to immunities/resistances.
+  - Notes:
+    - “You only get one level 6 spell slot unless you have one of the two most powerful quarterstaffs in the game: the Staff of Spellpower or Markoheshkir.”
+    - These staves provide a “free cast of a level 6 spell,” allowing “two spells per long rest rather than one.”
+    - Disintegrate is described as “the most powerful single-target spell in the game,” and Chain Lighting as “one of the best area-based damage spells.”
 
 ### Level 12
-#### GAIN
-- **Feat** (Take **Ability Improvement** to reach **INT 20**)
-- Spell Slots: 4x Lvl 1, 3x Lvl 2, 3x Lvl 3, 3x Lvl 4, 2x Lvl 5, 1x Lvl 6
-- New Spells: **Otto's Irresistible Dance**, **Globe of Invulnerability**
+- Gain:
+  - Feat: Ability Improvement (+2 Intelligence)
+  - Spells: Create Undead, Stoneskin
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Counterspell
+  - Fireball
+  - Haste
+  - Enlarge
+  - Ice Storm
+  - Banishment
+  - Blight
+  - Conjure Elemental
+  - Conjure Minor Elemental
+  - Cone of Cold
+  - Disintegrate
+  - Create Undead
+  - Stoneskin
+- Play Style:
+  - Rotation:
+    - Turn 1: Use the strongest spells early in a fight to reduce incoming attacks.
+    - Turn 2+: Use summons (Create Undead) and defensive utility (Stoneskin) as needed.
+  - Notes:
+    - “Increase intelligence to 20 with another +2.”
+    - Create Undead: can “summon yet another creature to aid you in combat.”
+    - Stoneskin: “very helpful to resistance weapon types of damage.”
+    - The guide notes level 6 spells are limited: “you will only be able to cast one or two level 6 spells per long rest.”
 
-#### PLAY STYLE (LEVEL 12)
-- **Prioritize:** Maximizing your Spell Save DC with INT 20, making your **Polymorph** and **Hold Monster** nearly impossible to resist.
-- **Typical Turn:** Cast **Otto's Irresistible Dance** on the final boss, giving all allies advantage on attack rolls.
-- **Spend Resources:** Use **Globe of Invulnerability** defensively in fights against enemy casters to protect your whole party.
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Circlet of Blasting | Free Scorching Ray | Sold by Blurg in the Myconid Colony (Alternative Haste Helm). |
+| Cape | - | - | - |
+| Chest | The Protecty Sparkswall | +1 Spell Saves | Looted in Gilded Chest in Grymforge X: -645 Y: 360 (Alternative Poisoner’s Robe). |
+| Gloves | Gloves of Cinder and Sizzle | Free Scorching Ray | Sold by Lady Esther at Rosymorn Monastery Trail (Alternative Gloves of Missile Snaring, or Gloves of Hail of Thorns). |
+| Boots | Disintegrating Night Walkers | Mobility & Misty Step | Found in Underdark from Ne’re NPC (Alternative Cinder Shoes or Boots of Speed). |
+| Necklace | Amulet of Misty Step | Free Misty Step | Found in a Gilded Chest (X386 Y8) in Defiled Temple (Alternative Moondrop Pendant). |
+| Ring | Ring of Absolute Force | Free Thunderwave | Dropped by Sergeant Thrinn in Grymforge (Alternative Ring of Colour Spray). |
+| Ring | Fetish of Callarduran Smoothhands | Free Invisibility | Found in Grymforge Abandoned Refuge (Alternatives The Sparkswall, or Sunwalker’s Gift if Human). |
+| Weapon (Main Hand) | Melf’s First Staff | Free Acid Arrow | Sold by Blurg in the Myconid Colony (Alternatives The Spellsparkler, or Staff of Crones). |
+| Weapon (Off-Hand) | Adamantine Shield | +2 AC (Half-Elf or Human) | Complete the Adamantine Forge Quest in Grymforge use if Human or Half-Elf Race (Alternatives Glowing Shield, or Wood Woad Shield). |
+| Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum. “You can use it even without proficiency for extra initiative!” |
 
-## Act-by-Act Add-ons
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Necklace | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 (Alternative Amulet of Greater Health). |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
+| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Drop by Fist Marcus at the Last Light Inn (Alternative Ring Of Regeneration, or Crypt Lord Ring). |
+| Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 (Alternative Gontr legendary bow). |
 
-### Act 1 — Best gear
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Hood of the Weave | +2 Spell Save & Roll | Sold by Mystic Carrion in Philgrave’s Mansion during Act 3 (Alternative Helldusk Helmet, or Mask of Soul Perception). |
+| Cape | Cloak of the Weave | +1 Spell Save & Roll | Sold by Helsik at the Devil’s Fee (Alternative Cloak of Protection). |
+| Chest | Robe of the Weave | +2 AC, Saving Throw | At Ramazith’s Tower (Alternative Helldusk Armour, or Robe of Supreme Defences). |
+| Gloves | Quickspell Gloves | Cantrips Bonus Action | Purchased at Lorroakan’s Projection at Sorcerors’s Sundries (Alternative Helldusk Gloves, or Gemini Gloves). |
+| Boots | Helldusk Boots | Mobility & Hellcrawler | Gilded Chest on the top floor of Wyrm’s Rock Fortress (Alternative Disintegrating Night Walkers). |
+| Necklace | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 (Alternative Amulet of Greater Health). |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
+| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Drop by Fist Marcus at the Last Light Inn (Alternative Ring Of Regeneration, or Crypt Lord Ring). |
+| Weapon (Main Hand) | Markoheshkir | Free Spells, +1 Roll | At Ramazith’s Tower (Alternatives Staff of Spellpower, or Incandescent Staff). |
+| Weapon (Off-Hand) | Viconia’s Walking Fortress | If Human/Half-Elf | Looted from Viconia DeVir during Shadowheart’s companion quest (Alternative Shield of Devotion). |
+| Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 (Alternative Gontr legendary bow). |
 
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | **Warped Headband of Intellect** | Sets INT to 17, allowing you to prioritize CON/DEX at character creation. | Looted from **Lump the Enlightened** (Goblin Camp). |
-| **Weapon** | **Staff of Crones** | Allows you to cast the Lvl 1 spell **Ray of Sickness** once per Long Rest. | Found in **Auntie Ethel's Lair**. |
-| **Amulet** | **Amulet of Misty Step** | Allows you to cast **Misty Step** once per Short Rest for superior repositioning. | Found in the **Shattered Sanctum** (Goblin Camp). |
-| **Gloves** | **Gloves of Cinder and Sizzle** | Adds 1d4 Fire damage to your spell attacks. | Vendor: **Grizzly** (Goblin Camp). |
-| **Boots** | - | - | - |
+## Features and Mechanics
+- Primary Ability: Intelligence
+- Saving Throws: Intelligence and Wisdom
+- Subclass: Transmutation School
+- Armour Proficiency: None
+- Weapon Proficiency: Quarterstaves, Light Crossbows, Dagger
+- Preferred Armor: Clothing
+- Preferred Weapon: Quarterstaff
+- Arcane Recovery: “Replenish spell slots while out of combat.”
+- Transmutation Savant: “Transmutation spells from scrolls cost half as much.”
+- Experimental Alchemy: “brew two alchemical solutions instead of one… if you succeed in a DC 15 Medicine Check.”
+- Transmuter’s Stone: “Store some of your transmutation magic in a small stone.”
+- Shapechanger: “Transform into a blue jay, able to Fly.”
+- Spellcasting notes (from the guide):
+  - Cantrips: cast infinitely, don’t take spell slots.
+  - Prepared Spells: swap learned spells in/out from spellbook.
+  - Spell Slots: limited, replenished on long rest.
+  - Arcane Recovery: recover used spell slots.
+  - Concentration: can be interrupted; only one active at a time.
 
-### Act 2 — Best gear
+## Subclass Options
 
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | **Circlet of Blasting** | Allows you to cast the Lvl 3 AoE spell **Scorching Ray** once per Long Rest. | Vendor: **Blurg** (Myconid Colony). |
-| **Cloak** | **Cloak of Protection** | +1 AC and +1 to all Saving Throws, improving overall durability. | Vendor: **Quartermaster Talli** (Last Light Inn). |
-| **Weapon** | **Staff of Arcane Blessing** | Allows you to cast **Bless** and adds 2d4 to Saving Throws and Attack Rolls. | Vendor: **Quartermaster Talli** (Last Light Inn). |
-| **Ring** | **Ring of Mental Inhibition** | Applies **Mental Fatigue** when target fails a save, weakening their next save. | Vendor: **Quartermaster Talli** (Last Light Inn). |
-| **Amulet** | **Amulet of Greater Health** | Sets your CON to 23, dramatically improving your HP and Concentration Saves. | Found in the **House of Hope** (Act 3, but include in both Act 2 and Act 3). |
+### Subclass Features
+- Transmutation Savant (Level 2): “Learning Transmutation spells from scrolls costs half as much, becoming 25 gold pieces per spell level.”
+- Experimental Alchemy (Level 2): “brew two alchemical solutions instead of one… if you succeed in a DC 15 Medicine Check.”
+- Transmuter’s Stone (Level 6): “A creature carrying the stone gains a benefit of your choice… cast a Transmutation spell of Level 1 or higher or take a Long Rest before you can create another one.”
+- Shapechanger (Level 10): “Transform into a blue jay, able to Fly… If the blue jay’s hit points drop to 0, the target reverts…”
 
-### Act 3 — Best gear
+### Transmuter’s Stone Options
+- Transmuter’s Stone: Darkvision: Darkvision out to a range of 18m.
+- Transmuter’s Stone: Constitution: Proficiency in Constitution Saving Throws.
+- Transmuter’s Stone: Speed: Movement Speed increased by 3m.
+- Transmuter’s Stone: Resistance: Resistance to one of Acid, Cold, Fire, Lightning, or Thunder damage.
+- Guide notes:
+  - “This is a useful bonus which you can only have one active at a time.”
+  - “If you are playing with a race that does not have Darkvision, then Darkvision passive is your go-to.”
+  - “Resistances are always helpful and Constitution saving throws are nice if using concentration-based spells.”
 
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | **Hood of the Weave** | **+2 to Spell Save DC** and **Spell Attack Rolls**, essential for maximizing control spells. | Found in **Mystic Carrion's** chest (Lower City Sewers). |
-| **Chest** | **Robe of the Weave** | +1 AC and **+1 to Spell Save DC** and **Spell Attack Rolls**, an excellent boost to your power. | Found in **Ramzith's Tower** (beneath Sorcerous Sundries). |
-| **Weapon** | **Markoheshkir** | Legendary Quarterstaff. **+1 Spell Save DC** and allows you to cast various utility spells, including **Kereska's Favour** for element damage. | Found in **Ramzith's Tower** (beneath Sorcerous Sundries). |
-| **Amulet** | **Amulet of Greater Health** | Sets your CON to 23, dramatically improving your HP and Concentration Saves. | Found in the **House of Hope** (Act 3). |
-| **Boots** | **Disintegrating Night Walkers** | Immunity to difficult terrain and the ability to cast **Misty Step** once per Short Rest. | Looted from **Grym** in the Gauntlet of Shar (Act 2). |
+## Best Consumables
+- Potion of Greater Healing: 8d4 + 8 healing and removes burning.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Potion of Flying: 10 turns of flying.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Angelic Slumber: fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Elixir of Peerless Focus: gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Viciousness: increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Elixir of Universal Resistance: gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
----
-
-## Permanent bonuses (by Act)
+## Permanent Bonuses
 
 ### Act 1
-- **Auntie Ethel's Hair**
-  - **Why:** +1 Ability Score to permanently increase your **Intelligence** or **Constitution** for better Concentration Saves.
-- **Volo's Eye**
-  - **Why:** Allows you to see invisible creatures, a significant utility bonus that directly helps a caster avoid being surprised by stealth.
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Scratch: Gain Find Familiar Scratch.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Necromancy Of Thay: access to powerful spells in Act 3.
+- Volo’s Ersatz Eye: See Invisibility
 
 ### Act 2
-- **Wake Up (Necromancy of Thay)**
-  - **Why:** Grants +1 to Wisdom Saving Throws and Advantage on Death Saving Throws, providing a small but useful defensive boost to your caster.
+- Awakened: Use illithid powers as a Bonus Action.
+- Potion of Everlasting Vigour: Gain +2 Strength.
 
 ### Act 3
-- **Mirror of Loss**
-  - **Why:** Allows for a +2 to an Ability Score of your choice (use on **Intelligence** for a potential score of 22) and permanently increases the saving throw of a skill.
+- Mirror of Loss: +2 to an Ability Score of your choice.
+- Slayer Form: Ability to transform into the Slayer.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Statue of the Gods: +2 to Saving Throws
 
----
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull of the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Blackhole: Area-based suck-in that slows targets.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: “This is the priority power you want to obtain because you can force enemies to attack something else.”
+- Guide note: “you make an important decision in Act 3 of the game to advance these powers or not… there will be consequences when taking these powers…”
 
-# Best consumables / items (single-use)
+## Gameplay Tips and Tricks
+1. Pre-Buff: Always cast Mage Armour following a long rest to maintain 16 or higher AC.
+2. Bonus Action: Don’t forget your bonus action for a potion or Misty Step.
+3. Use Environment: Combine a fire spell with Grease and coat the area with fire damage or water and electrical,
+4. Knockback: Combine a big knockback with Misty Step and create distance whenever you can to survive.
+5. Area Damage: Don’t hit allies with friendly fire and point or aim your spells to avoid allies.
+6. Rest Constantly: Your spell slots will quickly run out after one or more fights, especially if challenging.
+7. Positioning: Look to move back in distance and even use Hide to prevent damage from coming in.
+8. Crowd Control: Make sure you focus on taking out the primary target with Sleep, Hold Person, or any other CC to limit potential damage.
+9. Big Nuke: Typically, you want to fire off your big spells early to finish off targets before they can attack you.
+10. Use Consumables: One of the best early consumables is the Potion of Speed for two actions per turn.
 
-- **Elixir of Vigilance**
-  - **What it does:** Grants **+5 Initiative** and prevents you from being **Surprised**.
-  - **Why it is strong for this build:** As a control/buff caster, going first is paramount to cast **Haste** or **Polymorph** before the enemy can act or disrupt your concentration.
-  - **When to use it:** Essential before every major engagement or boss fight where turning the tide on the first turn is critical.
+## Alternative Build Route
+- Alternative Transmutation Build Melee Wizard (Bladesinging multiclass route from the guide):
+  - Level 1: Wizard — Cantrips: Fire Bolt, Booming Blade, Bursting Sinew, Friends; Spells: Longstrider, Shield, Thunderwave, Magic Missile
+  - Level 2: Wizard — Subclass: Bladesinging; False Life; Feather Fall
+  - Level 3: Wizard — Shadow Blade; Misty Step
+  - Level 4: Wizard — Feat: Ability Improvement +2; Blur; Mirror Image
+  - Level 5: Wizard — Fireball; Counterspell
+  - Level 6: Wizard — Extra Attack; Darkness; Enlarge/Reduce
+  - Level 7: Paladin — Multiclass: Oath of Devotion Paladin
+  - Level 8: Paladin — Defence Fighting Style; Command; Thunderous Smite
+  - Level 9: Fighter — Multiclass: Fighter; Protection Fighting Style
+  - Level 10: Fighter — Action Surge
+  - Level 11: Fighter — Subclass: Champion
+  - Level 12: Fighter — Feat: Alert
+- Guide note: This route is “an alternative melee focused Wizard build,” giving “incredible melee damage and movement” but requires multiclassing and is “more complexity and gear specific items.”
 
-- **Potion of Speed**
-  - **What it does:** Grants the status **Haste** for 1 turn, giving you an **extra action**, +2 AC, and advantage on Dexterity Saves.
-  - **Why it is strong for this build:** Allows for a massive burst turn where you can cast a high-impact concentration spell (like **Haste** on an ally) AND follow up with a damage spell (like **Fireball**) or a second buff.
-  - **When to use it:** Use in desperate situations or when an immediate burst of damage/utility is needed to eliminate a boss.
+## Patch Changes
 
-- **Oil of Accuracy**
-  - **What it does:** Weapon coating that grants **+2 to Attack Rolls**.
-  - **Why it is strong for this build:** Though primarily a caster, this is useful early on for guaranteeing hits with spells that require an attack roll, such as **Scorching Ray** or **Chromatic Orb**.
-  - **When to use it:** On your equipped staff before difficult fights in Acts 1 and 2 when your Spell Attack modifier is still low.
-
-- **Elixir of Hill Giant Strength**
-  - **What it does:** Sets your **Strength score to 21** until the next Long Rest.
-  - **Why it is strong for this build:** If you are relying on the **Transmuter's Stone** for a permanent buff, you can use the Strength-setting elixir to free up the stone for another ally.
-  - **When to use it:** Use if you are multiclassing for armor proficiency or need the movement/jumping distance from a high Strength score.
-
----
-
-## Optional: Illithid powers (if using tadpoles)
-
-- **Black Hole**
-  - **What the power does:** Creates a vacuum that pulls all nearby creatures together and slows them (Slowed).
-  - **Why it synergizes with the build:** This is the perfect setup for your large Area-of-Effect (AoE) spells. By clumping enemies, you maximize the impact of **Fireball**, **Cone of Cold**, or **Chain Lightning**.
-
-- **Luck of the Far Realms**
-  - **What the power does:** Allows you to turn a successful hit into a Critical Hit once per Short Rest.
-  - **Why it synergizes with the build:** Excellent for ensuring a high-level spell that requires an attack roll, such as **Disintegrate** or **Scorching Ray**, deals maximum damage to a boss. It turns a normal hit into a guaranteed nuke.
-
-- **Mind Sanctuary**
-  - **What the power does:** Creates an area where you can use your **Bonus Action** to cast a spell.
-  - **Why it synergizes with the build:** This power grants immense action economy. It allows you to cast a powerful spell like **Haste** or **Polymorph** with your Bonus Action, leaving your full Action free for damage, movement, or a second utility spell.
-
----
-
-## Optional: Alternative build route (from the guide)
-
-- **Transmutation Wizard (10) / Fighter (2)**
-  - If you want the ultimate burst damage and control potential, take two levels of **Fighter** at the end. This grants you **Action Surge**, allowing you to cast two full-action spells in a single turn (e.g., **Haste** on an ally followed by **Fireball** or **Polymorph**). You sacrifice your final Feat/ASI but gain unparalleled burst utility.
-
-- **Transmutation Wizard (11) / Cleric (1)**
-  - Taking one level of **Life Cleric** (or a similar domain) grants you proficiency in **Heavy Armor** and **Shields** (depending on the domain), dramatically increasing your AC and durability, allowing you to focus on Constitution for better Concentration Saves. You sacrifice the final Feat/ASI but gain immense survivability without the need for the **Mage Armour** spell.
+### Patch 8
+- “The most important change to the Wizard is the addition of Bladesinging subclass and Booming Blade Cantrip.”
+- This “allows the Wizard to play effectively in melee range.”
+- “The downside however is losing out on more spellcasting potential of the Transmutation subclass.”
+- “Additionally, the Wizard can use the Hexblade subclass one level to start and gain many proficiencies that can aid in combat… many more options for dealing with combat.”
