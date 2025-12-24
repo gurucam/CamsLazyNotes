@@ -1,251 +1,476 @@
-# Bladesinger Wizard Build (Patch 8)
+# Best Baldur’s Gate 3 Bladesinging Wizard Build
+:contentReference[oaicite:0]{index=0}
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Wizard 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-## Build snapshot
+## Build Snapshot
 
-### Fantasy / flavor
-- An **intelligent martial spellcaster** who focuses on defensive positioning and high AC.
-- Plays like a **high-mobility duelist** who uses their high AC to safely cast concentration spells in melee.
-- The **Bladesong** feature allows for both powerful melee attacks and the casting of full Wizard spells, making them extremely versatile.
+### Fantasy / Flavor
+- Melee-oriented Wizard playstyle with Bladesinging.
+- “Weave spells and swordplay together.”
+- Agile frontline skirmisher.
 
-### Core playstyle in one sentence
-- Activate your primary subclass feature to boost your defenses and speed, then engage in melee combat while maintaining powerful area control or utility spells.
+### Core Playstyle
+- Use Bladesong for enhanced mobility and increased AC.
+- Use Shadow Blade for melee Psychic damage and scale damage off Strength (via elixirs).
+- Multiclass into Paladin for Divine Smite on melee hits, then Fighter for Action Surge and Champion critical synergy.
 
-### Party role
-- Frontline Controller, High-AC Melee Striker, and Utility Caster.
+### Party Role
+- Frontline melee damage (with Shadow Blade + Divine Smite).
+- Flexible damage: melee skirmisher and ranged spellcasting option.
+- Utility from Wizard spellbook and scroll learning.
 
-### Key stats
-- **Intelligence (INT)**: Primary ability score for Spell Attack, Spell Save DC, and for increasing Bladesong AC.
-- **Dexterity (DEX)**: Secondary stat for Armour Class (AC), Initiative, and Weapon Attack Rolls.
-- **Constitution (CON)**: Important for hit points and maintaining Concentration on key spells.
+### Pros
+- High Burst Damage
+- Wide Variety of Spells
+- Flexibility in Combat
 
-### Best Race
-- **High Elf/Half-Elf**: Provides proficiency in Longswords and Longbows, which are essential for the Bladesinger.
-- **Githyanki**: Provides Medium Armor proficiency, which is a great defensive boost before Bladesong is available.
+### Cons
+- Slow Start
+- Multiclass Needed
+- Complex
 
-### Recommended Background
-- Sage (Arcana, History) or Noble (Persuasion, History).
+### Power Spikes
+- Level 2: Bladesong (mobility + AC), light armour + weapon proficiencies.
+- Level 3: Shadow Blade unlocks effective melee.
+- Level 6: Extra Attack (attacking twice with one action).
+- Level 8: Divine Smite online (Paladin 2).
+- Level 10: Action Surge (Fighter 2).
+- Act 2: Resonance Stone doubles Psychic Damage (including Shadow Blade).
 
-## Character creation
+## Character Creation
+- Race: High Half-Elf
+- Class: Wizard
+- Subclass: Bladesinging
+- Background: Sage
+- Ability Scores:
+  - Strength: 8
+  - Dexterity: 16
+  - Constitution: 14
+  - Intelligence: 17
+  - Wisdom: 8
+  - Charisma: 10
+- Proficiencies:
+  - Skills: Investigation and Religion
+  - Saving Throw: Intelligence, Wisdom
+  - Armour Proficiency: None (Wizard baseline)
+  - Weapon Proficiency: Quarterstaves, Light Crossbows, Dagger
+- Cantrips: Fire Bolt, Booming Blade, Bursting Sinew, Friends
+- Spells: Longstrider, Magic Missile, Grease, Thunderwave, Chromatic Orb, Shield
+- Character Origin: Custom character
+- Racial Bonus: Elven Weapon Training, Fey Ancestry, Darkvision, Cantrip
 
-### Starting class and proficiencies
-- **Starting Class:** Wizard.
-- **Subclass:** Bladesinger (Patch 8).
-- **Proficiencies:** Daggers, Quarterstaffs, Light Crossbows (and Longswords/Longbows if High Elf/Half-Elf).
+## Level Progression
 
-### Starting ability scores
-- **INT:** 17
-- **DEX:** 16
-- **CON:** 14
-- **STR:** 8
-- **WIS:** 10
-- **CHA:** 8
+### Level 1
+- Gain:
+  - Cantrips: Fire Bolt, Booming Blade, Bursting Sinew, Friends
+  - Spells: Longstrider, Magic Missile, Grease, Thunderwave, Chromatic Orb, Shield
+  - Arcane Recovery
+- Prepared Spells (if applicable):
+  - Longstrider
+  - Shield
+  - Thunderwave
+  - Magic Missile
+- Play Style:
+  - Rotation:
+    - Turn 1: Equip a one-handed weapon and shield; use Firebolt and Magic Missile for damage.
+    - Turn 2+: Save a spell slot for Shield; use cantrips if possible.
+  - Notes:
+    - If playing at range, use Firebolt and Magic Missile as damage spells.
+    - Booming Blade “won’t be effective until you have high strength with Hill Giant Strength.”
+    - “At level 2, you gain access to light armour and more utility, so save spell slots and use cantrips if possible.”
 
-## Level-by-level progression (Wizard 1 → 12)
+### Level 2
+- Gain:
+  - Subclass: Bladesinging
+  - False Life
+  - Feather Fall
+  - Bladesong Power – 2
+  - Bladesong
+  - Bladesong Climax
+  - Training in War and Song
+  - Bladesinging Weapon: Longsword (if you use Phalar Aluve with High Elf Race, otherwise Shortsword)
+- Prepared Spells (if applicable):
+  - Longstrider
+  - Shield
+  - Thunderwave
+  - Magic Missile
+  - Chromatic Orb
+- Play Style:
+  - Rotation:
+    - Turn 1: Longstrider pre-buff for extra movement.
+    - Turn 2+: Mix ranged damage (Magic Missile / Chromatic Orb) with melee (Booming Blade) and use Bladesong for extra force damage.
+  - Notes:
+    - Save a spell slot for Shield.
+    - Use Thunderwave to knock enemies back.
+    - “You can now attack with the Bladesong power giving you extra force damage.”
 
-#### Level 1
-##### GAIN
-- Class features (Arcane Recovery, Spellcasting).
-- Spells (*Mage Armour*, *Shield*, *Magic Missile*).
+### Level 3
+- Gain:
+  - Shadow Blade
+  - Misty Step
+  - Level 2 spell slots
+- Prepared Spells (if applicable):
+  - Drop Chromatic Orb and slot both Misty Step and Shadow Blade.
+- Play Style:
+  - Rotation:
+    - Turn 1: Use a bonus action to summon Shadow Blade (requires concentration).
+    - Turn 2+: Attack in melee range with Shadow Blade; use Misty Step for mobility.
+  - Notes:
+    - Shadow Blade “will cost a bonus action and last until long rest and require concentration.”
+    - “Don’t take too many concentration spells as you won’t be able to use them.”
+    - “Use an Elixir of Hill Giant Strength and attack with Shadow Blade for the most damage in melee.”
+    - “The Resonance Stone, found in Act 2, can double the damage of this weapon.”
+    - You can “upcast” Shadow Blade for more damage as you gain higher-level spells.
 
-##### PLAY STYLE (LEVEL 1)
-- You are a vulnerable pure caster at this stage. Use *Mage Armour* for a base defense and rely on *Magic Missile* for reliable damage.
-- Prioritize positioning and staying out of melee, as you are extremely squishy without your subclass features.
+### Level 4
+- Gain:
+  - Cantrip: Minor Illusion
+  - Spells: Blur, Mirror Image
+  - Feat: Ability Improvement (Intelligence +2)
+- Prepared Spells (if applicable):
+  - Longstrider
+  - Shield
+  - Thunderwave
+  - Magic Missile
+  - Chromatic Orb
+  - Shadow Blade
+  - Misty Step
+  - Mirror Image
+- Play Style:
+  - Rotation:
+    - Turn 1: Pre-buff defensive setup (Mirror Image; Blur if you plan to use it).
+    - Turn 2+: Maintain Shadow Blade concentration; fight in melee if desired with boosted Intelligence and defenses.
+  - Notes:
+    - Blur “won’t be that useful since you have concentration and may need to swap to another spell if you don’t use it.”
+    - “Another party member” can cast Blur on you; you can also cast Mirror Image on yourself (spell or scroll).
+    - “If you struggle in melee range, pre-buff with these two spells and likely no enemy will hit you in Act 1.”
 
-#### Level 2
-##### GAIN
-- Subclass: Bladesinger.
-- Feature: Bladesong.
-- Spells (e.g., *Misty Step*).
+### Level 5
+- Gain:
+  - Bladesong Power – 3 (additional use of Bladesong)
+  - Fireball
+  - Counterspell
+  - Level 3 spell slots
+- Prepared Spells (if applicable):
+  - Longstrider
+  - Shield
+  - Thunderwave
+  - Magic Missile
+  - Chromatic Orb
+  - Shadow Blade
+  - Misty Step
+  - Mirror Image
+  - Fireball
+  - Counterspell
+- Play Style:
+  - Rotation:
+    - Turn 1: Choose melee (Shadow Blade + Bladesong) or ranged (Fireball) depending on fight.
+    - Turn 2+: Hold reaction for Counterspell when needed.
+  - Notes:
+    - “You can now play in melee or at range and have effective damage.”
+    - “You need one more level to gain extra attack.”
 
-##### PLAY STYLE (LEVEL 2)
-- You are now a true Bladesinger. Use your **Bladesong** as your first bonus action in any serious fight to boost AC and movement.
-- You can now safely approach the frontline, but still save spell slots for *Shield* as a reaction to turn misses into hits.
+### Level 6
+- Gain:
+  - Extra Attack (subclass feature)
+  - Spells: Darkness, Enlarge/Reduce
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Darkness to blind creatures in an area (if applicable).
+    - Turn 2+: Attack twice with one action; use Enlarge if not using Shadow Blade (or have a companion cast it).
+  - Notes:
+    - “Darkness is helpful to blind all creatures in an area, and if you have the ring Eversight, you can still see while in the darkness.”
+    - “Enlarge is helpful if you’re not using Shadow Blade… because it requires concentration.”
+    - “For the most raw melee power, and extra armour and weapon choices, we suggest multiclassing to the Paladin.”
 
-#### Level 3
-##### GAIN
-- Level 2 Spell Slots.
-- Spells (e.g., *Misty Step*, *Invisibility*).
+### Level 7
+- Gain:
+  - Multiclass: Paladin (Oath of Devotion Paladin in level table)
+  - Channeled Oath Charges
+  - Lay on Hands
+  - Divine Sense
+  - Holy Rebuke
+  - Oath of the Devotion Tenets: Courage. Stride dauntlessly into action. Compassion. Show clemency when prudent, and lend your arm to those in need.
+  - Martial Weapon proficiency (noted at this level)
+- Play Style:
+  - Rotation:
+    - Turn 1: Continue Shadow Blade + shield approach for “a balance of offense and defense.”
+    - Turn 2+: Use Paladin tools as needed (healing or oath abilities).
+  - Notes:
+    - Paladin dip is “helpful… because you can use the Divine Smite spells with your melee attacks to deal extra damage.”
+    - This makes the build “more complex and require frequent Long Rests, giving you the most burst damage possible.”
+    - You “can use a two-handed weapon such as a greatsword,” but recommendation is “sticking to Shadow Blade and Shield.”
 
-##### PLAY STYLE (LEVEL 3)
-- *Misty Step* is now your most valuable tool, allowing you to reposition out of danger or close the distance to a high-priority target as a bonus action.
-- Use utility spells like *Invisibility* to scout ahead, bypass obstacles, or prepare for combat.
+### Level 8
+- Gain:
+  - Paladin level 2
+  - Defence Fighting Style (+1 AC while wearing Armour)
+  - Divine Smite (turn it on in the Reactions menu)
+  - Spells: Wrathful Smite, Thunderous Smite
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Wrathful Smite for burst damage (noted as great with Resonance Stone).
+    - Turn 2+: Use Booming Blade cantrip “as your attack with Shadow Blade” and “trigger Divine Smite.”
+  - Notes:
+    - “Bladesong… doesn’t work with medium or heavy armor.”
+    - NOTE: “select great weapon fighting if you want to use 2H weapon at this point.”
+    - Wrathful Smite “is great with Resonance Stone to deal enormous burst damage.”
+    - Thunderous Smite “should be used if you can get invisibility via a spell or a scroll… to trigger the Surprised status effect.”
+    - “Also you can use Booming Blade Cantrip as your attack with Shadow Blade, and trigger Divine Smite!”
 
-#### Level 4
-##### GAIN
-- Feat (Ability Score Improvement: +2 INT).
-- Spells.
+### Level 9
+- Gain:
+  - Multiclass: Fighter
+  - Second Wind
+  - Protection Fighting Style (when you have a Shield, impose Disadvantage on an enemy who attacks one of your allies when you are within 1.5 m / 5 ft)
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Second Wind as a bonus action if needed, then attack in the same turn.
+    - Turn 2+: Maintain shield-based protection if using a shield.
+  - Notes:
+    - Fighter dip is for “Action Surge, a new sublcass, and a feat” (with Action Surge gained at Fighter 2).
+    - “If using two-handed, swap to Great Weapon Master selection otherwise Protection if using a shield.”
 
-##### PLAY STYLE (LEVEL 4)
-- Use this ASI to cap INT at 18 now for better Spell Save DC and a higher Bladesong AC boost.
-- This level is about improving consistency for your spells and defense; focus on landing those powerful crowd control spells.
+### Level 10
+- Gain:
+  - Fighter level 2
+  - Action Surge
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Action Surge for an additional action (burst turn).
+    - Turn 2+: Short Rest replenishes Action Surge (two Short Rests available).
+  - Notes:
+    - “You only need a Short Rest to replenish this… Take a Long Rest via camp to fill Short Rest.”
 
-#### Level 5
-##### GAIN
-- Level 3 Spell Slots.
-- Spells (e.g., *Haste*, *Fireball*).
+### Level 11
+- Gain:
+  - Fighter level 3
+  - Fighter Subclass: Champion
+  - Improved Critical Hit (critical hit roll reduced by 1 and can stack)
+- Play Style:
+  - Rotation:
+    - Turn 1: Lean into easier critical hits (Champion) for melee burst synergy.
+    - Turn 2+: Stack additional ways to reduce critical hit number “via feat and gear.”
+  - Notes:
+    - “Keep it simple and go with Champion to make criticals easier.”
 
-##### PLAY STYLE (LEVEL 5)
-- **Haste** is the core power spike. Cast it on yourself immediately to gain an extra action for an attack or cantrip.
-- Focus your concentration on *Haste* as losing it is extremely dangerous; use *Shield* and your high AC to maintain it.
+### Level 12
+- Gain:
+  - Fighter final level in the multiclass route
+  - Feat: Alert
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Alert for strong initiative positioning; proceed with melee burst setup.
+    - Turn 2+: Continue Shadow Blade + Divine Smite melee plan; use Hill Giant Elixir for max strength.
+  - Notes:
+    - “If using Shadow Blade, Great Weapon Master and Savage Attacker will not work.”
+    - “Stick to Alert and use Hill Giant Elixir for max strength.”
+    - (FAQ section also states: “Savage Attacker works with the Shadow Blade spell and dramatically increase your melee damage.”)
 
-#### Level 6
-##### GAIN
-- Feature: Extra Attack (replace one attack with a cantrip).
-- Spells.
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Haste Helm | Extra Movement | Found in Blighted Village at coordinates X: 29 Y: 405 (Alternatives Cap of Wrath). |
+| Cape | Deathstalker Mantle (optional) | Invisibility on Kill | Automatically acquired as part of Dark Urge story. Optional don’t have to use. |
+| Chest | Padded Armour +2 (any Light) | Reduces Bludgeoning | Sold at traders in Act 1 starting at level 5. Can use any light armour in Act 1. |
+| Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room (Alternatives Gloves of Dexterity, or Gloves of Missile Snaring). |
+| Boots | Disintegrating Night Walkers | Free Misty Step | Obtained in Gyrmforge as part of Free True Soul Nere questline (Alternatives Boots of Striding, Boots of Genial Striding, or Boots of Speed). |
+| Necklace | Broodmother’s Revenge | 1d6 when healed | Carried by Kagha’s body in the Emerald Grove. |
+| Ring | Strange Conduit Ring | Concenreation + Damage | Crèche Y’llek X: 1360 Y: -657. |
+| Ring | Caustic Band | Poison Damage | Obtained from merchant Derryth Bonecloak in the Myconid Colony (Alternatives Fetish of Callarduran Smoothhands, or The Sparkswall). |
+| Weapon 1 Main Hand | Phalar Aluve (Shadow Blade) | Summoned with Spell | Found in Underdark at coordinates X: 116 Y: -192 (keep Shadow Blade in your head or Phalar). |
+| Off-Hand | Adamantine Shield (If multiclass) | +2 AC | Crafted in Adamantine Forge. |
+| Weapon 2 Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum (Alternatives Hunting Shortbow, Bow of Banshee, Titanstring Bow). |
 
-##### PLAY STYLE (LEVEL 6)
-- Your combat rotation is now complex and powerful: Bladesong → *Haste* → Attack + Cantrip (e.g., *Fire Bolt*).
-- Use the Cantrip replacement feature to maintain high melee damage while still benefiting from INT scaling.
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
+| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony. |
 
-#### Level 7
-##### GAIN
-- Level 4 Spell Slots.
-- Spells (e.g., *Wall of Fire*, *Greater Invisibility*).
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Mask of Soul Perception | +2 Attack Roll | Obtained in Devil’s Fee (Alternatives Helldusk Helmet, Sarevok’s Horned Helmet). |
+| Cape | Deathstalker Mantle | Invisibility on Kill | Automatically acquired as part of Dark Urge story (Alternatives Cloak of Protection). |
+| Chest | Elegant Studded Leather | Shield Spell Light Armour | Counting House Vault (Use Bhaalist Armour with Crimson Mischief). |
+| Gloves | Craterflesh Gloves | Crits + Damage | Murder tribunal vendor (Alternatives Gauntlets of Hill Giant Strength, Helldusk Gloves). |
+| Boots | Helldusk Boots | Mobility | In a locked chest, Wyrm’s Rock Fortress (Alternative Disintegrating Night Walkers). |
+| Necklace | Amulet of Greater Health | 23 Constitution | Obtained in Archive of the House of Hope (Alternative Surgeon’s Subjugation Amulet). |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
+| Ring | Strange Conduit Ring | Self-healing | Crèche Y’llek X: 1360 Y: -657 (Alternative Ring of Free Action, Shifting Corpus Ring). |
+| Weapon 1 Main Hand | Phalar Aluve | + Movement | Found in Underdark at coordinates X: 116 Y: -192 (use Shadow Blade in main hand, if not can also do Bhaalist Armour with Crimson Mischief). |
+| Off-Hand | Viconia’s Walking Fortress | +3 AC | Complete Shadowheart’s Quest Daughter of Darkness. |
+| Weapon 2 Ranged | Hellriders | +3 initiative | Rivington X: 43 Y: -101: Sold by Ferg (Alternative darkfire shortbow). |
+| Misc | Resonance Stone | Double Psychic Damage | End of act 2 in puzzle mind flayer colony. |
 
-##### PLAY STYLE (LEVEL 7)
-- *Wall of Fire* offers excellent area denial, dividing the battlefield and softening up enemies.
-- Use *Greater Invisibility* defensively to gain Advantage on attacks and severely impair enemy targeting.
+## Features and Mechanics
+- Class: Wizard
+- Subclass: Bladesinging
+- Background: Sage
+- Skills: Investigation and Religion
+- Ability Score:
+  - Strength: 8
+  - Dexterity: 16
+  - Constitution: 14
+  - Intelligence: 17
+  - Wisdom: 8
+  - Charisma: 10
+- Saving Throw: Intelligence, Wisdom
+- Patch 8 notes (build focus): introduction of Bladesinging subclass and the Booming Blade cantrip; “melee-oriented playstyle,” enhanced mobility, increased AC, and “skirmisher combat approach.”
+- Bladesinging Wizard uniqueness:
+  - Extra Attack feature at level 6.
+  - Gains light armour and additional weapon proficiencies.
 
-#### Level 8
-##### GAIN
-- Feat (Ability Score Improvement: +2 INT).
-- Spells.
+## Subclass Options
+### Bladesinging Features
+- Bladesong Power: 2 (level 2) Used to cast Bladesong. Replenished on a Long Rest.
+- Bladesong (level 2): Invoke the Bladesong. You gain a +proficiency bonus to Armour Class and your movement speed increases by 3 meters. You also gain Advantage in Acrobatics and a +proficiency bonus to Constitution saving throws.
+- Training in War and Song (level 2): You gain proficiency with Light Armour and in the Performance skill. You also gain proficiency with Daggers, Sickles, Shortswords, Rapiers, Scimitars, and Longswords.
+- Bladesong Power: 3 Gain an additional use of Bladesong (level 5).
+- Extra Attack (level 6): You can make an additional free attack after making an unarmed or weapon attack.
+- Bladesong Power: 4 Gain an additional use of Bladesong (level 9).
+- Song of Defence (level 10): When you take damage during your Bladesong, you can expend a spell slot to subtract 5 damage per spell slot.
+- Bladesong Climax (described at level 2): The finale of a Bladesinger wizard’s Bladesong. Your Bladesong Damage Charges will harm enemies an additional 1d6 Force damage, and your Bladesong Healing Charges will heal you and your allies an additional 1d6 hit points.
 
-##### PLAY STYLE (LEVEL 8)
-- Cap INT at 20 for maximum effect on all spells and defense.
-- This ensures your Bladesong AC is maximized and your spells are difficult to save against.
+### Multiclass Choices Used in This Build
+- Paladin (Oath of Devotion):
+  - Used to “use the Divine Smite spells with your melee attacks to deal extra damage.”
+  - Oath of the Devotion Tenets: Courage. Stride dauntlessly into action. Compassion. Show clemency when prudent, and lend your arm to those in need.
+- Fighter:
+  - Action Surge for an additional action once in combat.
+  - Champion for Improved Critical Hit (critical roll reduced by 1 and can stack).
 
-#### Level 9
-##### GAIN
-- Level 5 Spell Slots.
-- Spells (e.g., *Hold Monster*, *Cone of Cold*).
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Elixir of Hill Giant Strength: Increases Strength ability score to 21 until Long Rest.
+- Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
+- Drow Poison: Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
+- Potion of Flying: Drink to gain a flying speed of 60ft for one hour.
+- Elixir of Heroism: Gain 10 temp HP and become Blessed until a long rest.
+- Potion of Greater Healing: 4d4 + 4 hit points restored.
+- Oil of Accuracy: Coat Weapon. Bonus of +2 in Attack Rolls.
+- Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
 
-##### PLAY STYLE (LEVEL 9)
-- *Hold Monster* is a powerful single-target control option that can instantly win a boss fight if they fail the saving throw.
-- Save your 5th level slots for high-impact effects that can immediately swing a fight.
+## Permanent Bonuses
+### Act 1
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Awakened: Use illithid powers as a Bonus Action.
+- Scratch: Gain Find Familiar Scratch.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Volo’s Ersatz Eye: See Invisibility
 
-#### Level 10
-##### GAIN
-- Feature: Song of Defense.
-- Spells.
+### Act 2
+- Potion of Everlasting Vigour: Gain +2 Strength.
+- Slayer Form: Ability to transform into the Slayer.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
 
-##### PLAY STYLE (LEVEL 10)
-- **Song of Defense** gives you a reliable way to reduce incoming damage using spell slots as a reaction.
-- Use this when *Shield* isn't enough or when facing massive burst damage that could otherwise knock you down.
+### Act 3
+- Mirror of Loss – +2 to an Ability Score of your choice.
+- Statue of the Gods: +2 to Saving Throws
+- Necromancy Of Thay: access to powerful spells in Act 3.
 
-#### Level 11
-##### GAIN
-- Level 6 Spell Slots.
-- Spells (e.g., *Disintegrate*, *Chain Lightning*).
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Blackhole: Area-based suck-in that slows targets. (Requires you to take the Astral Tadpole in Act 2; pulls in 5 enemies, slows them, and can be recast for free.)
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: “This is the priority power you want to obtain because you can force enemies to attack something else.”
 
-##### PLAY STYLE (LEVEL 11)
-- You now have access to truly game-changing burst spells like *Disintegrate* for single-target deletion.
-- Continue to maintain *Haste* and use your melee attacks to finish targets, conserving the 6th level slot for the biggest threat.
+## Gameplay Tips and Tricks
+- “The best way to play the Bladesinging Wizard is to use a high strength build with Shadow Blade and multiclass into Paladin for Divine Smite.”
+- “Drink an Elixir of Cloud Giant Strength to boost your overall strength to 27.”
+- “Use a bonus action to summon Shadow Blade, which deals psychic damage and scales off of Strength.”
+- “Make sure to obtain the Resonance stone in Act 2, which doubles Psychic Damage, including for Shadow Blade.”
+- “With your action, attack in melee range and trigger Divine Smites with Shadow Blade.”
+- Loot Everything: “You will need a lot of gold to buy consumables, potions, and ammunition so loot and sell constantly.”
+- Crafting: “Elixirs and potions are vital, and you need to purchase materials when trading for crafting.”
+- Reach Level 6: “Spend the early part of the game completing every quest to reach level 6 where your power dramatically increases.”
+- Sell Often: “Your carrying capacity will be limited so sell often, and store excessive items in your traveler’s chest.”
+- Stealth: “Start combat in stealth if at all possible to trigger the Surprise status effect.”
+- Consider Illithid Powers: “While it can come with an altered appearance, the powers are powerful and can help you.”
+- Oils + Elixiris: “Combine both oils/coatings and elixirs during combat for a dual benefit.”
+- Persuasion: “Try to avoid combat through dialogue if possible.”
+- Best tip section: “pre-buff with spells like Mirror Image, Shadow Blade, and Elixir of Hill Giant Strength. Next, crouch to enter stealth and start combat with Thunderous Smite to trigger the Surprised status effect. From this point, use your actions for melee attacks and trigger Divine Smite to deal extra damage. Use your bonus action for misty step and potions or consumables.”
 
-#### Level 12
-##### GAIN
-- Feat (Tough or War Caster).
-- Spells.
+## Alternative Build Route
+For the alternative Wizard build:
+- Start at Level 1 by taking a level in Hexblade Warlock.
+  - Early access to Eldritch Blast and Booming Blade.
+  - Proficiencies in medium armor, shields, and martial weapons.
+  - Improves early-game durability and makes frontline combat more manageable.
+  - If you’d rather wear traditional robes, “grab Mage Armour at Wizard Level 3 for a reliable defensive boost.”
+- While Bladesinging is the intended core of this guide, it recommends considering Evocation here instead “for its strong synergy with offensive cantrips and area-of-effect spells,” maximizing damage while minimizing friendly fire.
 
-##### PLAY STYLE (LEVEL 12)
-- Take **War Caster** to gain Advantage on Concentration saves, making it nearly impossible to lose *Haste*.
-- Your turn should be dedicated to maximizing damage (attack/cantrip combo) while maintaining your powerful concentration buff.
+Alternative Leveling Table:
+- Level 1 – Warlock
+  - Subclass: Hexblade
+  - Eldritch Blast, Booming Blade
+  - Hex, Shield
+- Level 2 – Wizard
+  - Firebolt, Mage Hand, Friends
+  - Chromatic Orb, Magic Missile, Longstrider, Shield, Thunderwave, Find Familiar
+- Level 3 – Wizard
+  - Subclass: Evocation
+  - Mage Armour
+  - Protection from Good and Evil
+- Level 4 – Wizard
+  - Misty Step
+  - Scorching Ray
+- Level 5 – Wizard
+  - Bursting Sinew
+  - Mirror Image
+  - Blur
+  - Feat: +2 Intelligence
+- Level 6 – Wizard
+  - Fireball
+  - Counterspell
+- Level 7 – Wizard
+  - Haste
+  - Glyph of Warding
+- Level 8 – Wizard
+  - Conjure Minor Elemental
+  - Ice Storm
+- Level 9 – Wizard
+  - Banishment
+  - Blight
+  - Shocking Grasp
+  - Feat: Spell Sniper
+- Level 10 – Wizard
+  - Conjure Elemental
+  - Cone of Cold
+- Level 11 – Wizard
+  - Toll of the Dead
+  - Hold Monster
+  - Confusion
+- Level 12 – Wizard
+  - Disintegration
+  - Globe of Invulnerability
 
-## Act-by-Act Add-ons
-
-### Act 1 — Best gear
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| Head | Circlet of Blasting | Grants the *Scorching Ray* spell. | Found in the basement of the Zhentarim Hideout. |
-| Cloak | Cloak of Protection | Grants +1 AC and +1 to all Saving Throws. | Sold by Quartermaster Talli at Last Light Inn (Act 2 location listed in source's Act 1 table). |
-| Gloves | Bracers of Defense | Grants +2 AC while not wearing armor. | Found in the Blighted Village basement. |
-| Boots | Disintegrating Night Walkers | Immunity to webs and forced movement. | Dropped by Kar'niss in the Shadow-Cursed Lands. |
-| Amulet | Amulet of Misty Step | Grants the *Misty Step* spell for easy repositioning. | Chest in the Defiled Temple (Goblin Camp). |
-| Rings | Ring of Protection | Grants +1 AC and +1 to all Saving Throws. | Reward for completing the Teahouse Quest. |
-| Weapon | Mourning Frost | Adds 1d4 Cold damage to attacks. | Crafted by combining three specific gems found in the Underdark. |
-| Two-Hander | - | - | - |
-| Ranged | Titanstring Bow | Adds your Strength modifier to the weapon's damage. | Sold by Brem in the Zhentarim Hideout. |
-
-### Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| Head | Helm of Balduran | Heals 2 HP per turn and grants +1 to Spell Save DC and Attack Rolls. | Found in the Dragon's Sanctum (Act 3 location listed in source's Act 2 table). |
-| Chest | Robe of the Archmage | Grants +2 AC and Advantage on Saving Throws. | Found in the House of Hope (Act 3 location listed in source's Act 2 table). |
-| Gloves | Bracers of Defense | Grants +2 AC while not wearing armor. | Found in the Blighted Village basement. |
-| Boots | Disintegrating Night Walkers | Immunity to webs and forced movement. | Dropped by Kar'niss in the Shadow-Cursed Lands. |
-| Amulet | Amulet of Greater Health | Sets your Constitution score to 23. | Found in the House of Hope (Act 3 location listed in source's Act 2 table). |
-| Rings | Killer's Sweetheart | Once per Long Rest, after killing an enemy, your next Attack Roll is a guaranteed Critical Hit. | Reward for the Gauntlet of Shar. |
-| Weapon | Duellist's Prerogative | Grants an extra reaction and increased critical hit range. | Reward for the "Save the Artist" quest (Act 3 location listed in source's Act 2 table). |
-| Two-Hander | - | - | - |
-| Ranged | Hellfire Hand Crossbow | Grants the *Hellish Rebuke* spell. | Dropped by Yurgir in the Gauntlet of Shar. |
-
-### Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| Head | Helm of Balduran | Heals 2 HP per turn and grants +1 to Spell Save DC and Attack Rolls. | Found in the Dragon's Sanctum. |
-| Chest | Robe of the Archmage | Grants +2 AC and Advantage on Saving Throws. | Found in the House of Hope. |
-| Gloves | Quickspell Gloves | Grants an extra bonus action that can be used to cast a cantrip. | Sold by a vendor in Sorcerous Sundries. |
-| Boots | Boots of Uninhibited Kushigo | Adds your WIS modifier to your damage rolls. | Sold by a vendor in Rivington. |
-| Amulet | Amulet of Greater Health | Sets your Constitution score to 23. | Found in the House of Hope. |
-| Rings | Ring of Spiteful Thunder | Electrocutes nearby enemies when you deal thunder or lightning damage. | Dropped by a specific enemy. |
-| Weapon | Duellist's Prerogative | Grants an extra reaction and increased critical hit range. | Reward for the "Save the Artist" quest. |
-| Two-Hander | - | - | - |
-| Ranged | The Dead Shot | Lowers the required score for a critical hit to 19. | Sold by a vendor. |
-
-## Permanent bonuses (by Act)
-- **Act 1**
-  - **Auntie Ethel's Hair** — Grants +1 to any ability score (use on INT).
-  - **Volo's Ersatz Eye** — Grants permanent +1 to Perception checks.
-- **Act 2**
-  - **Potion of Everlasting Vigor** — Grants a permanent +2 to Strength.
-  - **Mirror of Loss** — Grants a permanent +2 to an ability score (use on INT to reach 22).
-- **Act 3**
-  - (Not specified in source)
-
-## Best consumables / items (single-use)
-Consumables are essential for difficult encounters, allowing you to maximize your limited high-level resources and defensibility.
-
-- **Potion of Speed** — *The single best consumable for burst turns and AC.*
-  - **What it does:** Grants an extra action, +2 AC, advantage on Dexterity saves, and doubles movement for the turn.
-  - **Why it's strong:** Allows you to activate Bladesong, cast *Haste*, and still get a full turn of attacks/spells. It also grants +2 AC, stacking with Bladesong for maximum defense.
-  - **When to use:** Reserve for boss fights or high-stakes encounters where you need both maximum offense and defense immediately.
-
-- **Elixir of Vigilance** — *Guarantees you act first, allowing for crucial setup.*
-  - **What it does:** Grants a permanent **+5 Initiative** and prevents you from being Surprised (until Long Rest).
-  - **Why it's strong:** As a controller, going first is critical. It ensures you can cast *Haste* or a major control spell like *Hold Monster* before the enemies can act.
-  - **When to use:** Apply at the beginning of the day for important dungeon crawls or before major ambush scenarios.
-
-- **Superior Elixir of Arcane Cultivation** — *Provides an extra resource for high-level spells.*
-  - **What it does:** Grants an additional 6th level spell slot (until Long Rest).
-  - **Why it's strong:** Wizards are limited in their highest-level slots. This provides an extra use of *Disintegrate* or *Chain Lightning* when it matters most.
-  - **When to use:** Use on days where multiple boss fights or difficult encounters are expected.
-
-## Optional: Illithid powers (if using tadpoles)
-The Bladesinger benefits from powers that increase its burst damage potential and defensive capabilities without using up valuable spell slots.
-
-- **Luck of the Far Realms** — *Transforms damage into assured critical hits.*
-  - **What it does:** Allows you to use a reaction to turn any successful attack roll into a Critical Hit.
-  - **Why it synergizes:** You make many attack rolls with your melee weapon and the Cantrip replacement feature. Use this on a high-damage strike combined with a powerful buff to delete a priority target.
-
-- **Psionic Backlash** — *A powerful, resource-free counter-defense.*
-  - **What it does:** Deals Psychic damage to an enemy when they cast a spell against you.
-  - **Why it synergizes:** You are in melee, drawing more attention from enemy spellcasters. This punishes them for targeting the highly defensible Bladesinger without consuming your spell slot or reaction needed for *Shield*.
-
-## Optional: Alternative build route (from the guide)
-- **Bladesinger Wizard (10) / Fighter (2)**
-  - This route sacrifices the final Feat and the 6th level spell slot (losing *Disintegrate*).
-  - **GAIN:** Action Surge (an extra full action once per Short Rest) and the Great Weapon Fighting Style.
-  - **Why it's good:** Action Surge is arguably the strongest ability in the game. It allows you to cast a concentration spell (like *Haste*) and still get a full turn of attacks/cantrips in the same round, drastically boosting your opening burst potential.
+## Patch Changes
+### Patch 8
+- “Patch 8 of Baldur’s Gate 3 brings major changes to the Wizard class with the introduction of the Bladesinging subclass and the Booming Blade cantrip, offering a fresh, melee-oriented playstyle.”
+- Bladesingers “gain enhanced mobility, increased AC, and the ability to weave spells and swordplay together seamlessly.”
+- Booming Blade “delivering reliable, scaling melee damage,” encouraging a “skirmisher combat approach.”
+- Trade-off: “reduced focus on high-level spellcasting and utility compared to more traditional Wizard builds.”
+- Patch 8 also describes: 12 new subclasses including Bladesinging Wizard; introduces “new spell Shadow Blade, and Cantrip Booming Blade,” giving Wizard “a viable melee burst damage that can rival Barbarian’s Paladin’s and Fighter’s.”
