@@ -1,5 +1,4 @@
-# Lae’zel Companion Build (Battle Master Fighter)
-
+# Minsc Companion Build (Gloom Stalker Ranger)
 :contentReference[oaicite:0]{index=0}
 
 ## Table of Contents
@@ -21,279 +20,255 @@
 ## Build Snapshot
 
 ### Fantasy / Flavor
-- Lae’zel is a powerful Githyanki warrior who joins your party on your journey through the Sword Coast.
-- Lae’zel’s motivation for joining your party revolves around her mission to retrieve a stolen artifact.
-- Building Lae’zel as a Fighter, we will focus on using a two-handed weapon style and ultra-aggression to deal enormous damage.
+- Minsc is remembered for having a companion called Boo, who according to Minsc is a “Miniature Giant Space Hamster.”
+- A stealth-based Ranger build that uses low-light/dark conditions to ambush enemies.
+- High initiative, stealth, and big damage.
 
 ### Core Playstyle
-- Two-handed Fighter using Superiority Dice (Battle Manoeuvres) for control and damage, with aggressive melee pressure.
+- Single-target burst damage at range using a bow, focusing down priority targets and aiming to act first when combat begins.
 
 ### Party Role
-- Single-target damage
-- Crowd control
-- Durability
+- Ranged damage dealer
+- Stealth / ambush opener
+- Utility (mobility, situational spells)
 
 ### Pros
-- Amazing in Combat
-- Good Starting Gear Rewards
-- Flexibility in Build
+- Great Ranged Damage
+- Stealth and Invisibility
+- High Mobility
 
 ### Cons
-- Vulnerable to Spells
-- Aggressive Dialogue
-- No Magic Casting
+- Weak Area Damage
+- Requires Concentration
+- Low Durability
 
 ### Power Spikes
-- Level 2: Action Surge
-- Level 3: Battle Master subclass (Superiority Dice + Battle Manoeuvres)
-- Level 5: Extra Attack
-- Level 11: Improved Extra Attack
+- Level 3: Dread Ambusher, Umbral Shroud, Superior Darkvision
+- Level 5: Extra Attack, Misty Step, Spiked Growth
+- Level 11: Stalker’s Flurry
 
 ## Character Creation
-- Race: Githyanki
-- Class: Fighter
-- Subclass: Battle Master
-- Background: Soldier
+- Race: Human
+- Class: Ranger
+- Subclass: Gloom Stalker
+- Background: Outlander
 - Ability Scores:
-  - STR: 16
-  - DEX: 14
+  - STR: 10
+  - DEX: 16
   - CON: 16
   - INT: 8
-  - WIS: 10
+  - WIS: 14
   - CHA: 10
-- Proficiencies: Acrobatics and Perception
+- Proficiencies: Perception, Nature, and Insight
 
 ## Level Progression
 
 ### Level 1
 - Gain:
-  - Great Weapon Fighting
-  - Second Wind
+  - Favoured Enemy: Bounty Hunter
+  - Natural Explorer: Beast Tamer
 - Play Style:
-  - Rotation:
-    - Turn 1: Attack with a melee weapon.
-    - Turn 2+: Continue attacking with a melee weapon.
   - Notes:
-    - Aim to pick up a Greatsword right away.
-    - Your goal is to get a two-handed weapon.
-    - Ideally, during the prologue, you get the Everburn Blade and give it to Lae’zel.
-    - Use the medium armor you have until you find better heavy and get a crossbow.
-    - If you can, unlock Withers as early as level 2 just after the prologue, and respec Lae’zel for the correct ability score.
+    - Take Bounty Hunter: Favoured Enemy. Creatures you hit with Ensnaring Strike (either Ranged or Melee) have a Disadvantage on their Saving Throw.
+    - Take Beast Tamer as your Natural Explorer. You can cast a Find Familiar conjuration spell.
 
 ### Level 2
 - Gain:
-  - Action Surge
+  - Fighting Style: Archery
+  - Spells: Hunter’s Mark, Cure Wounds
 - Play Style:
-  - Rotation:
-    - Turn 1: Use Action Surge to gain one additional Action (often an additional attack).
-    - Turn 2+: Short Rest to replenish Action Surge.
   - Notes:
-    - Gameplay you now have a way to get two attacks in one turn along with a self-heal.
-    - Play aggressively and charge in.
-    - Don’t forget to equip a bow because you want some type of range weapon when melee isn’t an option because of distance.
+    - Take Archery to get a +2 to-hit chance when using Bows and Crossbows.
+    - Hunter’s Mark can be cast with a bonus action rather than an action.
+    - Other spells at this point cost actions and bonus actions or concentration which we will use for Hunter’s Mark.
 
 ### Level 3
 - Gain:
-  - Subclass: Battle Master
-  - Disarming Attack
-  - Trip Attack
-  - Riposte
+  - Subclass: Gloom Stalker
+  - Dread Ambusher
+  - Superior Darkvision
+  - Umbral Shroud
+  - Dread Ambusher: Hide
+  - Disguise Self
+  - Spell: Ensnaring Strike (ranged)
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
 - Play Style:
-  - Rotation:
-    - Turn 1: Use control manoeuvres (Disarming Attack / Trip Attack) as needed.
-    - Turn 2+: Continue crowd control and weapon damage; use Action Surge when you need another attack.
   - Notes:
-    - Superiority Dice are d8s; think of this as an additional resource that can be replenished during a Long Rest.
-    - You will also get to select three maneuvers which are attacks that consume superiority dice.
-    - Disarming Attack: Spend a superiority die to make an attack that deals an additional 1d8 damage and possibly forces the target to drop the weapons they are holding.
-      - You can disarm and even pick up the weapon immediately following preventing the enemy from using it.
-      - This doesn’t work on casters.
-    - Trip Attack: Spend a superiority die to make an attack that deals an additional 1d8 damage and possibly knocks the target Prone. The target must be Large or smaller.
-    - Riposte: When a hostile creature misses you with a melee attack, expend a superiority die to retaliate with a powerful strike that deals an additional 1d8 damage.
-    - You can also use Pommel Strike on a Greatsword to proc Daze as well.
-    - Short rest after every battle if possible to replenish your resources.
+    - The biggest is using Dread Ambusher and Umbral Shroud to conceal yourself.
+    - Your goal with this build is to proc the Surprised status effect by attacking from stealth first, then eliminating the primary target.
+    - Ensnaring Strike (ranged) is a “lockdown” ability when you are getting pressured; it uses an action and bonus action and requires concentration.
 
 ### Level 4
 - Gain:
-  - Feat: Great Weapon Master
+  - Feat: Sharpshooter
 - Play Style:
-  - Rotation:
-    - Turn 1: Initiate combat using your action first, saving your bonus action for a Great Weapons Master attack.
-    - Turn 2+: Focus on kills to get bonus action extra attack.
   - Notes:
-    - Great Weapon Master: When a melee attack scores a critical hit or kills a creature, you can make another melee attack as a bonus action.
-    - When attacking with Heavy Weapons you are proficient with, attack rolls take a -5 penalty, but their damage increases by 10.
-    - You can turn this off in the Passive section on your toolbar.
-    - Just go to passives and toggle GWM off, if you are in the 30% and want more consistent damage until a higher level.
-    - You are just one level away from an awe-inspiring Extra Attack.
+    - Sharpshooter ignores High Ground rules, and gives +10 damage but -5 to attack roll.
+    - Gameplay remains starting from stealth, opening up as the attacker, using Hunter’s Mark and your main bow attack.
+    - Use Ensnaring Strike when needed as crowd control.
 
 ### Level 5
 - Gain:
   - Extra Attack
+  - Spell: Spiked Growth
+  - Misty Step (free spell)
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
+  - Spiked Growth
+  - Misty Step
 - Play Style:
-  - Rotation:
-    - Turn 1: Attack twice with Extra Attack; if you kill an enemy or critical strike, attack again with Great Weapon Master.
-    - Turn 2+: Use Action Surge to attack another two times.
   - Notes:
-    - In one turn, you can attack twice with Extra Attack, kill an enemy or critical strike, and attack again with Great Weapon Master.
-    - You use Action Surge and attack another two times for a total of 5 in one turn.
-    - You can make it 7 by either using a potion of speed or having someone cast Haste on you.
-    - You need to use superiority dice and those attacks sparingly when the situation calls for it. Otherwise, just keep it simple and blast people with multiple attacks!
-    - Multiclass Options for Lae’zel: At level 5, you can decide to multiclass the Fighter with Lae’zel. Having completed Tactician, we highly recommend not doing so.
+    - Gameplay becomes about applying Hunter’s Mark with your bonus action and then striking for two turns due to Extra Attack.
+    - You can also use various elemental arrows for stuns, damage overtimes, and more.
+    - Cast additional spells when you need to prevent a target from reaching you.
 
 ### Level 6
 - Gain:
-  - Feat: Ability Improvement Strength (+2 Strength, total 18)
+  - Favoured Enemy: Ranger Knight (Gain History and heavy armour proficiency)
+  - Natural Explorer: Wasteland Wanderer: Cold (gain cold resistance)
 - Play Style:
-  - Rotation:
-    - Turn 1: Use Great Weapon Master (toggle on when percentages improve).
-    - Turn 2+: Use the spell Bless or have someone cast it on you for much higher percentages and big damage!
   - Notes:
-    - This will help us hit harder, and more likely to land attacks which is especially handy with Great Weapons Master.
-    - If you have this toggled off due to lower percentages of chances to strike, turn it back on.
+    - These aren’t that important, and mainly add skill proficiency or a cantrip you are most likely not to use.
+    - Gameplay and spells remain the same at this level.
 
 ### Level 7
 - Gain:
-  - Precision Attack
-  - Pushing Attack
-  - Superiority Dice: +1 (additional Superiority Dice)
+  - Spell: Lesser Restoration
+  - Iron Mind (Proficiency in Wisdom and Intelligence Saving Throws)
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
+  - Spiked Growth
+  - Lesser Restoration
 - Play Style:
-  - Rotation:
-    - Turn 1: Activate Precision Attack after long resting for a big opener next fight.
-    - Turn 2+: Use Pushing Attack for knockbacks and ledge kills when available.
   - Notes:
-    - Precision Attack: Your next weapon attack gets an Attack Roll bonus equal to your Superiority Die.
-      - The nice thing about this attack is it doesn’t require an action, just a superiority die resource.
-      - As soon as you get done long resting, you can activate it immediately for a big opener next fight.
-    - Pushing Attack: Spend a superiority die to deal damage type depending on the weapon used and possibly push the target back 4.5m.
-      - You can get many kills from knocking enemies off ledges.
+    - We recommend going with Lesser Restoration.
 
 ### Level 8
 - Gain:
-  - Feat: Alert
+  - Land’s Stride
+  - Feat: Ability Improvement (+2 Dexterity to 18)
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
+  - Spiked Growth
+  - Lesser Restoration
 - Play Style:
-  - Rotation:
-    - Turn 1: Open up with the Fighter to crowd control, or kill multiple targets.
-    - Turn 2+: Use high Initiative positioning to reduce incoming damage.
   - Notes:
-    - Alert: You gain a +5 bonus to Initiative and can’t be Surprised.
-    - The weakness of the Fighter is going way later in the round.
-    - In some fights, particularly dialogue-based consequences later in Acts 2 and 3, you will be surprised after a conversation with combat starting immediately.
-    - Without this benefit, your entire team will miss one turn. With Alert, you can’t be Surprised.
+    - The gameplay remains unchanged, use multi-attack, hunter’s mark and cast spells to crowd control targets.
 
 ### Level 9
 - Gain:
-  - Indomitable
+  - Subclass Spell: Fear
+  - Spells: Lightning Arrow, Stoneskin (replace Lesser Restoration)
 - Play Style:
-  - Rotation:
-    - Turn 1: Continue standard Fighter attacks and manoeuvres as needed.
-    - Turn 2+: Use Indomitable automatically when a Saving Throw is failed (feature effect).
   - Notes:
-    - Whenever you fail a Saving Throw, you can roll again, using the new result instead.
+    - Fear isn’t that useful of a skill unless you are trying to either run away or lock down a group in an area; it requires an action and concentration.
+    - Lightning Arrow is very high damage, but it’s in melee range; you can use this as a bonus action and keep your action.
+    - Stoneskin lasts until a long rest and requires concentration; this is ideal when you 100% know you are going into a high-damage situation and need survival.
+    - Many skills require concentration and you can only have one active; experiment for more damage or survivability.
 
 ### Level 10
 - Gain:
-  - Sweeping Attack
-  - Goading Attack
-  - Improved Superiority Dice (Superiority Dice become 1d10)
+  - Hide in Plain Sight (Class Feature)
+  - Favoured Enemy: Mage Breaker (Arcana proficiency and can cast True Strike)
+  - Natural Explorer: Urban Tracker (Proficiency in Sleight of Hand)
 - Play Style:
-  - Rotation:
-    - Turn 1: Use Sweeping Attack when you need area-based AOE damage.
-    - Turn 2+: Use Goading Attack when a Wizard or spellcaster is getting harassed by a damage dealer.
   - Notes:
-    - Sweeping Attack: Swing your weapon in a rapid, sweeping arc to attack multiple enemies at once. Roll your superiority die for damage.
-    - Goading Attack: Deal an additional 1d8 and attempt to goad the target into attacking you. Target receives Disadvantage on attacking any other creature.
+    - Use Hide in Plain Sight before combat and unload during turn one, or use it for out-of-combat sneaking and stealing.
+    - Mage Breaker is somewhat useful for getting True Strike cantrip; you can flex it out for skill proficiency of your choice.
+    - Urban Tracker helps the class utility by gaining Sleight of Hand without using a Rogue.
 
 ### Level 11
 - Gain:
-  - Improved Extra Attack
+  - Stalker’s Flurry (Subclass Feature)
+  - Spell: Conjure Barrage
 - Play Style:
-  - Rotation:
-    - Turn 1: Use your action-heavy kit (multiple attacks + Action Surge + Great Weapon Master bonus action).
-    - Turn 2+: Add Haste / Potion of Speed when available for additional actions.
   - Notes:
-    - Improved Extra Attack: You can make two additional attacks after attacking with your main-hand weapon.
-    - This makes the Fighter the most action-heavy class and build in BG3.
-    - With Great Weapon Master, you can use your bonus action for another attack.
-    - Not to mention the additional action you’ll get if someone casts Haste on you, or you use a Potion of Speed.
+    - Stalker’s Flurry: When you miss a weapon attack, you can make another weapon attack for free.
+    - Conjure Barrage helps because we lack any type of area damage, and it doesn’t require concentration.
+    - You can combo Conjure Barrage with Lightning Arrow because Lightning Arrow is a bonus action spell.
 
 ### Level 12
 - Gain:
-  - Feat: Ability Improvement Strength (+2 Strength, total 20)
+  - Feat: Ability Improvement (+2 Dexterity to 20)
 - Play Style:
-  - Rotation:
-    - Turn 1: Continue action-heavy Fighter turns (attacks + Action Surge + Great Weapon Master).
-    - Turn 2+: Use Potion of Speed / Haste when needed.
   - Notes:
-    - Improving our Strength to 20 is the play with this feat.
+    - At this level, you will have a lot of damage, spells, utility and even crowd control.
 
 ## Act 1 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Grymskull Helm | Critical Hit Protection | Defeat Grym, a construct boss in The Adamantine Forge |
-| Cape | - | - | - |
-| Chest | Adamantine Splint Armour | 18 AC | Crafted at Grymforge |
-| Gloves | Gloves of the Growling Underdog | Advantage on Melee | Chest behind Razglin’s throne room. (X:295 Y:69) |
-| Boots | Disintegrating Night Walkers | Mobility | Obtained in Gyrmforge as part of Free True Soul Nere questline |
-| Necklace | Moondrop Pendant | No Opportunity Attacks | Sealed chest inside the Owlbear Nest |
-| Ring | Crusher’s Ring | Increase Movement | Can be looted or stolen from Crusher in the Goblin camp |
-| Ring | Caustic Band | Poison Damage | Obtained from merchant Derryth Bonecloak in the Myconid Colony |
-| Weapon 1 (Main Hand) | Sword of Justice | 2d6 Slashing | Looted from Anders near Karlach |
-| Weapon 2 (Ranged) | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout Act 1 |
+| Weapon 2 | Blood of Lathander | Automatic Revive | Act 1 and 2 quest |
+|  |  |  |  |
 
 ## Act 2 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Cape | Fleshmelter | Return Damage | Found in Chest in House of Healing Morgue |
-| Ring | Killer’s Sweetheart | Auto Crit | Obtained from the Gauntlet of Shar in Act 2 |
-| Weapon 2 (Ranged) | Darkfire Shortbow | Best Longbow | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 |
+| Cape | Cloak of Protection | +1 AC and Saving Throws | Sold by Talli Quartermaster at Last Light Inn, Act 2 |
+| Necklace | Surgeon’s Subjugation Amulet | Stun on Crit | Looted from Malus Thorm at the House of Healing, Act 2 |
+| Ring | Killer’s Sweetheart | Auto Critical | Found in Self-Same Trial inside Gauntlet of Shar |
+| Weapon 2 | Blood of Lathander | Automatic Revive | Act 1 and 2 quest |
+|  |  |  |  |
 
 ## Act 3 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Helm of Balduran | Self-healing | Obtained in Dragon’s Sanctum on an altar X: 636 Y: -964 |
-| Cape | Fleshmelter | Return Damage | Found in Chest in House of Healing Morgue |
-| Chest | Helldusk Armour | 21 Armour Class | Dropped by Raphael in the House of Hope |
-| Gloves | Gauntlets of Hill Giant Strength | 23 Strength | Obtained in Archive of the House of Hope |
-| Boots | Helldusk Boots | Mobility | In a locked chest, Wyrm’s Rock Fortress X: -32 Y: 219 |
-| Necklace | Amulet of Greater Health | 23 Constitution | Found in the House of Hope in Baldur’s Gate City |
-| Ring | Killer’s Sweetheart | Auto Crit | Obtained from the Gauntlet of Shar in Act 2 |
-| Ring | Ring Of Regeneration | Self-healing | Sold by Rolan at Sorcerous Sundries |
-| Weapon 1 (Main Hand) | Balduran’s Giantslayer | Best Greatsword | Obtained as a reward for completing the Wyrmway trials |
-| Weapon 2 (Ranged) | Darkfire Shortbow | Best Longbow | Sold by trader Damon Act 2 Last Light Inn X: -35 Y: 169 |
+| Head | Helm of Balduran | Cannot be Stunned | Found in Dragon’s Sanctum, Act 3 |
+| Cape | Cloak of Protection | +1 AC and Saving Throws | Sold by Talli Quartermaster at Last Light Inn, Act 2 |
+| Chest | Helldusk Armour | 21 AC | Looted from fighting Raphael House of Hope |
+| Gloves | Legacy of the Masters | +2 Attack Roll | Sold by Dammon in Lower City, Forge of the Nine |
+| Boots | Helldusk Boots | Cannot be Moved | Wyrm’s Rock Fortress, Act 3 |
+| Necklace | Surgeon’s Subjugation Amulet | Stun on Crit | Looted from Malus Thorm at the House of Healing, Act 2 |
+| Ring | Killer’s Sweetheart | Auto Critical | Found in Self-Same Trial inside Gauntlet of Shar |
+| Ring | Ring of Regeneration | Self-healing | Purchased at Lorroakan’s Projection |
+| Weapon 1 | Gontr Mael (Bow) | Best Bow | Looted from the Steel Watcher Titan in Steel Watch Foundry |
+| Weapon 2 | Blood of Lathander (Mace) | Automatic Revive | Act 1 and 2 quest |
+| Weapon 2 | Viconia’s Walking Fortress (Shield) | +3 AC | Looted from Viconia |
+|  |  |  |  |
 
 ## Features and Mechanics
-- Race: Githyanki
-- Background: Soldier
-- Primary Ability: Strength
-- Class: Fighter
-- Proficiencies: Acrobatics, Arcana, Athletics, Intimidation, Survival
-- Origin Character: Yes
-- Romance: Yes
-- Location: The Ravaged Beach – north of the Roadside Cliffs, Act 1
-- Your companion can be respecced or rerolled early in the game. This means you can change their class, subclass, ability score, and more. The only feature that cannot be adjusted is their race and story.
-- We suggest using Withers at Camp after he’s unlocked to optimize the build.
-- Battle Master will give you three passives you can pick from, along with 4 Superiority Dice.
-- Superiority Dice are attack resources like spell slots for the Fighter and can be replenished during a short rest.
-- This mechanic adds attacks with greater utility, such as strikes which can disarm opponents or deal AoE damage.
+- Class: Ranger
+- Race: Human
+- Background: Unknown
+- Subclass: Reroll to Gloom Stalker
+- Primary Ability: Dexterity
+- Weapon Proficiencies: Simple Weapons, Martial Weapons
+- Extra Attack: Can make an additional free attack after making an unarmed or weapon attack (acquired at level 5)
+- Spell Casting: The Ranger gets some limited spells to cast but can combine that with consequential ranged damage
+- Umbral Shroud: Wrap yourself in shadows to become Invisible if you are obscured
+- Dread Ambusher: Gain a +3 bonus to Initiative. On the first combat turn, your movement speed increases by 3m, and you can make an attack that deals an additional 1d8 damage
+- Ranger Spell Mechanics:
+  - Cantrips: Similar to spells, but you can cast them infinitely, and they don’t take your spell slots
+  - Spell Slots: A resource required for casting spells that you can recover with a Long Rest
+  - Concentration: Some spells require concentration; you only want a limited number of spells that require concentration and one active at a time
+- Recruitment requirements and warning:
+  - Minsc cannot be recruited until Act 3, and you also must have recruited Jaheira first
+  - DO NOT kill Minsc; make sure your final hit on him is a non-lethal one, or else he will die and Jaheira will leave your party
 
 ## Subclass Options
-### Fighter Subclasses
-- Battle Master: A more versatile subclass for the Fighter. Battle Masters use Superiority Dice and Battle Manoeuvres for control and damage.
-- Champion: The most straightforward subclass for the Fighter. This subclass gives a bonus to critical damage.
-- Eldritch Knight: A subclass that combines the martial prowess of the Fighter with the spellcasting ability of the Wizard.
-- Arcane Archer: Focused on ranged combat with Arcane Arrows adding a wide array of damage types to the Fighter’s arsenal.
+### Favoured Enemy
+- Level 1: Bounty Hunter
+- Level 6: Ranger Knight
+- Level 10: Mage Breaker
 
-### Battle Master Features and Progression
-- Superiority Dice: 4 (Level 3): Your Superiority Dice are d8s. You have 4. They fuel your Battle Master manoeuvers and are expended upon use. You regain expended Superiority Dice after a Short or Long Rest.
-- Battle Manoeuvers (Level 3): Manoeuvers are powerful attacks that use superiority dice. You can choose three.
-- Battle Manoeuvers (Level 7): Manoeuvers are powerful attacks that use superiority dice. You can choose two more
-- Superiority Dice: +1 (Level 7): Gain an additional Superiority Dice
-- Battle Manoeuvers (Level 10): Manoeuvers are powerful attacks that use superiority dice. You can choose two more
-- Improved Superiority Dice (Level 10): The size of your Superiority Dice increases to 1d10.
+### Natural Explorer
+- Level 1: Beast Tamer
+- Level 6: Wasteland Wanderer: Cold
+- Level 10: Urban Tracker
 
 ## Best Consumables
-- Elixir of Hill Giant Strength: Increases Strength ability score to 21 until Long Rest.
 - Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
 - Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
 - Drow Poison: Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
@@ -302,7 +277,13 @@
 - Potion of Greater Healing: 4d4 + 4 hit points restored.
 - Oil of Accuracy: Coat Weapon. Bonus of +2 in Attack Rolls.
 - Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
-- Elixir of Darkvision: (only non-Darkvision race): Drink to gain the ability to see in the dark up to 12m.
+- Ammunition:
+  - Arrow of Ice: Deals weapon damage + 2d4 Cold and creates ice surface for 2 turns in a 2m radius.
+  - Arrow of Roaring Thunder: Deals weapon damage, knocks back 5 meters if failed strength throw.
+  - Arrow of Many Targets: Deals weapon damage and an additional half of that damage to three other targets in range.
+  - Arrow of Dragon/Aberration/Humanoid: Deals weapon damage, and double damage against Dragon, Aberration, or Humanoid.
+  - Arrow of Salving: Cures a target of poisoned, paralyzed, and blinded conditions.
+  - Arrow of Transposition: teleports the shooter wherever this arrow is fired.
 
 ## Permanent Bonuses
 ### Act 1
@@ -314,64 +295,43 @@
 ## Illithid Powers
 
 ## Gameplay Tips and Tricks
-- Lae’zel Gameplay & Priorities (early phase):
-  - Complete Prologue
-  - Recruit Other Companions
-  - Reached Hollowed City/Druid Grove
-  - Sell, Stock up, complete quest
-  - Unlock Withers, respec to proper ability score
-  - Progress to level 5
-  - Reach Underdark and Grymforged
-- During the early phase of BG3, Lae’zel as a two-handed Fighter will be very strong.
-- Your primary goal is to find a back-bar ranged weapon at the start of the game.
-- The Heavy Crossbow or Longbow is great until you reach level 5 with the Misty Step spell.
-- Look to acquire Elixir of Hill Giant Strength and Oil of Accuracy. You can combine these two for huge damage increases.
-- 10 combat gameplay tips and tricks:
-  1. Initial Turn: Make sure your initial move either puts you in melee range so you can strike or attack with a range weapon.
-  2. Bonus Action: Make use of your bonus action with skills like Pommel or even shove to knock back enemies.
-  3. Potion of Speed: Use these potions to gain more movement and additional action.
-  4. Long Rest: Make sure to rest when your Superiority Dies counters are low so you start with many available.
-  5. Equip Range: Find and equip a bow early because it will increase your kill potential and take advantage of the fighter’s weapon versatility.
-  6. Make use of Action Surge: Save Action Surge for critical moments in combat or to gain an advantage over tough opponents.
-  7. Action and Bonus Actions: Use your bonus action for potions, Great Weapon Master, or apply Oils to weapons.
-  8. Maximize your Attacks: Use Action Surge in conjunction with Bloodlust and Potion of Speed for 4 Actions in 1 turn.
-  9. Weapon Selection: Consider Greatswords, Longbows, and Heavy Crossbows as the best weapons for Lae’zel.
-  10. Utilize Maneuvers: Use Maneuvers frequently and always short rest to replenish the resources post-combat.
+- Mobility: Rangers are very mobile, so use this to your advantage in combat. Use high movement offensively and defensively to position for better attacks and to get out of danger.
+- Stealth: Use stealth to sneak up on enemies and get the drop on them; especially useful in boss fights to deal damage before the enemy knows you’re there.
+- Spell Timing: Use spells wisely to buff allies, debuff enemies, and deal damage, but know they are limited and should be used when needed most.
+- Prepare: Recharge spells with Long Rest; always have potions, elemental arrows, and Speed Potions ready.
+- Environment: If overwhelmed, Dash to create more movement, line of sight of the enemy, and get in stealth to lose aggro and hopefully open with a damage ability or heal.
+- Exploit Vulnerabilities: Use different arrows to exploit enemy weaknesses (example given: Fire Arrows vs fire-vulnerable enemies; Acid Arrows vs foes with high armor).
+- Build priorities:
+  - Unlock Minsc and respec to a proper build
+  - Equip one hand and shield for better AC
+  - Playing at range with Longbow is preferred
+  - Find the Legendary Bow
+  - Keep to Medium Armour unless you have Helldusk via House of Hope
+  - Stack 3 consumables during combat for insane damage (Hill Giant Strength, Potion of Speed, and Oil of Accuracy)
+  - Follow the rest of the leveling suggestions outlined below
 
 ## Alternative Build Route
-- Alternative Lae’zel Fighter Build – Spellcaster Playstyle:
-  - Consider transitioning her into an Eldritch Knight build with a splash of Warlock.
-  - By taking 11 levels in Fighter (Eldritch Knight) and dipping 1 level into Hexblade Warlock at Level 12, you unlock a wealth of spellcasting versatility without compromising her martial dominance.
-  - While Warlock relies on Charisma, and Lae’zel is not built for it naturally, the sheer utility this dip offers makes it a worthwhile trade.
-  - You’ll still have enough feat flexibility to reach 20 Strength and pick up Great Weapon Master, preserving your raw melee power.
-  - Furthermore, if you start with 17 Strength during character creation and plan to secure Auntie Ethel’s +1 bonus in Act 1, hitting 20 Strength is easy and efficient.
-- Alternative Build Leveling (11 Fighter Eldritch Knight / 1 Warlock Hexblade):
-  - Level 1: Fighter — Great Weapon Fighting
-  - Level 2: Fighter — –
-  - Level 3: Fighter — Subclass: Eldritch Knight, Booming Blade, Friends, Shield, Thunderwave, Longstrider
-  - Level 4: Fighter — Feat: +2 STR, Chromatic Orb
-  - Level 5: Fighter — –
-  - Level 6: Fighter — Feat: Great Weapon Master
-  - Level 7: Fighter — Darkness, Gust of Wind
-  - Level 8: Fighter — Feat: Savage Attacker, Misty Step
-  - Level 9: Fighter — –
-  - Level 10: Fighter — Firebolt, Protection from Good and Evil
-  - Level 11: Fighter — Scorching Ray
-  - Level 12: Warlock — Hexblade Subclass, Eldritch Blast, Toll of the Dead, Hexed, Hellish Rebuke
+- Starting at Level 5, multiclass into Rogue; later invest a few levels into Fighter.
+- This path increases overall defense and survivability, and grants access to Action Surge.
+- At Level 12, choosing the Champion subclass provides the Improved Critical Hit passive, which synergizes with other effects to reduce the roll needed for a critical hit.
+
+### Alternative Level Progression
+- Level 1: Ranger — Wasteland Wanderer: Cold, Bounty Hunter
+- Level 2: Ranger — Fighting Style: Archery, Spells: Hunter’s Mark, Longstrider
+- Level 3: Ranger — Subclass: Gloom Stalker, Spell: Ensnaring Strike
+- Level 4: Ranger — Feat: Sharpshooter
+- Level 5: Ranger — Lesser Restoration
+- Level 6: Rogue — Skill Proficiency: Acrobatics, Skill Expertise: Sleight of Hand, Stealth
+- Level 7: Rogue — Cunning Actions
+- Level 8: Rogue — Subclass: Assassin
+- Level 9: Rogue — Feat: Ability Improvement Dexterity
+- Level 10: Fighter — Fighting Style: Defense
+- Level 11: Fighter — Action Surge
+- Level 12: Fighter — Subclass: Champion
 
 ## Patch Changes
 ### Patch 8
-- Patch 8 brings a major shake-up to Baldur’s Gate 3, introducing 12 new subclasses that dramatically expand the possibilities for character customization.
-- One of the biggest winners from this update is the Eldritch Knight Fighter, who now benefits immensely from access to the Booming Blade cantrip.
-- Another standout change is the emergence of a new powerhouse multiclass option: Fighter/Warlock.
-- Combining Eldritch Knight with a one-level dip into Hexblade Warlock offers a flexible and potent alternative to the classic Fighter/Paladin synergy.
-- While we still recommend the pure Battle Master Fighter for players who enjoy a more direct, martial-focused experience, the new subclass and multiclass options are worth serious consideration.
-- For those wanting to enhance their magical toolkit without straying too far from the Fighter’s strengths, the 11/1 Fighter-Hexblade split hits a sweet spot.
-- You only sacrifice one feat, but still have room to reach 20 Strength and take Great Weapon Master.
-
-### Patch 7
-- The release of Patch 7 for Baldur’s Gate 3 only impacted Lae’zel with minor bug fixes and dialogue additions.
-- Lae’zel’s Fighter build, combat, and gameplay elements remained untouched.
-- Larian Studios’ main focus in this patch is mods and with new cinematics for evil endings.
-- The game now features a modding toolkit and an in-game mod manager, allowing players to create and install mods directly within the game.
-- This best Lae’zel Build Guide remains unchanged, mainly in Baldur’s Gate 3 Patch 7.
+- Patch 8 adds new subclasses for every core class; for Ranger, the new option is the Swarmkeeper.
+- Swarmkeeper signature ability: Prey’s Scent, which significantly enhances Hunter’s Mark in unique and potent ways.
+- A combo mentioned: pairing Moth Attacks with the Resonance Stone found in Act 2, resulting in a major boost to psychic damage output.
+- Despite Swarmkeeper utility, the guide considers Gloom Stalker to be the superior subclass for this Minsc build.
