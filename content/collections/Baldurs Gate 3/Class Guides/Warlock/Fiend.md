@@ -1,308 +1,481 @@
-# Fiend Warlock Build (Patch 8)
+# Warlock Fiend Build Guide
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Warlock 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+[Source PDF](:contentReference[oaicite:0]{index=0})
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Fantasy / flavor
-- The Warlock uses a Cantrip for its primary damage source and has light armour proficiency.
-- They are simplistic spellcasters and play like a hybrid based on the subclass and choices during the leveling process.
-- The Fiend subclass provides a unique bonus when killing enemies, making it a highly survivable subclass in combat.
+## Build Snapshot
 
-### Core playstyle in one sentence
-- **Use your potent Cantrip** (*Eldritch Blast*) as your main source of damage while leveraging the Fiend's gift to gain temporary hit points for high survivability after defeating enemies.
+### Fantasy / Flavor
+- The Warlock is known for their cunning and charisma.
+- Skilled negotiators and manipulators who can use their powers to get what they want, even if it means bending the rules or crossing moral boundaries.
+- The Fiend gives a unique bonus when killing enemies, making it a highly survivable subclass.
 
-### Party role
-- **Cantrip-Focused Damage Dealer:** High sustained single-target damage with *Eldritch Blast*.
-- **Tanky Caster/Survivability:** Due to Dark One's Blessing, they are difficult to kill, acting as a sturdy mid-line caster.
+### Core Playstyle
+- Hex and Eldritch Blast repeatedly.
+- Leave spell slots for Hellish Rebuke (reaction) and other limited, high-impact casts; short rest often to recover spell slots.
 
----
+### Party Role
+- Ranged damage dealer (cantrip-focused).
+- Crowd control and area damage via select spells.
+- High Charisma lead for conversations.
 
-## Character creation
+### Pros
+- Short Rest recovery
+- Simplicity Cantrip Caster
+- Durable Hit Die
 
-### Race
-- **Asmodeus Tiefling**: Provides *Produce Flame* and *Hellish Rebuke*, adding utility and a reaction damage option.
-- **Half-Elf**: Provides shield proficiency for better AC and an additional Cantrip.
+### Cons
+- Limited Spell Slots
+- Short Range
+- Limited Spell Variety
 
-### Starting stats (Recommended spread)
-- **Primary:** Charisma (CHA)
-- **Secondary:** Constitution (CON)
-- **Tertiary:** Dexterity (DEX)
+### Power Spikes
+- Level 2: Eldritch Invocations (Agonizing Blast; Armour of the Shadows).
+- Level 5: Fireball; Repelling Blast; Deepened Pact.
+- Level 11: Mystic Arcanum (Level 6 spell once per Long Rest).
 
-| Stat | Value | Rationale |
-| :--- | :--- | :--- |
-| **STR** | 8 | Dump stat; not required for Warlock spells or weapons. |
-| **DEX** | 14 | Improves AC and Initiative. |
-| **CON** | 15 | Improves HP and Concentration Saves, critical for casters. |
-| **INT** | 10 | Useful for dialogue or ability checks. |
-| **WIS** | 12 | Improves Perception and Wisdom saving throws. |
-| **CHA** | 17 | **Your primary spellcasting ability; max this first.** |
+## Character Creation
+- Race: High Half-Elf
+- Subrace: High Half-Elf
+- Class: Warlock
+- Subclass: The Fiend
+- Background: Charlatan
+- Ability Scores: STR 8, DEX 16, CON 14, INT 10, WIS 10, CHA 16
+- Proficiencies:
+  - Saving Throw: Charisma and Wisdom
+  - Armor Proficiency: Light Armour
+  - Weapon Proficiency: Simple Weapons
+  - Preferred Armor: Clothing
+  - Preferred Weapon: Quarterstaff
+  - Racial Bonus: Civil Militia, Darkvision, Fey Ancestry
+  - Skill Proficiencies (Character Creation table): Deception, Arcana
+  - Background note: Charlatan gives proficiency in Deception and Sleight of Hand
+  - Recommended skills text: Intimidation and Arcana are the best skills to invest in
 
-### Skill proficiencies
-- **Insight** (WIS): Useful for spotting traps and reading characters.
-- **Intimidation** (CHA): Uses high Charisma for aggressive dialogue options.
-- **Arcana** (INT): Useful for identifying magical items and lore checks.
-
-### Background
-- **Guild Artisan**: Grants proficiency in Insight and Persuasion.
-- **Sage**: Grants proficiency in Arcana and History, fitting the magical scholarly flavor.
-
----
-
-## Level-by-level progression (Warlock 1 → 12)
+## Level Progression
 
 ### Level 1
-
-#### GAIN
-- Class: Warlock, Subclass: **Fiend**
-- Subclass Feature: **Dark One's Blessing**
-- Cantrips (2), Spells (2), Spell Slots (1st level)
-
-#### PLAY STYLE (LEVEL 1)
-- **Prioritize:** Getting a kill or dealing high damage with the *Eldritch Blast* Cantrip.
-- **Resource Spending:** Use your few spell slots for high-impact single-target removal or utility. Immediately focus on securing kills to gain Temporary HP from **Dark One's Blessing**.
-- **Typical Turn:** Cast *Eldritch Blast* every turn to deal damage and maintain battlefield presence.
+- Gain:
+  - Subclass: The Fiend (Dark One’s Blessing)
+  - Cantrips: Eldritch Blast, Blade Ward
+  - Spells: Hex, Hellish Rebuke
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast (repeat; reapply Hex as needed)
+  - Notes:
+    - Hellish Rebuke is reaction-based; set passives to “ask” so you don’t spend spell slots on low-health targets.
+    - “You want to either use clothing (no armor), and a Quarterstaff but mainly rely on ranged damage and not play in melee.”
+    - Priority list:
+      - Complete Prologue
+      - Recruit Companions
+      - Reached Druid Grove
+      - Sell, Stock up, complete quest
+      - Unlock Withers, respec to proper ability score
+      - Progress to level 5
+      - Reach Underdark and Grymforge
 
 ### Level 2
-
-#### GAIN
-- Feature: **Eldritch Invocations** (2 choices)
-- Spell Slots (1st level)
-
-#### PLAY STYLE (LEVEL 2)
-- **Prioritize:** Selecting **Agonizing Blast** to add your Charisma modifier to *Eldritch Blast* damage—this is the core of the build's power spike.
-- **Resource Spending:** Select **Repelling Blast** to push enemies away, giving you safe distance or pushing them into environmental hazards.
-- **Typical Turn:** Focus on using *Eldritch Blast* to both damage and control the distance between you and enemies.
+- Gain:
+  - Eldritch Invocations:
+    - Agonizing Blast (add your Charisma modifier to Eldritch Blast damage, unless negative)
+    - Armour of the Shadows (cast Mage Armour at will without expending a spell slot)
+  - Spell: Armour of Agathys
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Armour of Agathys
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; cast Mage Armour (Armour of the Shadows) as needed (at will)
+  - Notes:
+    - “If you do not want to wear clothes and prefer light armour, take Repelling Blast.”
+    - “Mainly Hex, Eldritch Blast, and cast spells limitedly.”
 
 ### Level 3
-
-#### GAIN
-- Feature: **Pact Boon** (Pact of the Blade)
-- Spell Slots (2nd level)
-- Spells: Level 2 spells unlocked (*Misty Step* or *Hold Person*)
-
-#### PLAY STYLE (LEVEL 3)
-- **Prioritize:** Using new 2nd level spells like *Misty Step* for superior mobility and positioning, or *Hold Person* for single-target lockdown.
-- **Resource Spending:** Use your 2nd level slots wisely, as you still only have two slots per Short Rest. **Pact of the Blade** offers utility but doesn't change the Cantrip-focused casting rotation.
-- **Typical Turn:** Maintain Cantrip rotation, using a powerful 2nd-level spell to remove a threat or secure a critical kill to gain Temporary HP.
+- Gain:
+  - Spell: Mirror Image
+  - Spell: Misty Step (also replaces Armour of Agathys per the level 3 instructions)
+  - Pact Boon: Pact of the Chain (familiar such as an animal, imp, or quasit)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; use Misty Step (bonus action) for repositioning; use Mirror Image when anticipating pressure
+  - Notes:
+    - Mirror Image: “boosts your overall AC to 21” and is “a spellcaster’s defensive priority.”
+    - Pact of the Chain note: “this early the Imp can do some big damage and handle pressure for you.”
+    - Alternatives mentioned: Pact of the Tome (additional spells later), Pact of the Blade (for melee-type Warlocks; “this build is not”).
 
 ### Level 4
-
-#### GAIN
-- Feat: **Ability Improvement** (ASI)
-- New Cantrip and Spell
-
-#### PLAY STYLE (LEVEL 4)
-- **Prioritize:** Taking **Ability Improvement** to raise CHA, which is critical for maximizing *Eldritch Blast* damage and increasing your spell save DC.
-- **Resource Spending:** Your spells are now significantly harder to resist. Continue the Cantrip rotation, ensuring your main damage source hits reliably.
-- **Typical Turn:** Full offense with *Eldritch Blast*, using leveled spells only when the high-DC save is necessary to disable a powerful enemy.
+- Gain:
+  - Spell: Scorching Ray
+  - Feat: Ability Improvement (Increase Charisma to 18)
+  - Cantrip: Mage Hand
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; use Scorching Ray for single-target damage when needed
+  - Notes:
+    - Mage Hand is described as a utility cantrip for outside-of-combat actions and thievery.
 
 ### Level 5
-
-#### GAIN
-- Feature: **Deepened Pact**
-- Spell Slots (3rd level)
-- Spells: Level 3 spells unlocked (*Fireball* or *Hypnotic Pattern*)
-
-#### PLAY STYLE (LEVEL 5)
-- **Prioritize:** Massive power spike: *Eldritch Blast* now fires two beams, effectively doubling your Cantrip damage.
-- **Resource Spending:** Use Level 3 spell slots for powerful AoE spells like *Fireball* or encounter-ending control spells like *Hypnotic Pattern*.
-- **Typical Turn:** Open with a leveled spell against a group, then use the now-doubled *Eldritch Blast* to clean up remaining targets.
+- Gain:
+  - Spell: Fireball
+  - Eldritch Invocation: Repelling Blast (push target up to 4.5m when hit with Eldritch Blast)
+  - Class Feature: Deepened Pact
+    - Pact of the Chain’s familiar gains an extra attack
+    - Pact of the Tome warlocks can cast Animate Dead, Haste, and Call Lightning once per long rest
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+  - Fireball
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; Fireball for area-based damage; use Repelling Blast knockback to knock enemies off ledges
+  - Notes:
+    - “Short rest frequently.”
+    - “Haste is the best, giving extra action per turn to you or anyone you cast it on.”
 
 ### Level 6
-
-#### GAIN
-- Subclass Feature: **Dark One's Own Luck**
-- New Spell
-
-#### PLAY STYLE (LEVEL 6)
-- **Prioritize:** **Dark One's Own Luck** is a powerful defensive tool. Use your reaction to add a d10 to a failed Ability Check or Saving Throw once per Short/Long Rest.
-- **Resource Spending:** Use this reaction to avoid critical enemy effects (like *Hold Person*) or secure key dialogue checks. This feature increases your overall reliability significantly.
-- **Typical Turn:** Maintain normal attack rotation, but be ready to use your reaction to save yourself from a debilitating condition.
+- Gain:
+  - Spell: Counterspell
+  - Subclass Feature: Dark One’s Own Luck (add 1d10 to an Ability Check once per Short Rest; toggled via passives/reactions)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+  - Fireball
+  - Counterspell
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; react with Hellish Rebuke or Counterspell depending on the threat
+  - Notes:
+    - Counterspell is a reaction; “be careful you don’t want to use all your spell slots.”
+    - “Use Hellish Rebuke to return fire and Counterspell when you just cannot let a spell pass that will significantly hinder your team.”
+    - Ending Act 1 notes:
+      - “visit merchants and stock up on camp and alchemy supplies.”
+      - “make sure to find the best Act 1 items.”
+      - “there are also permanent bonuses you don’t want to miss in Act 1.”
+      - “the Grymforge has powerful armor and weapons (Adamantine) that can be used well into Act 3.”
 
 ### Level 7
-
-#### GAIN
-- Eldritch Invocations (3rd choice)
-- Spell Slots (4th level)
-- Spells: Level 4 spells unlocked (*Banishment* or *Dimension Door*)
-
-#### PLAY STYLE (LEVEL 7)
-- **Prioritize:** New 4th level slots allow for powerful control spells like *Banishment* to temporarily remove the highest-threat enemy from combat.
-- **Resource Spending:** Focus your limited high-level slots on removing or disabling key threats. Select a new Invocation, focusing on passive utility or extra Cantrips.
-- **Typical Turn:** If facing a boss, use *Banishment* to temporarily turn the fight into a 4v3, then use *Eldritch Blast* to clear minions.
+- Gain:
+  - Spell: Banishment
+  - Eldritch Invocation: Book of Ancient Secrets (Gain three spells – Ray of Sickness, Chromatic Orb, and Silence; cast once per Long Rest; don’t expend spell slots)
+  - Alternative invocation note: “If no one in your party has access to Slow at this level, consider taking Mire the Mind.”
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+  - Fireball
+  - Counterspell
+  - Banishment
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; use Banishment sparingly on bosses or high-damage threats while you clear additional enemies
+  - Notes:
+    - Banishment requires concentration; “You won’t be able to damage the target, but they won’t threaten you.”
 
 ### Level 8
-
-#### GAIN
-- Feat: **Ability Improvement** (ASI)
-- New Spell
-
-#### PLAY STYLE (LEVEL 8)
-- **Prioritize:** Maxing out **Charisma** to 20 with the final Ability Improvement. This is the absolute final boost to *Eldritch Blast* damage and spell DC.
-- **Resource Spending:** All your abilities are now maximized in power. Continue leveraging the high CHA for powerful, high-DC spell saves and Cantrip damage.
-- **Typical Turn:** Full offense with maxed Cantrip damage, ensuring every kill grants maximum Temporary HP.
+- Gain:
+  - Feat: Lucky (3 Luck Points; gain Advantage on Attack Rolls, Ability Checks, or Saving Throws, or make an enemy reroll Attack Rolls)
+  - Spell: Blight (8d8 necrotic damage; targets still take half damage on save)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+  - Fireball
+  - Counterspell
+  - Banishment
+  - Blight
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; use Lucky reaction when you need the most damage possible
+  - Notes:
+    - “With the introduction of Lucky, you can use the reaction when you need the most damage possible. Like a big Fireball or Eldritch Blast and long rest to recharge this resource.”
 
 ### Level 9
-
-#### GAIN
-- Spell Slots (5th level)
-- Spells: Level 5 spells unlocked (*Synaptic Static* or *Cone of Cold*)
-
-#### PLAY STYLE (LEVEL 9)
-- **Prioritize:** Using new 5th level spells like *Synaptic Static* for massive AoE damage and control.
-- **Resource Spending:** Level 5 slots should be reserved for encounters that need to end quickly with high burst damage. *Eldritch Blast* is still your primary action every turn.
-- **Typical Turn:** Use a Level 5 spell to hit as many targets as possible, then use *Eldritch Blast* for reliable follow-up damage.
+- Gain:
+  - Spell: Flame Strike (10–60 flame and radiant damage in an area; still has damage on save; control better than Fireball when allies are around)
+  - Eldritch Invocation: Minions of Chaos (cast Conjure Elemental with a Warlock Spell Slot)
+    - Note: “I like the Earth Elemental because it can do great damage and cause prone (stun) targets.”
+    - “Make sure to cast this after a long rest and bring the elemental with you.”
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+  - Fireball
+  - Counterspell
+  - Banishment
+  - Blight
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; summon via Minions of Chaos after a long rest when you want an elemental to support you
+  - Notes:
+    - The guide states Flame Strike is selected at Level 9, but the Level 9 prepared spell list shown does not include Flame Strike.
 
 ### Level 10
-
-#### GAIN
-- Subclass Feature: **Fiendish Resilience**
-- New Cantrip and Spell
-
-#### PLAY STYLE (LEVEL 10)
-- **Prioritize:** **Fiendish Resilience** allows you to select a damage type (Slashing, Fire, Cold, etc.) to gain resistance to until your next Long Rest.
-- **Resource Spending:** Before entering a dangerous area, select the most common damage type you expect to face (e.g., Fire in a volcano area) for a huge defensive boost. This makes you extremely durable.
-- **Typical Turn:** Enjoy the defensive bonus while focusing on maintaining maximum damage output with *Eldritch Blast*.
+- Gain:
+  - Spell: Cone of Cold (8d8 cold damage; conal damage)
+  - Subclass Feature: Fiendish Resilience (choose a damage type and become resistant; can pick a new damage type for each Short Rest; only 1 resistance at a time)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+  - Fireball
+  - Counterspell
+  - Banishment
+  - Blight
+  - Cone of Cold
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; Cone of Cold for conal damage when needed
+  - Notes:
+    - “You will need to activate the Fiendish Resilience which can be done outside of combat.”
+    - “Slashing is my usual go-to unless I’m going into a specific type of encounter where I’m familiar with elements.”
 
 ### Level 11
-
-#### GAIN
-- Feature: **Mystic Arcanum** (Level 6 Spell)
-- Spell Slots (5th level, 3 total)
-
-#### PLAY STYLE (LEVEL 11)
-- **Prioritize:** Biggest Cantrip spike: *Eldritch Blast* now fires three beams, maximizing your Cantrip damage.
-- **Resource Spending:** You gain a single Level 6 spell (Mystic Arcanum) like *Chain Lightning* or *Circle of Death*. Reserve this for the most difficult fights when a massive AoE is required.
-- **Typical Turn:** Use *Eldritch Blast* for three separate attacks, often focusing on a single target for massive damage.
+- Gain:
+  - Spell: Fire Shield (Fire or Ice)
+  - Class Feature: Mystic Arcanum (select one Level 6 spell; once per Long Rest cast it without expending a spell slot)
+    - Mystic Arcanum selection: Circle of Death (8d6 necrotic; targets still take half damage on save)
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+  - Fireball
+  - Counterspell
+  - Banishment
+  - Blight
+  - Cone of Cold
+  - Fire Shield
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; use Mystic Arcanum’s Circle of Death once per Long Rest as a free high-damage area option
+  - Notes:
+    - Fire Shield: gives resistance to cold or fire and deals 2d8 damage to attackers who hit within 5 ft.
 
 ### Level 12
+- Gain:
+  - Feat: Ability Improvement (+2 Charisma, “taking us to 20”)
+  - Eldritch Invocation: Dreadful Word (cast Confusion with a Warlock Spell Slot)
+  - Spell: Dimension Door
+- Prepared Spells (if applicable):
+  - Hex
+  - Hellish Rebuke
+  - Misty Step
+  - Mirror Image
+  - Scorching Ray
+  - Fireball
+  - Counterspell
+  - Banishment
+  - Blight
+  - Cone of Cold
+  - Fire Shield
+  - Dimension Door
+- Play Style:
+  - Rotation:
+    - Turn 1: Hex (bonus action) + Eldritch Blast
+    - Turn 2+: Eldritch Blast; use Dimension Door for utility repositioning; use Dreadful Word (Confusion) when needed
+  - Notes:
+    - Summary of main spells and uses (as stated):
+      - Defensives: Mage Armour, Mirror Image, Misty Step, Fire Shield.
+      - Single Target: Eldritch Blast, Blight, Scorching Ray
+      - Summons: Conjure Elemental, Conjure Fiend
+      - Area Damage: Fireball, Flame Strike, Cone of Cold, Circle of Death.
 
-#### GAIN
-- Feat: **Elemental Adept** (Fire or Lightning)
-- Eldritch Invocations (4th choice)
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Circlet of Blasting | Free Scorching Ray | Sold by Blurg in the Myconid Colony (Alternative Haste Helm). |
+| Chest | The Protecty Sparkswall | +1 Spell Saves | Looted in Gilded Chest in Grymforge X: -645 Y: 360 (Alternative Poisoner’s Robe). |
+| Gloves | Gloves of Cinder and Sizzle | Free Scorching Ray | Sold by Lady Esther at Rosymorn Monastery Trail (Alternative Gloves of Missile Snaring, or Bracers of Defence if cloth and no shield). |
+| Boots | Disintegrating Night Walkers | Mobility & Misty Step | Found in Underdark from Ne’re NPC (Alternative Cinder Shoes). |
+| Necklace | Amulet of Misty Step | Free Misty Step | Found in a Gilded Chest (X386 Y8) in Defiled Temple (Alternative Moondrop Pendant). |
+| Ring | Ring of Absolute Force | Free Thunderwave | Dropped by Sergeant Thrinn in Grymforge (Alternative Ring of Colour Spray). |
+| Ring | Sunwalker’s Gift | Darkvision | Buy it from Blurg in Myconid Colony in the Underdark (Alternative The Sparkswall). |
+| Weapon 1 Main Hand | Melf’s First Staff | Free Acid Arrow | Sold by Blurg in the Myconid Colony (Alternative The Spellsparkler, or Staff of Crones). |
+| Weapon 1 Off-Hand | Adamantine Shield | +2 AC (Half-Elf or Human) | Crafted in Gyrmforge. |
+| Weapon 2 Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum. “You can use it even without proficiency for extra initiative!” |
+| Cape | - | - | - |
 
-#### PLAY STYLE (LEVEL 12)
-- **Prioritize:** The **Elemental Adept** feat ensures your spells cannot be resisted by enemies and guarantees a minimum damage roll. Choose the element you use most often (e.g., Fire for *Fireball*).
-- **Resource Spending:** With the ultimate damage Cantrip (*Eldritch Blast*) and reliable high-level spells, you are fully online. Use your new Invocation for passive utility.
-- **Typical Turn:** Focus on blasting with *Eldritch Blast* or using your Level 6 spell against groups.
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Chest | Potent Robe | Ability Mod to Cantrip | Rescue the Tieflings in Act 2 (Alternative Helldusk Armour, Robe of Supreme Defences, or Robe of the Weave). |
+| Ring | Killer’s Sweetheart | Auto Critical | Found inside the Gauntlet of Shar ( X: -833 Y: -729) (Alternative Ring of Free Action). |
+| Weapon 2 Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2. |
 
----
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Hood of the Weave | +2 Charisma | (Listed in end-game table) |
+| Cape | Cloak of the Weave | +1 Spell Save & Roll | Sold by Helsik at the Devil’s Fee (Alternative Cloak of Protection). |
+| Chest | Potent Robe | Ability Mod to Cantrip | Rescue the Tieflings in Act 2 (Alternative Helldusk Armour, Robe of Supreme Defences, or Robe of the Weave). |
+| Gloves | Quickspell Gloves | Cantrips Bonus Action | Purchased at Sorcerors’s Sundries (Helldusk Gloves, or Gemini Gloves). |
+| Boots | Helldusk Boots | Cannot be Moved | Chest on the top floor of Wyrm’s Rock Fortress (Alternative Disintegrating Night Walkers). |
+| Necklace | Amulet of Greater Health | 23 Constitution | Archive in the House of Hope (Alternative Spellcrux Amulet). |
+| Ring | Killer’s Sweetheart | Auto Critical | Found inside the Gauntlet of Shar ( X: -833 Y: -729) (Alternative Ring of Free Action). |
+| Ring | Crypt Lord Ring | Free Create Undead | The Mystic Carrion’s Servant quest (Alternative Shifting Corpus Ring). |
+| Weapon 1 Main Hand | Markoheshkir | Free Spells, +1 Roll | At Ramazith’s Tower (Alternative Staff of Cherished Necromancy, Staff of Spellpower, or Incandescent Staff). |
+| Weapon 1 Off-Hand | Viconia’s Walking Fortress | 3 AC, Reflect Spell | Looted from Viconia DeVir during Shadowheart’s companion quest in Act 3 (Alternative Shield of Devotion). |
+| Weapon 2 Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2. |
 
-## Act-by-Act Add-ons
+## Features and Mechanics
+- Primary Ability: Charisma
+- Saving Throw: Charisma and Wisdom
+- Subclass: Fiend
+- Armor Proficiency: Light Armour
+- Weapon Proficiency: Simple Weapons
+- Preferred Armor: Clothing
+- Preferred Weapon: Quarterstaff
+- Spell Slots: Recharge spell slots on short rest.
+- Dark One’s Blessing: Killing enemies grants you temporary HP.
+- Eldritch Invocations: Adds effect to Eldritch Blast.
+- Eldritch Blast: “The most powerful Cantrip in the game and the focus of Warlock Builds.”
+- Warlock spell mechanics:
+  - Cantrips: Cast infinitely; don’t consume spell slots.
+  - Eldritch Invocations: Enhance/modify Eldritch Blast (knockback, added damage).
+  - Spell Slots: Finite spells until a long rest; higher-tier spells gained with levels.
+  - Replacement Spells: Learn/unlearn spells upon leveling.
+  - Concentration: Must maintain concentration or spell effect ends.
+- Fiend Warlock subclass progression:
+  - Dark One’s Blessing (Level 1): When you reduce a hostile creature to 0 hit points, gain Charisma Modifier + Level hit points.
+  - Dark One’s Own Luck (Level 6): Add 1d10 to an Ability Check once per Short Rest.
+  - Fiendish Resilience (Level 10): Choose a damage type and become resistant to it; change on Short Rest.
 
-### Act 1 — Best gear
+## Subclass Options
 
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | Diadem of Arcane Synergy | Grants Arcane Synergy (damage bonus) after hitting with a Cantrip. | Looted from the head of the Ogre at the Blighted Village (Ogre Trio). |
-| **Cloak** | Cloak of Protection | +1 AC and +1 Saving Throws. | Bought from the quartermaster Dammon at the Druid Grove. |
-| **Robe** | Robe of Summer | Grants Resistance to Fire damage. | Found in the chest of the Grymforge. |
-| **Gloves** | Bracers of Defence | +2 AC when not wearing armour or a shield. | Hidden in a locked chest in the Blighted Village cellar. |
-| **Boots** | Disintegrating Night Walkers | Immune to difficult terrain, web, and Entangled. | Looted from the True Soul Nere in the Grymforge. |
-| **Amulet** | Amulet of Misty Step | Grants the free use of the *Misty Step* spell. | Found in a chest in the Shattered Sanctum, in the Goblin Camp. |
-| **Ring 1** | Smuggler's Ring | +2 Stealth and +2 Sleight of Hand. | Found in a loose patch of dirt near the Risen Road, north of the Githyanki patrol. |
-| **Ring 2** | Caustic Band | Adds 2 Acid damage to spell attack rolls. | Purchased from a vendor in the Myconid Colony. |
-| **Weapon** | Staff of Cherished Necromancy | Grants a free spell slot after killing a creature. | Found in a secret chamber in the Blighted Village. |
+### Pact Boon Selection
+- Pact of the Chain: Gain the service of a familiar (animal, imp, or quasit).
+  - “Anytime you can have an extra combatant on the battlefield it is helpful.”
+- Pact of the Tome (alternative mentioned): “additional spells that unlock as you progress.”
+- Pact of the Blade (alternative mentioned): “helpful for melee-type Warlocks which this build is not.”
 
-### Act 2 — Best gear
+### Eldritch Invocation Selection
+- Agonizing Blast: Add Charisma modifier to Eldritch Blast damage (unless negative).
+- Armour of the Shadows: Cast Mage Armour at will without expending a spell slot.
+- Repelling Blast: Push a creature up to 4.5m when hit with Eldritch Blast.
+- Book of Ancient Secrets: Gain Ray of Sickness, Chromatic Orb, and Silence (once per Long Rest; no spell slot).
+- Minions of Chaos: Cast Conjure Elemental with a Warlock Spell Slot.
+- Dreadful Word: Cast Confusion with a Warlock Spell Slot.
+- Alternative invocation note (Level 7): “If no one in your party has access to Slow at this level, consider taking Mire the Mind.”
 
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | Circlet of Twisted Power | Grants a bonus to spell attack rolls and DC when you are Charmed, Frightened, or Poisoned. | Looted from a boss in the Gauntlet of Shar. |
-| **Cloak** | Cloak of the Weave | +1 AC and +1 to Spell Save DC and Attack Rolls. | Bought from a vendor in the Last Light Inn. |
-| **Robe** | Potent Robe | Adds Charisma modifier to Cantrip damage. | Reward for a specific quest in the Last Light Inn. |
-| **Gloves** | Quickspell Gloves | Cast a Cantrip as a bonus action once per Short Rest. | Purchased from a vendor in the Moonrise Towers. |
-| **Boots** | Boots of Uninhibited Kushigo | Adds Wisdom modifier to unarmed attacks. | Found in a hidden cache in the Shadow-Cursed Lands. |
-| **Amulet** | Amulet of Greater Health | Sets CON to 23 (included for use in Act 3/late Act 2). | Can be bought from a vendor in the Circus of the Last Days in Act 3, but accessible late Act 2. |
-| **Ring 1** | Ring of Protection | +1 AC and +1 Saving Throws. | Given by a specific character for saving the tieflings in the Grove. |
-| **Ring 2** | Ring of Free Action | Grants immunity to paralysis and difficult terrain. | Found in a chest in the House of Healing in the Shadow-Cursed Lands. |
-| **Weapon** | Ketheric's Staff | Grants the wielder *Lesser Restoration* and *Aid* spells. | Looted from Ketheric Thorm in the Shadowfell. |
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Potion of Flying: 10 turns of flying.
+- Potion of Angelic Slumber: fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Peerless Focus: gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Viciousness: increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Elixir of Universal Resistance: gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
-### Act 3 — Best gear
-
-| Slot | Item | Why it’s good | Where to get |
-| :--- | :--- | :--- | :--- |
-| **Head** | Birthright | Increases Charisma by 2, up to 22. | Bought from a vendor in the Lower City (Sorcerous Sundries). |
-| **Cloak** | Cloak of the Weave | +1 AC and +1 to Spell Save DC and Attack Rolls. | Bought from a vendor in the Last Light Inn (Act 2). |
-| **Robe** | Potent Robe | Adds Charisma modifier to Cantrip damage. | Reward for a specific quest in the Last Light Inn (Act 2). |
-| **Gloves** | Helldusk Gloves | Adds 1d6 Fire damage to spell attacks. | Found in a locked room in the House of Hope. |
-| **Boots** | Helldusk Boots | Grants *Hellcrawler* ability (teleport) and immune to being forcibly moved. | Looted from the boss in the House of Hope. |
-| **Amulet** | Amulet of Greater Health | Sets CON to 23. | Can be bought from a vendor in the Circus of the Last Days. |
-| **Ring 1** | Ring of Free Action | Grants immunity to paralysis and difficult terrain. | Found in a chest in the House of Healing (Act 2). |
-| **Ring 2** | Quickspell Gloves | Cast a Cantrip as a bonus action once per Short Rest. | Purchased from a vendor in the Moonrise Towers (Act 2). |
-| **Weapon** | Staff of Cherished Necromancy | Grants a free spell slot after killing a creature. | Found in the basement of the Sorcerous Sundries. |
-
----
-
-## Permanent bonuses (by Act)
+## Permanent Bonuses
 
 ### Act 1
-- **Auntie Ethel’s Hair** — *+1 to an Ability Score (CHA)*.
-- **Voluntary Bloodletting** — *Advantage on Attack Rolls (until Long Rest)*.
-- **Durable Feet** — *+5 Temporary HP when starting combat*.
 
 ### Act 2
-- **Mirror of Loss (SHADOW-CURSED LANDS)** — *+2 to an Ability Score (CHA)*.
-- **The Stone of the Absolute** — *Advantage on Concentration Saving Throws*.
-- **Statue of the Gods** — *+2 to Saving Throws*.
 
 ### Act 3
-- **Nightsong’s Blessing** — *Advantage on Saving Throws vs. Spells*.
-- **The Stone of the Absolute** — *Advantage on Concentration Saving Throws (Carried over)*.
-- **Mirror of Loss (Act 2, but can be done late)** — *+2 to an Ability Score (CHA) (Carried over)*.
 
----
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull of the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Blackhole: Area-based suck-in that slows targets.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: “This is the priority power you want to obtain because you can force enemies to attack something else.”
 
-# Best consumables / items (single-use)
+## Gameplay Tips and Tricks
+1. Eldritch Blast: Eldritch Blast is your bread-and-butter cantrip and should be cast in conjunction with Hex which is a bonus action for optimal damage.
+2. Short Rests: Utilize short rests to recover spell slots and replenish your resources, as Warlocks regain their spell slots on short rest.
+3. Ranged Advantage: As a ranged spellcaster, maintain distance from enemies to reduce the likelihood of taking damage.
+4. High Ground: When you attack from above, you gain a +2 bonus to the Attack Roll so always look to go up!
+5. Crowd Control: Use spells like “Hold Person” and “Hypnotic Pattern” to control groups of enemies and turn the tide of battles or have companions cast similar spells.
+6. Avoiding Friendly Fire: Be cautious with area-of-effect spells to avoid hitting your own party members.
+7. Use Consumables: Potion of Speed gives you an additional action and can be found during the tutorial.
+8. Misty Step: save a level 2 spell in case you need to retreat via Misty Step.
+9. Spell Slots: Save spell slots for Hellish Rebuke which reacts when taking damage without costing an action.
+10. Mirror Image: Cast this immediately when taking melee pressure for survivability.
 
-- **Elixir of Bloodlust** — *Once per turn on kill: **5 temp HP** + **additional action***
-  - **What it does:** Grants an extra Action upon downing an enemy.
-  - **Why it is strong for this build:** The Fiend Warlock is already focused on securing kills to gain Temporary HP. This elixir dramatically increases the Warlock's action economy, allowing them to cast *Eldritch Blast* (Action) and then another full-power *Eldritch Blast* (Elixir Action) in the same turn after a kill.
-  - **When to use it:** Ideal for encounters with high enemy density where the Warlock can easily secure a kill and snowball the fight.
+## Alternative Build Route
+For this alternative Warlock build, you’ll start with the Hexblade subclass, which immediately grants enhanced weapon and armor proficiencies. Perfect for a more combat-oriented playstyle. It’s noted that all Warlocks can still pick up the Booming Blade cantrip at Level 1 and unlock Shadow Blade by Level 3, and “sticking with The Fiend subclass remains a viable option if you prefer its unique spell and survivability bonuses.”
 
-- **Potion of Speed** — *Extra action, +2 AC, advantage on DEX saves, double movement*
-  - **What it does:** Grants an additional Action and several defensive bonuses for two turns.
-  - **Why it is strong for this build:** The extra action allows the Warlock to cast a leveled spell (Action) and *Eldritch Blast* (Potion Action) in the same turn, or to reposition and use a powerful Cantrip. The +2 AC helps compensate for the Warlock's lighter armor proficiency.
-  - **When to use it:** Reserve for boss fights or difficult encounters where massive, rapid damage output is required to end the threat quickly.
+At Level 7, the build shifts toward a multiclass with Oath of Vengeance Paladin. This progression “dramatically improves your frontline capabilities by granting Heavy Armor proficiency and stronger melee performance.” Note: “to benefit from Booming Blade’s bonus damage, you must use a weapon you’re proficient with. Otherwise, the cantrip’s additional Thunder damage won’t trigger.”
 
-- **Elixir of Vigilance** — ***+5 initiative**; can’t be Surprised*
-  - **What it does:** Provides a large bonus to Initiative and immunity to being Surprised.
-  - **Why it is strong for this build:** Going first is paramount for a damage-focused caster. It allows the Warlock to use a powerful control spell (*Hypnotic Pattern*) or a high-damage AoE spell (*Fireball*) before enemies can spread out or engage, preventing damage to the party.
-  - **When to use it:** Should be used daily (until Long Rest) to ensure the Warlock acts at the top of the combat order in almost every encounter.
+Level | Class | Selection
+--- | --- | ---
+1 | Warlock | Subclass: Hexblade, Eldritch Blast, Booming Blade, Hex, Wrathful Smite
+2 | Warlock | Hellish Rebuke, Eldritch Invocations: Devil’s Sight and One with Shadows
+3 | Warlock | Shadow Blade, Pact Boon: Pact of the Chain
+4 | Warlock | Mage Hand, Darkness, Feat: Ability Improvement Charisma +2
+5 | Warlock | Counterspell, Eldritch Invocations: Repelling Blast
+6 | Warlock | Misty Step
+7 | Paladin | Subclass: Oath of Vengeance, Armor/Weapon Proficiencies
+8 | Paladin | Defence Fighting Style, Command, Thunderous Smite, Divine Favour, Searing Smite, Shield, Cure Wounds
+9 | Paladin | Protection from Good and Evil
+10 | Paladin | Compelled Duel, Feat: Alert
+11 | Paladin | Magic Weapon
+12 | Paladin | Protection from Poison
 
-- **Oil of Accuracy** — *Weapon coating: **+2 Attack Rolls***
-  - **What it does:** Increases the Attack Roll bonus of a weapon by +2.
-  - **Why it is strong for this build:** While *Eldritch Blast* is the main attack, its individual beams are considered spell attacks. This oil increases the chance of those beams connecting against high-AC targets, ensuring maximum damage from your primary Cantrip.
-  - **When to use it:** Apply before boss fights or against high-AC enemies where guaranteeing hits with *Eldritch Blast* or other attack roll spells is crucial.
+## Patch Changes
 
----
+### Patch 8
+- “With Patch 8 of Baldur’s Gate 3, the Warlock class received a major boost thanks to the introduction of the Hexblade subclass and the Booming Blade cantrip.”
+- The guide notes: “In the Level Progression section below, we’ll dive into a powerful multiclass build that merges the Hexblade with the Paladin.”
 
-## Optional: Illithid powers (if using tadpoles)
-
-- **Luck of the Far Realms** — *Turn a successful hit into a Critical Hit (once per Long Rest)*
-  - **What it does:** Allows the caster to guarantee a critical hit on any successful attack roll.
-  - **Why it synergizes with the build:** *Eldritch Blast* fires multiple beams, each of which is an attack roll. This power can be applied to any one of these hits or a high-level spell like *Disintegrate* to guarantee a massive spike of critical damage, ensuring the elimination of a priority target in one turn.
-
-- **Cull of the Weak** — *Execute low-HP enemies; nearby creatures take Psychic damage*
-  - **What it does:** When you reduce a creature’s HP to 0, enemies within a short radius take Psychic damage.
-  - **Why it synergizes with the build:** The Fiend Warlock is kill-focused to maintain Temporary HP. This power adds a passive layer of AoE damage onto every kill secured by the Warlock, assisting in clearing out groups of low-health enemies (minions) after a big spell hits.
-
-- **Psionic Backlash** — *Reaction Psychic damage when an enemy casts a spell*
-  - **What it does:** Allows you to use a Reaction to deal high Psychic damage to an enemy when they cast a spell.
-  - **Why it synergizes with the build:** As a caster, your reaction is often free. This provides a high-damage, resource-efficient way to punish enemy concentration and spellcasting, making you a threat even during the enemy's turn.
-
-## Optional: Alternative build route (from the guide)
-- **Warlock/Sorcerer (Sorlock)**
-  - This is a common hybrid build that uses the Warlock's short-rest spell slots and Cantrip (*Eldritch Blast*) combined with the Sorcerer's **Metamagic** (especially *Quickened Spell*) and high number of spell slots. It allows for huge burst damage (e.g., *Eldritch Blast* as a Bonus Action) and far more flexibility than the pure Warlock route.
+### Patch 7
+- “There are no combat, gameplay, or build-related changes to the Fiend Warlock in Patch 7 of BG3.”
+- Patch 7 intent noted: more modding features, bug fixes, and adjustments to honor mode; added 13 new cinematic scenes; Honour Mode enhancements with more legendary actions; modding toolkit and in-game mod manager.
