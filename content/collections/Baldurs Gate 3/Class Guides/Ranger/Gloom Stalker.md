@@ -1,298 +1,425 @@
-# Gloom Stalker Ranger Build (Patch 8)
+# Gloom Stalker Ranger Build
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Ranger 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+Source: :contentReference[oaicite:0]{index=0}
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Fantasy / flavor
-- A stealthy ambusher lurking in shadows, specializing in surprise attacks and burst damage on the first turn.
-- Plays like "**initiate from stealth, unleash devastating ranged volleys, and control the battlefield**"—damage explodes with Extra Attack and Sharpshooter.
-- Retains ranger versatility with spells for utility, control, and survival in the wilderness.
+## Build Snapshot
 
-### Core playstyle in one sentence
-- **Stealth to surprise enemies, apply Hunter's Mark, and unleash multiple ranged attacks** while using spells for crowd control and mobility.
+### Fantasy / Flavor
+- Increased focus on stealth, darkness, and ambushing enemies.
+- Feels incredibly powerful owing to several features, the most important being its extra attack on turn one.
+- Can start combat from stealth to cause the Surprised condition and dish out a ridiculous amount of damage before the enemy can retaliate.
 
-### Party role
-- **Ranged DPS:** High burst and sustained damage with bows and arrows.
-- **Battlefield control:** Spells like Ensnaring Strike and Spiked Growth to snare and hinder foes.
-- **Utility scout:** Stealth, perception, and summons for exploration and ambushes.
+### Core Playstyle
+- Start fights from stealth to open with burst damage on turn one, then use ranged weapon pressure and mobility to stay safe while controlling who can reach you.
+
+### Party Role
+- Turn-one burst damage / opener (high initiative, extra first-turn attack).
+- Ranged damage dealer with weapon and armour proficiencies.
+- Control and adaptability via limited spellcasting and battlefield tools.
 
 ### Pros
-- Exceptional first-turn burst damage from stealth
-- Versatile with spells, mobility, and resistances
-- Strong initiative and survivability in darkness
+- Extra attack on turn one (Dread Ambusher).
+- High initiative and stealth/invisibility tools (Dread Ambusher + Umbral Shroud + Superior Darkvision).
+- Retains Ranger strengths: weapon and armour proficiencies, Extra Attack (level 5), and spell casting.
 
 ### Cons
-- No heavy armor proficiency early on
-- Relies on consumable arrows for max damage
-- Feels slow before level 5 Extra Attack
+- Don’t have heavy armor proficiency at the start.
+- Require consumable arrows for maximum damage.
+- At the beginning of the game, the Rogue will have more utility with stealth and lockpicking.
 
-### Power spikes to look forward to
-- Level 3: **Gloom Stalker** subclass + Dread Ambusher
-- Level 5: **Extra Attack** (doubles attacks)
-- Level 8: **+2 Dexterity** feat (improved accuracy)
-- Level 11: **Stalker's Flurry** (free attack on miss)
+### Power Spikes
+- Level 3: Dread Ambusher, Superior Darkvision, Umbral Shroud.
+- Level 5: Extra Attack (and free Misty Step).
+- Level 7: Iron Mind (proficiency in Wisdom and Intelligence Saving Throws).
+- Level 11: Stalker’s Flurry.
 
----
+## Character Creation
+- Race: Wood Half-Elf
+- Class: Ranger
+- Subclass: Gloom Stalker
+- Background: Urchin
+- Ability Scores:
+  - STR: 10
+  - DEX: 16
+  - CON: 16
+  - INT: 8
+  - WIS: 14
+  - CHA: 10
+- Proficiencies:
+  - Saving Throws: Strength and Dexterity
+  - Weapon Proficiencies: Simple Weapons, Martial Weapons
+  - Armour Proficiency: Light armour, Medium armour, and Shield
+  - Preferred Armor: Medium
+  - Preferred Weapon: Longbow
+  - Skill Proficiencies (recommended):
+    - Animal Handling
+    - Perception
+    - Survival
+  - Background (Urchin): Proficiency in Sleight of Hand (dexterity) and Stealth (dexterity)
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** Wood Half-Elf
-- **Class:** Ranger
-- **Subclass:** Gloom Stalker
-- **Background:** Urchin
-- **Skills:** Animal Handling, Perception, Survival
-- **Abilities (target):** STR 10 / DEX 16 / CON 16 / INT 8 / WIS 14 / CHA 10
+## Level Progression
 
-### Racial notes (why Wood Half-Elf)
-- **Highest Movement** speed
-- **Stealth Proficiency**
-- **Fey Ancestry** (advantage against being charmed, magic can't put you to sleep)
-- **Darkvision** (see 12m in darkness)
+### Level 1
+- Gain:
+  - Favoured Enemy: Bounty Hunter (Creatures you hit with Ensnaring Strike (either Ranged or Melee) have a Disadvantage on their Saving Throw.)
+  - Natural Explorer: Beast Tamer (You can cast a Find Familiar conjuration spell.)
+- Play Style:
+  - Rotation:
+    - Turn 1: (Not specified in source)
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - During the early phase of BG3, the Ranger should look to equip a Longbow and Medium Armour.
+    - The easiest way to get a good set of armour and weapons is from Lae’zel companion (Githyanki Half Plate with 15 Armour Class (AC) and a heavy crossbow).
+    - Overall priority: Complete Prologue; Recruit Companions; Reach Druid Grove; Sell, stock up, complete quest; Unlock Withers, respec to proper ability score; Progress to level 5; Reach Underdark and Grymforge; Acquire Titanstring Bow or Bow of Banshee.
+    - Look to acquire Elixir of Bloodlust and Oil of Accuracy; you can combine these two for massive damage increases.
 
-*Secondary option mentioned in the guide:* **Githyanki** (Astral Knowledge, Misty Step, Martial Prodigy, Enhanced Leap).
+### Level 2
+- Gain:
+  - Fighting Style: Archery (+2 bonus to attack rolls you make with ranged weapons; “You will want to Take Archery to get a +2 to-hit chance when using Bows and Crossbows.”)
+  - Spells: Hunter’s Mark, Cure Wounds
+- Prepared Spells (if applicable):
+  - Hunter’s Mark
+  - Cure Wounds
+- Play Style:
+  - Rotation:
+    - Turn 1: (Not specified in source)
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - Hunter’s Mark can be cast with a bonus action rather than an action.
+    - “Other spells at this point cost actions and bonus actions or concentration which we will use for Hunter’s Mark.”
 
-### Starting setup
-- **Weapon:** Longbow (ranged) for primary attacks; take from Lae'zel if needed.
-- **Armor vs clothing:** Medium armour (e.g., Githyanki Half Plate from Lae'zel for 15 AC).
-- **Back-bar ranged:** Keep a secondary weapon or shield for flexibility.
+### Level 3
+- Gain:
+  - Subclass: Gloom Stalker
+  - Dread Ambusher: gain a +3 bonus to initiative. On the first combat turn, your movement speed increases by 3m, and you can make an attack that deals an additional 1d8 damage.
+  - Superior Darkvision: can see up to 24m in the dark.
+  - Umbral Shroud: Wrap yourself in shadows to become Invisible if you are obscured.
+  - Dread Ambusher: Hide: use a bonus action to hide from enemies though attacking or casting breaks this.
+  - Disguise Self spell: change your character’s appearance.
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
+- Play Style:
+  - Rotation:
+    - Turn 1: Proc surprise status effect by attacking from stealth FIRST, then eliminating the primary target.
+    - Turn 2+: Use Dread Ambusher and Umbral Shroud offensively and defensively to take advantage of pre-fight and during combat.
+  - Notes:
+    - Ensnaring Strike (ranged) is described as a “lockdown” ability when you are getting pressured; it uses an action and bonus action, requires concentration, and is “a panic button.”
+    - “Swap to Hail of Thorns if you want a non-concentration spell.”
 
-### Early-game priorities (from the guide)
-- Complete the prologue, recruit companions, reach Druid Grove.
-- Sell/stock up, complete quests, unlock Withers for respec.
-- Progress to level 5 quickly (Extra Attack).
-- Reach Underdark/Grymforge, acquire Titanstring Bow or Bow of Banshee.
+### Level 4
+- Gain:
+  - Feat: Sharpshooter (ignores High Ground rules; +10 damage, -5 to attack roll)
+- Play Style:
+  - Rotation:
+    - Turn 1: Start from stealth, opening up as the attacker.
+    - Turn 2+: Use Hunter’s Mark and your main bow attack.
+  - Notes:
+    - “You can use Ensnaring Strike when needed a crowd control CC that is helpful.”
 
----
+### Level 5
+- Gain:
+  - Extra Attack
+  - Free spell: Misty Step
+  - Spells (suggested): Spiked Growth
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
+  - Spiked Growth
+  - Misty Step
+- Play Style:
+  - Rotation:
+    - Turn 1: Apply Hunter’s Mark with your bonus action and strike (Extra Attack).
+    - Turn 2+: Strike for two turns due to Extra Attack; use elemental arrows for stuns, damage overtimes, and more.
+  - Notes:
+    - Spiked Growth: 18m range, 6m radius, requires concentration; difficult terrain; 2d4 Piercing damage for every 1.5m moved; halves Movement Speed.
+    - Misty Step: “Use this as a bonus action when you need to escape or close the distance.”
+    - Multiclassing note: “After level 5, the Ranger’s combat performance diminishes substantially… consider multiclassing starting at level 5… If you aren’t struggling with combat, consider continuing with the build below.”
 
-## Level-by-level progression (Ranger 1 → 12)
-> This build is very “turn-plan” driven. Treat each level’s **Play style** as your default combat loop.
+### Level 6
+- Gain:
+  - Favoured Enemy: Ranger Knight (Gain history and heavy armour proficiency.)
+  - Natural Explorer: Wasteland Wanderer: Cold (gain cold resistance.)
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
+  - Spiked Growth
+  - Misty Step
+- Play Style:
+  - Rotation:
+    - Turn 1: (Not specified in source)
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - These features “aren’t that important and mainly add skill proficiency or a cantrip you are most likely not to use.”
+    - “Ending Act 1 with the Gloom Stalker Ranger”: visit shop traders; stock up on camp and alchemy supplies; collect best Act 1 items; find Act 1 permanent bonuses; craft Adamantine items in Grymforge before transitioning to Act 2 (where you won’t be able to return).
 
-### Level 1 — Ranger 1
-**Gain**
-- **Favoured Enemy: Bounty Hunter** (Ensnaring Strike advantage on save)
-- **Natural Explorer: Beast Tamer** (Find Familiar ritual)
-- **Find Familiar** (summon utility critters)
+### Level 7
+- Gain:
+  - Lesser Restoration (recommended)
+  - Iron Mind: gain proficiency in Wisdom and Intelligence Saving Throws.
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
+  - Spiked Growth
+  - Lesser Restoration
+- Play Style:
+  - Rotation:
+    - Turn 1: (Not specified in source)
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - Other mentioned spells at this level: Pass Without Trace, Protection from Poison, Silence (requires concentration).
 
-**Play style (Level 1)**
-- Summon familiar for exploration and distractions.
-- Stick to ranged attacks to keep safe distance—your mobility helps position well.
+### Level 8
+- Gain:
+  - Land’s Stride: helps move through difficult terrain and no longer slows you down.
+  - Feat: Ability Improvement (+2 into Dexterity, getting you to 18 with the Sharpshooter feat.)
+- Prepared Spells (if applicable):
+  - Find Familiar
+  - Cure Wounds
+  - Hunter’s Mark
+  - Ensnaring Strike (Range)
+  - Spiked Growth
+  - Lesser Restoration
+- Play Style:
+  - Rotation:
+    - Turn 1: (Not specified in source)
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - “The gameplay remains unchanged, use multi-attack, hunter’s mark and cast spells to crowd control targets.”
 
-### Level 2 — Ranger 2
-**Gain**
-- **Fighting Style: Archery** (+2 ranged attack rolls)
-- **Spells:** Hunter’s Mark, Cure Wounds
+### Level 9
+- Gain:
+  - Fear (Subclass feature spell)
+  - Lightning Arrow
+  - Stoneskin (replace Lesser Restoration)
+- Prepared Spells (if applicable):
+  - (Not specified in source)
+- Play Style:
+  - Rotation:
+    - Turn 1: (Not specified in source)
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - Fear: described as “isn’t that useful… unless you are trying to either run away or lock down a group in an area”; requires an action and concentration.
+    - Lightning Arrow: “Use first, then your Roaring Thunder arrow to knock back enemies.”
+    - Stoneskin: lasts until long rest; requires concentration; can be used as a pre-buff when you “100% know you are going into a high-damage situation and need survival.”
+    - “Many skills require concentration and you can only have one active.”
 
-**Play style (Level 2)**
-- Start with Hunter’s Mark as bonus action for extra damage on hits.
-- Follow up with ranged bow attack; use Cure Wounds for quick melee heals if pressured.
+### Level 10
+- Gain:
+  - Hide in Plain Sight (Class Feature): become Invisible and gain a +10 bonus to Stealth Checks until Long Rest (ends early if you move, attack, cast another spell, take an action, or take damage).
+  - Favoured Enemy: Mage Breaker (proficiency in Arcana and can cast True Strike.)
+  - Natural Explorer: Urban Tracker (gain Proficiency in Sleight of Hand.)
+- Prepared Spells (if applicable):
+  - (Not specified in source)
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Hide in Plain Sight before combat and unload during turn one.
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - Hide in Plain Sight can also be used for out-of-combat sneaking and stealing.
 
-### Level 3 — Ranger 3 (Gloom Stalker)
-**Subclass**
-- **Gloom Stalker**
+### Level 11
+- Gain:
+  - Stalker’s Flurry (Subclass Feature): When you miss a weapon attack, you can make another weapon attack for free.
+  - Spell: Conjure Barrage
+- Prepared Spells (if applicable):
+  - (Not specified in source)
+- Play Style:
+  - Rotation:
+    - Turn 1: (Not specified in source)
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - Conjure Barrage: 2d8 slashing damage in 9m into a destructive, widespread volley; “This attack is a conal, not a radius”; does not require concentration; requires being close.
+    - “If enemies get close you have a great counter for big damage in one turn.”
 
-**Gain**
-- **Dread Ambusher** (+3 initiative, +3m speed first turn, extra 1d8 damage attack)
-- **Dread Ambusher: Hide** (bonus action hide)
-- **Umbral Shroud** (action to become invisible if obscured)
-- **Superior Darkvision** (24m darkvision)
-- **Disguise Self** (change appearance)
-- **Spell:** Ensnaring Strike
+### Level 12
+- Gain:
+  - Feat: +2 Ability Improvement to Dexterity to reach 20.
+- Prepared Spells (if applicable):
+  - (Not specified in source)
+- Play Style:
+  - Rotation:
+    - Turn 1: (Not specified in source)
+    - Turn 2+: (Not specified in source)
+  - Notes:
+    - “At this level, you will have a lot of damage, spells, utility and even crowd control.”
+    - “The max level in Baldur’s Gate 3 is 12 and you will feel very powerful at this level and should be a blast to play.”
 
-**Play style (Level 3)**
-- Initiate from stealth to surprise foes, use Dread Ambusher for burst on first turn.
-- Hunter’s Mark target, attack with extra damage; Ensnaring Strike for lockdown if needed.
-
-### Level 4 — Ranger 4
-**Feat**
-- **Sharpshooter** (-5 attack +10 damage toggle, ignore high/low ground)
-
-**Play style (Level 4)**
-- Toggle Sharpshooter on when accuracy is high for massive damage boosts.
-- Stealth open, Hunter’s Mark, dual attacks (soon)—focus on priority targets.
-
-### Level 5 — Ranger 5
-**Gain**
-- **Extra Attack** (two attacks per action)
-- **Spells:** Misty Step, Spiked Growth
-
-**Play style (Level 5)**
-- Hunter’s Mark bonus, then two ranged attacks with Sharpshooter if toggled.
-- Use Spiked Growth to control areas, Misty Step for repositioning—your damage ramps up here.
-
-### Level 6 — Ranger 6
-**Gain**
-- **Favoured Enemy: Ranger Knight** (History proficiency, heavy armour proficiency)
-- **Natural Explorer: Wasteland Wanderer: Cold** (cold resistance)
-
-**Play style (Level 6)**
-- Core loop stays: stealth surprise, mark, multi-attack.
-- Cold resistance helps survival; heavy armour option if desired for style (not optimal).
-
-### Level 7 — Ranger 7
-**Gain**
-- **Iron Mind** (Wisdom/Intelligence save proficiency)
-- **Spell:** Lesser Restoration
-
-**Play style (Level 7)**
-- Same rotation, now with better saves against mind effects.
-- Lesser Restoration to cure debuffs like poison or paralysis mid-fight.
-
-### Level 8 — Ranger 8
-**Feat**
-- **Ability Improvement: +2 Dexterity** (to 18)
-
-**Gain**
-- **Land’s Stride** (no slowdown in difficult terrain)
-
-**Play style (Level 8)**
-- Increased dex boosts damage, AC, initiative—keep bursting from stealth.
-- Land’s Stride aids mobility through rough areas; maintain mark and attacks.
-
-### Level 9 — Ranger 9
-**Gain**
-- **Fear** (subclass: frighten and disarm group)
-- **Spells:** Lightning Arrow, Stoneskin (replace Lesser Restoration)
-
-**Play style (Level 9)**
-- Use Fear for crowd control when groups cluster.
-- Lightning Arrow for melee bonus burst, Stoneskin for pre-fight tankiness (lasts long rest).
-
-### Level 10 — Ranger 10
-**Gain**
-- **Hide in Plain Sight** (camouflage invisible +10 stealth)
-- **Favoured Enemy: Mage Breaker** (Arcana proficiency, True Strike cantrip)
-- **Natural Explorer: Urban Tracker** (Sleight of Hand proficiency)
-
-**Play style (Level 10)**
-- Hide in Plain Sight for better ambushes or escapes.
-- Utility skills aid exploration; combat loop unchanged but stealthier.
-
-### Level 11 — Ranger 11
-**Gain**
-- **Stalker’s Flurry** (free attack on miss)
-- **Spell:** Conjure Barrage
-
-**Play style (Level 11)**
-- Stalker’s Flurry forgives misses, boosting reliability.
-- Conjure Barrage for AOE when enemies bunch up—great counter to swarms.
-
-### Level 12 — Ranger 12
-**Feat**
-- **Ability Improvement: +2 Dexterity** (to 20)
-
-**Play style (Level 12)**
-- Max dex for peak damage, AC, saves—full burst potential.
-- Stealth, mark, multi-attacks, control spells: erase threats before they act.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it’s good | Where to get**.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Shadow of Menzoberranzan | Invisibility skill | Looted from the Pale Corpse in the Myconid Colony, Underdark (Alternative Haste Helm) |
-| Cape | - | - | - |
-| Chest | Adamantine Scale Mail | 16 AC & Crit Immunity | Crafted in Adamantine Forge (Alternatives Hide +2 Armour, or Githyanki Half Plate) |
-| Gloves | Gloves of Archery | +2 Ranged Damage | Sold by Grat the Trader in the Goblin Camp (Alternatives Gloves of Dexterity, Gloves of Missile Snaring, or Gloves of Hail of Thorns) |
-| Boots | Disintegrating Night Walkers | Free Misty Step | Looted or stolen from Nere in Grymforge (Alternatives Boots of Striding, or Boots of Genial Striding) |
-| Neck | Moondrop Pendant | No Opportunity Attacks | Sealed chest inside the Owlbear Nest (Alternatives Amulet of Branding, Amulet of Misty Step, or Amulet of Restoration) |
-| Ring | Caustic Band | +2 Acid Damage | Buy it from Derryth in the Myconid colony, Underdark (Alternative The Sparkswall) |
-| Ring | Fetish of Callarduran Smoothhands | Free Invisibility Spell | Looted from dead gnomes in Grymforge X: -610 Y: 408 (Alternative Strange Conduit Ring, Ring of Absolute Force) |
-| Main Hand | Club of Hill Giant Strength | 19 Strength | Found in Arcane Tower under Stool top level (Alternatives Hunter’s Dagger, or Knife of the Undermountain King) |
-| Off-Hand | Adamantine Shield | +2 AC | Crafted in the Adamantine Forge (Alternatives Glowing Shield, or Wood Woad Shield) |
-| Ranged | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout Act 1 (Alternatives Bow of Banshee, Spellthief, or Joltshooter) |
+| Head | Shadow of Menzoberranzan | Invisibility skill | Looted from the Pale Corpse in the Myconid Colony, Underdark |
+| Chest | Adamantine Scale Mail | 16 AC & Crit Immunity | Crafted in Adamantine Forge |
+| Gloves | Gloves of Archery | +2 Ranged Damage | Sold by Grat the in the Goblin Camp |
+| Boots | Disintegrating Night Walkers | Free Misty Step | Looted or stolen from Nere in Grymforge |
+| Necklace | Moondrop Pendant | No Opportunity Attacks | Sealed chest inside the Owlbear Nest |
+| Ring | Caustic Band | +2 Acid Damage | Buy it from Derryth in the Myconid colony, Underdark |
+| Ring | Fetish of Callarduran Smoothhands | Free Invisibility Spell | Looted from dead gnomes in Grymforge X: -610 Y: 408 |
+| Weapon (Main Hand) | Club of Hill Giant Strength | 19 Strength | Found in Arcane Tower under Stool top level |
+| Shield | Adamantine Shield | +2 AC | Crafted in the Adamantine Forge |
+| Weapon (Bow) | Titanstring Bow | Add STR modifier | Brem in Zhentarim Hideout Act 1 |
 
-## Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Cape | Cloak of Protection | +1 AC and Saving Throws | Sold by Talli Quartermaster at Last Light Inn Act 2 (alternative Shade-Slayer Cloak) |
-| Neck | Surgeon’s Subjugation Amulet | Stun on Crit | Looted from Malus Thorm at the House of Healing in Act 2 (alternative Amulet of Greater Health, or Periapt of Wound Closure) |
-| Ring | Killer’s Sweetheart | Auto Critical | Found in Self-Same Trial inside the Gauntlet of Shar (alternative Risky Ring) |
+| Cape | Cloak of Protection | +1 AC and Saving Throws | Sold by Talli Quartermaster at Last Light Inn Act 2 |
+| Necklace | Surgeon’s Subjugation Amulet | Stun on Crit | Looted from Malus Thorm at the House of Healing in Act 2 |
+| Ring | Killer’s Sweetheart | Auto Critical | Found in Self-Same Trial inside the Gauntlet of Shar |
+| Weapon | Blood of Lathander | Automatic Revive | Act 1 and 2 Quest |
 
-## Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Helm of Balduran | Cannot be Stunned | Found in Dragon’s Sanctum X: 636 Y: -964 Act 3 (alternatives Helldusk Helmet, Sarevok’s Horned Helmet, Mask of Soul Perception, or Circlet of Hunting) |
-| Cape | Cloak of Protection | +1 AC and Saving Throws | Sold by Talli Quartermaster at Last Light Inn Act 2 (alternative Shade-Slayer Cloak) |
-| Chest | Helldusk Armour | 21 AC | Looted from fighting Raphael House of Hope (alternative Armour of Agility, Dark Justiciar Half-Plate, or Flame Enamelled Armour) |
-| Gloves | Legacy of the Masters | +2 Attack Roll | Sold by Dammon in Lower City, Forge of the Nine (alternatives Gloves of Soul Catching, Helldusk Gloves, or Gloves of Dexterity) |
-| Boots | Helldusk Boots | Cannot be Moved | Wyrm’s Rock Fortress X: -32 Y: 219 Act 3 (alternative Disintegrating Night Walkers) |
-| Neck | Surgeon’s Subjugation Amulet | Stun on Crit | Looted from Malus Thorm at the House of Healing in Act 2 (alternative Amulet of Greater Health, or Periapt of Wound Closure) |
-| Ring | Killer’s Sweetheart | Auto Critical | Found in Self-Same Trial inside the Gauntlet of Shar (alternative Risky Ring) |
-| Ring | Ring of Regeneration | Self-healing | Found in Lorroakan’s Projection store (alternative Shifting Corpus Ring, or Ring of Free Action) |
-| Main Hand | Blood of Lathander | Automatic Revive | Act 1 and 2 Quest |
-| Off-Hand | Viconia’s Walking Fortress | +3 AC | Looted from Viconia DeVir, Act 3 (Alternative Shield of Devotion) |
-| Ranged | Gontr Mael | Best Bow | Looted from the Steel Watcher Titan in Steel Watch Foundry (alternative The Dead Shot) |
+| Head | Helm of Balduran | Cannot be Stunned | Found in Dragon’s Sanctum X: 636 Y: -964 Act 3 |
+| Cape | Cloak of Protection | +1 AC and Saving Throws | Sold by Talli Quartermaster at Last Light Inn Act 2 |
+| Chest | Helldusk Armour | 21 AC | Looted from fighting Raphael House of Hope |
+| Gloves | Legacy of the Masters | +2 Attack Roll | Sold by Dammon in Lower City, Forge of the Nine |
+| Boots | Helldusk Boots | Cannot be Moved | Wyrm’s Rock Fortress X: -32 Y: 219 Act 3 |
+| Necklace | Surgeon’s Subjugation Amulet | Stun on Crit | Looted from Malus Thorm at the House of Healing in Act 2 |
+| Ring | Killer’s Sweetheart | Auto Critical | Found in Self-Same Trial inside the Gauntlet of Shar |
+| Ring | Ring of Regeneration | Self-healing | Found in Lorroakan’s Projection store |
+| Weapon | Blood of Lathander | Automatic Revive | Act 1 and 2 Quest |
+| Shield | Viconia’s Walking Fortress | +3 AC | Looted from Viconia DeVir, Act 3 |
+| Bow | Gontr Mael | Best Bow | Looted from the Steel Watcher Titan in Steel Watch Foundry |
 
----
+## Features and Mechanics
+- Primary Ability: Dexterity
+- Saving Throws: Strength and Dexterity
+- Weapon Proficiencies: Simple Weapons, Martial Weapons
+- Armour Proficiency: Light armour, Medium armour, and Shield
+- Preferred Armor: Medium
+- Preferred Weapon: Longbow
+- Extra Attack: Can make an additional free attack after making an unarmed or weapon attack (acquired at level 5).
+- Spell Casting: The Ranger gets some limited spells to cast but can combine that with consequential ranged damage.
+- Umbral Shroud: Wrap yourself in shadows to become Invisible if you are obscured.
+- Dread Ambusher: gain a +3 bonus to initiative. On the first combat turn, your movement speed increases by 3m, and you can make an attack that deals an additional 1d8 damage.
+- Ranger Spell Mechanics:
+  - Cantrips: are like spells, but you can cast them infinitely, and they don’t take your spell slots.
+  - Spell Slots: At each level, you gain access to more usage of spells and high-tier spells but only have a finite number of spells until a long rest.
+  - Concentration: is a spell mechanic that requires you to maintain concentration otherwise, the spell effect ends.
 
-# Permanent bonuses (by Act)
+## Subclass Options
 
-## Act 1
-- **Auntie Ethel’s Hair** — *+1 to an Ability Score*  
-- **Awakened** — *Use illithid powers as a Bonus Action*  
-- **Scratch** — *Gain Find Familiar: Scratch*  
-- **Cheeky Quasit** — *Gain Summon Quasit: Shovel*  
-- **Loviatar’s Love** — *30% Hit Points or less, +2 bonus to Attack Rolls and Wisdom saving throws*  
-- **Necromancy Of Thay** — *access to powerful spells in Act 3*  
-- **Volo’s Ersatz Eye** — *See Invisibility*
+### Ranger Subclasses
+- Hunter: A simple subclass that focuses on dealing damage to enemies and targeting specific enemy types.
+- Beastmaster: Allows the use of beast companions while maintaining the class identity of a ranger.
+- Gloom Stalker: Focused on stealth, burst damage, and high initiative.
+- Swarmkeeper: Uses the Gathered Swarm subclass feature to summon nature spirits that provide various buffs and utility to your attacks.
 
-## Act 2
-- **Potion of Everlasting Vigour** — *+2 Strength*  
-- **Slayer Form** — *Ability to transform into the Slayer*  
-- **Summon Us** — *Allows you to summon Us*  
+### Favoured Enemy and Natural Explorer (Build Picks)
+- Favoured Enemy: Bounty Hunter (Level 1)
+- Natural Explorer: Beast Tamer (Level 1)
+- Favoured Enemy: Ranger Knight (Level 6)
+- Natural Explorer: Wasteland Wanderer: Cold (Level 6)
+- Favoured Enemy: Mage Breaker (Level 10)
+- Natural Explorer: Urban Tracker (Level 10)
 
-## Act 3
-- **Mirror of Loss** — *+2 to an Ability Score of your choice*  
-- **Partial Ceremorphosis** — *Access to tier 3 illithid powers*  
-- **Sweet Stone Features** — *Blessed permanent*  
-- **Statue of the Gods** — *+2 to Saving Throws*  
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Potion of Speed: Gain extra action, +2 AC, Advantage on Dexterity Saving Throws, and double movement speed.
+- Drow Poison: Weapon poison that adds Constitution Saving Throw or becomes Poisoned and falls Asleep.
+- Potion of Flying: Drink to gain a flying speed of 60ft for one hour.
+- Elixir of Heroism: Gain 10 temp HP and become Blessed until a long rest.
+- Potion of Greater Healing: 4d4 + 4 hit points restored.
+- Oil of Accuracy: Coat Weapon. Bonus of +2 in Attack Rolls.
+- Elixir of Vigilance: Drink to gain a +5 bonus to Initiative and you can’t be Surprised.
+- Ammunition:
+  - Arrow of Ice: Deals weapon damage + 2d4 Cold and creates ice surface for 2 turns in a 2m radius.
+  - Arrow of Roaring Thunder: deals weapon damage, knocks back 5 meters if failed strength throw.
+  - Arrow of Many Targets: Deals weapon damage and an additional half of that damage to three other targets in range.
+  - Arrow of Dragon/Aberration/Humanoid: Deals weapon damage, and double damage against Dragon, Aberration, or Humanoid.
+  - Arrow of Salving: Cures a target of poisoned, paralyzed, and blinded conditions.
+  - Arrow of Transposition: teleports the shooter wherever this arrow is fired.
 
----
+## Permanent Bonuses
 
-# Best consumables / items (single-use)
-- **Elixir of Bloodlust** — once per turn when you kill a foe: **5 temp HP** + **additional action**
-- **Potion of Speed** — extra action, +2 AC, advantage on DEX saves, double movement
-- **Drow Poison** — weapon poison (CON save or becomes Poisoned/Asleep)
-- **Potion of Flying** — flying speed for 1 hour
-- **Elixir of Heroism** — 10 temp HP + Blessed (until Long Rest)
-- **Potion of Greater Healing** — 4d4 + 4 healing
-- **Oil of Accuracy** — weapon coating: **+2 Attack Rolls**
-- **Elixir of Vigilance** — **+5 initiative**; can’t be Surprised
-- **Arrow of Ice** — weapon damage + 2d4 Cold, ice surface 2 turns
-- **Arrow of Roaring Thunder** — weapon damage, knock back 5m on failed STR throw
-- **Arrow of Many Targets** — weapon damage + half to 3 other targets
-- **Arrow of Dragon/Aberration/Humanoid Slaying** — weapon damage, double vs type
-- **Arrow of Salving** — cure poisoned, paralyzed, blinded
-- **Arrow of Transposition** — teleport to arrow impact
+### Act 1
+- Auntie Ethel’s Hair: Gain +1 to an Ability Score.
+- Awakened: Use illithid powers as a Bonus Action.
+- Scratch: Gain Find Familiar Scratch.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Necromancy Of Thay: access to powerful spells in Act 3.
+- Volo’s Ersatz Eye: See Invisibility
 
----
+### Act 2
+- Potion of Everlasting Vigour: Gain +2 Strength.
+- Slayer Form: Ability to transform into the Slayer.
 
-## Optional: Illithid powers (if using tadpoles)
-- **Luck of the Far Realms** — change successful hit to Critical Hit
-- **Cull the Weak** — kill low-HP foes, Psychic damage nearby
-- **Psionic Backlash** — reaction Psychic damage to spellcasters
-- **Blackhole** — area pull and slow
-- **Repulsor** — area knockback (affects allies)
-- **Charm** — force enemy to attack elsewhere
+### Act 3
+- Mirror of Loss – +2 to an Ability Score of your choice.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Statue of the Gods: +2 to Saving Throws
 
----
+## Illithid Powers
+- Luck of the Far Realms: When you make a successful Attack Roll against a foe, you can change that hit into a Critical Hit.
+- Cull the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Blackhole: Area-based suck-in that slows targets.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: “This is the priority power you want to obtain because you can force enemies to attack something else.”
 
-## Optional: Alternative build route (from the guide)
-- **Gloom Stalker 5 / Rogue 4 / Fighter 3**  
-  - Multiclass for enhanced burst: Assassin for auto-crits on surprised, Champion for improved criticals, Action Surge for extra actions. Ideal for Honour Mode or solo play.
+## Gameplay Tips and Tricks
+- Mobility: Rangers are very mobile, so use this to your advantage in combat. Use high movement offensively and defensively to position for better attacks and to get out of danger.
+- Stealth: is a very useful skill for rangers, as it allows you to sneak up on enemies and get the drop on them. This can be especially useful in boss fights, as it can allow you to deal a lot of damage before the enemy even knows you’re there.
+- Spell Timing: Rangers have a variety of spells that can be very useful in combat. Use them wisely to buff your allies, debuff your enemies, and deal damage but know they are limited and should be used when needed most.
+- Prepare: Baldur’s Gate 3 is a very challenging game, so it’s important to be prepared for anything. Make sure to recharge spells with long rest, always have potions, elemental arrows, and speed potions ready.
+- Environment: Use the environment to your advantage. If you’re overwhelmed, Dash to create more movement, line of sight of the enemy, and get in stealth. This will allow you to lose aggro and hopefully open with a damage ability or heal.
+- Exploit vulnerabilities: Rangers have access to a variety of ammunition types. Use different arrows to exploit enemy weaknesses. For example, fire arrows can be effective against enemies vulnerable to fire damage, while acid arrows can be useful against foes with high armor.
+
+## Alternative Build Route
+- Summary: Similar to the main recommendation, with the significant exception of multiclassing into Rogue starting at Level 5, and investing into Fighter at the end to boost defense/survivability and gain Action Surge. Taking the Champion subclass at level 12 gives Improved Critical Hit, which stacks with other sources to lower the number you need to roll for a critical hit.
+- Level plan:
+  - Level 1: Ranger — Wasteland Wanderer: Cold, Bounty Hunter
+  - Level 2: Ranger — Fighting Style: Archery; Spells: Hunter’s Mark, Longstrider
+  - Level 3: Ranger — Subclass: Gloom Stalker; Spell: Ensnaring Strike
+  - Level 4: Ranger — Feat: Sharpshooter
+  - Level 5: Ranger — Lesser Restoration
+  - Level 6: Rogue — Skill Proficiency: Acrobatics; Skill Expertise: Sleight of Hand, Stealth
+  - Level 7: Rogue — Cunning Actions
+  - Level 8: Rogue — Subclass: Assassin
+  - Level 9: Rogue — Feat: Ability Improvement (Dexterity)
+  - Level 10: Fighter — Fighting Style: Defense
+  - Level 11: Fighter — Action Surge
+  - Level 12: Fighter — Subclass: Champion
+
+## Patch Changes
+
+### Patch 8
+- “The most significant change to character builds in Patch 8 of Baldur’s Gate 3 was the introduction of new subclasses. Each of the 12 core classes were given an additional subclass option.”
+- For Ranger: new subclass is the Swarmkeeper; special ability Prey’s Scent enhances Hunter’s Mark in powerful and distinctive ways.
+- Notable synergy described: Resonance Stone from Act 2 with Moth Attacks, dramatically increasing Psychic damage output.
+- “However, despite the interesting utility of the Swarmkeeper, we still recommend the Gloom Stalker as the best subclass for the Ranger.”
+- “Additionally, we’ve offered an alternative build below, which gives you some multiclass options to use for a powerful Ranger build.”
+
+### Patch 7
+- “The Gloom Stalker subclass and Ranger class received zero changes to combat and gameplay.”
+- “The overall focus of Patch 7 was adding mods and new endings with more honour mode boss actions.”
+- “The game now features a modding toolkit and an in-game mod manager…”
+- “This best Gloom Stalker Ranger Build Guide remained unchanged for Patch 7 of Baldur’s Gate 3.”
