@@ -1,353 +1,491 @@
-# Jaheira Companion Build (Patch 8)
+# Jaheira Companion Build (Circle of the Moon Druid)
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Druid 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 – Best gear|Act 1 gear]]
-  - [[#Act 2 – Best gear|Act 2 gear]]
-  - [[#Act 3 – Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-## Build snapshot
+## Build Snapshot
 
-### Core playstyle in one sentence
-- **Transform into powerful beasts via Wild Shape, deal heavy melee damage and control crowds, then return to humanoid form to cast support spells or area damage when needed.**
+### Fantasy / Flavor
+- Jaheira is a High Half-Elf companion who can join your party at the end of Act 2 of BG3.
+- In the Shadow-Cursed Lands, she guards the Last Light Inn and will help you uncover the mysteries of the Absolute cult.
+- This Circle of the Moon Druid build for Jaheira is focused on transforming via Wild Shape and dishing out heavy damage.
 
-### About companion
-- Jaheira is a **Druid (Circle of the Moon)** companion built around **Wild Shape transformations, nature magic, and versatile combat roles**.
-- She brings **high survivability through multiple health pools** (Wild Shape acts as temporary HP), strong melee damage in beast form, and access to healing and crowd control spells.
-- She performs best when you **deploy her to transform early, pressure frontlines or crowds, and exit Wild Shape strategically to cast key spells**.
+### Core Playstyle
+- Generally, start engagements with a powerful spell, even if it costs concentration. Then, use your bonus action for Wild Shape.
+- Use Wild Shape forms for various combat situations (damage dealer, snares/immobilization, utility/crowd control).
+- If a party member needs a heal, come out of the form and support them, then go back on the offensive.
 
-### Party role
-- **Frontline damage & tank:** Wild Shape forms provide massive HP pools and melee attacks to hold lines or rush priority targets.
-- **Crowd control & support:** Access to area damage, status effects, and healing spells for battlefield control.
-- **Versatile combatant:** Can fill melee, spellcaster, or support roles depending on combat needs.
+### Party Role
+- Melee combatant (Wild Shape)
+- Spellcaster (openers, area effects, control)
+- Support (healing when you exit Wild Shape)
 
 ### Pros
-- High durability through Wild Shape (multiple effective health bars)
-- Strong melee damage and crowd control options
-- Nature magic provides healing, summons, and area damage
-- Versatile playstyle adapts to party needs
+- Wild Shape
+- Nature Magic
+- Versatile Playstyle
 
 ### Cons
-- Cannot cast spells while in Wild Shape form
-- Default build (Circle of the Land) is suboptimal for combat
-- Joins party late (end of Act 2)
-- Requires understanding of when to transform vs when to cast
+- No Spellcasting in Wild Shape
+- Suboptimal Default Build
+- Joins Party Late
 
-### Power spikes to look forward to
-- Level 2: **Combat Wild Shape** (bonus action transformation) and **Lunar Mend** (self-heal in Wild Shape)
-- Level 4: **Deep Rothé form** (charge and crowd control)
-- Level 5: **Wild Strike** (extra attack in Wild Shape) and **level 3 spells** (Call Lightning, Sleet Storm)
-- Level 6: **Panther and Owlbear forms** (high damage and area control)
-- Level 8: **Sabre-Toothed Tiger form** (massive damage to prone targets)
-- Level 9: **Conjure Elemental** (powerful summon without concentration)
-- Level 10: **Water Myrmidon form** (damage + healing in Wild Shape) and **Improved Wild Strike** (two extra attacks)
+### Power Spikes
+- Level 2: Combat Wild Shape, Lunar Mend, Wild Shape forms (Badger, Bear, Cat, Spider, Wolf)
+- Level 5: Level 3 spells; Wild Strike
+- Level 7: Level 4 spells (Ice Storm, Conjure Woodland Being)
+- Level 8: War Caster; Confusion; Sabre-Toothed Tiger Wild Shape
+- Level 9: Level 5 spells (Conjure Elemental, Mass Cure Wounds)
+- Level 10: Improved Wild Strike; Myrmidon Wild Shapes; Insect Plague
+- Level 11: Level 6 spells (Heroes’ Feast, Heal)
+- Level 12: Ability Improvement (+2 Wisdom to 20); Stoneskin
 
----
+## Character Creation
+- Race: High Half-Elf
+- Class: Druid
+- Subclass: Circle of the Moon
+- Background: Soldier
+- Ability Scores:
+  - STR: 10
+  - DEX: 14
+  - CON: 16
+  - INT: 10
+  - WIS: 16
+  - CHA: 8
+- Proficiencies:
+  - Skill Proficiencies: Animal Handling and Perception
+  - Armour Proficiency: Light and Medium Armour
+  - Weapon Proficiency: Simple Weapons & Shields
+- Cantrips: Shillelagh, Thorn Whip, Guidance, Poison Spray
+- Spells: Healing Word, Ice Knife, Thunderwave, Cure Wounds
 
-## Character creation
-- **Character Origin:** Jaheira (companion / origin character)
-- **Race:** High Half-Elf
-- **Class:** Druid
-- **Subclass:** Circle of the Moon (recommended respec from default Circle of the Land)
-- **Background:** Soldier
-- **Proficiencies:** Animal Handling, Perception
-- **Location (recruitment):** Last Light Inn in Shadow-Cursed Lands (Act 2). She joins your camp after helping protect the Harpers, but becomes a full companion only after defeating Ketheric Thorm and starting Act 3.
+## Level Progression
 
-### About companion creation fields
-- **Ability score rolls:** (Not specified in source – companion character)
-- **Starting proficiencies (by selection):** (Not specified in source – companion character)
+### Level 1
+- Gain:
+  - Cantrips: Shillelagh; Thorn Whip
+  - Spells: Thunderwave; Cure Wounds; Healing Word; Ice Knife
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Ice Knife
+  - Thunderwave
+  - Cure Wounds
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Ice Knife for ranged damage, or Shillelagh as your main damage cantrip.
+    - Turn 2+: Continue relying on spells and cantrips for damage.
+  - Notes:
+    - Thorn Whip acts as a way to control targets; swap to Guidance if you do not have a Cleric or another spellcaster with this Cantrip.
+    - Enhanced Leap is noted as rarely used, but can be helpful outside of combat to reach hidden areas.
 
-### Ability Score (as presented in source)
-STR 10 / DEX 14 / CON 16 / INT 10 / WIS 16 / CHA 8
+### Level 2
+- Gain:
+  - Subclass: Circle of the Moon
+  - Combat Wild Shape (Bonus Action; transform twice per short rest)
+  - Lunar Mend (Expend spell slots to regain hit points while wild-shaped; regain 1d8 hit points per level of the spell slot)
+  - Spell Slot: another level 1 spell slot
+  - Spell: Entangle
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+- Play Style:
+  - Rotation:
+    - Turn 1: Open up with a damage spell using your action first (typically Ice Knife or Thunderwave if enemies surround you).
+    - Turn 2+: Use your Bonus Action to transform into a Wild Shape (typically the Badger at this level) and go offensive with animal skills.
+  - Notes:
+    - Wolf is your damage dealer; Spider is great for snares and immobilization; Badger is great for utility and damage because it has 3 attacks.
+    - If you reach 0 HP in Wild Shape form, you will revert to your physical form (use this as an extra health bar).
+    - The downside to Wild Shape is losing access to all your spells; consider going out of Wild Shape manually when you need to cast another ability.
 
-### Skill Proficiencies (as presented in source)
-Animal Handling, Perception
+### Level 3
+- Gain:
+  - Spell: Flaming Sphere
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Flaming Sphere
+- Play Style:
+  - Rotation:
+    - Turn 1: Cast Flaming Sphere (can be summoned at range).
+    - Turn 2+: Bonus Action Wild Shape; continue dealing damage while Flaming Sphere soaks damage.
+  - Notes:
+    - Flaming Sphere requires concentration; cast Flaming Sphere with your action, then use a bonus action to Wild Shape (this will not drop concentration).
 
-### Starting setup
-- **Weapon plan:** Prefer **quarterstaff with shield** (field use), transitioning to legendary quarterstaffs in late game for spell slot efficiency.
-- **Armor plan:** Prefer **medium armor** early game, transitioning to **light armor** in Act 3 (Armour of Moonbasking provides bonuses to Wild Shape).
-- **Recruitment note:** Must keep Cleric Isobel alive during monster encounter in Act 2, keep Nightsong alive, and ensure Jaheira joins you before ascending the tower to fight Ketheric Thorm. Complete the fight with her as an attached companion for her to remain in your party.
+### Level 4
+- Gain:
+  - Feat: Ability Improvement (Increase Wisdom by two to reach 18)
+  - Cantrip: Guidance
+  - Spell: Heat Metal
+  - Wild Shape: Deep Rothé (unlocked at this level)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Heat Metal
+  - Flaming Sphere
+  - Ice Knife
+- Play Style:
+  - Rotation:
+    - Turn 1: Typically Flaming Sphere unless you need to drop an enemy’s weapon with Heat Metal.
+    - Turn 2+: Wild Shape into Deep Rothé; use Gore for damage and Charge for crowd control.
+  - Notes:
+    - Heat Metal: if someone is wearing a metal weapon or armor, they can drop their armor and take damage (requires concentration; 18m range).
+    - Deep Rothé: Charge can knock a group of enemies prone.
 
----
+### Level 5
+- Gain:
+  - Spells: Call Lightning; Sleet Storm
+  - Wild Strike (make an additional attack after making an unarmed strike while in Wild Shape)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Heat Metal
+  - Flaming Sphere
+  - Call Lightning
+  - Sleet Storm
+- Play Style:
+  - Rotation:
+    - Turn 1: Use big area-based damage (Call Lightning or Sleet Storm) or Flaming Sphere.
+    - Turn 2+: Bonus Action Wild Shape; prepare for melee battle and attack twice in Wild Shape.
+  - Notes:
+    - Call Lightning can be called down again each turn without expending a spell slot.
+    - Sleet Storm creates an ice surface and disrupts concentration.
 
-## Level-by-level progression (Druid 1 → 12)
-> Treat each level's **Play style** as your default combat loop for deploying Jaheira effectively.
+### Level 6
+- Gain:
+  - Wild Shape: Panther
+  - Wild Shape: Owlbear
+  - Spell: Gust of Wind
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Heat Metal
+  - Flaming Sphere
+  - Call Lightning
+  - Sleet Storm
+  - Gust of Wind
+- Play Style:
+  - Rotation:
+    - Turn 1: Combine area damage spells with the Wild Shape you need for the fight.
+    - Turn 2+: Wild Shape into Panther (damage dealer) or Owlbear (area damage and crowd control) and fight in melee.
+  - Notes:
+    - Panther: Jugular Strike deals extra damage to prone enemies; combo noted with ice effects to knock enemies prone.
+    - Owlbear: used when you need to rush into a large group of enemies and stun them; noted for having a ton of health.
+    - Gust of Wind: pushes creatures back 5m, forcing them Off Balance.
 
-### Level 1 – Druid 1
-**Gain**
-- **Cantrips:** Shillelagh, Thorn Whip
-- **Spells:** Healing Word, Ice Knife, Thunderwave, Cure Wounds
+### Level 7
+- Gain:
+  - Spells: Ice Storm; Conjure Woodland Being
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Heat Metal
+  - Flaming Sphere
+  - Call Lightning
+  - Sleet Storm
+  - Ice Storm
+  - Conjure Woodland Being
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Ice Storm for massive area damage, or Conjure Woodland Being for a friendly fey summon.
+    - Turn 2+: Wild Shape while summons and ongoing effects pressure enemies.
+  - Notes:
+    - Conjure Woodland Being doesn’t require concentration; you can use both Flaming Sphere and Conjure Woodland Being for two companions aiding you.
+    - Note included in guide: the picture of prepared spells above is slightly off; don’t take Flame Blade, instead use Ice Knife.
 
-**Play style (Level 1)**
-- Deploy Jaheira as a **spellcaster with utility cantrips** until Wild Shape unlocks at level 2.
-- Use **Shillelagh** as a bonus action to enhance staff damage (uses Wisdom for attack rolls, deals 1d8+2).
-- **Ice Knife** provides ranged damage and can cause prone status effect.
-- **Thorn Whip** pulls targets 3m closer for positioning control.
-- Save **Healing Word** for emergency bonus-action heals at range.
-- Use **Thunderwave** offensively to knock enemies off ledges or create space.
+### Level 8
+- Gain:
+  - Feat: War Caster
+  - Spell: Confusion
+  - Wild Shape: Sabre-Toothed Tiger
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Heat Metal
+  - Flaming Sphere
+  - Call Lightning
+  - Sleet Storm
+  - Ice Storm
+  - Conjure Woodland Being
+  - Confusion
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Confusion as a massive crowd control opener.
+    - Turn 2+: Bonus Action Wild Shape into Sabre-Toothed Tiger and focus prone targets.
+  - Notes:
+    - War Caster: Advantage on Saving Throws to maintain Concentration on a spell; reaction to cast Shocking Grasp at a target moving out of melee range.
+    - Sabre-Toothed Tiger: attack Prone targets for extra damage; proc prone with cold spells prior to transforming (companions and allies can proc as well).
 
-### Level 2 – Druid 2 (Circle of the Moon)
-**Subclass**
-- **Circle of the Moon**
+### Level 9
+- Gain:
+  - Spell: Conjure Elemental (drop Conjure Woodland Being)
+  - Spell: Mass Cure Wounds
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Heat Metal
+  - Flaming Sphere
+  - Call Lightning
+  - Sleet Storm
+  - Ice Storm
+  - Confusion
+  - Mass Cure Wounds
+  - Conjure Elemental
+- Play Style:
+  - Rotation:
+    - Turn 1: Pre-cast Conjure Elemental before combat after a long rest (keep the elemental the entire time even when you Wild Shape).
+    - Turn 2+: Use Mass Cure Wounds when up to 6 allies need a big heal; otherwise continue the spell opener into Wild Shape loop.
+  - Notes:
+    - Conjure Elemental doesn’t require concentration; preference noted for Earth Elemental because it can stun opponents.
+    - Mass Cure Wounds can be combined with bonus action Healing Word to double healing within one turn.
 
-**Gain**
-- **Combat Wild Shape:** Wild Shape now uses a Bonus Action instead of an Action (two charges per short rest)
-- **Lunar Mend:** Expend spell slots to regain hit points while in Wild Shape (1d8 per spell slot level)
-- **Wild Shape Forms Available:** Badger, Bear, Cat, Spider, Wolf
-- **Spell:** Entangle
+### Level 10
+- Gain:
+  - Cantrip: Poison Spray
+  - Spell: Insect Plague
+  - Improved Wild Strike (make 2 additional attacks after making an unarmed strike while in Wild Shape)
+  - Wild Shape: Dilophosaurus
+  - Wild Shape: Myrmidon (Air, Earth, Fire, Water; costs two Wild Shape charges)
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Heat Metal
+  - Flaming Sphere
+  - Call Lightning
+  - Sleet Storm
+  - Ice Storm
+  - Confusion
+  - Mass Cure Wounds
+  - Conjure Elemental
+  - Insect Plague
+- Play Style:
+  - Rotation:
+    - Turn 1: Cast Insect Plague.
+    - Turn 2+: Wild Shape into a Water Myrmidon.
+  - Notes:
+    - Water Myrmidon is noted as a favorite because it has ice damage and a healing spell (stay in Wild Shape form doing damage while off-healing).
+    - Maintain your summon during combat (it doesn’t require concentration).
 
-**Play style (Level 2)**
-- The core combat loop begins: **cast a powerful spell with your action, then bonus-action Wild Shape**.
-- **Opening turn:** Use Ice Knife or Thunderwave first, then transform into Wild Shape (typically Badger for damage + crowd control, or Wolf for higher damage).
-- **Wild Shape as extra health bar:** If you reach 0 HP in Wild Shape, you revert to humanoid form instead of going down.
-- **Badger form:** 13 HP, has Claw (knockback), Bite, and Burrow attacks. Great for crowd control with knockback.
-- **Wolf form:** 18 HP, has Inciting Howl (increases allies' movement), Bite, and Exposing Bite (guarantees next attack is critical). Higher damage option.
-- **Bear form:** 30 HP, has Goading Roar (taunt), Claws. Best tank option.
-- Exit Wild Shape manually when you need to cast spells or heal allies.
-- Use **Lunar Mend** to self-heal in Wild Shape by expending spell slots.
+### Level 11
+- Gain:
+  - Spell: Heroes’ Feast (drop Insect Plague)
+  - Spell: Heal
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Heat Metal
+  - Flaming Sphere
+  - Call Lightning
+  - Sleet Storm
+  - Ice Storm
+  - Confusion
+  - Mass Cure Wounds
+  - Conjure Elemental
+  - Heroes’ Feast
+  - Heal
+- Play Style:
+  - Rotation:
+    - Turn 1: After a long rest, cast Heroes’ Feast for a 24-hour buff (until a long rest).
+    - Turn 2+: Use Heal as needed (level 6 spell slot limitation noted).
+  - Notes:
+    - You only get 1 level 6 spell slot per long rest.
+    - Markoheshkir legendary quarterstaff or Staff of Spellpower is noted to negate the cost of one spell (negate Heroes’ Feast, then use Heal when needed).
 
-### Level 3 – Druid 3
-**Gain**
-- **Level 2 spell slots**
-- **Spell:** Flaming Sphere
+### Level 12
+- Gain:
+  - Feat: Ability Improvement (+2 Wisdom increasing it to 20)
+  - Spell: Stoneskin
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Entangle
+  - Thunderwave
+  - Cure Wounds
+  - Ice Knife
+  - Heat Metal
+  - Flaming Sphere
+  - Call Lightning
+  - Sleet Storm
+  - Ice Storm
+  - Confusion
+  - Mass Cure Wounds
+  - Conjure Elemental
+  - Heroes’ Feast
+  - Heal
+  - Stoneskin
+- Play Style:
+  - Rotation:
+    - Turn 1: After a long rest, pre-cast Stoneskin (noted as similar to other spellcasters using Mage Armour) and other buffs that last until a long rest.
+    - Turn 2+: Use your level 6 spell slot for a burst heal and Heroes’ Feast after a Long Rest (as stated).
+  - Notes:
+    - Stoneskin: Resistance (half the damage) to all non-magical Bludgeoning, Piercing, and Slashing damage; lasts until a long rest; requires concentration.
+    - The guide emphasizes pre-casting long-rest buffs so you don’t use actions in combat.
 
-**Play style (Level 3)**
-- **Flaming Sphere** becomes your premier opening spell: summons a sphere at range that damages nearby enemies, has high HP, and soaks damage for your party.
-- Cast **Flaming Sphere** with your action, then bonus-action Wild Shape. This maintains concentration and the sphere continues to pressure enemies.
-- The sphere often absorbs all incoming damage, protecting your party.
-- Use this combination when expecting heavy damage from multiple sources.
-
-### Level 4 – Druid 4
-**Feat**
-- **Ability Improvement: +2 Wisdom** (increases Wisdom to 18)
-
-**Gain**
-- **Cantrip:** Guidance
-- **Spell:** Heat Metal
-- **Wild Shape Form Available:** Deep Rothé
-
-**Play style (Level 4)**
-- Higher Wisdom improves spell save DC and healing output.
-- **Heat Metal:** Forces targets wearing metal armor/weapons to drop equipment or take damage. Requires concentration. Excellent against Fighters and Barbarians.
-- **Deep Rothé form:** 23 HP, has Gore (damage) and Charge (area knockback that knocks enemies prone). Excellent for mobility, melee damage, and crowd control.
-- **Guidance:** Use as bonus action outside combat to give allies +1d4 to ability checks (dialogue, lockpicking, etc.).
-- Opening flexibility: Use either Flaming Sphere or Heat Metal depending on enemy composition, then Wild Shape into Deep Rothé for charge attacks.
-
-### Level 5 – Druid 5
-**Gain**
-- **Wild Strike:** Make an additional attack after making an unarmed strike while in Wild Shape
-- **Level 3 spell slots**
-- **Spells:** Call Lightning, Sleet Storm
-
-**Play style (Level 5)**
-- Major power spike: **level 3 spells** and **Wild Strike** (extra attack in Wild Shape).
-- **Call Lightning:** Massive area damage spell that can be recast each turn without expending spell slots. Use your action to call lightning again on subsequent turns.
-- **Sleet Storm:** 9m radius area damage that creates ice surface, disrupts caster concentration, and causes prone. Cast at choke points or to shut down ranged casters.
-- **Wild Strike:** Attack twice in Wild Shape form, significantly increasing melee damage output.
-- Ideal turn sequence: Cast Call Lightning or Sleet Storm as opener, then Wild Shape on turn two and use melee attacks with Wild Strike.
-
-### Level 6 – Druid 6
-**Gain**
-- **Primal Strike:** While in beast form, attacks count as magical to overcome resistance
-- **Wild Shape Forms Available:** Panther, Owlbear
-- **Spell:** Gust of Wind
-
-**Play style (Level 6)**
-- Two powerful new Wild Shape forms unlock:
-- **Panther form:** 45 HP, has Jugular Strike (extra damage to prone enemies), Prowl (invisibility), and Pounce. High single-target damage, especially against prone targets.
-- **Owlbear form:** 65 HP, has Enrage (area frighten effect) and Rupture (area damage). Massive HP pool and excellent area control. Use when rushing large groups.
-- **Gust of Wind:** 5m knockback spell, better version of Thunderwave for area control.
-- Form selection: Use Panther when focusing single priority targets (especially if allies can cause prone), Owlbear when facing large groups needing area damage and control.
-- All Wild Shape attacks now count as magical, overcoming resistance to non-magical damage.
-
-### Level 7 – Druid 7
-**Gain**
-- **Level 4 spell slots**
-- **Spells:** Ice Storm, Conjure Woodland Being
-
-**Play style (Level 7)**
-- **Ice Storm:** 2d8 bludgeoning + 4d6 cold damage in massive 6m radius. Can trigger status effects. Major area damage option.
-- **Conjure Woodland Being:** Summons a fey creature that does NOT require concentration. Can be used alongside Flaming Sphere for two summons aiding you.
-- Woodland creatures have numerous spells and skills for damage and crowd control.
-- Strategy: Use Conjure Woodland Being at the start of tough fights (it can fulfill control/damage role), then Wild Shape into damage form.
-- For difficult encounters, prioritize Conjure Woodland Being over Ice Storm to maintain persistent pressure.
-
-### Level 8 – Druid 8
-**Feat**
-- **War Caster** (Advantage on Concentration saves; reaction to cast Shocking Grasp at targets leaving melee range)
-
-**Gain**
-- **Wild Shape Form Available:** Sabre-Toothed Tiger
-- **Spell:** Confusion
-
-**Play style (Level 8)**
-- **War Caster:** Dramatically improves concentration spell reliability (critical since you're often concentrating on Flaming Sphere, Call Lightning, or summons).
-- **Sabre-Toothed Tiger form:** 62 HP, has Shred Armour (weakens enemies) and Jugular Strike (massive damage to prone targets). Best single-target damage form. Focus prone targets for maximum output.
-- **Confusion:** Massive crowd control spell. Causes enemies to attack randomly, wander aimlessly, or skip turns. One of the best CC spells due to large area.
-- Combine cold damage spells (to cause prone) with Sabre-Toothed Tiger form for devastating single-target damage.
-
-### Level 9 – Druid 9
-**Gain**
-- **Level 5 spell slots**
-- **Spells:** Conjure Elemental, Mass Cure Wounds
-
-**Play style (Level 9)**
-- **Conjure Elemental:** Summons one of four elemental creatures (Air, Earth, Fire, Water) that does NOT require concentration. Earth Elemental can stun opponents. Summon persists even when you Wild Shape.
-- Can pre-cast Conjure Elemental before combat after long rest and maintain it throughout encounters.
-- **Mass Cure Wounds:** Heals up to 6 creatures for 3d8 + Wisdom modifier. Generous radius. Excellent group heal.
-- Combine Mass Cure Wounds with bonus-action Healing Word for massive healing output in one turn.
-- Opening strategy: Pre-cast Conjure Elemental, use it for persistent pressure, then Wild Shape for melee combat.
-
-### Level 10 – Druid 10
-**Gain**
-- **Improved Wild Strike:** Make 2 additional attacks after making an unarmed strike while in Wild Shape
-- **Wild Shape Forms Available:** Dilophosaurus, Air Myrmidon, Earth Myrmidon, Fire Myrmidon, Water Myrmidon
-- **Cantrip:** Poison Spray
-- **Spell:** Insect Plague
-
-**Play style (Level 10)**
-- Major power spike: **Improved Wild Strike** gives you two extra attacks in Wild Shape (total of 3 attacks).
-- **Myrmidon forms** (subclass feature for Circle of the Moon): Cost 2 Wild Shape charges instead of 1, but considerably more powerful.
-- **Water Myrmidon:** Preferred form. Has ice damage attacks AND a healing spell, allowing you to stay in Wild Shape while off-healing. Other Wild Shapes cannot heal.
-- **Insect Plague:** Locusts attack everyone in range, create difficult terrain, impose disadvantage on Perception.
-- **Dilophosaurus form:** Has Corrosive Spit that dissolves target's AC. Less frequently used than Myrmidons.
-- Combat loop: Cast Insect Plague, transform into Water Myrmidon, maintain summon (Conjure Elemental) for three sources of pressure.
-
-### Level 11 – Druid 11
-**Gain**
-- **Level 6 spell slots**
-- **Spells:** Heroes' Feast, Heal
-
-**Play style (Level 11)**
-- **Heroes' Feast:** Produces feast for 12 guests that cures diseases, immunizes to poison, increases HP by 2d10 for 24 hours. Lasts until long rest. Cast immediately after long rest.
-- **Heal:** Best single-target heal in game (70 HP). Also removes Blindness and diseases.
-- Only one level 6 spell slot per long rest. Use legendary quarterstaffs (Markoheshkir or Staff of Spellpower) to negate spell cost, allowing you to cast both Heroes' Feast (after long rest) and Heal (in combat).
-- Pre-cast Heroes' Feast after long rest to buff entire party, save Heal for critical moments.
-
-### Level 12 – Druid 12
-**Feat**
-- **Ability Improvement: +2 Wisdom** (increases Wisdom to 20)
-
-**Gain**
-- **Spell:** Stoneskin
-
-**Play style (Level 12)**
-- Maximum Wisdom (20) improves spell save DC, damage, and healing.
-- **Stoneskin:** Grants resistance to all non-magical Bludgeoning, Piercing, and Slashing damage. Lasts until long rest. Requires concentration.
-- Cast Stoneskin immediately after long rest (alongside Heroes' Feast and Conjure Elemental) to pre-buff before combat.
-- More spells that last until long rest = more pre-casting = more actions available in actual combat.
-- Final combat identity: Pre-buff with long-duration spells, open with area damage or summons, Wild Shape into Water Myrmidon or Sabre-Toothed Tiger, use Improved Wild Strike for massive damage, exit to cast emergency heals or controls.
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 – Best gear
-> One list per slot: **Slot | Item | Why it's good | Where to get**.
-
+## Act 1 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Haste Helm | Increased movement | Chest in the Blighted Village X:32, Y:403 (Alternatives: Wapira's Crown or Grymskull Helm) |
-| Cloak | - | - | - |
-| Chest | Adamantine Scale Mail | 16 Armour Class | Crafted in Adamantine Forge (Alternative: Hedge Wanderer Armour, or Hide Armour +2) |
-| Gloves | Hellrider's Pride | Heals give resistance | Can be bought, stolen, or earned from Zevlor (Alternative: Gloves of Missile Snaring) |
-| Boots | Disintegrating Night Walkers | Misty Step spell (field mobility) | Looted from True Soul Nere in Grymforge (Alternative: Boots of Aid and Comfort) |
-| Neck | Amulet of Misty Step | Misty Step spell | Found in Gilded Chest in Defiled Temple (Alternative: Amulet of Silvanus, or Absolute's Talisman) |
-| Ring | Ring of Absolute Force | Thunderwave spell | Dropped by Sergeant Thrinn in Grymforge (Alternative: Crusher Ring) |
-| Ring | The Whispering Promise | Healing gives Blessed | From traders in Act 1 or Volo in Druid's Grove (Alternative: Ring of Colour Spray) |
-| Weapon (Main Hand) | Staff of Arcane Blessing | Enhanced Blessed spell | (Alternatives: Melf's First Staff, Staff of Crones, or Spellsparkler) |
-| Weapon (Off-Hand) | Glowing Shield | HP when low | Found in chest on slope behind goblin camp (X:-54, Y:462) (Alternative: Adamantine Shield, or Wood Woad Shield) |
-| Weapon (Ranged) | Hunting Shortbow | Free Hunter's Mark | (Not specified in source) |
+| Head | Haste Helm | Increased Movement | Chest in the Blighted Village X 32, Y 403 |
+| Chest | Adamantine Scale Mail | 16 AC | Crafted in Adamantine Forge |
+| Gloves | Hellrider’s Pride | Heals give resistance | Can be bought, stolen, or earned from Zevolr |
+| Boots | Disintegrating Night Walkers | Misty Step Spell | Looted from True Soul Nere in Grymforge |
+| Necklace | Amulet of Misty Step | Misty Step Spell | Found in a Gilded Chest in Defiled Temple |
+| Ring | Ring of Absolute Force | Thunderwave Spell | Dropped by Sergeant Thrinn in Grymforge |
+| Ring | The Whispering Promise | Healing gives Blessed | From Traders in Act 1 or Volo in Druid’s Grove |
+| Weapon 1 (Main Hand) | Staff of Arcane Blessing | Enhanced Blessed Spell | (Not specified in source) |
+| Weapon 1 (Off-Hand) | Glowing Shield | HP When Low | Found in a chest on a slope behind the goblin camp (X: -54, Y: 462) |
+| Weapon 2 (Ranged) | Hunting Shortbow | Free Hunter’s Mark | (Not specified in source) |
 
-## Act 2 – Best gear
+## Act 2 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | - | - | - |
-| Cloak | - | - | - |
-| Chest | - | - | - |
-| Gloves | - | - | - |
-| Boots | - | - | - |
-| Neck | - | - | - |
-| Ring | - | - | - |
-| Ring | - | - | - |
-| Weapon (Main Hand) | - | - | - |
-| Weapon (Off-Hand) | - | - | - |
-| Weapon (Ranged) | Darkfire Shortbow | Free Haste spell | Sold by Dammon at Last Light Inn (Act 2) |
+| Weapon 2 (Ranged) | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 |
 
-## Act 3 – Best gear
+## Act 3 Best Gear
 | Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Shapeshifter Hat | +1 Wild Shape charge | Sold by Helsik at the Devil's Fee (Alternative: Helm of Balduran, Helldusk Helmet) |
-| Cloak | Mantle of the Holy Warrior | Free Crusader's Mantle spell | Sold by Vicar Humbletoes in Stormshore Tabernacle (Alternative: Cloak of the Weave, or Cloak of Protection) |
-| Chest | Armour of Moonbasking | HP gain on Wild Shape | Sold by Voiceless Penitent Bareki in Act 3 (Alternative: Helldusk Armour, Adamantine Scale Mail, Flame Enamelled Armour) |
-| Gloves | The Reviving Hands | Healed creatures gain Blade Ward | Sold by Vicar Humbletoes (Alternative: Gloves of Dexterity, or Jhannyl's Gloves) |
-| Boots | Helldusk Boots | Cannot be moved | Chest on top floor of Wyrm's Rock Fortress (X:-32, Y:219) (Alternative: Disintegrating Night Walkers) |
-| Neck | Amulet of Greater Health | 23 Constitution | Archive in the House of Hope (Alternative: Surgeon's Subjugation Amulet, or Spellcrux Amulet) |
-| Ring | Crypt Lord Ring | Free Create Undead | The Mystic Carrion's Servant quest (Alternative: Killer's Sweetheart, or Shifting Corpus Ring) |
-| Ring | Ring of Regeneration | Automatic healing | Sold by Rolan at Sorcerous Sundries (Alternative: Ring of Free Action) |
-| Weapon (Main Hand) | Markoheshkir | +3 Legendary weapon, free level 6 spell | Found at Ramazith's Tower Act 3 (Alternative: The Blood of Lathander, Staff of Spellpower, or Selûne's Spear of Night) |
-| Weapon (Off-Hand) | Viconia's Walking Fortress | +3 AC, reflect spell | Looted from Viconia DeVir in Act 3 (Alternative: Shield of Devotion) |
-| Weapon (Ranged) | Darkfire Shortbow | Free Haste spell | Sold by Dammon at Last Light Inn (Act 2) |
+| Head | Shapeshifter Hat | +1 Wild Shape | Sold by Helsik at the Devil’s Fee |
+| Cape | Mantle of the Holy Warrior | Free Crusader’s Mantle Spell | Sold by Vicar Humbletoes in Stormshore Tabernacle |
+| Chest | Armour of Moonbasking | HP On Wild Shape | Sold by Voiceless Penitent Bareki in Act 3 |
+| Gloves | The Reviving Hands | Healed Gain Blade Ward | Sold by Vicar Humbletoes |
+| Boots | Helldusk Boots | Cannot be Moved | Chest on the top floor of Wyrm’s Rock Fortress |
+| Necklace | Amulet of Greater Health | 23 Constitution | Archive in the House of Hope |
+| Ring | Crypt Lord Ring | Free Create Undead | The Mystic Carrion’s Servant quest |
+| Ring | Ring of Regeneration | Automatic Healing | Sold by Rolan at Sorcerous Sundries |
+| Weapon 1 (Main Hand) | Markoheshkir | Free Level 6 Spell | Found At Ramazith’s Tower Act 3 |
+| Weapon 1 (Off-Hand) | Viconia’s Walking Fortress | 3 AC, Reflect Spell | Looted from Viconia DeVir in Act 3 |
+| Weapon 2 (Ranged) | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 |
 
----
+## Features and Mechanics
+- Class: Druid
+- Race: High Half-Elf
+- Background: Soldier
+- Subclass: Reroll to Circle of the Moon
+- Primary Ability: Wisdom
+- Secondary Ability: Constitution
+- Combat Wild Shape: As a Bonus Action, you can assume the form of a beast.
+- Lunar Mend: Expend spell slots to regain hit points while wild-shaped.
+- Primal Strike: While in beast form, your attacks count as magical for the purpose of overcoming Resistance.
+- Notes about Wild Shape:
+  - Cost Bonus Action
+  - No spellcasting
+  - Wild Shape doesn’t drop concentration
+  - While in Wild Shape, if you use all HP, you return to human form
+  - While in Wild Shape, you gain access to a self-heal
+  - You can even drink potions while in Wild Shape.
+- Wild Shape limitations and stats:
+  - When a druid Wild Shapes, they take on the game statistics of their beast form, including hit points, armor class, movement speed, Strength, Dexterity, and Constitution scores.
+  - The Druid’s Intelligence, Wisdom, and Charisma scores remain the same.
+  - The druid’s equipment merges into their animal form and cannot be used until they revert to their humanoid form.
 
-# Permanent bonuses (by Act)
+## Subclass Options
+### Circle of the Moon Features and Wild Shape Progression
+- Lunar Mend (Level 2): Expend spell slots to regain Hit Points while in Wild Shape.
+- Combat Wild Shape (Level 2): Wild Shape now uses a Bonus Action instead of an Action.
+- Available Wild Shapes (Level 2): Badger, Bear, Cat, Spider, Wolf
+- Available Wild Shapes (Level 4): Dire Raven and Deep Rothé
+- Wild Strike (Level 5): You can make an additional attack after making an unarmed strike while in Wild Shape.
+- Primal Strike (Level 6): While in beast form, your attacks count as magical to overcome resistance and immunity to non-magical damage.
+- Available Wild Shapes (Level 6): Panther and Owlbear
+- Available Wild Shapes (Level 8): Sabre-Toothed Tiger
+- Improved Wild Strike (Level 10): You can make 2 additional attacks after making an unarmed strike while in Wild Shape.
+- Available Wild Shapes (Level 10): Dilophosaurus, Air Myrmidon, Earth Myrmidon, Fire Myrmidon, Water Myrmidon
 
-## Act 1
-- (Not specified in source)
+### Wild Shape Forms (Listed)
+- Cat: Claws; Meow
+- Badger: Bite; Claws; Burrow
+- Bear: Goading Roar; Claws
+- Wolf: Inciting Howl; Bite; Exposing Bite
+- Spider: Web; Venomous Bite
+- Dire Raven: Beak Attack; Rend Vision
+- Deep Rothé: Gore; Charge
+- Owlbear: Enrage; Rupture
+- Panther: Jugular Strike; Prowl; Pounce
+- Sabre-Toothed Tiger: Shred Armour; Jugular Strike
 
-## Act 2
-- (Not specified in source)
+## Best Consumables
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Potion of Flying: 10 turns of flying.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Angelic Slumber: fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Peerless Focus: gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Viciousness: increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Elixir of Universal Resistance: gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
-## Act 3
-- (Not specified in source)
+## Permanent Bonuses
+### Act 1
 
----
+### Act 2
 
-# Best consumables / items (single-use)
-- **Elixir of Bloodlust** – Once per turn when you kill a foe, gain 5 temporary hit points and an additional action.
-- **Potion of Invisibility** – Become invisible for 1 minute. Attacking or casting spells ends the status.
-- **Potion of Flying** – Gain flying speed for 10 turns.
-- **Potion of Speed** – 3 turns of increased action via Haste condition.
-- **Potion of Angelic Slumber** – Fall asleep for two turns, then restore all spell slots, hit points, and abilities.
-- **Elixir of Peerless Focus** – Gain advantage on concentration saves (ingredients: Sublimate of Belladonna and any ashes).
-- **Elixir of Vigilance** – Gain +5 bonus to initiative and you cannot be surprised (ingredients: Sublimate of Bloodstained Hook and any ashes).
-- **Superior Elixir of Arcane Cultivation** – Gain a level 3 spell slot (ingredients: Solution of Night Orchid and any Vitriol).
-- **Elixir of Viciousness** – Increase your critical hit chance (ingredients: Vitriol of Shadowroot Sac and any Ashes).
-- **Elixir of Universal Resistance** – Gain resistance to all damage (ingredients: Vitriol of Divine Miasma and any Sublimate).
+### Act 3
 
----
+## Illithid Powers
 
-## Optional: Illithid powers (if using tadpoles)
-- (Not specified in source)
+## Gameplay Tips and Tricks
+- Use Bonus Actions: Use your bonus action to Wild Shape and heal yourself and don’t let it go to waste.
+- Wild Shape: If a party member needs a heal, come out of the form and support them, then go back on the offensive.
+- Pick Right Form: Use Wild Shape to select a creature with the desired effect like the Bear when you need a tank or Deep Rothé for cc.
+- Rest: Make sure to use quick rest and long rest to replenish your spell slots before important fights.
+- Flame Shape: Drop this ability in the fray and let it soak up all the damage for your party.
+- Double Healing: Use spells like Goodberries and Healing Word to provide healing in one turn.
+- Use Consumables: In critical situations, you can use a Potion of Speed or an ally to shoot a Fire Arrow to turn the tide of battle.
+- Prone: Try to use ice spells to proc the prone status effect so late-game wild-shape forms can do better damage.
+- Extra Attack: Make sure to attack twice in Wild Shape form after level 5 to get the most damage out of the build.
+- Opening Turn: Use your hard-hitting damage spells as an opener and use a bonus action to go into Wild Shape.
 
----
+## Alternative Build Route
+For our alternative Jaheira build, we’re introducing a multiclass option that dips into Wizard at Level 8. This setup blends the Circle of Spores subclass with the Evocation Wizard, creating a high-impact spellcaster focused on damage. With Evocation’s Sculpt Spells feature, you can unleash powerful area-of-effect magic without harming allies, making this build ideal for players who want a more aggressive, spell-focused take on the Druid. It’s a different playstyle where you trade healing and shapeshifting for raw magical firepower.
 
-## Optional: Alternative build route (from the guide)
-- The source presents an alternative multiclass build where Jaheira shifts from Circle of the Moon Druid into **Circle of Spores Druid / Evocation Wizard** multiclass, creating a high-impact spellcaster focused on damage over shapeshifting.
+## Patch Changes
+### Patch 8
+- The most significant change to the Druid class in Patch 8 of Baldur’s Gate 3 is the addition of the Circle of Stars subclass.
+- Circle of the Moon subclass still remains the strongest for Druids in BG3.
+- While Jaheira joins your party as a Circle of the Land Druid, it’s highly recommended that you reroll her class.
 
-### Alternative leveling outline (as presented in source)
-- Level 1: Druid – Shillelagh, Thorn Whip, Ice Knife, Thunderwave, Cure Wounds, Healing Word
-- Level 2: Druid – Subclass: Circle of the Spores, Wild Shape, Bone Chill, Speak with Animals
-- Level 3: Druid – Flaming Sphere, Blindness, Detect Thoughts
-- Level 4: Druid – Feat: War Caster, Poison Spray, Heat Metal
-- Level 5: Druid – Wild Strike, Animate Dead, Gaseous Form, Sleet Storm
-- Level 6: Druid – Fungal Infestation, Call Lightning
-- Level 7: Druid – Conjure Woodland Being, Ice Storm, Blight, Confusion
-- Level 8: Wizard – Multiclass: Wizard, Minor Illusion, Mage Hand, Blade Ward, Fire Bolt, Shield, Find Familiar, Chromatic Orb, Tasha's Hideous Laughter, Magic Missile, Feather Fall
-- Level 9: Wizard – Subclass: Evocation, Burning Hands
-- Level 10: Wizard – Misty Step, Scorching Ray
-- Level 11: Wizard – Feat: Ability Improvement Wisdom, Light, Mirror Image, Invisibility
-- Level 12: Wizard – Fireball, Counterspell, Conjure Minor Elemental
+### Patch 7
+- Jaheira received mostly minor changes to dialogue and some bug fixes in Patch 7 of Baldur’s Gate 3.
+- Larian Studios’ main focus in this patch is mods and some new cinematic evil endings.
 
-### Alternative build notes
-- This build trades healing and shapeshifting for raw magical firepower
-- Evocation's Sculpt Spells feature allows powerful AoE magic without harming allies
-- Ideal for players wanting aggressive, spell-focused playstyle over Wild Shape melee combat
+<!-- :contentReference[oaicite:0]{index=0} -->
