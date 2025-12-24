@@ -1,346 +1,490 @@
-# Divination Wizard Build (Patch 8)
+# Divination Wizard Build
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Wizard 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-## Build snapshot
+## Build Snapshot
 
-### Fantasy / flavor
-- A **high-control, high-burst Wizard** that manipulates outcomes with Divination tricks, then deletes priority targets with heavy spellcasting.
-- Plays like “**pick the moment, force it to go your way, and end the fight early**”—you open strong with control, then scale into massive AoE and elite-killing single-target turns.
-- Cloth-and-positioning gameplay: you stay at range, use smart angles, and lean on mobility + reactions to survive while you cast.
+### Fantasy / Flavor
+- Divination School Wizard with “Portent,” able to see into the future and change die rolls.
+- Clairvoyant-style character concept focused on manipulating outcomes.
+- Cloth-quarterstaff Wizard playstyle with an extra dice-manipulation mechanic.
 
-### Core playstyle in one sentence
-- **Stay at range, control enemy turns with smart positioning and reactions, then spend your biggest resources early to remove the most dangerous targets before they act.**
+### Core Playstyle
+- AoE, utility, and control spellcasting with Divination School reactions to alter attack rolls and saving throws (Portent).
+- Use Mage Armour after every Long Rest; prioritize crowd control early and scale into powerful AoE spells at Level 5+.
 
-### Party role
-- **Backline DPS:** reliable damage that scales hard with spell levels.
-- **Crowd control / fight “director”:** remove enemy turns and create safe openings for your melee.
-- **Clutch utility:** repositioning, defensive reactions, and “problem solver” tools for tough encounters.
+### Party Role
+- Battlefield control (crowd control, reactions to shut down key enemy actions).
+- Ranged spell damage (area and single target).
+- Utility (mobility, defensive reactions, out-of-combat spells).
 
 ### Pros
-- Very strong **AoE damage** and excellent scaling into late game
-- Lots of **control** and “answer buttons” for dangerous enemies
-- Plays well with a traditional party (tank + healer + melee DPS)
+- Access to the largest spell list in the game; high versatility.
+- Strong AoE, utility, and control.
+- Can manipulate dice outcomes with Portent; later stacks with Lucky.
 
 ### Cons
-- Spell slots can run dry quickly if you don’t rest often
-- Positioning mistakes are punishing (cloth defenses)
-- Friendly-fire risk with big area spells if you’re careless with targeting
+- Requires careful planning and preparation.
+- Slow start until Level 5.
+- Friendly fire on AoE spells (Evocation is called out as the subclass that avoids friendly fire).
 
-### Power spikes to look forward to
-- Level 2: **Portent** (Divination identity turns on)
-- Level 5: **Fireball + Counterspell** (major combat swing)
-- Level 6: **Haste** (huge tempo increase)
-- Level 9: **Cone of Cold** (late-mid AoE spike)
-- Level 11: **Disintegrate** (elite deletion turns)
-- Level 12: **+2 Intelligence** (stronger casting + more prepared spells)
+### Power Spikes
+- Level 2: Portent (Divination School) and subclass choice.
+- Level 5: Fireball and Counterspell.
+- Level 6: Expert Divination + Haste.
+- Level 8: Lucky feat.
+- Level 11: Level 6 spells (Disintegrate, Chain Lightning).
 
----
+## Character Creation
+- Race: High Half-Elf
+- Class: Wizard
+- Subclass: Divination
+- Background: Sage
+- Ability Scores: STR 8, DEX 16, CON 14, INT 16, WIS 10, CHA 10
+- Proficiencies: Quarterstaves, Light Crossbows, Dagger (weapons); none (armour)
+- Proficiencies (skills): Investigation and Religion
+- Cantrips: Fire Bolt, Light, Mage Hand, Blade Ward
+- Spells: Mage Armour, Magic Missile, Sleep, Thunderwave, Chromatic Orb, Shield
 
-## Character creation
-- **Origin:** Custom character
-- **Race:** High Half-Elf
-- **Class:** Wizard
-- **Subclass:** Divination School
-- **Background:** Sage
-- **Skills:** Investigation, Religion
-- **Abilities (target):** STR 8 / DEX 16 / CON 14 / INT 16 / WIS 10 / CHA 10
+## Level Progression
 
-### Skills (what to take)
-- **Investigation**
-- **Religion**
+### Level 1
+- Gain:
+  - Three cantrips
+  - Two Level 1 spell slots
+  - Learn six spells
+  - Arcane Recovery: recover two spell slots (restore two level 1 spells or one level 2 spell)
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Sleep
+  - Thunderwave
+- Play Style:
+  - Notes:
+    - Use cloth and a quarterstaff.
+    - If High Half-Elf or Human, you can equip a shield with a Quarterstaff for extra AC.
+    - Use Mage Armour immediately following every long rest to boost AC (16 with 16 Dexterity; 18 AC if also using a shield).
+    - Early priorities include crowd control (Sleep; Grease + Fire Bolt combination later), Thunderwave knockback, and Chromatic Orb (ice version for stuns).
 
-### Ability score notes
-- **Intelligence 16** is the priority (spells land more often and hit harder).
-- **Dexterity 16** + cloth + Mage Armour is your early survival plan (16 AC baseline with the recommended setup).
-- **Constitution 14** supports concentration and survivability.
+### Level 2
+- Gain:
+  - Subclass: Divination School
+  - Two spells; total of 5 prepared spells
+  - Divination Savant (subclass feature): Learning Divination spells from scrolls costs half as much (25 gold pieces per spell level)
+  - Portent (subclass feature): After each Long Rest, gain two random Portent Dice; use reaction to change the die of any nearby Attack Roll or Saving Throw to one of your Portent Dice; each die once; unused dice lost at end of day
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Sleep
+  - Thunderwave
+  - Chromatic Orb
+- Play Style:
+  - Notes:
+    - Portent is limited; use it only when you really need an attack to land or avoid (incoming crowd control, killing blow, etc.).
+    - Portent can help allies.
+    - In the spellbook Reactions tab, enable the “ask” checkbox so BG3 prompts you before spending Portent.
+    - Suggested utility spells: Grease and Find Familiar; Grease + Fire Bolt cantrip for area damage and crowd control.
+    - Flex spells mentioned: Shield (if struggling with survivability) and Sleep (depending on party crowd control).
 
-### Best companions (party suggestions)
-- **Lae’zel (Fighter):** frontline pressure, control, and draws aggression.
-- **Shadowheart (Cleric):** buffs, healing, and control.
-- **Astarion (Rogue):** ranged damage, sneak attacks, trap utility.
-- General party idea: one tank, one healer, one melee DPS, and one ranged DPS (you).
+### Level 3
+- Gain:
+  - Two level-2 spells
+  - Two new spells; total of 6 prepared spells
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+- Play Style:
+  - Notes:
+    - Scorching Ray is single-target damage (can target different enemies or one).
+    - Misty Step is a bonus action mobility tool; example given: Misty Step onto a ledge and use Thunderwave to knock enemies off.
 
----
+### Level 4
+- Gain:
+  - One new cantrip: Minor Illusion
+  - Two spells: Flaming Sphere; Mirror Image
+  - Feat: Ability Improvement (Intelligence +2)
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Shield
+- Play Style:
+  - Notes:
+    - Flaming Sphere acts like a summoned creature that does damage and soaks up damage; helpful at lower levels.
+    - Mirror Image is a defensive spell (AC increases by 9, decreasing by 3 as duplicates disappear when attacks are evaded).
+    - In difficult fights where you will be targeted frequently, use Shield and Mirror Image to increase survivability.
+    - After selecting +2 Intelligence, you can immediately go to your spellbook and add another spell; Shield or Mirror Image is called out as a good choice for survival.
 
-## Level-by-level progression (Wizard 1 → 12)
-> This build is very “turn-plan” driven. Treat each level’s **Play style** as your default combat loop.
+### Level 5
+- Gain:
+  - Two Level-3 spell slots
+  - Two spells: Fireball; Counterspell
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Counterspell
+  - Fireball
+- Play Style:
+  - Notes:
+    - Counterspell uses a spell slot and Reaction to negate an enemy spell; helpful to avoid crowd control spells like Hold Person.
+    - You now have Portent and Counterspell as tools to counter enemies.
+    - Fireball is strong AoE early and late; note “friendly fire” (teammates can take damage if hit and fail saving throw).
+    - Suggested approach: use Fireball early in fights when enemies are clumped, then switch to single-target spells.
+    - If you want to prepare both Fireball and Counterspell, drop Shield if survivability is high.
 
-### Level 1 — Wizard 1
-**Gain**
-- Cantrips: **Fire Bolt**, **Light**, **Mage Hand**, **Blade Ward**
-- Spells: **Mage Armour**, **Magic Missile**, **Sleep**, **Thunderwave**, **Chromatic Orb**, **Shield**
+### Level 6
+- Gain:
+  - Subclass feature: Expert Divination (additional Portent Die; on Short Rest, regain any spent Portent Dice)
+  - Two spells: Haste; Hold Person
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Counterspell
+  - Fireball
+  - Hold Person
+- Play Style:
+  - Notes:
+    - Regaining Portent Dice on Short Rest allows more frequent Portent usage.
+    - Haste grants an action and increases speed/defense; requires Concentration; if Concentration breaks, target becomes Lethargic and skips their turn.
+    - Suggested usage: use Haste when you cannot attack with a Fireball on turn one, and hide to avoid damage.
+    - Look to prepare Hold Person for crowd control, Mirror Image for survival, and Haste for group utility.
+    - “Ending Act 1 with a Divination Wizard” notes:
+      - You should be close to completing Act 1 content around Level 6.
+      - Visit merchants and stock up on camp and alchemy supplies.
+      - Look over best Act 1 items and permanent bonuses.
+      - Grymforge has powerful armor and weapons (Adamantine) that can aid into Act 3; consider crafting before transitioning to Act 2 because you won’t be able to come back to the map.
 
-**Play style (Level 1)**
-- Pre-cast **Mage Armour** after long rests, then play fights from max range and use terrain to keep enemies walking.
-- Spend slots early to prevent enemy turns (Sleep) or stabilize (Shield), and don’t be afraid to rest when you’ve emptied your big tools.
+### Level 7
+- Gain:
+  - 1 level 4 spell slot
+  - Two spells: Blight; Ice Storm
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Counterspell
+  - Fireball
+  - Hold Person
+  - Blight
+- Play Style:
+  - Notes:
+    - Take Ice Storm (area damage) and Blight (single target); Blight is high single-target damage but lower range so you’ll need to be in the fray to use it.
+    - Other options mentioned: Banishment (single target stun), Confusion (AoE crowd control), Conjure Minor Elemental (summons).
 
-### Level 2 — Wizard 2 (Divination)
-**Subclass**
-- **Divination**
-- **Portent**
+### Level 8
+- Gain:
+  - Another Level 4 spell slot
+  - Two spells: Conjure Minor Elemental; Confusion
+  - Feat: Lucky (3 Luck Points to gain Advantage on Attack Rolls/Ability Checks/Saving Throws, or make an enemy reroll Attack Rolls)
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Counterspell
+  - Fireball
+  - Hold Person
+  - Blight
+  - Confusion
+- Play Style:
+  - Notes:
+    - Lucky is described as leaning into the Divination subclass’ controlling mechanism; enable it in reactions and passives to influence dice rolls.
+    - Lucky and Portent “stack,” allowing layered control.
+    - For spell selection, take Confusion for crowd control and prepare it; Ice Storm can be prepared for more area damage; Conjure Minor Elemental is noted if you want summons.
 
-**Gain**
-- Spells: **Grease**, **Find Familiar**
-- **Portent** (subclass feature)
+### Level 9
+- Gain:
+  - One level 5 spell slot
+  - Two spells: Cone of Cold; Conjure Elemental
+  - 13 prepared spells available to select from
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Counterspell
+  - Fireball
+  - Hold Person
+  - Blight
+  - Confusion
+  - Cone of Cold
+- Play Style:
+  - Notes:
+    - Cone of Cold is conal, described as easier to aim and avoid friendly fire than radial spells.
+    - If you selected Minor Elemental, you can replace it with Conjure Elemental if you like summons.
+    - Cloudkill is not suggested here (hard to avoid damage in its massive radius).
 
-**Play style (Level 2)**
-- Start thinking in “setup turns”: slow/control space first (Grease), then punish clustered enemies next turn.
-- Use Portent to force your best moments (key control lands, enemy misses, or your big damage connects) and treat it like a fight-winning resource.
+### Level 10
+- Gain:
+  - Another level 5 spell slot
+  - Subclass features: Third Eye: Darkvision (24m); Third Eye: See Invisibility
+  - One new cantrip: Friends
+  - Two spells: Banishment; Seeming
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Counterspell
+  - Fireball
+  - Hold Person
+  - Blight
+  - Confusion
+  - Cone of Cold
+  - Banishment
+- Play Style:
+  - Notes:
+    - Banishment is described as one of the best single-target CC in the game.
+    - Seeming is described as a great out-of-combat utility spell.
+    - Note given: these Third Eye features don’t influence the build that much; the guide states it isn’t multiclassing this build because level 6 spells are powerful.
 
-### Level 3 — Wizard 3
-**Gain**
-- Spells: **Scorching Ray**, **Misty Step**
+### Level 11
+- Gain:
+  - 1 level 6 spell slot
+  - Two spells: Disintegrate; Chain Lightning
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Counterspell
+  - Fireball
+  - Hold Person
+  - Blight
+  - Confusion
+  - Cone of Cold
+  - Banishment
+  - Disintegrate
+- Play Style:
+  - Notes:
+    - You will only get one level 6 spell slot unless you pick one of two quarterstaves: Staff of Spellpower or Markoheshkir; these have a passive that forgoes one spell slot and gives a free cast.
+    - The guide suggests selecting two level 6 spells with the intent to collect one or both of these staffs in Act 3.
+    - Disintegrate is called out as a powerful single-target damage spell; Chain Lightning is described as great area-based damage when enemies are close and in packs.
 
-**Play style (Level 3)**
-- Your turns get smoother: **Misty Step** is your panic button for distance, high ground, or escaping melee.
-- Use **Scorching Ray** when you need reliable single-target pressure; otherwise keep leaning on control first, damage second.
+### Level 12
+- Gain:
+  - Two spells: Greater Invisibility; Telekinesis
+  - Feat: Ability Improvement (Intelligence +2)
+- Prepared Spells (if applicable):
+  - Mage Armour
+  - Magic Missile
+  - Thunderwave
+  - Chromatic Orb
+  - Scorching Ray
+  - Misty Step
+  - Flaming Sphere
+  - Counterspell
+  - Fireball
+  - Hold Person
+  - Blight
+  - Confusion
+  - Cone of Cold
+  - Banishment
+  - Disintegrate
+  - Conjure Elemental
+  - Telekinesis
+- Play Style:
+  - Notes:
+    - Another +2 Intelligence allows preparing another spell; the guide suggests Conjure Elemental (cast outside combat; with 3 level 5 slots you can still use two powerful level 5 spells).
+    - The guide calls Greater Invisibility and Telekinesis “utility spells” to round out the build.
+    - Summary provided in the guide:
+      - Single Target Damage: Scorching Ray, Magic Missile, Blight, Disintegrate
+      - Area Damage: Fireball, Cone of Cold, Chromatic Orb
+      - Crowd Control: Hold Person, Banishment, Telekinesis
+      - Utility: Mage Armour, Misty Step, Counterspell
 
-### Level 4 — Wizard 4
-**Feat**
-- **Ability Improvement: +2 Intelligence**
-
-**Gain**
-- Cantrip: **Minor Illusion**
-- Spells: **Flaming Sphere**, **Mirror Image**
-
-**Play style (Level 4)**
-- You’re sturdier and more consistent: use **Mirror Image** when you expect to take heat, then keep casting safely.
-- Use **Minor Illusion** to manipulate enemy positioning and set up cleaner AoE turns.
-
-### Level 5 — Wizard 5
-**Gain**
-- Spells: **Fireball**, **Counterspell**
-
-**Play style (Level 5)**
-- This is a major identity spike: open hard with **Fireball** when enemies are grouped, then clean up survivors.
-- Keep a reaction ready for **Counterspell** when enemy casters are present—denying a big spell is often better than dealing damage.
-
-### Level 6 — Wizard 6
-**Gain**
-- Spells: **Haste**, **Hold Person**
-
-**Play style (Level 6)**
-- Treat **Haste** as your “tempo switch”: use it in difficult fights to snowball actions and end threats early.
-- **Hold Person** is your premium control pick—use it to remove the most dangerous humanoid from the fight (or enable an easy kill).
-
-### Level 7 — Wizard 7
-**Gain**
-- Spells: **Blight**, **Ice Storm**
-
-**Play style (Level 7)**
-- You now have strong choices for both single-target and area pressure: pick the spell that ends the fight faster, not the fanciest one.
-- Use your mobility to keep distance, then drop big areas where your frontline *isn’t*—don’t win the fight and lose your party to friendly fire.
-
-### Level 8 — Wizard 8
-**Feat**
-- **Lucky**
-
-**Gain**
-- Spells: **Conjure Minor Elemental**, **Confusion**
-
-**Play style (Level 8)**
-- **Lucky** is your “save the run” button—use it to protect concentration, avoid critical failures, or force key outcomes.
-- Your fights become control-heavy: **Confusion** can shut down packs, while summons add bodies to soak hits and disrupt enemies.
-
-### Level 9 — Wizard 9
-**Gain**
-- Spells: **Cone of Cold**, **Conjure Elemental**
-
-**Play style (Level 9)**
-- **Cone of Cold** is your big AoE finisher—look for lines/cones that hit many targets without clipping allies.
-- Start fights by establishing control and position, then spend your highest-level slot to end the enemy’s ability to take meaningful turns.
-
-### Level 10 — Wizard 10
-**Gain**
-- Cantrip: **Friends**
-- Spells: **Banishment**, **Seeming**
-
-**Play style (Level 10)**
-- **Banishment** is your “remove the problem” tool—use it on the scariest enemy when you need breathing room or a safe reset.
-- Keep playing clean turns: one big action that matters, then use movement/positioning so enemies waste their turns trying to reach you.
-
-### Level 11 — Wizard 11
-**Gain**
-- Spells: **Disintegrate**, **Chain Lightning**
-
-**Play style (Level 11)**
-- Your endgame damage identity is online: use **Disintegrate** to delete a priority target, and **Chain Lightning** when enemies clump into 3–6 packs.
-- Be intentional with spell learning: you have limited high-level slots, so prioritize the spells you will actually cast in hard fights.
-
-### Level 12 — Wizard 12
-**Feat**
-- **Ability Improvement: +2 Intelligence**
-
-**Gain**
-- Spells: **Greater Invisibility**, **Telekinesis**
-- Prepared spell suggestion includes **Conjure Elemental** as a strong out-of-combat cast with your level 5 slots.
-
-**Play style (Level 12)**
-- You’re now a complete kit: rotate between AoE nukes, single-target deletion, and hard control depending on what ends the fight fastest.
-- Use **Greater Invisibility** / **Telekinesis** as flexible problem-solvers when raw damage isn’t the answer (priority isolation, throws, repositioning, or control).
-
----
-
-# Act-by-Act Add-ons
-
-## Act 1 — Best gear
-> One list per slot: **Slot | Item | Why it’s good | Where to get**.
-
-| Slot | Item | Why it’s good | Where to get |
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Circlet of Blasting | Free Scorching Ray | Sold by Blurg in the Myconid Colony (Alternative Haste Helm). |
-| Cape | - | - | - |
-| Chest | The Protecty Sparkswall | +1 Spell Saves | Looted in Gilded Chest in Grymforge X: -645 Y: 360 (Alternative Poisoner’s Robe). |
-| Gloves | Gloves of Cinder and Sizzle | Free Scorching Ray (listed as beginner gear effect) | Sold by Lady Esther at Rosymorn Monastery Trail (Alternative Gloves of Missile Snaring, or Gloves of Hail of Thorns). |
-| Boots | Disintegrating Night Walkers | Mobility & Misty Step | Found in Underdark from Ne’re NPC (Alternative Cinder Shoes or Boots of Speed). |
-| Neck | Amulet of Misty Step | Free Misty Step | Found in a Gilded Chest (X386 Y8) in Defiled Temple (Alternative Moondrop Pendant). |
-| Ring | Ring of Absolute Force | Free Thunderwave | Dropped by Sergeant Thrinn in Grymforge (Alternative Ring of Colour Spray). |
-| Ring | Fetish of Callarduran Smoothhands | Free Invisibility | Found in Grymforge Abandoned Refuge (Alternatives The Sparkswall, or Sunwalker’s Gift if Human). |
-| Main Hand | Melf’s First Staff | Free Acid Arrow | Sold by Blurg in the Myconid Colony (Alternatives The Spellsparkler, or Staff of Crones). |
-| Off-Hand | Adamantine Shield | +2 AC (Half-Elf or Human) | Complete the Adamantine Forge Quest in Grymforge use if Human or Half-Elf Race (Alternatives Glowing Shield, or Wood Woad Shield). |
-| Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum. You can use it even without proficiency for extra initiative! |
+| Head | Circlet of Blasting | Free Scorching Ray | Sold by Blurg in the Myconid Colony |
+| Chest | The Protecty Sparkswall | +1 Spell Saves | Looted in Gilded Chest in Grymforge X: -645 Y: 360 |
+| Gloves | Gloves of Cinder and Sizzle | Free Scorching Ray | Sold by Lady Esther at Rosymorn Monastery Trail |
+| Boots | Disintegrating Night Walkers | Mobility & Misty Step | Found in Underdark from Ne’re NPC |
+| Necklace | Amulet of Misty Step | Free Misty Step | Found in a Gilded Chest (X386 Y8) in Defiled Temple |
+| Ring | Ring of Absolute Force | Free Thunderwave | Dropped by Sergeant Thrinn in Grymforge |
+| Ring | Fetish of Callarduran Smoothhands | Free Invisibility | Found in Grymforge Abandoned Refuge |
+| Weapon (Main Hand) | Melf’s First Staff | Free Acid Arrow | Sold by Blurg in the Myconid Colony |
+| Off-Hand | Adamantine Shield | +2 AC (Half-Elf or Human) | Complete the Adamantine Forge Quest in Grymforge (use if Human or Half-Elf Race) |
+| Ranged | Bow of Awareness | +1 Initiative | Sold by Vendor Roah Moonglow in the Shattered Sanctum (can use even without proficiency for extra initiative) |
 
-## Act 2 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Neck | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 (Alternative Amulet of Greater Health). |
-| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
-| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Drop by Fist Marcus at the Last Light Inn (Alternative Ring Of Regeneration, or Crypt Lord Ring). |
-| Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 (Alternative Gontr legendary bow). |
+| Necklace | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 |
+| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Drop by Fist Marcus at the Last Light Inn |
+| Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 |
 
-## Act 3 — Best gear
-| Slot | Item | Why it’s good | Where to get |
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
 | --- | --- | --- | --- |
-| Head | Hood of the Weave | +2 Spell Save & Roll | Sold by Mystic Carrion in Philgrave’s Mansion during Act 3 (Alternative Helldusk Helmet, or Mask of Soul Perception). |
-| Cape | Cloak of the Weave | +1 Spell Save & Roll | Sold by Helsik at the Devil’s Fee (Alternative Cloak of Protection). |
-| Chest | Robe of the Weave | +2 AC, Saving Throw | 1 At Ramazith’s Tower (Alternative Helldusk Armour, or Robe of Supreme Defences). |
-| Gloves | Quickspell Gloves | Cantrips Bonus Action | Purchased at Lorroakan’s Projection at Sorcerors’s Sundries (Alternative Helldusk Gloves, or Gemini Gloves). |
-| Boots | Helldusk Boots | Mobility & Hellcrawler | Gilded Chest on the top floor of Wyrm’s Rock Fortress (Alternative Disintegrating Night Walkers). |
-| Neck | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 (Alternative Amulet of Greater Health). |
-| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 (Alternative Ring of Protection, Risky Ring). |
-| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Drop by Fist Marcus at the Last Light Inn (Alternative Ring Of Regeneration, or Crypt Lord Ring). |
-| Main Hand | Markoheshkir | Free Spells, +1 Roll | At Ramazith’s Tower (Alternatives Staff of Spellpower, or Incandescent Staff). |
-| Off-Hand | Viconia’s Walking Fortress | If Human/Half-Elf | Looted from Viconia DeVir during Shadowheart’s companion quest (Alternative Shield of Devotion). |
-| Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 (Alternative Gontr legendary bow). |
+| Head | Hood of the Weave | +2 Spell Save & Roll | Sold by Mystic Carrion in Philgrave’s Mansion during Act 3 |
+| Cape | Cloak of the Weave | +1 Spell Save & Roll | Sold by Helsik at the Devil’s Fee |
+| Chest | Robe of the Weave | +2 AC, Saving Throw | At Ramazith’s Tower |
+| Gloves | Quickspell Gloves | Cantrips Bonus Action | Purchased at Lorroakan’s Projection at Sorcerors’s Sundries |
+| Boots | Helldusk Boots | Mobility & Hellcrawler | Gilded Chest on the top floor of Wyrm’s Rock Fortress |
+| Necklace | Spellcrux Amulet | Restore spell slot | Drop by The Warden in Moonrise Towers Prison X: 569 Y: -650 |
+| Ring | Killer’s Sweetheart | Auto Critical | Obtained from the Gauntlet of Shar in Act 2 |
+| Ring | Shifting Corpus Ring | Free Invisibility and Blur | Drop by Fist Marcus at the Last Light Inn |
+| Weapon (Main Hand) | Markoheshkir | Free Spells, +1 Roll | At Ramazith’s Tower |
+| Off-Hand | Viconia’s Walking Fortress | If Human/Half-Elf | Looted from Viconia DeVir during Shadowheart’s companion quest |
+| Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2 |
 
----
+## Features and Mechanics
+- Primary Ability: Intelligence
+- Saving Throws: Intelligence and Wisdom
+- Armour Proficiency: None
+- Weapon Proficiency: Quarterstaves, Light Crossbows, Dagger
+- Preferred Armor: Clothing
+- Preferred Weapon: Quarterstaff
+- Divination Savant: Learning Divination spells from scrolls costs 25 gold pieces per spell level.
+- Portent: Gain Portent Dice which can be spent as a reaction to alter Attack Roll or Saving Throw.
+- Arcane Recovery: Replenish spell slots while out of combat.
+- Wizard Spell Casting Explained:
+  - Cantrips: Like spells, but you can cast them infinitely, and they don’t take your spell slots.
+  - Prepared Spells: Allows you to swap in and out spells that you’ve learned in your spellbook.
+  - Spell Slots: Limited resource for casting spells. Needs Long Rest to replenish.
+  - Arcane Recovery: A resource that allows you to recover used spell slots.
+  - Concentration: Spells that require you to focus and can be interrupted. You can only have one Concentration spell active at a time.
 
-# Permanent bonuses (by Act)
+## Subclass Options
+### Divination School Features
+- Divination Savant (Level 2): Learning Divination spells from scrolls costs half as much, becoming 25 gold pieces per spell level.
+- Portent (Level 2): After each Long Rest, gain two random Portent Dice; use reaction to change the die of any Attack Roll or Saving Throw rolled near you to one of your Portent Dice; each die once; unused dice lost at end of day.
+- Expert Divination (Level 6): Additional Portent Die; when taking a Short Rest you regain any spent Portent Dice.
 
-## Act 1
-- **Auntie Ethel’s Hair** — *+1 to an Ability Score (your choice)*
-- **Awakened** — *Use illithid powers as a Bonus Action*
-- **Scratch** — *Gain Find Familiar: Scratch*
-- **Cheeky Quasit** — *Gain Summon Quasit Shovel*
-- **Loviatar’s Love** — *30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.*
-- **Necromancy Of Thay** — *access to powerful spells in Act 3.*
-- **Volo’s Ersatz Eye** — *See Invisibility*
+### Third Eye Options
+- Third Eye: Darkvision (Level 10): See in the dark out to a range of 24m.
+- Third Eye: See Invisibility (Level 10): Become able to see invisible creatures, and possibly reveal them to others.
 
-## Act 2
-- **Potion of Everlasting Vigour** — *Gain +2 Strength.*
-- **Slayer Form** — *Ability to transform into the Slayer.*
-- **Summon Us** — *Allows you to summon Us.*
+## Best Consumables
+- Potion of Greater Healing: 8d4 + 8 healing and removes burning.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Potion of Flying: 10 turns of flying.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Angelic Slumber: fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Bloodlust: Once per turn when you kill a foe, you gain HP 5 temporary hit points and an additional action.
+- Elixir of Peerless Focus: gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Viciousness: increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Elixir of Universal Resistance: gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
-## Act 3
-- **Mirror of Loss** — *+2 to an Ability Score of your choice.*
-- **Partial Ceremorphosis** — *Access to tier 3 illithid Powers.*
-- **Sweet Stone Features** — *Blessed permanent.*
-- **Statue of the Gods** — *+2 to Saving Throws*
+## Permanent Bonuses
+### Act 1
+- Auntie Ethel’s Hair: +1 to an Ability Score.
+- Scratch: Gain Find Familiar Scratch.
+- Cheeky Quasit: Gain Summon Quasit Shovel.
+- Loviatar’s Love: 30% Hit Points or less, you gain a +2 bonus to Attack Rolls and Wisdom saving throws.
+- Necromancy Of Thay: access to powerful spells in Act 3.
+- Volo’s Ersatz Eye: See Invisibility
 
----
+### Act 2
+- Awakened: Use illithid powers as a Bonus Action.
+- Summon Us: Allows you to summon Us.
+- Sweet Stone Features: Blessed permanent.
 
-# Best consumables / items (single-use)
-- **Potion of Greater Healing**  
-  - What it does: *8d4 + 8 healing and removes burning.*  
-  - Why it’s strong: keeps you alive when cloth defenses get pressured and lets you stay upright without spending a combat turn on defensive casting.  
-  - When to use: after you take focus-fire, on fights where you must maintain concentration, or when you can’t safely reposition.
+### Act 3
+- Mirror of Loss: +2 to an Ability Score of your choice.
+- Potion of Everlasting Vigour: Gain +2 Strength.
+- Slayer Form: Ability to transform into the Slayer.
+- Partial Ceremorphosis: Access to tier 3 illithid Powers.
+- Statue of the Gods: +2 to Saving Throws
 
-- **Potion of Invisibility**  
-  - What it does: *Become invisible for 1 minute. Attacking or casting spells ends the status.*  
-  - Why it’s strong: emergency reset for a fragile backliner—breaks enemy targeting and buys space to reposition.  
-  - When to use: when you’re about to be collapsed on, to escape bad high-ground angles, or to reset after a risky opening.
+## Illithid Powers
+- Cull the Weak: When you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take 1-4 Psychic damage.
+- Psionic Backlash: When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell’s level.
+- Blackhole: Area-based suck-in that slows targets.
+- Repulsor: Massive area knockback that can hit friendlies.
+- Charm: This is the priority power you want to obtain because you can force enemies to attack something else.
 
-- **Potion of Flying**  
-  - What it does: *10 turns of flying.*  
-  - Why it’s strong: solves positioning—high ground, line-of-sight, and “can’t reach me” turns that keep you alive while you cast.  
-  - When to use: big vertical arenas, fights with dangerous melee jumpers, or any encounter where you need to kite safely.
+## Gameplay Tips and Tricks
+1. Pre-Buff: Always cast Mage Armour following a long rest to maintain 16 or higher AC.
+2. Bonus Action: Don’t forget your bonus action for a potion or Misty Step.
+3. Use Environment: Combine a fire spell with Grease and coat the area with fire damage or water and electrical,
+4. Knockback: Combine a big knockback with Misty Step and create distance whenever you can to survive.
+5. Area Damage: Don’t hit allies with friendly fire and point or aim your spells to avoid allies.
+6. Rest Constantly: Your spell slots will quickly run out after one or more fights, especially if challenging.
+7. Positioning: Look to move back in distance and even use Hide to prevent damage from coming in.
+8. Crowd Control: Make sure you focus on taking out the primary target with Sleep, Hold Person, or any other CC to limit potential damage.
+9. Big Nuke: Typically, you want to fire off your big spells early to finish off targets before they can attack you.
+10. Use Consumables: One of the best early consumables is the Potion of Speed for two actions per turn.
 
-- **Potion of Speed**  
-  - What it does: *3 turns of an increased action via the Haste condition.*  
-  - Why it’s strong: turns you into a tempo machine (more actions per turn means you end fights before enemies stabilize).  
-  - When to use: bosses, difficult encounters, or any fight where you need to remove multiple threats immediately.
+## Alternative Build Route
+For the alternative Divination Wizard build:
+- Start at Level 1 by choosing Warlock with the Hexblade subclass.
+- This grants early access to the cantrips Eldritch Blast and Booming Blade, plus proficiencies in medium armor, shields, and martial weapons for better early durability.
+- If you prefer robes, take Mage Armour at Level 3 for extra defense.
+- While the guide focuses on the Divination subclass, it recommends taking Evocation here for stronger synergy with offensive and AoE spells.
+- You’ll miss an extra feat at Level 12 due to multiclassing, but the increased survivability and early damage potential make up for it.
+- This build delivers solid damage from the start and remains effective through the endgame.
 
-- **Potion of Angelic Slumber**  
-  - What it does: *fall asleep for two turns, then restore all spell slots, hit points, and abilities.*  
-  - Why it’s strong: a “hard refill” that can let you keep pushing without a full rest—especially valuable if you’ve burned high-level slots.  
-  - When to use: safe moments in longer adventuring stretches, or right before a major fight chain if you can protect yourself for two turns.
+Level Class Selection
+- 1 Warlock: Subclass: Hexblade, Eldritch Blast, Booming Blade, Hex, Shield
+- 2 Wizard: Firebolt, Mage Hand, Friends, Chromatic Orb, Magic Missile, Longstrider, Shield, Thunderwave, Find Familiar
+- 3 Wizard: Subclass: Evocation, Mage Armour, Protection from Good and Evil
+- 4 Wizard: Misty Step, Scorching Ray
+- 5 Wizard: Bursting Sinew, Mirror Image, Blur, Feat: +2 Intelligence
+- 6 Wizard: Fireball, Counterspell
+- 7 Wizard: Haste, Glyph of Warding
+- 8 Wizard: Conjure Minor Elemental, Ice Storm
+- 9 Wizard: Banishment, Blight, Shocking Grasp, Feat: Spell Sniper
+- 10 Wizard: Conjure Elemental, Cone of Cold
+- 11 Wizard: Toll of the Dead, Hold Monster, Confusion
+- 12 Wizard: Disintegration, Globe of Invulnerability
 
-- **Elixir of Bloodlust**  
-  - What it does: *once per turn on kill: 5 temp HP + additional action.*  
-  - Why it’s strong: snowballs fights—kills turn into more actions, which turn into more kills.  
-  - When to use: encounters with multiple weaker enemies where you can reliably secure finishing blows.
-
-- **Elixir of Peerless Focus**  
-  - What it does: *gain advantage on concentration saves (ingredients Sublimate of Belladona, and any ashes).*  
-  - Why it’s strong: concentration is your lifeline—this keeps your strongest effects active through pressure.  
-  - When to use: boss fights, caster-heavy fights, or any time you expect to take chip damage while maintaining concentration.
-
-- **Elixir of Vigilance**  
-  - What it does: *gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).*  
-  - Why it’s strong: going first lets you lock enemies down or nuke clusters before they act.  
-  - When to use: ambush-prone areas, hard encounters, and any fight where the opening turn decides the outcome.
-
-- **Superior Elixir of Arcane Cultivation**  
-  - What it does: *gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).*  
-  - Why it’s strong: more mid-tier slots means more control/damage consistency across multiple fights.  
-  - When to use: dungeon stretches or sequences where you need sustained casting and can’t rest freely.
-
-- **Elixir of Viciousness**  
-  - What it does: *increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).*  
-  - Why it’s strong: boosts burst potential when you’re focused on ending priority targets quickly.  
-  - When to use: fights where you want faster single-target kills and have a clean damage plan.
-
-- **Elixir of Universal Resistance**  
-  - What it does: *gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).*  
-  - Why it’s strong: covers your biggest weakness (being fragile) and keeps you alive through chaotic fights.  
-  - When to use: bosses, unknown encounters, or fights where you expect unavoidable incoming damage.
-
----
-
-## Optional: Illithid powers (if using tadpoles)
-- **Cull the Weak**  
-  - What it does: when you bring a creature down to fewer hit points than your number of evolved Illithid powers, it dies and all nearby creatures take *1–4 Psychic damage.*  
-  - Why it’s strong here: your build frequently softens multiple enemies—this turns “almost dead” into guaranteed cleanup and accelerates fight snowballing.
-
-- **Psionic Backlash**  
-  - What it does: when an enemy within *9m* casts a spell, you can use your reaction to inflict *1d4 Psychic damage to the caster per the spell’s level.*  
-  - Why it’s strong here: you’re already playing a reaction-focused backline; this punishes enemy casters while you keep your action for your own casting plan.
-
-- **Blackhole**  
-  - What it does: *Area-based suck-in that slows targets.*  
-  - Why it’s strong here: grouping + slowing enemies makes your big AoE turns cleaner and safer—more enemies in the kill zone, fewer enemies reaching you.
-
-- **Repulsor**  
-  - What it does: *Massive area knockback that can hit friendlies.*  
-  - Why it’s strong here: emergency space-maker—when enemies collapse on you or your team, knockback can reset the fight’s shape and buy time to cast safely.
-
-- **Charm**  
-  - What it does: you can *force enemies to attack something else.*  
-  - Why it’s strong here: the guide calls this the priority power—redirecting attacks protects a fragile backliner and can immediately stabilize dangerous turns.
-
----
-
-## Optional: Alternative build route (from the guide)
-(Not specified in source)
+## Patch Changes
+### Patch 8
+- “This build page has been updated for the Patch 8 version of Baldur’s Gate 3.”
+- Patch 8 adds the Bladesinging subclass and Booming Blade cantrip, allowing Wizards to excel in melee combat.
+- The described agile, front-line playstyle trades some traditional spellcasting power for increased mobility, AC, and consistent melee damage.
+- For more versatility, a one-level dip into Hexblade Warlock adds armor and weapon proficiencies and access to Eldritch Blast, boosting both defense and early-game damage.
+- The guide notes you lose a feat at Level 12 with multiclassing, but overall combat flexibility makes the hybrid build a strong and fun alternative, with exact progression in the alternative build section.
