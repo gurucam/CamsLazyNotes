@@ -1,197 +1,528 @@
-# Shadowheart Companion Build (Patch 8)
+# Shadowheart Companion Build Guide (Life Domain Cleric)
 
-## Table of contents
-- [[#Build snapshot]]
-- [[#Character creation]]
-- [[#Level-by-level progression (Cleric 1 → 12)|Level-by-level progression]]
-- [[#Act-by-Act Add-ons|Act-by-act add-ons]]
-  - [[#Act 1 — Best gear|Act 1 gear]]
-  - [[#Act 2 — Best gear|Act 2 gear]]
-  - [[#Act 3 — Best gear|Act 3 gear]]
-- [[#Permanent bonuses (by Act)|Permanent bonuses]]
-- [[#Best consumables / items (single-use)|Best consumables]]
-- [[#Optional: Illithid powers (if using tadpoles)|Optional: Illithid powers]]
-- [[#Optional: Alternative build route (from the guide)|Optional: Alternative build route]]
+Source: :contentReference[oaicite:0]{index=0}
 
-## Build snapshot
+## Table of Contents
+- [Build Snapshot](#build-snapshot)
+- [Character Creation](#character-creation)
+- [Level Progression](#level-progression)
+- [Act 1 Best Gear](#act-1-best-gear)
+- [Act 2 Best Gear](#act-2-best-gear)
+- [Act 3 Best Gear](#act-3-best-gear)
+- [Features and Mechanics](#features-and-mechanics)
+- [Subclass Options](#subclass-options)
+- [Best Consumables](#best-consumables)
+- [Permanent Bonuses](#permanent-bonuses)
+- [Illithid Powers](#illithid-powers)
+- [Gameplay Tips and Tricks](#gameplay-tips-and-tricks)
+- [Alternative Build Route](#alternative-build-route)
+- [Patch Changes](#patch-changes)
 
-### Core playstyle in one sentence
-- **Anchor the party by deploying powerful buffs like *Bless*, absorbing hits with heavy armor, and channeling mass-scale healing to sustain allies, ensuring concentration is maintained throughout lengthy engagements.**
+## Build Snapshot
 
-### About companion
-- Shadowheart is a **High Half-Elf Cleric (Life Domain)** companion deployed as the party's primary support unit and healer.
-- She gains **Heavy Armour Proficiency** immediately from the Life Domain subclass, allowing her to function as a durable, frontline support caster.
-- Her core identity revolves around **maximizing group healing output** using her *Disciple of Life* and *Blessed Healer* features.
+### Fantasy / Flavor
+- Shadowheart is a High Half-Elf Cleric Companion in Baldur’s Gate 3 who serves Shar as a Trickery Domain Cleric.
+- Depending on the choices you make in your playthrough, her faith and allegiance to Shar can change.
+- You’ll have a very obvious lore-supported opportunity to fully respec and rebuild her character before Act 3 if you’re being strict with lore-accurate roleplay.
 
-### Party role
-- **Front-line Healer & Support:** Uses heavy armor and defensive concentration spells to maintain survivability while keeping the entire party alive.
-- **Utility:** Provides essential out-of-combat cantrips like *Guidance* and *Thaumaturgy*, and key group buffs like *Bless* and *Beacon of Hope*.
-- **Crowd Control:** Capable of debuffing enemies with spells like *Blind* and *Command* to reduce incoming damage.
+### Core Playstyle
+- Support Cleric focused on exceptional healing and group utility (Life Domain), using buffs, healing, and situational damage spells.
 
----
+### Party Role
+- Great Support Class
+- Healer (pins Shadowheart into the healer-bot role somewhat)
 
-## Character creation
+### Pros
+- Great Support Class
+- Proficient in Stealth
+- Versatility outside Combat
 
-### Race
-High Half-Elf
+### Cons
+- Complex Playstyle
+- Not damage-focused
+- May feel particularly weak for AoE damage
 
-### Background
-Urchin (Starting Background)
+### Power Spikes
+- At levels 4, 5, 7, and 9, expect big spikes in power.
 
-### Ability scores (starting)
-(Recommended scores for the Life Cleric build)
-* **Strength:** 10
-* **Dexterity:** 14
-* **Constitution:** 16
-* **Intelligence:** 8
-* **Wisdom:** 16
-* **Charisma:** 10
+## Character Creation
+- Race: High Half-Elf
+- Class: Cleric
+- Subclass: Life Domain
+- Background: Urchin / Outlander
+- Ability Scores: STR 10, DEX 14, CON 16, INT 8, WIS 16, CHA 10
+- Proficiencies: Sleight of Hand, Stealth, Religion, Insight
+- Cantrips: Sacred Flame, Guidance, Thaumaturgy
+- Spells: Guiding Bolt, Healing Word, Inflict Wounds, Bless, Cure Wounds, Shield of Faith
+- Skill Proficiencies: Medicine and Perception
 
-### Starting proficiencies (skills/saves)
-* **Skill Proficiencies:** Sleight of Hand, Stealth, Religion, Insight
-* **Saving Throw Proficiencies:** Wisdom, Charisma
+## Level Progression
 
----
+### Level 1
+- Gain:
+  - Cantrips: Sacred Flame, Guidance, Thaumaturgy
+  - Spells: Guiding Bolt, Healing Word, Inflict Wounds, Bless, Cure Wounds, Shield of Faith
+  - Subclass Feature: Disciple of Life
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Cure Wounds
+  - Inflict Wounds
+  - Guiding Bolt
+  - Shield of Faith
+- Play Style:
+  - Rotation:
+    - Turn 1: Use a buff like Shield of Faith or Bless (both require concentration, and you can’t use both).
+    - Turn 2+: Guiding Bolt at range; Fire Bolt cantrips with low spell slots; Sacred Flame when you don’t have a direct line of sight.
+  - Notes:
+    - Combine Healing Word (bonus action) + Cure Wounds (action) for two heals in one turn.
+    - Spell slots are very limited early; use cantrips for damage without consuming a spell slot.
 
-## Level-by-level progression (Cleric 1 → 12)
+### Level 2
+- Gain:
+  - Spell: Command
+  - Subclass Features: Turn Undead, Preserve Life
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+- Play Style:
+  - Rotation:
+    - Turn 1: Continue using buffs (Bless / Shield of Faith as concentration).
+    - Turn 2+: Use Command for crowd control; Preserve Life as a massive area-based heal (no spell slot).
+  - Notes:
+    - Preserve Life restores (3*Cleric Level) hit points to allied creatures (does not affect undead and constructs).
+    - Command can force weapons to drop or put enemies in prone.
 
-### Level 1 — Cleric 1 (Life Domain)
-- **Gain:** Class: Cleric (starts as Trickery Domain, guide respecs to Life Domain). Subclass: Life Domain. Heavy Armour Proficiency. Feature: Disciple of Life (Heal Spells gain additional HP equal to 2 + Spell's level).
-- **Play style:** Immediately benefit from Heavy Armour for durability. Focus on casting *Bless* for concentration (buffing allies) or using *Guiding Bolt* for high early damage. The *Disciple of Life* feature makes *Cure Wounds* and *Healing Word* more impactful.
+### Level 3
+- Gain:
+  - Spell: Spiritual Weapon
+  - Domain Spells: Aid, Lesser Restoration
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Spiritual Weapon (bonus action) + an action spell in the same turn.
+    - Turn 2+: Continue damage/healing priorities; pre-cast Spiritual Weapon before combat if you know an encounter is about to unfold.
+  - Notes:
+    - Spiritual Weapon doesn’t cost concentration and can be used in conjunction with action spells.
+    - Inflict Wounds is described as a flex spell (can be dropped for something else like Sanctuary if you do not use it).
 
-### Level 2 — Cleric 2
-- **Gain:** Channel Divinity: Preserve Life (Restores HP to allies in a 9m area, no spell slot cost).
-- **Play style:** Use Preserve Life as a powerful area-of-effect group heal when needed. This is best used when multiple allies require immediate support and your primary action is spent on a buff.
+### Level 4
+- Gain:
+  - Feat: Ability Improvement (Wisdom +2)
+  - Cantrip: Blade Ward
+  - Spell: Warding Bond
+- Prepared Spells (if applicable):
+  - Healing Word
+  - Inflict Wounds
+  - Guiding Bolt
+  - Shield of Faith
+  - Command
+  - Spiritual Weapon
+  - Warding Bond
+- Play Style:
+  - Rotation:
+    - Turn 1: Pre-cast Warding Bond outside combat (lasts until a long rest) when useful; maintain concentration buffs as needed.
+    - Turn 2+: Continue Guiding Bolt / healing as needed.
+  - Notes:
+    - Warding Bond: target gains +1 AC, +1 saving throws, and resistance to all damage, but the caster shares damage.
+    - Sanctuary and Hold Person are listed as alternative options at this level.
 
-### Level 3 — Cleric 3
-- **Gain:** Level 2 Spell Slots. Domain Spells: *Aid*, *Lesser Restoration*.
-- **Play style:** *Aid* is a crucial out-of-combat buff to increase the party’s maximum HP pool. *Spiritual Weapon* is a highly recommended spell at this level for concentration-free sustained damage.
+### Level 5
+- Gain:
+  - Domain Spells: Revivify, Beacon of Hope
+  - Spell: Mass Healing Word
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+  - Warding Bond
+  - Hold Person
+  - Mass Healing Word
+  - Glyph of Warding
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Mass Healing Word (bonus action) + action-based spell/heal in the same turn.
+    - Turn 2+: Use Beacon of Hope as concentration when you expect heavy damage and you won’t be doing anything but healing each turn.
+  - Notes:
+    - Mass Healing Word is an upgraded version of Healing Word: heal up to 6 creatures with a bonus action.
+    - Glyph of Warding is mentioned as an option if you want more offensive pressure; Animate Dead is noted as helpful but can go against Shadowheart’s lore background.
 
-### Level 4 — Cleric 4
-- **Gain:** Feat: Ability Improvement (+2 Wisdom) (Wis 18 total). New Cantrip.
-- **Play style:** Increased Wisdom improves spell attack rolls and the Save DC of your offensive and crowd-control spells. Continue to use bonus actions for *Healing Word* and *Spiritual Weapon*.
+### Level 6
+- Gain:
+  - Class Features: another Channel Divinity Charge; Blessed Healer
+  - Spell: Glyph of Warding
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+  - Warding Bond
+  - Hold Person
+  - Mass Healing Word
+  - Glyph of Warding
+- Play Style:
+  - Rotation:
+    - Turn 1: Summon Spiritual Weapon (bonus action); cast Bless before combat or on first turn.
+    - Turn 2+: Use Guiding Bolt or Glyph of Warding for damage; Mass Healing Word + Preserve Life for big healing.
+  - Notes:
+    - Blessed Healer: when you cast a healing spell of Level 1 or higher on another creature, you regain hit points equal to 2 + the spell’s level.
+    - Ending Act 1 notes: don’t forget the legendary weapon Blood of Lathander; heavy Adamantine Armour is described as incredible and can last until Act 3.
 
-### Level 5 — Cleric 5
-- **Gain:** Level 3 Spell Slots. Domain Spells: *Revivify*, *Beacon of Hope*. Feature: Destroy Undead (Channel Divinity upgrade).
-- **Play style:** Gaining *Revivify* gives the party a critical resurrection tool. *Beacon of Hope* is a strong emergency concentration buff that prevents critical failures on death saves and maximizes healing.
+### Level 7
+- Gain:
+  - Domain Spells: Death Ward, Guardian of Faith
+  - Spell: Freedom of Movement
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+  - Warding Bond
+  - Hold Person
+  - Mass Healing Word
+  - Glyph of Warding
+  - Freedom of Movement
+- Play Style:
+  - Rotation:
+    - Turn 1: Drop Guardian of Faith (action) + Spiritual Weapon (bonus action) on the same turn (both do not require concentration).
+    - Turn 2+: Priority mode emphasizing healing and buffs with Bless; use Glyph of Warding for area damage and Guiding Bolt for single target when everyone is high on health.
+  - Notes:
+    - Death Ward is noted as handy for difficult boss fights where you assume someone will get one shot.
+    - If you feel you lack crowd control, Freedom of Movement can be swapped out for Banishment (single-target CC).
 
-### Level 6 — Cleric 6
-- **Gain:** Feature: Blessed Healer (Regain 2 + Spell Level hit points when casting a healing spell on another creature).
-- **Play style:** This feature reinforces the primary healer role, allowing Shadowheart to partially self-sustain while actively healing others. Maintain concentration on key spells like *Spirit Guardians* (if selected) or *Bless*.
+### Level 8
+- Gain:
+  - Feat: War Caster
+  - Subclass Feature: Divine Strike: Life
+  - Spell: Remove Curse
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+  - Warding Bond
+  - Hold Person
+  - Mass Healing Word
+  - Glyph of Warding
+  - Freedom of Movement
+  - Remove Curse
+- Play Style:
+  - Rotation:
+    - Turn 1: Maintain concentration spells more reliably (War Caster).
+    - Turn 2+: Continue support priorities; Divine Strike is described as not a priority for this support build.
+  - Notes:
+    - War Caster: Advantage on Saving Throws to maintain Concentration; reaction to cast Shocking Grasp at a target moving out of melee range.
+    - Remove Curse is described as a niche spell; Banishment is a good substitute if you find it lacking.
 
-### Level 7 — Cleric 7
-- **Gain:** Level 4 Spell Slots. Domain Spells: *Guardian of Faith*, *Death Ward*.
-- **Play style:** *Guardian of Faith* is a powerful, concentration-free summon used to control areas or protect a position for multiple turns. *Death Ward* is an excellent preventative measure for front-line allies.
+### Level 9
+- Gain:
+  - Domain Spells: Greater Restoration, Mass Cure Wounds
+  - Spells: Insect Plague, Flame Strike
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+  - Warding Bond
+  - Hold Person
+  - Mass Healing Word
+  - Glyph of Warding
+  - Freedom of Movement
+  - Insect Plague
+  - Flame Strike
+- Play Style:
+  - Rotation:
+    - Turn 1: Use higher-level area healing/damage as needed.
+    - Turn 2+: Use Insect Plague for massive area damage and movement hindrance (requires concentration) or Flame Strike for harder-hitting area damage without concentration.
+  - Notes:
+    - Gameplay: “much better area-based healing and damage” and “a big leap in power.”
+    - Multi-Class Options are discussed at this level (Fighter two levels; Rogue four levels; Cleric 12 preferred for level 5 and 6 spells and another feat).
 
-### Level 8 — Cleric 8
-- **Gain:** Feat: War Caster (Recommended for Concentration Save Advantage). Feature: Divine Strike: Life (Once per turn, deal 1d8 Radiant in addition to weapon damage on a melee attack).
-- **Play style:** *War Caster* is a crucial defensive feat for a concentration-heavy build, providing a massive increase in reliability for maintaining buffs like *Bless* or *Spirit Guardians*. Divine Strike is a small but useful damage boost for melee attacks.
+### Level 10
+- Gain:
+  - Subclass Feature: Divine Intervention (one-time use)
+  - Cantrip: Light
+  - Spell: Planar Binding
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+  - Warding Bond
+  - Hold Person
+  - Mass Healing Word
+  - Glyph of Warding
+  - Freedom of Movement
+  - Insect Plague
+  - Flame Strike
+  - Planar Binding
+- Play Style:
+  - Rotation:
+    - Turn 1: Continue standard support/damage priorities.
+    - Turn 2+: Save Divine Intervention for the final fight of the game where damage is critical (as suggested).
+  - Notes:
+    - Divine Intervention: once used, can never be used again; “the obvious one is a damage spell” (massive area and huge damage).
+    - “Cheese” option described: hire a hireling, respec to Life Cleric, cast the version that gives a free legendary mace, equip Shadowheart with it, dismiss the companion.
 
-### Level 9 — Cleric 9
-- **Gain:** Level 5 Spell Slots. Domain Spells: *Greater Restoration*, *Mass Cure Wounds*.
-- **Play style:** *Mass Cure Wounds* provides the build's most powerful area-of-effect healing, using a full action to stabilize a large number of allies simultaneously.
+### Level 11
+- Gain:
+  - Spells: Planar Ally, Heal
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+  - Warding Bond
+  - Hold Person
+  - Mass Healing Word
+  - Glyph of Warding
+  - Freedom of Movement
+  - Insect Plague
+  - Flame Strike
+  - Planar Ally
+  - Heal
+- Play Style:
+  - Rotation:
+    - Turn 1: Use Planar Ally after every long rest (preferred use of level 6 spell slot).
+    - Turn 2+: Continue healing/buffing/damage priorities with improved toolkit.
+  - Notes:
+    - Planar Ally doesn’t require concentration, has a lot of health, provides damage/distraction, and “looks cool.”
+    - You will only get 1 level 6 spell slot unless you have the Legendary Staff found early in Act 3 (Quarterstaff and Shields can be combined).
 
-### Level 10 — Cleric 10
-- **Gain:** Feature: Divine Intervention (A single-use power with several strong effects, including a full group heal). New Cantrip.
-- **Play style:** Divine Intervention is a powerful emergency button. Continue to focus on maximizing action and bonus action efficiency: Action for primary buffs/control, Bonus Action for *Healing Word* or *Spiritual Weapon*.
+### Level 12
+- Gain:
+  - Feat: Ability Improvement (+2 Wisdom to 20)
+  - Spell: Heroes’ Feast
+- Prepared Spells (if applicable):
+  - Guiding Bolt
+  - Shield of Faith
+  - Healing Word
+  - Command
+  - Inflict Wounds
+  - Spiritual Weapon
+  - Warding Bond
+  - Hold Person
+  - Mass Healing Word
+  - Glyph of Warding
+  - Freedom of Movement
+  - Insect Plague
+  - Flame Strike
+  - Planar Ally
+  - Heal
+  - Hero’s Feast
+- Play Style:
+  - Rotation:
+    - Turn 1: Use multiple summons and combine actions/bonus actions for powerful turns.
+    - Turn 2+: Use powerful single-target and area-based healing, plus damage as needed.
+  - Notes:
+    - Heroes’ Feast: cures diseases, immunizes to poison, and increases hp by 2d10 for 24 hours; noted utility for status effects and increasing health.
 
-### Level 11 — Cleric 11
-- **Gain:** Level 6 Spell Slots.
-- **Play style:** Access to Level 6 spells like *Heal* and *Planar Ally* (if selected). *Heal* is a massive single-target burst heal for emergencies.
+## Act 1 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Wapira’s Crown | Additional healing | Reward from Zelvor for killing 3 leaders at the Goblin camp, accept gold (alternative Haste Helm, or Grymskull Helm). |
+| Cape | – | – | – |
+| Chest | Adamantine Splint Armour | 18 Armour Class | Complete Adamantine Forge Quest (X: -593 Y: 309) (alternative Luminous Armour, or Chain Mail +1). |
+| Gloves | Hellrider’s Pride | Heals give resistance | Can be bought, stolen, or earned from Zevolr (alternative Gloves of Missile Snaring Vendors Act 1). |
+| Boots | Boots of Aid and Comfort | Additional Temporary HP | Sold by Grat The Trader at the Goblin Camp (alternative Disintegrating Night Walkers). |
+| Necklace | Amulet of Misty Step | Misty Step Spell | Found in a Gilded Chest (X386 Y8) in Defiled Temple (alternative Amulet of Silvanus, or Absolute’s Talisman). |
+| Ring | Ring of Absolute Force | Thunderwave Spell | Dropped by Sergeant Thrinn in Grymforge (alternative Crusher Ring). |
+| Ring | The Whispering Promise | Healing gives Blessed | From traders Zhentarim Hideout, Goblin Camp, Druid Grove, or Shattered Sanctum (alternative Ring of Colour Spray). |
+| Weapon 1 Main Hand | Staff of Arcane Blessing | Free Blessed Spell | Obtained in Arcane Tower (alternative The Watcher’s Guide). |
+| Weapon 1 Off-Hand | Glowing Shield | HP When Low | Found in a chest on a slope behind the goblin camp. (X: -54, Y: 462) (alternative Wood Woad Shield). |
+| Weapon Ranged | Hunting Shortbow | Hunter’s Mark Spell | Sold by Dammon in the Druid Grove. |
 
-### Level 12 — Cleric 12
-- **Gain:** Feat: Ability Improvement (+2 Wisdom) (Wis 20 total).
-- **Play style:** Finalizing Wisdom to 20 maximizes Spell Save DC, spell attack rolls, and the effectiveness of all healing spells.
+## Act 2 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Weapon 1 Main Hand | The Blood of Lathander | Sunbeam and Healing | The Blood of Lathander quest in Act 2 (Alternative Selûne’s Spear of Night, or Markoheshkir). |
+| Weapon 2 Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2. |
 
----
+## Act 3 Best Gear
+| Slot | Item | Why it's good | Where to get |
+| --- | --- | --- | --- |
+| Head | Helm of Balduran | Cannot be Stunned | Found during Wyrmway trial under Wyrmrocks Keep in Act 3 (Alternative Helldusk Helmet, or Hood of the Weave). |
+| Cape | Mantle of the Holy Warrior | Free Crusader’s Mantle Spell | Sold by Vicar Humbletoes in Stormshore Tabernacle (Alternative Cloak of the Weave, or Cloak of Protection). |
+| Chest | Helldusk Armour | 21 Armour Class | Looted from Raphael in the House of Hope in Act 3 (Alternative Armour of Persistence). |
+| Gloves | The Reviving Hands | Healed Gain Blade Ward | Sold by Vicar Humbletoes in Stormshore Tabernacle (Alternative Jhannyl’s Gloves). |
+| Boots | Helldusk Boots | Cannot be Moved | Gilded Chest on the top floor of Wyrm’s Rock Fortress (Alternative Disintegrating Night Walkers). |
+| Necklace | Amulet of Greater Health | 23 Constitution | Archive in the House of Hope (Alternative Amulet of the Devout, or Spellcrux Amulet). |
+| Ring | Crypt Lord Ring | Free Create Undead | The Mystic Carrion’s Servant quest (Alternative Shifting Corpus Ring). |
+| Ring | Till Death Do Us Part | Free Beacon of Hope | Looted from Lady Jannath in Act 3 (Alternative Ring of Free Action). |
+| Weapon 1 Main Hand | The Blood of Lathander | Sunbeam and Healing | The Blood of Lathander quest in Act 2 (Alternative Selûne’s Spear of Night, or Markoheshkir). |
+| Weapon 1 Off-Hand | Viconia’s Walking Fortress | 3 AC, Reflect Spell | Looted from Viconia DeVir Act 3 (Alternative Shield of Devotion). |
+| Weapon 2 Ranged | Darkfire Shortbow | Free Haste Spell | Sold by Dammon Last Light Inn Act 2. |
 
-## Act-by-Act Add-ons
+## Features and Mechanics
+- Patch 8 update: addition of the Booming Blade cantrip; this new option benefits melee builds, with the recently added Death Domain Cleric getting the most out of it.
+- Recent buffs to monsters have made Tactician and Honour Modes slightly more difficult.
+- Shadowheart Features & Mechanics:
+  - Class: Cleric
+  - Race: High Half-Elf
+  - Background: Urchin
+  - Subclass: Default Trickery, Reroll to Life Domain
+  - Base Proficiencies: Sleight of Hand, Stealth, Religion, Insight
+  - Best Build: Cleric, Life Domain, Heavy Armor
+  - Origin Character: Yes
+  - Romance: Yes
+  - Location: On the beach next to the Abandoned Ruins, Act 1
+- Companion respec notes:
+  - Your companion can be respecced or rerolled early in the game: change class, subclass, ability score, and more.
+  - The only feature that cannot be adjusted is their race and story.
+  - Suggest using Withers at Camp after he’s unlocked to optimize the build.
+- Cleric Spell Mechanics:
+  - Cantrips: Like spells, but you can cast them infinitely, and they don’t take your spell slots.
+  - Spell Slots: finite number of spells until a long rest; higher levels give more usage and high-tier spells.
+  - Learn Spells: opportunities at leveling up to unlearn and learn new spells.
+  - Concentration: requires you to maintain concentration; otherwise, the spell effect ends.
+- Shadowheart Weakness:
+  - Lack of initiative due to lower Dexterity and movement speed.
+  - Misty Step is recommended as a solution; an Amulet provides free use of Misty Step once per short rest; also be on the lookout for traders for scrolls of this and stock up.
+  - Lack of bonus action utility; bonus action later for Spiritual Weapon, Misty Step, and Healing Word.
+  - Elixirs last until a long rest; early fire resistance and later Elixir of Universal Resistance are mentioned.
+- Early Priorities:
+  - Upgrade armor to heavy +1
+  - Upgrading shield to uncommon
+  - This should get you to 17 or 18 AC
+  - Stocking up on scrolls of Misty Step
+  - Stock up on camping supplies for a long rest
+  - Buy every crafting material from vendors
+  - Acquire Amulet of Misty Step
 
-### Act 1 — Best gear
+## Subclass Options
+### Cleric Subclasses
+- Knowledge Domain: Dedicated to the pursuit of knowledge and skilled in history, religion, and the arcana.
+- Life Domain: Skilled in the use of healing spells, and they can also use their divine power to restore hit points to their allies.
+- Light Domain: Skilled in radiant damage and more offensive Cleric subclass.
+- Nature Domain: Skilled in the use of nature’s spells, and they can also use their divine power to control the weather and animals.
+- Tempest Domain: Skilled in the use of lightning and thunder damage spells, and they can also use their divine power to control the weather and create powerful storms.
+- Trickery Domain: Skilled in the use of illusion and enchantment spells, and they can also use their divine power to create illusions and disguise themselves.
+- War Domain: Skilled in the use of weapons and armor, and they can also use their divine power to enhance their martial prowess.
+- Death Domain: Added in BG3 patch 8, this Cleric Domain specializes in Necrotic damage (sort of a foil to Life Domain).
 
-| Slot | Item | Effect | Where to get |
-| :--- | :--- | :--- | :--- |
-| Weapon (1H) | - | - | - |
-| Weapon (Off-Hand) | Glowing Shield | Gives temporary HP when wearer is low | - |
-| Shield | Safeguard Shield | +1 AC | - |
-| Armour | Adamantine Splint Armour | Reduces damage by 2 | Grymforge |
-| Head | Wapira's Crown | Healed gain additional Temporary HP | Reward from Zevlor (Druid Grove) |
-| Cloak | - | - | - |
-| Gloves | Hellrider's Pride | Target of healing gains Blade Ward | Can be bought, stolen, or earned from Zevlor |
-| Boots | Boots of Aid and Comfort | Additional Temporary HP | Sold by Grat The Trader at the Goblin Camp |
-| Amulet | The Absolute's Talisman | Heal when the wearer deals damage | Priestess Gut (Goblin Camp) |
-| Ring 1 | The Whispering Promise | Target of healing gains Blessed condition | - |
-| Ring 2 | Ring of Protection | +1 AC, +1 Saving Throws | - |
+### Life Domain Cleric Features & Progression
+- Disciple of Life (Level 1): Your devotion empowers your healing Spells. When casting a healing spell, the target regains additional Hit Points equal to 2 + Spell’s level.
+- Heavy Armour Proficiency (Level 1)
+- Domain Spells (Level 1): Bless and Cure Wounds
+- Channel Divinity Action (Level 2): Preserve Life
+- Domain Spells (Level 3): Aid and Lesser Restoration
+- Domain Spells (Level 5): Revivify and Beacon of Hope
+- Blessed Healer (Level 6): Regain 2 + Spell Level hit points when casting a healing spell on another creature.
+- Domain Spells (Level 7): Guardian of Faith and Death Ward
+- Divine Strike: Life (Level 8): Once per turn deal 1d8 Radiant in addition to your weapon’s weapon damage when you make a melee attack.
+- Domain Spells (Level 9): Greater Restoration and Mass Cure Wounds
 
-### Act 2 — Best gear
+### Story Choice Build-Affecting Changes
+- Nightsong choice at the end of Act 2 can significantly affect her build.
+- Slaying the Nightsong: Shadowheart becomes Shar’s Dark Justiciar and receives:
+  - Dark Justiciar Half-Plate (Very Rare): Medium Armour, AC 17
+    - Shar’s Aegis: Level 1 Concentration spell (Bonus Action) increases AC by 2 until Long Rest; reduces incoming damage by 2; deals 1d4 Necrotic damage to the attacker
+    - Advantage on Constitution Saving throws and Stealth checks
+  - Dark Justiciar Gauntlets:
+    - Beckoning Darkness: Level 4 spell that curses the target to take 2d8 Necrotic damage every turn if they are in a lightly or heavily obscured area; Bonus Action; lasts 2 turns
+    - Umbral Attack: Weapon attacks deal additional 1d4 Necrotic Damage
+    - Strength Saving throw saving throws +1
+  - Dark Justiciar Boots:
+    - Shadow Teleportation: Teleport to an obscured spot
+    - Dexterity Saving throw saving throws +1
+  - Shar’s Spear of Evening:
+    - Shar’s Darkness: Cast Darkness using an Action. Recharges every turn
+    - Blind Immunity
+    - Shar’s Blessing: Advantage on Saving throws while lightly or heavily obscured
+- Sparing the Nightsong:
+  - Moonlight Glaive: Enchantment +2; passively shines a light around it
+  - Selûne’s Spear of Night: Enchantment +3; Moonbeam; Darkvision
+- Which Choice Effects the Build:
+  - Slaying the Nightsong is described as a more significant choice from a build-creation perspective.
+  - The gear allows a playstyle centered around casting Darkness with Selûne’s Spear of Night and using heavily obscured bonuses to gain advantage on Blinded opponents.
+  - If you choose to use Shar’s equipment, you may want to respec Shadowheart to the Death Domain subclass to get Inescapable Destruction, which lets Necrotic damage ignore resistances to it.
+  - This playstyle can be especially potent if you have a party member with Devil’s Sight to see through the magical darkness.
 
-| Slot | Item | Effect | Where to get |
-| :--- | :--- | :--- | :--- |
-| Weapon (1H) | The Blood of Lathander | Grants *Sunbeam* and a self-revive feature | Rosymorn Monastery (Githyanki Creche) |
-| Weapon (Off-Hand) | - | - | - |
-| Shield | Ketheric's Shield | +1 Spell Save DC | Ketheric Thorm (Act 2 boss) |
-| Armour | Dark Justiciar Half-Plate | Level 1 Concentration spell, Shar's Aegis (Bonus Action +2 AC, damage reduction) | Slaying Nightsong (Act 2 decision/Companion quest reward) |
-| Head | - | - | - |
-| Cloak | Cloak of Protection | +1 AC, +1 Saving Throws | Last Light Inn (Act 2 merchant) |
-| Gloves | The Reviving Hands | Healed gain Blade Ward | - |
-| Boots | Boots of Persistence | Freedom of Movement & Longstrider | Act 2 Trader |
-| Amulet | Amulet of the Harpers | - | Last Light Inn |
-| Ring 1 | Ring of Free Action | - | Act 2 Merchant |
-| Ring 2 | - | - | - |
+## Best Consumables
+- Potion of Greater Healing: 8d4 + 8 healing and removes burning.
+- Potion of Invisibility: Become invisible for 1 minute. Attacking or casting spells ends the status.
+- Potion of Flying: 10 turns of flying.
+- Potion of Speed: 3 turns of an increased action via the Haste condition.
+- Potion of Angelic Slumber: fall asleep for two turns, then restore all spell slots, hit points, and abilities.
+- Elixir of Peerless Focus: gain advantage on concentration saves (ingredients Sublimate of Belladonna, and any ashes).
+- Elixir of Vigilance: gain +5 bonus initiative and you cannot be surprised (ingredients sublimate of bloodstained hook, any ashes).
+- Superior Elixir of Arcane Cultivation: gain a level 3 spell slot (ingredients Solution of Night Orchid, any Vitriol).
+- Elixir of Viciousness: increase your critical hit chance (ingredients Vitriol of Shadowroot Sac, any Ashes).
+- Elixir of Universal Resistance: gain resistance to all damage (ingredients Vitriol of Divine Miasma, any Sublimate).
 
-### Act 3 — Best gear
+## Permanent Bonuses
+### Act 1
 
-| Slot | Item | Effect | Where to get |
-| :--- | :--- | :--- | :--- |
-| Weapon (1H) | Viconia's Walking Fortress | +3 AC, Reflect Spell | House of Grief (Shadowheart Quest reward) |
-| Weapon (Off-Hand) | - | - | - |
-| Shield | - | - | - |
-| Armour | Heavy Armour of Devotion | Extra Channel Divinity Charge | Temple of Bhaal |
-| Head | Helm of Balduran | - | Wyrmway Trial (Wyrmrocks Keep) |
-| Cloak | Mantle of the Holy Warrior | - | Vicar Humbletoes (Stormshore Tabernacle) |
-| Gloves | Gloves of Soul Catching | +2 Constitution | Reward for Save Hope (House of Hope) |
-| Boots | Helldusk Boots | Cannot be moved | - |
-| Amulet | Amulet of Greater Health | Sets CON to 23 | House of Hope |
-| Ring 1 | Crypt Lord Ring | Free *Create Undead* | - |
-| Ring 2 | Shifting Corpus Ring | Free *Blur* or *Invisibility* | Shadowheart's quest |
+### Act 2
 
----
+### Act 3
 
-## Permanent bonuses (by Act)
-- **Act 1:**
-- **Act 2:**
-- **Act 3:**
-(Not specified in source)
+## Illithid Powers
 
----
+## Gameplay Tips and Tricks
+- Heal Allies: Focus on healing allies vs doing damage, so your heavy hitters can spend actions and bonus actions doing damage.
+- Bonus Action Heal: Make the most of your bonus action heal in conjunction with a primary action-based heal.
+- Blessed: Cast Bless outside of combat before engaging and get a lot of turns without having to use a turn in combat.
+- Crowd Control: CC opponents with Blind and Command to take less damage overall.
+- Cantrips: Use these when lacking spell slots or when you’re not committed to a major offensive spell to keep some spell slots in reserve.
+- Guiding Bolt: Early on, this is your big nuke spell, and it’s wise to use it on the first turn when teammates don’t need a heal.
+- Area vs Single Target: Make sure to get the most out of each spell, and if you need multiple players healed, get in position and use an area-based heal.
+- Consumables: Take advantage of a potion of speed when you need multiple actions per turn.
+- Health Potions: Make sure teammates are stocked up on healing potions in case they are out of your line of sight or need massive healing themselves.
+- Range: Make sure to hang out at medium range where you can melee heal or do damage, but not too far back to the line of sight of your teammates.
 
-## Best consumables / items (single-use)
-- **Potion of Greater Healing** — Restores 8d4 + 8 HP and removes burning.
-- **Potion of Speed** — Gain Haste condition for 3 turns, granting an extra action, +2 AC, and Advantage on Dexterity Saves.
-- **Potion of Invisibility** — Become invisible for 1 minute.
-- **Potion of Angelic Slumber** — Fall asleep for two turns, then restore all spell slots and Hit Points.
+## Alternative Build Route
+- Trickery Domain / Rogue split is stated as working wonderfully as a Tactician-viable BG3 build (with a recommendation to redo Ability Scores).
+- Fighter/Cleric Multiclass Shadowheart:
+  - Focuses on debuffing enemies with Radiating Orb via Luminous Armour.
+  - You can obtain this gear in Act 1 and use it throughout the game while maintaining decent damage with Spirit Guardians.
+  - Recommended if you struggle with survival in tough fights.
+  - Level Progression (as listed):
+    - Level 1 Cleric: Subclass Light; Thaumaturgy, Guidance, Sacred Flame; Command, Guiding Bolt, Sanctuary, Healing Word
+    - Level 2 Cleric: Shield of Faith
+    - Level 3 Cleric: Spiritual Weapon
+    - Level 4 Cleric: Feat Alert; Blade Ward; Aid
+    - Level 5 Cleric: Spirit Guardians; swap Healing Word for Mass Healing Word
+    - Level 6 Fighter: Multiclass Fighter; Defence Fighting Style
+    - Level 7 Fighter: Action Surge
+    - Level 8 Fighter: Subclass Eldritch Knight; Booming Blade; Fire Bolt; Shield; Thunderwave; Longstrider
+    - Level 9 Fighter: Feat Ability Improvement +2 Wisdom; Chromatic Orb
+    - Level 10 Cleric: Multiclass Cleric; Protection from Energy; Glyph of Warding
+    - Level 11 Cleric: Drop Shield of Faith; add Freedom of Movement and Death Ward
+    - Level 12 Cleric: Feat War Caster; Banishment
 
----
+## Patch Changes
+### Patch 8
+- The Cleric’s most notable update with Patch 8 in BG3 comes with the addition of the Booming Blade cantrip.
+- The recently added Death Domain Cleric gets the most out of Booming Blade.
+- Recent buffs to monsters have made Tactician and Honour Modes slightly more difficult.
 
-## Optional: Illithid powers (if using tadpoles)
-- (Not specified in source)
-
----
-
-## Optional: Alternative build route (from the guide)
-- The source presents an alternative where Shadowheart shifts into a **melee-focused multiclass** by dipping into Fighter and progressing with Life Cleric, emphasizing longer skirmishes and close-quarters pressure. This build focuses on debuffing enemies with the **Radiating Orb** condition.
-
-### Alternative leveling outline (as presented in source)
-- **Build Goal:** Fighter 6 / Cleric 6 (Life Domain)
-- Level 1: **Fighter** — Heavy Armor Proficiency, Second Wind, Fighting Style: Defence
-- Level 2: **Fighter** — Action Surge
-- Level 3: **Fighter** — Subclass: Battle Master (Manoeuvres: Tripping Attack, Riposte, Pushing Attack)
-- Level 4: **Fighter** — Feat: Sentinel
-- Level 5: **Fighter** — Extra Attack
-- Level 6: **Fighter** — Feat: Ability Improvement (+2 Con)
-- Level 7: **Cleric** — Multiclass: Cleric (Life Domain)
-- Level 8: **Cleric** — Channel Divinity: Preserve Life
-- Level 9: **Cleric** — Domain Spells: Spiritual Weapon, Lesser Restoration
-- Level 10: **Cleric** — Feat: Ability Improvement (+2 Wis)
-- Level 11: **Cleric** — Domain Spells: Beacon of Hope, Revivify
-- Level 12: **Cleric** — Blessed Healer (Life Domain Feature)
+### Patch 7
+- Expect little changes to Shadowheart in Patch 7 of BG3, as only minor bug fixes and cinematics changes impact Shadowheart.
+- On September 5th, 2024, Patch 7 for Baldur’s Gate 3 was released: 13 new cinematic scenes (including new battle sequences with the Netherbrain).
+- Honour Mode enhancements with more legendary actions added to existing bosses.
+- Main focus in this patch is mods: modding toolkit and an in-game mod manager allowing players to create and install mods directly within the game.
+- Therefore, as it stands, the best Shadowheart build guide remains intact.
